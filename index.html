@@ -50,6 +50,13 @@ h1{font-size:1.5em;color:var(--accent)}
 </style>
 </head>
 <body>
+<div id="lockScreen" style="display:flex;align-items:center;justify-content:center;min-height:100vh;flex-direction:column;gap:16px">
+  <h2 style="color:var(--accent)">🔒 請輸入密碼</h2>
+  <input type="password" id="pwdInput" placeholder="密碼" style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:10px 16px;color:var(--text);font-size:1em;width:220px;text-align:center" onkeydown="if(event.key==='Enter')checkPwd()">
+  <button onclick="checkPwd()" style="background:var(--accent);color:#fff;border:none;border-radius:8px;padding:10px 24px;cursor:pointer;font-size:0.95em">進入</button>
+  <p id="pwdError" style="color:#f85149;font-size:0.85em;display:none">密碼錯誤</p>
+</div>
+<div id="mainContent" style="display:none">
 <header>
   <h1>📊 每日資訊儀表板</h1>
   <div class="header-right">
@@ -157,6 +164,18 @@ document.getElementById('themeToggle').onclick=()=>{
 };
 if(localStorage.getItem('theme')==='light'){document.documentElement.setAttribute('data-theme','light');document.getElementById('themeToggle').textContent='☀️'}
 init();
+</script>
+</div>
+<script>
+function checkPwd(){
+  const h=s=>{let h=0;for(let i=0;i<s.length;i++)h=((h<<5)-h)+s.charCodeAt(i);return h};
+  if(h(document.getElementById('pwdInput').value)===h('tkjf8503')){
+    document.getElementById('lockScreen').style.display='none';
+    document.getElementById('mainContent').style.display='block';
+    sessionStorage.setItem('auth','1');
+  }else{document.getElementById('pwdError').style.display='block'}
+}
+if(sessionStorage.getItem('auth')==='1'){document.getElementById('lockScreen').style.display='none';document.getElementById('mainContent').style.display='block'}
 </script>
 </body>
 </html>
