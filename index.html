@@ -169,7 +169,7 @@ document.getElementById('refreshBtn').onclick=async function(){
   }
   btn.disabled=true;btn.textContent='⏳ 更新中...';
   try{
-    await fetch('https://api.telegram.org/bot'+atob('ODI0MjE2NzIyOTpBQUhTQlpDRVlsNHhTaVY1R0hmbkdEajRIcW85NzVFZUJmTQ==')+'/sendMessage',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:'-1003983521179',text:'[自動觸發] 使用者請求更新儀表板資訊'})});
+    await fetch('https://api.telegram.org/bot'+atob('ODI0MjE2NzIyOTpBQUhTQlpDRVlsNHhTaVY1R0hmbkdEajRIcW85NzVFZUJmTQ==')+'/sendMessage',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:'-1003983521179',message_thread_id:1,text:'[自動觸發] 使用者請求更新儀表板資訊'})});
     localStorage.setItem('lastRefresh',Date.now().toString());
     alert('✅ 更新請求已送出！\n\n資訊將在約 3-5 分鐘內更新完成，届時請重新整理頁面。');
   }catch(e){alert('❌ 發送失敗，請稍後再試。')}
