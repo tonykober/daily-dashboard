@@ -1,0 +1,37 @@
+{
+  "updated": "2026-05-05 09:00",
+  "sections": [
+    {
+      "icon": "🤖",
+      "title": "AI 資訊",
+      "items": [
+        {"type":"news","title":"OpenAI 發布 GPT-5.5，編程與研究能力大幅提升","desc":"GPT-5.5 在編程、電腦操作和深度研究方面表現更強","url":"https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html"},
+        {"type":"news","title":"State of AI：2026年5月總覽","desc":"涵蓋4月AI政策、研究、產業和新創公司的關鍵發展","url":"https://nathanbenaich.substack.com/p/state-of-ai-may-2026"},
+        {"type":"news","title":"中國法院裁定因AI裁員屬違法行為","desc":"杭州和北京法院裁定以AI取代員工而解僱屬違法","url":"https://cybernews.com/ai-news/"},
+        {"type":"news","title":"AI Dispatch：Mark Cuban、Nvidia、ChatGPT Images","desc":"AI正在多個產業同時展開變革","url":"https://hipther.com/latest-news/2026/05/04/111138/ai-dispatch-daily-trends-and-innovations-may-4-2026-mark-cuban-nvidia-chatgpt-images-mayo-clinic-and-humain-one/"},
+        {"type":"news","title":"Google 2026年4月 AI 更新總覽","desc":"Chrome 新功能、AI 技能學習工具等多項更新","url":"https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/"},
+        {"type":"video","title":"本月最大AI新聞總整理","desc":"Google Gemini 1.5、Sora AI文字轉影片等","url":"https://www.youtube.com/watch?v=b2luyGaFHcQ"},
+        {"type":"video","title":"準備好，事情即將變得瘋狂！","desc":"Google AlphaFold3 藥物發現革命、微軟 MAI-1","url":"https://www.youtube.com/watch?v=6tGyCYcoFYs"},
+        {"type":"video","title":"AI 將顛覆每個產業 — Vast Data CEO 專訪","desc":"企業AI部署加速，各產業正在被AI重塑","url":"https://www.cnbc.com/video/2026/04/27/ai-is-here-to-stay-and-it-will-disrupt-every-industry-vast-data-ceo.html"},
+        {"type":"video","title":"Amazon 與 Anthropic 達成5GW算力協議","desc":"為 Claude AI 模型提供高達5GW的運算能力","url":"https://www.cnbc.com/video/2026/04/20/amazon-and-anthropic-announce-new-deal-to-provide-up-to-5-gigawatts-of-compute-to-claude-ai-models.html"},
+        {"type":"video","title":"YouTube CEO 2026年展望：創意與科技的融合","desc":"YouTube 進入創意與技術模糊的新時代","url":"https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"}
+      ]
+    },
+    {
+      "icon": "🎮",
+      "title": "遊戲資訊",
+      "items": [
+        {"type":"news","title":"Forza Horizon 6、007 First Light 領銜5月大作","desc":"日本場景賽車遊戲和 James Bond 起源故事為本月重磅","url":"https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch"},
+        {"type":"news","title":"Steam 5月有13款大作發售","desc":"包含 Resident Evil Requiem、MOUSE、Pragmata 等","url":"https://gamerant.com/steam-new-games-coming-out-soon-may-2026/"},
+        {"type":"news","title":"2026年5月完整遊戲發售日曆","desc":"007 First Light、Forza Horizon 6、Yoshi 等多款新作","url":"https://screenrant.com/may-2026-video-games-releases-schedule-line-up/"},
+        {"type":"news","title":"本週5款新獨立遊戲登陸各平台","desc":"涵蓋敘事、探索和 RPG 類型的新作","url":"https://respawn.outlookindia.com/gaming/gaming-news/new-games-in-may-2026-five-indie-titles-you-cant-miss"},
+        {"type":"news","title":"2026年度遊戲展望：GTA 6、Wolverine、Control Resonant","desc":"未來12個月重磅遊戲一覽","url":"https://beebom.com/upcoming-new-games-2026-release-calendar/"},
+        {"type":"video","title":"HarpoonArena 官方遊戲預告片","desc":"快節奏俯視角團隊射擊遊戲","url":"https://www.ign.com/videos/harpoonarena-official-gameplay-trailer"},
+        {"type":"video","title":"Teeto 官方遊戲預告片（2026）","desc":"3D冒險平台遊戲","url":"https://www.ign.com/videos/teeto-official-gameplay-trailer-2026"},
+        {"type":"video","title":"NBA The Run 官方遊戲預告片","desc":"街機風格3v3街頭籃球","url":"https://www.ign.com/videos/nba-the-run-official-gameplay-trailer"},
+        {"type":"video","title":"Clockfall 官方遊戲揭示預告片","desc":"動作肉鴿地牢爬行防禦遊戲","url":"https://www.ign.com/videos/clockfall-official-gameplay-reveal-trailer"},
+        {"type":"video","title":"Orbitals 官方遊戲揭示預告片","desc":"合作復古動漫風格科幻動作遊戲","url":"https://www.ign.com/videos/orbitals-official-gameplay-reveal-trailer"}
+      ]
+    }
+  ]
+}
