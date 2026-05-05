@@ -158,7 +158,7 @@ document.getElementById('themeToggle').onclick=()=>{
 };
 if(localStorage.getItem('theme')==='light'){document.documentElement.setAttribute('data-theme','light');document.getElementById('themeToggle').textContent='☀️'}
 const REFRESH_COOLDOWN=300000;
-document.getElementById('refreshBtn').onclick=async function(){
+document.getElementById('refreshBtn').onclick=function(){
   const btn=this;
   const lastRefresh=parseInt(localStorage.getItem('lastRefresh')||'0');
   const elapsed=Date.now()-lastRefresh;
@@ -167,13 +167,11 @@ document.getElementById('refreshBtn').onclick=async function(){
     alert('⏳ 冷卻中，請等待約 '+remaining+' 分鐘後再試。\n\n資訊更新需要約3-5分鐘處理時間。');
     return;
   }
-  btn.disabled=true;btn.textContent='⏳ 更新中...';
-  try{
-    await fetch('https://api.telegram.org/bot'+atob('ODI0MjE2NzIyOTpBQUhTQlpDRVlsNHhTaVY1R0hmbkdEajRIcW85NzVFZUJmTQ==')+'/sendMessage',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({chat_id:'-1003983521179',message_thread_id:1,text:'[自動觸發] 使用者請求更新儀表板資訊'})});
-    localStorage.setItem('lastRefresh',Date.now().toString());
-    alert('✅ 更新請求已送出！\n\n資訊將在約 3-5 分鐘內更新完成，届時請重新整理頁面。');
-  }catch(e){alert('❌ 發送失敗，請稍後再試。')}
-  setTimeout(()=>{btn.disabled=false;btn.textContent='🔄 更新資訊'},REFRESH_COOLDOWN);
+  localStorage.setItem('lastRefresh',Date.now().toString());
+  btn.textContent='⏳ 已送出';
+  setTimeout(()=>{btn.textContent='🔄 更新資訊'},REFRESH_COOLDOWN);
+  window.open('https://t.me/share/url?url=.&text=更新儀表板','_blank');
+  alert('✅ 請在 Telegram 中發送訊息。\n\n資訊將在約 3-5 分鐘內更新完成，届時請重新整理頁面。');
 };
 init();
 </script>
