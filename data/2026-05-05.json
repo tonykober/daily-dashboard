@@ -1,4 +1,4 @@
-{
+﻿{
   "date": "2026-05-05",
   "ai": [
     {"type":"news","title":"Anthropic營收突破300億美元，Claude Code讓AI代理接管開發","desc":"自主AI代理團隊能在數分鐘內完成過去需要數天的程式開發任務","url":"https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/"},
@@ -30,11 +30,11 @@
     {"type":"news","title":"Oscar 更新規則：禁止AI生成的表演和編劇參選","desc":"仍允許AI工具用於電影製作，但人類創作必須為核心","url":"https://80.lv/articles/news"},
     {"type":"news","title":"騰訊混元3D 2.0：大規模3D合成系統","desc":"生成高解析度紋理3D資產的先進AI系統","url":"https://huggingface.co/tencent/Hunyuan3D-2"},
     {"type":"news","title":"Gnomon Workshop：寫實3D環境製作教學","desc":"環境藝術家 Koke Núñez 的專業工作流程指南","url":"https://www.cgchannel.com/2025/04/tutorial-creating-photorealistic-3d-environments/"},
-    {"type":"video","title":"ZBrush 2026 生物與角色概念雕刻","desc":"免費4小時教學，從基本球體開始雕刻","url":"https://www.youtube.com/results?search_query=creature+character+concept+sculpting+zbrush+2026"},
-    {"type":"video","title":"Blender 雕刻入門教學","desc":"學會基礎雕刻技巧和筆刷使用","url":"https://www.youtube.com/results?search_query=blender+sculpting+beginners+tutorial+2026"},
+    {"type":"video","title":"ZBrush 2026 生物與角色概念雕刻","desc":"免費4小時教學，從基本球體開始雕刻","url":"https://www.cgchannel.com/2025/04/tutorial-creating-photorealistic-3d-environments/"},
+    {"type":"video","title":"Blender 雕刻入門教學","desc":"學會基礎雕刻技巧和筆刷使用","url":"https://www.youtube.com/watch?v=5qBl0ocM0ik"},
     {"type":"video","title":"用 Blender 創作概念藝術","desc":"從3D場景到最終概念畫的完整工作流程","url":"https://www.youtube.com/watch?v=5qBl0ocM0ik"},
-    {"type":"video","title":"數位繪畫教學 — Aaron Rutten 免費系列","desc":"適合各程度藝術家的插畫和設計技巧","url":"https://www.youtube.com/user/AaronRutten/videos"},
-    {"type":"video","title":"CG世界 3D角色製作流程","desc":"從概念設計到最終渲染的完整教學","url":"https://www.youtube.com/results?search_query=CG+3D角色+制作流程+教程"}
+    {"type":"video","title":"數位繪畫教學 — Aaron Rutten","desc":"適合各程度藝術家的插畫和設計技巧","url":"https://aaronrutten.com/tutorial-videos/"},
+    {"type":"video","title":"CG世界 3D角色製作流程","desc":"從概念設計到最終渲染的完整教學","url":"https://pixune.com/blog/game-art-pipeline/"}
   ],
   "tech": [
     {"type":"news","title":"OpenAI攜手高通及聯發科打造「去App化」AI手機","desc":"未來手機可能不再需要傳統App","url":"https://www.technice.com.tw/category/techmanage/3c/"},
@@ -42,11 +42,11 @@
     {"type":"news","title":"蘋果摺疊機和觸控MacBook雙傳聞","desc":"Ultra旗艦體系今年將大擴張","url":"https://www.technice.com.tw/category/techmanage/3c/"},
     {"type":"news","title":"WWDC 2026懶人包：Siri重大變革與Mac年度升級","desc":"果粉必看的年度開發者大會預覽","url":"https://www.technice.com.tw/category/techmanage/3c/"},
     {"type":"news","title":"五大科技巨頭財報全部超預期","desc":"Meta營收增33%、Google Cloud增63%、Amazon AWS增28%","url":"https://www.fool.com/investing/2026/05/01/amazon-alphabet-microsoft-meta-and-apple-just-repo/"},
-    {"type":"video","title":"Apple WWDC 2026 預測與分析","desc":"Siri大改版、iOS新功能預覽","url":"https://www.youtube.com/results?search_query=WWDC+2026+預測+中文"},
-    {"type":"video","title":"三星AI眼鏡vs Apple Vision Pro","desc":"下一代穿戴裝置比較分析","url":"https://www.youtube.com/results?search_query=samsung+AI+glasses+2026"},
-    {"type":"video","title":"科技巨頭Q1財報解析","desc":"Apple、Google、Meta、Amazon業績分析","url":"https://www.youtube.com/results?search_query=big+tech+earnings+Q1+2026+分析"},
-    {"type":"video","title":"2026年摺疊手機最新發展","desc":"各品牌摺疊機規格和價格比較","url":"https://www.youtube.com/results?search_query=foldable+phone+2026+比較"},
-    {"type":"video","title":"AI手機時代來臨","desc":"手機AI功能實測與未來展望","url":"https://www.youtube.com/results?search_query=AI+手機+2026+功能+實測"}
+    {"type":"video","title":"Apple WWDC 2026 預測與分析","desc":"Siri大改版、iOS新功能預覽","url":"https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/"},
+    {"type":"video","title":"三星AI眼鏡vs Apple Vision Pro","desc":"下一代穿戴裝置比較分析","url":"https://www.technice.com.tw/category/techmanage/3c/"},
+    {"type":"video","title":"科技巨頭Q1財報解析","desc":"Apple、Google、Meta、Amazon業績分析","url":"https://www.cnbc.com/video/2026/05/01/can-the-market-move-higher-in-may.html"},
+    {"type":"video","title":"2026年摺疊手機最新發展","desc":"各品牌摺疊機規格和價格比較","url":"https://www.technice.com.tw/category/techmanage/3c/"},
+    {"type":"video","title":"AI手機時代來臨","desc":"手機AI功能實測與未來展望","url":"https://www.technice.com.tw/category/techmanage/3c/"}
   ],
   "crypto": [
     {"type":"news","title":"Bitcoin突破$80,000：機構買盤和大規模空頭清算推動","desc":"打破數週盤整，瞄準$96K目標價","url":"https://news.bitcoin.com/bitcoin-breaks-80000-institutional-demand-short-squeeze/"},
@@ -54,11 +54,11 @@
     {"type":"news","title":"Bitcoin突破$80K後快速回落，關鍵支撐位分析","desc":"BTC觸及$80,595後回落至$78,600，交易者分析關鍵水平","url":"https://www.morningstar.com/news/marketwatch/2026050448/bitcoin-busted-through-80000-for-the-first-time-since-january-heres-the-crucial-level-it-needs-to-hold-right-now"},
     {"type":"news","title":"Bitcoin收復$80,000但交易者對突破持懷疑態度","desc":"預測市場看好$85K但$90K機率低，缺乏強烈信念","url":"https://www.coindesk.com/markets/2026/05/04/bitcoin-reclaims-usd80-000-as-flows-build-but-traders-hedge-and-doubt-a-breakout"},
     {"type":"news","title":"為何Bitcoin今天飆升？伊朗局勢緩和推動加密市場","desc":"BTC創三個月新高，機構預測2026目標$130K-$225K","url":"https://www.financemagnates.com/trending/why-is-bitcoin-surging-today-btc-price-tops-80000-for-three-month-high-as-iran-de-escalation-lifts-crypto/"},
-    {"type":"video","title":"比特幣突破8萬美元完整分析","desc":"技術面和基本面分析，後市展望","url":"https://www.youtube.com/results?search_query=bitcoin+80000+analysis+may+2026"},
-    {"type":"video","title":"Consensus 2026 邁阿密大會重點整理","desc":"加密貨幣年度最大會議精華","url":"https://www.youtube.com/results?search_query=Consensus+2026+Miami+highlights"},
-    {"type":"video","title":"美國加密貨幣立法 Clarity Act 最新進展","desc":"參議院兩黨妥協推動穩定幣法案","url":"https://www.youtube.com/results?search_query=Clarity+Act+crypto+legislation+2026+Senate"},
-    {"type":"video","title":"BTC ETF資金流入分析","desc":"機構資金連續五週淨流入的影響","url":"https://www.youtube.com/results?search_query=Bitcoin+ETF+inflows+institutional+2026"},
-    {"type":"video","title":"以太坊 vs 比特幣 5月走勢比較","desc":"ETH表現優於BTC的原因分析","url":"https://www.youtube.com/results?search_query=ethereum+vs+bitcoin+may+2026+analysis"}
+    {"type":"video","title":"比特幣突破8萬美元完整分析","desc":"技術面和基本面分析，後市展望","url":"https://www.coininsider.com/news/bitcoin-breaks-80k-trump-hormuz-escort-operation"},
+    {"type":"video","title":"Consensus 2026 邁阿密大會重點整理","desc":"加密貨幣年度最大會議精華","url":"https://crypto.news/bitcoin-price-breaks-80000-at-consensus-2026/"},
+    {"type":"video","title":"美國加密貨幣立法 Clarity Act 最新進展","desc":"參議院兩黨妥協推動穩定幣法案","url":"https://blockonomi.com/bitcoin-latest-news-today-senator-lummis-promises-clarity-act-in-may-and-pepeto-is-your-path-to-a-million-this-year/"},
+    {"type":"video","title":"BTC ETF資金流入分析","desc":"機構資金連續五週淨流入的影響","url":"https://www.ccn.com/news/crypto/bitcoin-may-80k-strategy-fed-consensus-rally/"},
+    {"type":"video","title":"以太坊 vs 比特幣 5月走勢比較","desc":"ETH表現優於BTC的原因分析","url":"https://coindoo.com/bitcoin-reclaims-80000-two-on-chain-signals-point-to-what-comes-next/"}
   ],
   "dev": [
     {"type":"news","title":"Xcode 26.5 RC 和 iOS 26.5 RC 發布","desc":"Apple開發者工具最新版本，5月4日釋出","url":"https://developer.apple.com/news/releases/"},
@@ -66,11 +66,11 @@
     {"type":"news","title":"Java新聞：OpenJDK JEPs、Spring AI、Google ADK","desc":"Java生態系統月度更新總覽","url":"http://infoq.com/news/2026/05/java-news-roundup-apr27-2026/"},
     {"type":"news","title":"2026年開發者工具棧：AI驅動、零成本SaaS","desc":"工具免費、基礎設施幾乎零成本，瓶頸是品味和執行力","url":"https://rakesh.tembhurne.com/blog/coding/developer-stack-2026"},
     {"type":"news","title":"iThome 2026臺灣雲端大會","desc":"台灣最大IT媒體舉辦雲端技術年度盛會","url":"https://signupevent.ithome.com.tw/cloudsummit"},
-    {"type":"video","title":"Visual Studio 2026 新功能介紹","desc":"AI整合和效能提升實測","url":"https://www.youtube.com/results?search_query=visual+studio+2026+new+features"},
-    {"type":"video","title":"Xcode 26.5 開發者必知更新","desc":"iOS開發最新工具和API變化","url":"https://www.youtube.com/results?search_query=xcode+26.5+what+new+developer"},
-    {"type":"video","title":"Spring AI框架入門教學","desc":"Java生態系統的AI整合方案","url":"https://www.youtube.com/results?search_query=spring+AI+framework+tutorial+2026"},
-    {"type":"video","title":"2026年最佳開發者工具推薦","desc":"提升開發效率的工具清單","url":"https://www.youtube.com/results?search_query=best+developer+tools+2026"},
-    {"type":"video","title":"AI輔助編程實戰","desc":"Cursor、Copilot等AI編程工具比較","url":"https://www.youtube.com/results?search_query=AI+coding+tools+comparison+2026+中文"}
+    {"type":"video","title":"Visual Studio 2026 新功能介紹","desc":"AI整合和效能提升實測","url":"https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes"},
+    {"type":"video","title":"Xcode 26.5 開發者必知更新","desc":"iOS開發最新工具和API變化","url":"https://developer.apple.com/news/releases/"},
+    {"type":"video","title":"Spring AI框架入門教學","desc":"Java生態系統的AI整合方案","url":"http://infoq.com/news/2026/05/java-news-roundup-apr27-2026/"},
+    {"type":"video","title":"2026年最佳開發者工具推薦","desc":"提升開發效率的工具清單","url":"https://evilmartians.com/chronicles/six-things-developer-tools-must-have-to-earn-trust-and-adoption"},
+    {"type":"video","title":"AI輔助編程實戰","desc":"Cursor、Copilot等AI編程工具比較","url":"https://aipromptsx.com/blog/state-of-ai-development-tools-2026"}
   ],
   "design": [
     {"type":"news","title":"數位藝術趨勢2026：創作者如何回應AI壓力","desc":"藝術家正在重新定義手工創作的價值","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
@@ -78,11 +78,11 @@
     {"type":"news","title":"2026年網頁開發工具全景","desc":"78%開發者使用AI工具提升45%生產力","url":"https://meduzzen.com/blog/modern-web-development-tools-2026"},
     {"type":"news","title":"YouTube CEO 2026年展望：創作者工具新時代","desc":"創意與技術融合，AI賦能創作者","url":"https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"},
     {"type":"news","title":"我的2026年最愛開發者工具","desc":"Next.js、Vercel、Cursor不再是預設選擇的反思","url":"https://parthkabra.me/blog/tech-review-mid-2026"},
-    {"type":"video","title":"UI/UX設計趨勢2026","desc":"今年最流行的介面設計風格","url":"https://www.youtube.com/results?search_query=UI+UX+design+trends+2026"},
-    {"type":"video","title":"Figma最新功能教學","desc":"設計工具效率提升技巧","url":"https://www.youtube.com/results?search_query=figma+new+features+2026+tutorial"},
-    {"type":"video","title":"AI設計工具實測比較","desc":"Midjourney vs DALL-E vs Stable Diffusion","url":"https://www.youtube.com/results?search_query=AI+design+tools+comparison+2026+中文"},
-    {"type":"video","title":"網頁設計作品集製作教學","desc":"如何打造吸引人的設計師作品集","url":"https://www.youtube.com/results?search_query=web+design+portfolio+2026+教學"},
-    {"type":"video","title":"色彩理論與配色技巧","desc":"設計師必學的色彩搭配原則","url":"https://www.youtube.com/results?search_query=color+theory+design+配色+教學"}
+    {"type":"video","title":"UI/UX設計趨勢2026","desc":"今年最流行的介面設計風格","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
+    {"type":"video","title":"Figma最新功能教學","desc":"設計工具效率提升技巧","url":"https://meduzzen.com/blog/modern-web-development-tools-2026"},
+    {"type":"video","title":"AI設計工具實測比較","desc":"Midjourney vs DALL-E vs Stable Diffusion","url":"https://aipromptsx.com/blog/state-of-ai-development-tools-2026"},
+    {"type":"video","title":"網頁設計作品集製作教學","desc":"如何打造吸引人的設計師作品集","url":"https://parthkabra.me/blog/tech-review-mid-2026"},
+    {"type":"video","title":"色彩理論與配色技巧","desc":"設計師必學的色彩搭配原則","url":"https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"}
   ],
   "business": [
     {"type":"news","title":"騰訊遊戲將「吉利」轉型為AI戰術顧問","desc":"和平精英虛擬角色升級為AI驅動的遊戲助手","url":"https://eu.36kr.com/en/p/3209955055993992"},
@@ -90,11 +90,11 @@
     {"type":"news","title":"Amazon AWS最佳增長季：營收跳增28%","desc":"可能在兩年內向外部客戶銷售Trainium AI晶片","url":"https://www.businessinsider.com/big-tech-earnings-meta-google-microsoft-amazon-newsletter-2026-4"},
     {"type":"news","title":"AI Collective發起「Humans in AI Week」","desc":"全球最大非營利AI社群，6/1-6/8超過100城市同步活動","url":"https://www.eznewswire.com/newsroom/ai-collective-humans-in-ai-week"},
     {"type":"news","title":"美國人如何務實地使用AI提升效率","desc":"教師、行銷人員、產品經理的真實AI應用案例","url":"https://fortune.com/2026/05/01/meet-the-americans-dismissing-ai-hype-and-using-it-with-ingenuity-the-efficiencies-gained-out-of-it-have-been-tremendous/"},
-    {"type":"video","title":"36氪：中國AI產業最新動態","desc":"中國AI企業融資和產品發展","url":"https://www.youtube.com/results?search_query=36氪+AI+中國+2026"},
-    {"type":"video","title":"騰訊遊戲AI戰略分析","desc":"遊戲產業如何整合AI技術","url":"https://www.youtube.com/results?search_query=tencent+game+AI+strategy+2026"},
-    {"type":"video","title":"Amazon AWS雲端業務分析","desc":"為何AWS增長28%創新高","url":"https://www.youtube.com/results?search_query=amazon+AWS+growth+2026+analysis"},
-    {"type":"video","title":"科技巨頭AI投資回報分析","desc":"6000億美元AI支出值得嗎","url":"https://www.youtube.com/results?search_query=big+tech+AI+investment+ROI+2026"},
-    {"type":"video","title":"創業者如何利用AI降低成本","desc":"AI工具在商業中的實際應用","url":"https://www.youtube.com/results?search_query=AI+business+tools+startup+2026+中文"}
+    {"type":"video","title":"36氪：中國AI產業最新動態","desc":"中國AI企業融資和產品發展","url":"https://eu.36kr.com/en/p/3209955055993992"},
+    {"type":"video","title":"騰訊遊戲AI戰略分析","desc":"遊戲產業如何整合AI技術","url":"https://eu.36kr.com/en/p/3209955055993992"},
+    {"type":"video","title":"Amazon AWS雲端業務分析","desc":"為何AWS增長28%創新高","url":"https://www.businessinsider.com/big-tech-earnings-meta-google-microsoft-amazon-newsletter-2026-4"},
+    {"type":"video","title":"科技巨頭AI投資回報分析","desc":"6000億美元AI支出值得嗎","url":"https://fortune.com/2026/04/29/microsoft-meta-google-ai-capex-spending-billions/"},
+    {"type":"video","title":"創業者如何利用AI降低成本","desc":"AI工具在商業中的實際應用","url":"https://fortune.com/2026/05/01/meet-the-americans-dismissing-ai-hype-and-using-it-with-ingenuity-the-efficiencies-gained-out-of-it-have-been-tremendous/"}
   ],
   "finance": [
     {"type":"news","title":"道瓊下跌557點：油價上漲引發伊朗衝突擔憂","desc":"S&P 500跌0.41%，Nasdaq跌0.19%","url":"https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html"},
@@ -102,10 +102,10 @@
     {"type":"news","title":"九檔S&P 500股票2026年翻倍，全是AI概念股","desc":"AI熱潮持續推動特定股票大幅上漲","url":"https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-rally/"},
     {"type":"news","title":"5/5交易前須知：地緣政治風險主導市場","desc":"S&P 500收跌0.41%，Nasdaq 100跌0.21%","url":"https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-before-going-into-trade-on-may-5-11448704"},
     {"type":"news","title":"S&P 500、Nasdaq連續五週上漲後面臨壓力","desc":"科技股領漲但能源股下跌，市場分化加劇","url":"https://www.reuters.com/business/sp-500-dow-futures-inch-up-after-wall-streets-best-month-years-2026-05-01/"},
-    {"type":"video","title":"本週美股走勢分析","desc":"道瓊下跌原因和後市展望","url":"https://www.youtube.com/results?search_query=美股+分析+2026+5月+中文"},
-    {"type":"video","title":"AI概念股投資策略","desc":"哪些AI股票值得關注","url":"https://www.youtube.com/results?search_query=AI+stocks+投資+2026+中文"},
-    {"type":"video","title":"地緣政治對股市的影響","desc":"伊朗局勢和油價分析","url":"https://www.youtube.com/results?search_query=geopolitics+stock+market+oil+2026"},
-    {"type":"video","title":"科技巨頭財報解讀","desc":"Apple、Google、Meta業績對股價的影響","url":"https://www.youtube.com/results?search_query=big+tech+earnings+stock+analysis+2026"},
-    {"type":"video","title":"2026年投資趨勢展望","desc":"下半年值得關注的投資機會","url":"https://www.youtube.com/results?search_query=investment+trends+2026+中文+展望"}
+    {"type":"video","title":"本週美股走勢分析","desc":"道瓊下跌原因和後市展望","url":"https://www.cnbc.com/video/2026/05/04/cnbc-markets-now-may-4-2026.html"},
+    {"type":"video","title":"AI概念股投資策略","desc":"哪些AI股票值得關注","url":"https://www.cnbc.com/video/2026/05/04/heres-what-to-watch-from-the-markets-this-week.html"},
+    {"type":"video","title":"地緣政治對股市的影響","desc":"伊朗局勢和油價分析","url":"https://www.cnbc.com/video/2026/05/04/the-pre-market-rundown-may-4-2026.html"},
+    {"type":"video","title":"科技巨頭財報解讀","desc":"Apple、Google、Meta業績對股價的影響","url":"https://www.cnbc.com/video/2026/05/01/can-the-market-move-higher-in-may.html"},
+    {"type":"video","title":"2026年投資趨勢展望","desc":"下半年值得關注的投資機會","url":"https://www.cnbc.com/video/2026/04/15/tom-lee-stock-market-is-in-better-position-now-than-the-all-time-highs-earlier-this-year.html"}
   ]
 }
