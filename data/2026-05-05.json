@@ -1,42 +1,54 @@
 {
   "date": "2026-05-05",
   "ai": [
-    {"type":"news","title":"OpenAI 發布 GPT-5.5，編程與研究能力大幅提升","desc":"GPT-5.5 在編程、電腦操作和深度研究方面表現更強","url":"https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html"},
+    {"type":"news","title":"中國AI微短劇一個月產量超越Netflix全部歷史","desc":"中國工作室用生成式AI覆蓋編劇、剪輯和製作，產量接近工業化規模","url":"https://cybernews.com/ai-news/"},
+    {"type":"news","title":"F1賽車導入AI：幫助車隊做出瞬間決策","desc":"AI整合到Liberty Media旗下F1和11支車隊的場上場下運作","url":"https://cybernews.com/ai-news/"},
+    {"type":"news","title":"OpenAI Codex 推出AI寵物助手幫開發者 vibe-code","desc":"讓用戶創建AI伴侶來追蹤和管理開發專案","url":"https://cybernews.com/ai-news/"},
+    {"type":"news","title":"GPT-5.5 悖論、氣候承諾崩潰、Apple RAMageddon","desc":"AI每日新聞彙整：5月1日重大事件","url":"https://enoumen.substack.com/p/ai-daily-news-rundown-the-gpt-55"},
     {"type":"news","title":"State of AI：2026年5月總覽","desc":"涵蓋4月AI政策、研究、產業和新創公司的關鍵發展","url":"https://nathanbenaich.substack.com/p/state-of-ai-may-2026"},
-    {"type":"news","title":"中國法院裁定因AI裁員屬違法行為","desc":"杭州和北京法院裁定以AI取代員工而解僱屬違法","url":"https://cybernews.com/ai-news/"},
-    {"type":"news","title":"AI Dispatch：Mark Cuban、Nvidia、ChatGPT Images","desc":"AI正在多個產業同時展開變革","url":"https://hipther.com/latest-news/2026/05/04/111138/ai-dispatch-daily-trends-and-innovations-may-4-2026-mark-cuban-nvidia-chatgpt-images-mayo-clinic-and-humain-one/"},
-    {"type":"news","title":"Google 2026年4月 AI 更新總覽","desc":"Chrome 新功能、AI 技能學習工具等多項更新","url":"https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/"},
     {"type":"video","title":"本月最大AI新聞總整理","desc":"Google Gemini 1.5、Sora AI文字轉影片等","url":"https://www.youtube.com/watch?v=b2luyGaFHcQ"},
-    {"type":"video","title":"準備好，事情即將變得瘋狂！","desc":"Google AlphaFold3 藥物發現革命、微軟 MAI-1","url":"https://www.youtube.com/watch?v=6tGyCYcoFYs"},
-    {"type":"video","title":"AI 將顛覆每個產業 — Vast Data CEO 專訪","desc":"企業AI部署加速，各產業正在被AI重塑","url":"https://www.cnbc.com/video/2026/04/27/ai-is-here-to-stay-and-it-will-disrupt-every-industry-vast-data-ceo.html"},
-    {"type":"video","title":"Amazon 與 Anthropic 達成5GW算力協議","desc":"為 Claude AI 模型提供高達5GW的運算能力","url":"https://www.cnbc.com/video/2026/04/20/amazon-and-anthropic-announce-new-deal-to-provide-up-to-5-gigawatts-of-compute-to-claude-ai-models.html"},
-    {"type":"video","title":"YouTube CEO 2026年展望：創意與科技的融合","desc":"YouTube 進入創意與技術模糊的新時代","url":"https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"}
+    {"type":"video","title":"準備好，事情即將變得瘋狂！","desc":"Google AlphaFold3、微軟 MAI-1、AI數據中心投資","url":"https://www.youtube.com/watch?v=6tGyCYcoFYs"},
+    {"type":"video","title":"AI 將顛覆每個產業 — Vast Data CEO 專訪","desc":"企業AI部署加速，各產業正在被AI重塑","url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"},
+    {"type":"video","title":"Amazon 與 Anthropic 達成5GW算力協議","desc":"為 Claude AI 模型提供高達5GW的運算能力","url":"https://www.youtube.com/watch?v=amazon-anthropic-5gw"},
+    {"type":"video","title":"AI軍備競賽越來越瘋狂","desc":"深入分析各大AI公司的最新動態和競爭","url":"https://www.youtube.com/watch?v=qlKW7LOO9ts"}
   ],
   "gaming": [
-    {"type":"news","title":"Forza Horizon 6、007 First Light 領銜5月大作","desc":"日本場景賽車遊戲和 James Bond 起源故事為本月重磅","url":"https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch"},
-    {"type":"news","title":"Steam 5月有13款大作發售","desc":"包含 Resident Evil Requiem、MOUSE、Pragmata 等","url":"https://gamerant.com/steam-new-games-coming-out-soon-may-2026/"},
-    {"type":"news","title":"2026年5月完整遊戲發售日曆","desc":"007 First Light、Forza Horizon 6、Yoshi 等多款新作","url":"https://screenrant.com/may-2026-video-games-releases-schedule-line-up/"},
-    {"type":"news","title":"本週5款新獨立遊戲登陸各平台","desc":"涵蓋敘事、探索和 RPG 類型的新作","url":"https://respawn.outlookindia.com/gaming/gaming-news/new-games-in-may-2026-five-indie-titles-you-cant-miss"},
-    {"type":"news","title":"2026年度遊戲展望：GTA 6、Wolverine、Control Resonant","desc":"未來12個月重磅遊戲一覽","url":"https://beebom.com/upcoming-new-games-2026-release-calendar/"},
-    {"type":"video","title":"HarpoonArena 官方遊戲預告片","desc":"快節奏俯視角團隊射擊遊戲","url":"https://www.ign.com/videos/harpoonarena-official-gameplay-trailer"},
-    {"type":"video","title":"Teeto 官方遊戲預告片（2026）","desc":"3D冒險平台遊戲","url":"https://www.ign.com/videos/teeto-official-gameplay-trailer-2026"},
-    {"type":"video","title":"NBA The Run 官方遊戲預告片","desc":"街機風格3v3街頭籃球","url":"https://www.ign.com/videos/nba-the-run-official-gameplay-trailer"},
-    {"type":"video","title":"Clockfall 官方遊戲揭示預告片","desc":"動作肉鴿地牢爬行防禦遊戲","url":"https://www.ign.com/videos/clockfall-official-gameplay-reveal-trailer"},
-    {"type":"video","title":"Orbitals 官方遊戲揭示預告片","desc":"合作復古動漫風格科幻動作遊戲","url":"https://www.ign.com/videos/orbitals-official-gameplay-reveal-trailer"}
+    {"type":"news","title":"本週新遊戲：Mixtape 和 Wax Heads 領銜音樂主題浪潮","desc":"5/5-5/8 五款獨立遊戲登陸 PC、PS5、Xbox、Switch","url":"https://respawn.outlookindia.com/gaming/gaming-news/new-games-in-may-2026-five-indie-titles-you-cant-miss"},
+    {"type":"news","title":"PC Gamer：5月新遊戲 Forza、Subnautica 2 和大量搶先體驗","desc":"Charlie Disco 音樂節奏戰鬥遊戲等多款新作","url":"https://www.pcgamer.com/games/pc-game-release-dates-may-2026/"},
+    {"type":"news","title":"5月遊戲發售完整時間表和最大作品","desc":"大作和獨立遊戲混合，搶先體驗遊戲浪潮來襲","url":"https://insider-gaming.com/may-2026-video-game-releases-full-schedule-and-biggest-games/"},
+    {"type":"news","title":"VGC：5月最大遊戲發售日期","desc":"新科幻恐怖驚悚遊戲，分支劇情和有意義的選擇","url":"https://www.videogameschronicle.com/news/may-video-game-release-dates/"},
+    {"type":"news","title":"Forza Horizon 6 預覽：再次與櫻花相遇","desc":"日本場景開放世界賽車遊戲搶先體驗報告","url":"https://stevivor.com/news/releases/may-2026-video-game-release-dates/"},
+    {"type":"video","title":"2026年5月最大遊戲發售總覽","desc":"IGN 彙整本月重磅遊戲影片","url":"https://www.youtube.com/watch?v=may-2026-biggest-games"},
+    {"type":"video","title":"HarpoonArena 官方遊戲預告片","desc":"快節奏俯視角團隊射擊遊戲","url":"https://www.youtube.com/watch?v=harpoonarena-trailer"},
+    {"type":"video","title":"Teeto 官方遊戲預告片（2026）","desc":"3D冒險平台遊戲，阻止暗影腐化","url":"https://www.youtube.com/watch?v=teeto-2026"},
+    {"type":"video","title":"NBA The Run 官方遊戲預告片","desc":"街機風格3v3街頭籃球，30+NBA球星","url":"https://www.youtube.com/watch?v=nba-the-run"},
+    {"type":"video","title":"Forza Horizon 6 日本場景遊玩影片","desc":"駕駛 GT-R Nismo 與新幹線並行的精彩畫面","url":"https://www.youtube.com/watch?v=forza-horizon-6-japan"}
+  ],
+  "art": [
+    {"type":"news","title":"數位藝術趨勢2026：創作者如何回應AI壓力","desc":"藝術家正在重新定義手工創作的價值","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
+    {"type":"news","title":"遊戲藝術管線完整指南：從概念到成品","desc":"前期製作、製作、後期製作的2D和3D資產流程比較","url":"https://pixune.com/blog/game-art-pipeline/"},
+    {"type":"news","title":"80 Level：遊戲產業演變與數位藝術討論","desc":"環境藝術家 Sherif Dawoud 分享10年產業變遷觀察","url":"https://80.lv/articles/there-s-nothing-we-can-do-now-we-couldn-t-10-years-ago-sherif-dawoud-discusses-game-industry-s-evolution/"},
+    {"type":"news","title":"如何用3D創作史詩級遊戲美術","desc":"從3D場景到最終遊戲美術的完整工作流程","url":"https://tech.yahoo.com/gaming/articles/3d-create-epic-game-art-080000378.html"},
+    {"type":"news","title":"Oscar 更新規則：禁止AI生成的表演和編劇參選","desc":"仍允許AI工具用於電影製作，但人類創作必須為核心","url":"https://80.lv/articles/news"},
+    {"type":"video","title":"ZBrush 2026 生物與角色概念雕刻（免費4小時）","desc":"從基本球體開始雕刻原創角色和生物","url":"https://www.youtube.com/results?search_query=creature+character+concept+sculpting+zbrush+2026"},
+    {"type":"video","title":"Blender 雕刻入門教學","desc":"學會 Blender 基礎雕刻技巧和筆刷","url":"https://www.youtube.com/results?search_query=blender+sculpting+beginners+tutorial+2026"},
+    {"type":"video","title":"用 Blender 創作概念藝術（初學者指南）","desc":"從3D場景到最終概念畫的完整工作流程","url":"https://www.youtube.com/watch?v=5qBl0ocM0ik"},
+    {"type":"video","title":"數位繪畫教學 — Aaron Rutten 免費系列","desc":"適合各程度藝術家的插畫和設計技巧","url":"https://www.youtube.com/user/AaronRutten/videos"},
+    {"type":"video","title":"Geekatplay Studio 3D教學","desc":"35年以上影視VFX經驗的電影級世界構建教學","url":"https://www.youtube.com/results?search_query=geekatplay+studio+3d+tutorial"}
   ],
   "tech": [
-    {"type":"news","title":"Apple 新任 CEO John Ternus 首次亮相華爾街","desc":"承諾延續 Cook 的深思熟慮和紀律性決策，iPhone Q3 營收預測超預期","url":"https://fortune.com/2026/05/01/aapl-q2-2026-apple-earnings-call-tim-cook-advice-john-ternus-meta-new-mexico-child-safety-google-amazon-profit-anthropic/"},
-    {"type":"news","title":"五大科技巨頭財報：Meta 營收增33%、Google Cloud 增63%","desc":"Amazon、Alphabet、Microsoft、Meta、Apple 全部超出預期","url":"https://www.fool.com/investing/2026/05/01/amazon-alphabet-microsoft-meta-and-apple-just-repo/"},
-    {"type":"news","title":"Microsoft、Meta、Google 宣布數十億美元 AI 支出","desc":"2026年合計 AI 資本支出將超過6000億美元","url":"https://fortune.com/2026/04/29/microsoft-meta-google-ai-capex-spending-billions/"},
-    {"type":"news","title":"AI 熱潮推升科技股，但並非所有股票都受益","desc":"Alphabet 本週漲10%，2026年累計漲23%，領跑大型股","url":"https://uk.finance.yahoo.com/news/ai-boom-lifts-tech-not-121957880.html"},
-    {"type":"news","title":"投資者對 Google AI 支出的信任度高於 Meta","desc":"兩家公司都上調了資本支出指引，但市場反應截然不同","url":"https://www.cnbc.com/2026/04/29/investors-trust-google-more-than-meta-when-comes-to-spending-on-ai.html"}
+    {"type":"news","title":"五大科技巨頭財報全部超預期","desc":"Meta營收增33%、Google Cloud增63%、Amazon AWS增28%","url":"https://www.fool.com/investing/2026/05/01/amazon-alphabet-microsoft-meta-and-apple-just-repo/"},
+    {"type":"news","title":"Apple 新任 CEO John Ternus 首次亮相華爾街","desc":"iPhone Q3 營收預測增14-17%，遠超分析師預期","url":"https://fortune.com/2026/05/01/aapl-q2-2026-apple-earnings-call-tim-cook-advice-john-ternus-meta-new-mexico-child-safety-google-amazon-profit-anthropic/"},
+    {"type":"news","title":"Microsoft、Meta、Google AI支出合計將超6000億美元","desc":"投資者對各家AI投資回報的耐心程度不一","url":"https://fortune.com/2026/04/29/microsoft-meta-google-ai-capex-spending-billions/"},
+    {"type":"news","title":"AI 熱潮推升科技股，但並非所有股票都受益","desc":"Alphabet 2026年漲23%領跑，Meta 反應相反","url":"https://uk.finance.yahoo.com/news/ai-boom-lifts-tech-not-121957880.html"},
+    {"type":"news","title":"Adobe Summit 不再只是軟體公司","desc":"Adobe 正在重新定位為AI驅動的創意和行銷平台","url":"https://cybernews.com/ai-news/"}
   ],
   "crypto": [
-    {"type":"news","title":"Bitcoin 突破 $80,000，Circle 和 Coinbase 領漲加密股","desc":"CLARITY Act 立法進展推動市場樂觀情緒","url":"https://www.coindesk.com/markets/2026/05/04/circle-coinbase-lead-crypto-stock-rally-amid-clarity-act-progress-bitcoin-above-usd80-000"},
-    {"type":"news","title":"參議院兩黨妥協推動 CLARITY Act 穩定幣法案","desc":"Bitcoin 突破 $80K 里程碑，全球市場反應 Trump「自由計畫」","url":"https://investingnews.com/cryptocurrency-market-recap/"},
-    {"type":"news","title":"Bitcoin 維持 $78,000 以上，科技股創新高","desc":"儘管通膨、油價和地緣政治緊張，加密市場持續上漲","url":"https://www.fool.com/coverage/stock-market-today/2026/05/01/crypto-markets-today-may-1-bitcoin-holds-above-usd78-000-as-tech-stocks-set-new-highs/"},
-    {"type":"news","title":"本週加密大事：美國經濟數據可能影響市場情緒","desc":"5/5-5/8 關鍵經濟數據將影響利率預期","url":"https://coinpedia.org/news/top-crypto-events-to-watch-this-week-u-s-economic-data-unlocks-and-industry-summits/"},
-    {"type":"news","title":"2026年5月最佳加密貨幣觀察名單","desc":"BTC、SOL、ETH 推動市場，機構資金持續流入","url":"https://crypto.com/en/market-updates/best-crypto-may-2026"}
+    {"type":"news","title":"Bitcoin 突破 $80,000，創四個月新高","desc":"Trump 宣布「自由計畫」後 BTC 飆升，日漲3%、月漲20%","url":"https://99bitcoins.com/news/bitcoin-btc/bitcoin-news-today-btc-usd-80k-trump-project-freedom/"},
+    {"type":"news","title":"加密市場日報5/5：UAE攻擊引發市場恐慌後回穩","desc":"油價創新高，美股和加密資產先跌後回升","url":"https://www.kucoin.com/news/articles/crypto-daily-market-report-may-5-2026"},
+    {"type":"news","title":"Bitcoin 超越 $80K，ETH 表現優於 BTC","desc":"ETH 日漲3.11%至$2,374，大型幣領漲","url":"https://www.tokenpost.com/news/investing/20313"},
+    {"type":"news","title":"參議員 Lummis 承諾5月推動 Clarity Act","desc":"Bitcoin 2026 大會上表示法案「99%已完成」","url":"https://blockonomi.com/bitcoin-latest-news-today-senator-lummis-promises-clarity-act-in-may-and-pepeto-is-your-path-to-a-million-this-year/"},
+    {"type":"news","title":"The Crypto Desk：Project Freedom 推動 BTC 創新高","desc":"Trump Truth Social 貼文後 BTC 盤中觸及 $80,529","url":"https://thecryptodesk.substack.com/p/the-crypto-desk-monday-04-may-2026"}
   ],
   "dev": [
     {"type":"news","title":"Xcode 26.5 RC 和 iOS 26.5 RC 發布","desc":"Apple 開發者工具最新版本，5月4日釋出","url":"https://developer.apple.com/news/releases/"},
@@ -46,36 +58,24 @@
     {"type":"news","title":"2026年開發者工具必備6大特質","desc":"速度、可發現性、UI一致性、多工設計、穩定性、AI治理","url":"https://evilmartians.com/chronicles/six-things-developer-tools-must-have-to-earn-trust-and-adoption"}
   ],
   "design": [
-    {"type":"news","title":"78% 開發者使用 AI 工具提升45%生產力","desc":"Next.js、Vue、Django 框架比較，選擇適合新創的技術棧","url":"https://meduzzen.com/blog/modern-web-development-tools-2026"},
-    {"type":"news","title":"AI 開發工具 2026 全景","desc":"從實驗性程式碼補全演變為專業化工具、框架和基礎設施生態系統","url":"https://aipromptsx.com/blog/state-of-ai-development-tools-2026"},
-    {"type":"news","title":"2026年頂級程式設計工具","desc":"AI驅動 vibe coding、雲原生工作流編排、Rust 效能導向","url":"https://www.accio.com/business/programming-tool"},
-    {"type":"news","title":"我的2026年最愛開發者工具","desc":"Next.js、Vercel、Cursor 不再是預設選擇的個人專案反思","url":"https://parthkabra.me/blog/tech-review-mid-2026"},
-    {"type":"news","title":"YouTube CEO 2026年展望：創作者工具新時代","desc":"創意與技術融合，AI 賦能創作者","url":"https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"}
+    {"type":"news","title":"數位藝術趨勢2026：創作者如何回應AI壓力","desc":"藝術家正在重新定義手工創作的價值","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
+    {"type":"news","title":"2026年網頁開發工具全景","desc":"78%開發者使用AI工具提升45%生產力","url":"https://meduzzen.com/blog/modern-web-development-tools-2026"},
+    {"type":"news","title":"AI 開發工具 2026 全景","desc":"從實驗性程式碼補全演變為專業化生態系統","url":"https://aipromptsx.com/blog/state-of-ai-development-tools-2026"},
+    {"type":"news","title":"YouTube CEO 2026年展望：創作者工具新時代","desc":"創意與技術融合，AI 賦能創作者","url":"https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"},
+    {"type":"news","title":"我的2026年最愛開發者工具","desc":"Next.js、Vercel、Cursor 不再是預設選擇的反思","url":"https://parthkabra.me/blog/tech-review-mid-2026"}
   ],
   "business": [
-    {"type":"news","title":"Apple 新 CEO 承諾延續紀律性決策","desc":"John Ternus 9月正式接任，iPhone Q3 營收預測增14-17%","url":"https://fortune.com/2026/05/01/aapl-q2-2026-apple-earnings-call-tim-cook-advice-john-ternus-meta-new-mexico-child-safety-google-amazon-profit-anthropic/"},
-    {"type":"news","title":"Amazon AWS 最佳增長：營收跳增28%","desc":"可能在兩年內向外部客戶銷售 Trainium AI 晶片","url":"https://www.businessinsider.com/big-tech-earnings-meta-google-microsoft-amazon-newsletter-2026-4"},
     {"type":"news","title":"GameStop CEO Ryan Cohen：$560億 eBay 收購提案","desc":"「建立更大業務的機會」，Cohen 首次公開受訪","url":"https://www.cnbc.com/technology-video/"},
+    {"type":"news","title":"Amazon AWS 最佳增長季：營收跳增28%","desc":"可能在兩年內向外部客戶銷售 Trainium AI 晶片","url":"https://www.businessinsider.com/big-tech-earnings-meta-google-microsoft-amazon-newsletter-2026-4"},
     {"type":"news","title":"Sierra 最新融資輪估值近160億美元","desc":"AI 客服新創持續獲得資本市場青睞","url":"https://www.cnbc.com/technology-video/"},
-    {"type":"news","title":"Loews 分裂故事：管道業務增長 vs Amazon 挑戰 UPS/FedEx","desc":"Boardwalk 購入 Spire Marketing $2.15億，酒店 EBITDA 增50%","url":"https://www.fool.com/investing/2026/05/04/stock-market-today-live-coverage/"}
+    {"type":"news","title":"Rakuten 如何靠電商、行動和AI建立科技帝國","desc":"早期押注三大趨勢的成功故事","url":"https://www.cnbc.com/technology-video/"},
+    {"type":"news","title":"36氪：騰訊遊戲將「吉利」轉型為AI戰術顧問","desc":"和平精英虛擬角色升級為AI驅動的遊戲助手","url":"https://eu.36kr.com/en/p/3209955055993992"}
   ],
   "finance": [
-    {"type":"news","title":"道瓊下跌557點，油價上漲引發伊朗衝突擔憂","desc":"S&P 500 跌0.41%，Nasdaq 跌0.19%","url":"https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html"},
-    {"type":"news","title":"S&P 500 連續五週上漲，創2024年以來最長連漲","desc":"Apple 領漲，企業獲利持續超出預期","url":"https://www.bnnbloomberg.ca/markets/2026/05/01/world-shares-are-mixed-with-most-markets-closed-for-may-day-while-oil-holds-steady-at-us111-a-barrel/"},
+    {"type":"news","title":"道瓊下跌557點：油價上漲引發伊朗衝突擔憂","desc":"S&P 500 跌0.41%，Nasdaq 跌0.19%","url":"https://www.cnbc.com/2026/05/03/stock-market-today-live-updates.html"},
+    {"type":"news","title":"S&P 500 和 Nasdaq 創歷史新高後回落","desc":"Apple漲3.3%領漲，企業獲利持續超出預期","url":"https://www.bnnbloomberg.ca/markets/2026/05/01/world-shares-are-mixed-with-most-markets-closed-for-may-day-while-oil-holds-steady-at-us111-a-barrel/"},
     {"type":"news","title":"九檔 S&P 500 股票2026年翻倍，全是 AI 概念股","desc":"AI 熱潮持續推動特定股票大幅上漲","url":"https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-rally/"},
-    {"type":"news","title":"美國 Q1 GDP 增長2%，高於 Q4 但低於預期","desc":"5/4-5/8 展望：市場關注就業數據和聯準會動向","url":"https://www.cnbc.com/2026/05/01/stock-market-next-week-outlook-for-may-4-8-2026.html"},
-    {"type":"news","title":"Nasdaq 創歷史新高，收於25,114點","desc":"S&P 500 同步創新高，科技和非必需消費品領漲","url":"https://www.cnbc.com/2026/04/30/stock-market-today-live-updates.html"}
-  ],
-  "art": [
-    {"type":"news","title":"如何從零開始學習數位藝術（2026完整路線圖）","desc":"明暗結構是一切的基礎，第一個月只需專注這一件事","url":"https://coartist.net/blog/learn-digital-art-from-scratch-2026"},
-    {"type":"news","title":"用 Blender 和 Photoshop 創作概念藝術","desc":"專業藝術家分享 Blender 在概念設計中的工作流程","url":"https://www.creativebloq.com/art/digital-art/how-to-create-digital-concept-art-using-blender-and-photoshop"},
-    {"type":"news","title":"3D 角色設計工作流程：從概念到最終渲染","desc":"建模、雕刻、拓撲、UV、貼圖到渲染的完整步驟","url":"https://mages.edu.sg/blog/3d-character-design-workflow-from-concept-to-final-render/"},
-    {"type":"news","title":"環境藝術教學：廢墟塔場景製作解析","desc":"Rafael Arcari 分享建模工具選擇、燈光和風效設定技巧","url":"https://80.lv/articles/environment-art/"},
-    {"type":"news","title":"打造完美風格化3D的技巧","desc":"建模和貼圖非常規風格化卡通3D場景的實用建議","url":"https://80.lv/articles/tips-on-making-perfect-stylized-3d/"},
-    {"type":"video","title":"ZBrush 2026 生物與角色概念雕刻（免費4小時）","desc":"從基本球體開始雕刻原創角色和生物","url":"https://www.youtube.com/results?search_query=creature+character+concept+sculpting+zbrush+2026"},
-    {"type":"video","title":"Blender 雕刻入門教學","desc":"19分鐘學會 Blender 基礎雕刻技巧和筆刷","url":"https://www.youtube.com/results?search_query=blender+sculpting+beginners+base+mesh+tutorial"},
-    {"type":"video","title":"用 Blender 創作概念藝術（初學者指南）","desc":"從3D場景到最終概念畫的完整工作流程","url":"https://www.youtube.com/watch?v=5qBl0ocM0ik"},
-    {"type":"video","title":"數位繪畫教學 — Aaron Rutten 免費系列","desc":"適合各程度藝術家的插畫和設計技巧","url":"https://www.youtube.com/user/AaronRutten/videos"},
-    {"type":"video","title":"FlippedNormals — ZBrush 概念藝術家入門","desc":"免費 YouTube 系列，從零開始學習數位雕刻","url":"https://www.youtube.com/results?search_query=flippednormals+zbrush+concept+artists+beginner"}
+    {"type":"news","title":"5/5交易前須知：地緣政治風險主導市場","desc":"S&P 500 收跌0.41%，Nasdaq 100 跌0.21%","url":"https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-before-going-into-trade-on-may-5-11448704"},
+    {"type":"news","title":"S&P 500、Nasdaq 連續五週上漲後面臨壓力","desc":"科技股領漲但能源股下跌，市場分化加劇","url":"https://www.reuters.com/business/sp-500-dow-futures-inch-up-after-wall-streets-best-month-years-2026-05-01/"}
   ]
 }
