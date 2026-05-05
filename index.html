@@ -7,40 +7,78 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#0d1117;color:#e6edf3;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;padding:20px;min-height:100vh}
-h1{text-align:center;margin-bottom:8px;font-size:1.8em;color:#58a6ff}
-.updated{text-align:center;color:#8b949e;margin-bottom:24px;font-size:0.85em}
-.sections{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:24px;max-width:1200px;margin:0 auto}
-.section{background:#161b22;border:1px solid #30363d;border-radius:12px;padding:20px}
-.section h2{font-size:1.2em;margin-bottom:16px;display:flex;align-items:center;gap:8px}
-.card{background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px;margin-bottom:10px;transition:border-color .2s}
+h1{text-align:center;margin-bottom:16px;font-size:1.8em;color:#58a6ff}
+.controls{display:flex;justify-content:center;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+.date-nav{display:flex;align-items:center;gap:8px}
+.date-nav button{background:#21262d;border:1px solid #30363d;color:#e6edf3;padding:6px 12px;border-radius:6px;cursor:pointer;font-size:0.9em}
+.date-nav button:hover{background:#30363d}
+.date-nav span{font-size:1em;min-width:120px;text-align:center}
+.tabs{display:flex;gap:4px;background:#161b22;border-radius:8px;padding:4px;border:1px solid #30363d}
+.tab{padding:8px 20px;border-radius:6px;cursor:pointer;font-size:0.9em;transition:all .2s;border:none;color:#8b949e;background:transparent}
+.tab.active{background:#58a6ff;color:#fff}
+.tab:hover:not(.active){color:#e6edf3}
+.content{max-width:800px;margin:0 auto}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:14px;margin-bottom:10px;transition:border-color .2s}
 .card:hover{border-color:#58a6ff}
 .card .title{font-weight:600;margin-bottom:4px;font-size:0.95em}
 .card .desc{color:#8b949e;font-size:0.85em;margin-bottom:6px}
 .card a{color:#58a6ff;text-decoration:none;font-size:0.8em;word-break:break-all}
 .card a:hover{text-decoration:underline}
-.tag{display:inline-block;font-size:0.7em;padding:2px 8px;border-radius:12px;margin-right:4px}
+.tag{display:inline-block;font-size:0.7em;padding:2px 8px;border-radius:12px;margin-right:4px;margin-bottom:4px}
 .tag-news{background:#1f3a2a;color:#3fb950}
 .tag-video{background:#2a1f3a;color:#a371f7}
+.empty{text-align:center;color:#8b949e;padding:40px;font-size:1.1em}
 </style>
 </head>
 <body>
 <h1>📊 每日資訊儀表板</h1>
-<p class="updated" id="updated"></p>
-<div class="sections" id="content"></div>
+<div class="controls">
+  <div class="date-nav">
+    <button id="prev">◀</button>
+    <span id="dateLabel"></span>
+    <button id="next">▶</button>
+  </div>
+  <div class="tabs">
+    <button class="tab active" data-tab="ai">🤖 AI</button>
+    <button class="tab" data-tab="gaming">🎮 遊戲</button>
+  </div>
+</div>
+<div class="content" id="content"></div>
 <script>
-fetch('data.json').then(r=>r.json()).then(data=>{
-  document.getElementById('updated').textContent='最後更新：'+data.updated;
-  const c=document.getElementById('content');
-  data.sections.forEach(s=>{
-    let html=`<div class="section"><h2>${s.icon} ${s.title}</h2>`;
-    s.items.forEach(item=>{
-      const tag=item.type==='video'?'<span class="tag tag-video">影片</span>':'<span class="tag tag-news">新聞</span>';
-      html+=`<div class="card">${tag}<div class="title">${item.title}</div><div class="desc">${item.desc||''}</div><a href="${item.url}" target="_blank">${item.url}</a></div>`;
-    });
-    html+='</div>';
-    c.innerHTML+=html;
+let dates=[],dateIdx=0,currentTab='ai',cache={};
+async function init(){
+  dates=(await(await fetch('data/index.json')).json()).sort().reverse();
+  if(!dates.length){document.getElementById('content').innerHTML='<div class="empty">尚無資料</div>';return}
+  dateIdx=0;render();
+}
+async function loadDate(d){
+  if(!cache[d])cache[d]=await(await fetch('data/'+d+'.json')).json();
+  return cache[d];
+}
+async function render(){
+  const d=dates[dateIdx];
+  document.getElementById('dateLabel').textContent=d;
+  document.getElementById('prev').disabled=dateIdx>=dates.length-1;
+  document.getElementById('next').disabled=dateIdx<=0;
+  const data=await loadDate(d);
+  const items=data[currentTab]||[];
+  if(!items.length){document.getElementById('content').innerHTML='<div class="empty">該日期無此分類資料</div>';return}
+  let html='';
+  items.forEach(item=>{
+    const tag=item.type==='video'?'<span class="tag tag-video">影片</span>':'<span class="tag tag-news">新聞</span>';
+    html+=`<div class="card">${tag}<div class="title">${item.title}</div><div class="desc">${item.desc||''}</div><a href="${item.url}" target="_blank">${item.url}</a></div>`;
   });
+  document.getElementById('content').innerHTML=html;
+}
+document.getElementById('prev').onclick=()=>{if(dateIdx<dates.length-1){dateIdx++;render()}};
+document.getElementById('next').onclick=()=>{if(dateIdx>0){dateIdx--;render()}};
+document.querySelectorAll('.tab').forEach(t=>t.onclick=e=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+  e.target.classList.add('active');
+  currentTab=e.target.dataset.tab;
+  render();
 });
+init();
 </script>
 </body>
 </html>
