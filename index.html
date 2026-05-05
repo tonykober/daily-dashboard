@@ -93,7 +93,6 @@ function getThumb(item){
   if(item.url.includes('ign.com/videos'))return 'https://logo.clearbit.com/ign.com';
   return 'https://image.thum.io/get/width/400/crop/160/'+item.url;
 }
-}
 function getHeat(title){let h=0;for(let i=0;i<title.length;i++)h=((h<<5)-h)+title.charCodeAt(i);return Math.abs(h%5)+1}
 function toggleBookmark(item,e){
   e.preventDefault();e.stopPropagation();
