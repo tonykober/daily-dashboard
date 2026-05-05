@@ -65,5 +65,17 @@
     {"type":"news","title":"九檔 S&P 500 股票2026年翻倍，全是 AI 概念股","desc":"AI 熱潮持續推動特定股票大幅上漲","url":"https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-rally/"},
     {"type":"news","title":"美國 Q1 GDP 增長2%，高於 Q4 但低於預期","desc":"5/4-5/8 展望：市場關注就業數據和聯準會動向","url":"https://www.cnbc.com/2026/05/01/stock-market-next-week-outlook-for-may-4-8-2026.html"},
     {"type":"news","title":"Nasdaq 創歷史新高，收於25,114點","desc":"S&P 500 同步創新高，科技和非必需消費品領漲","url":"https://www.cnbc.com/2026/04/30/stock-market-today-live-updates.html"}
+  ],
+  "art": [
+    {"type":"news","title":"如何從零開始學習數位藝術（2026完整路線圖）","desc":"明暗結構是一切的基礎，第一個月只需專注這一件事","url":"https://coartist.net/blog/learn-digital-art-from-scratch-2026"},
+    {"type":"news","title":"用 Blender 和 Photoshop 創作概念藝術","desc":"專業藝術家分享 Blender 在概念設計中的工作流程","url":"https://www.creativebloq.com/art/digital-art/how-to-create-digital-concept-art-using-blender-and-photoshop"},
+    {"type":"news","title":"3D 角色設計工作流程：從概念到最終渲染","desc":"建模、雕刻、拓撲、UV、貼圖到渲染的完整步驟","url":"https://mages.edu.sg/blog/3d-character-design-workflow-from-concept-to-final-render/"},
+    {"type":"news","title":"環境藝術教學：廢墟塔場景製作解析","desc":"Rafael Arcari 分享建模工具選擇、燈光和風效設定技巧","url":"https://80.lv/articles/environment-art/"},
+    {"type":"news","title":"打造完美風格化3D的技巧","desc":"建模和貼圖非常規風格化卡通3D場景的實用建議","url":"https://80.lv/articles/tips-on-making-perfect-stylized-3d/"},
+    {"type":"video","title":"3D 角色藝術 — ZBrush 2026 完整教學","desc":"專業藝術家 Anna Beganska 的進階角色創作技術","url":"https://www.classcentral.com/course/youtube-3d-character-art-anna-beganska-zbrush-2026-495283"},
+    {"type":"video","title":"ZBrush 概念藝術家入門教學","desc":"FlippedNormals 出品，從零開始學習 ZBrush","url":"https://www.classcentral.com/course/youtube-zbrush-beginner-tutorial-zbrush-for-concept-artists-127638"},
+    {"type":"video","title":"數位角色繪畫：從草稿到完成上色","desc":"32分鐘詳細教學，黑白草稿到全彩角色渲染","url":"https://www.classcentral.com/course/youtube-sketch-to-final-digital-character-painting-process-timelapse-and-commentary-part-2-383175"},
+    {"type":"video","title":"Concept Art Techniques：Photoshop + VR 工作流","desc":"EA Dice 概念藝術家的迭代式概念設計管線","url":"https://levelupdigital.gumroad.com/l/levelup_vrconceptart"},
+    {"type":"video","title":"Ctrl+Paint 免費數位繪畫教學庫","desc":"從初學到進階的完整數位繪畫影片課程","url":"https://www.ctrlpaint.com/library"}
   ]
 }

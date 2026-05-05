@@ -26,9 +26,6 @@ h1{font-size:1.5em;color:var(--accent)}
 .stats{max-width:1200px;margin:0 auto 16px;display:flex;gap:12px;flex-wrap:wrap}
 .stat-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:10px 16px;font-size:0.8em;color:var(--muted)}
 .stat-card strong{color:var(--text);font-size:1.2em}
-.tags-cloud{max-width:1200px;margin:0 auto 16px;display:flex;gap:6px;flex-wrap:wrap}
-.cloud-tag{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:4px 10px;font-size:0.75em;color:var(--accent);cursor:pointer}
-.cloud-tag:hover{background:var(--accent);color:#fff}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;max-width:1200px;margin:0 auto}
 .card{background:var(--surface);border:1px solid var(--border);border-radius:10px;overflow:hidden;transition:border-color .2s,transform .2s;cursor:pointer;text-decoration:none;color:inherit;display:block;position:relative}
 .card:hover{border-color:var(--accent);transform:translateY(-2px)}
@@ -73,6 +70,7 @@ h1{font-size:1.5em;color:var(--accent)}
   <div class="tabs" id="tabsContainer">
     <button class="tab active" data-tab="ai">🤖 AI</button>
     <button class="tab" data-tab="gaming">🎮 遊戲</button>
+    <button class="tab" data-tab="art">🎨 美術</button>
     <button class="tab" data-tab="tech">💻 科技</button>
     <button class="tab" data-tab="crypto">🪙 加密貨幣</button>
     <button class="tab" data-tab="dev">⚙️ 程式開發</button>
@@ -83,7 +81,6 @@ h1{font-size:1.5em;color:var(--accent)}
   </div>
 </div>
 <div class="stats" id="stats"></div>
-<div class="tags-cloud" id="tagsCloud"></div>
 <div class="grid" id="content"></div>
 <script>
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='';
@@ -118,12 +115,6 @@ function renderStats(data){
   Object.keys(data).forEach(k=>{if(k!=='date'&&Array.isArray(data[k]))data[k].forEach(i=>{if(i.type==='news')news++;else videos++})});
   document.getElementById('stats').innerHTML=`<div class="stat-card">📰 新聞 <strong>${news}</strong></div><div class="stat-card">🎬 影片 <strong>${videos}</strong></div><div class="stat-card">⭐ 收藏 <strong>${bookmarks.length}</strong></div>`;
 }
-function renderTagsCloud(items){
-  const words={};
-  items.forEach(i=>{(i.title+' '+(i.desc||'')).replace(/[^\u4e00-\u9fff\w]/g,' ').split(/\s+/).filter(w=>w.length>2).forEach(w=>{words[w]=(words[w]||0)+1})});
-  const sorted=Object.entries(words).sort((a,b)=>b[1]-a[1]).slice(0,12);
-  document.getElementById('tagsCloud').innerHTML=sorted.map(([w])=>`<span class="cloud-tag" onclick="document.getElementById('search').value='${w}';searchQuery='${w}';render()">${w}</span>`).join('');
-}
 async function render(){
   const d=dates[dateIdx];
   document.getElementById('dateLabel').textContent=d;
@@ -131,7 +122,7 @@ async function render(){
   document.getElementById('next').disabled=dateIdx<=0;
   let items;
   if(currentTab==='bookmarks'){items=bookmarks}
-  else{const data=await loadDate(d);items=data[currentTab]||[];renderStats(data);renderTagsCloud(items)}
+  else{const data=await loadDate(d);items=data[currentTab]||[];renderStats(data)}
   if(searchQuery){const q=searchQuery.toLowerCase();items=items.filter(i=>(i.title+' '+(i.desc||'')).toLowerCase().includes(q))}
   if(!items.length){document.getElementById('content').innerHTML='<div class="empty">'+(currentTab==='bookmarks'?'尚無收藏':'該分類尚無資料')+'</div>';return}
   let html='';
