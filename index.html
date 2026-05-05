@@ -85,11 +85,14 @@ h1{font-size:1.5em;color:var(--accent)}
 <script>
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='';
 function getThumb(item){
+  if(item.image)return item.image;
   if(item.type==='video'&&item.url.includes('youtube.com/watch')){
     const id=new URL(item.url).searchParams.get('v');
     if(id)return 'https://img.youtube.com/vi/'+id+'/mqdefault.jpg';
   }
-  return item.image||'';
+  if(item.url.includes('ign.com/videos'))return 'https://logo.clearbit.com/ign.com';
+  return 'https://image.thum.io/get/width/400/crop/160/'+item.url;
+}
 }
 function getHeat(title){let h=0;for(let i=0;i<title.length;i++)h=((h<<5)-h)+title.charCodeAt(i);return Math.abs(h%5)+1}
 function toggleBookmark(item,e){
@@ -129,7 +132,7 @@ async function render(){
   items.forEach(item=>{
     const tag=item.type==='video'?'<span class="tag tag-video">影片</span>':'<span class="tag tag-news">新聞</span>';
     const thumb=getThumb(item);
-    const imgHtml=thumb?`<img src="${thumb}" onerror="this.parentElement.innerHTML='<div class=placeholder>📄</div>'">`:'<div class="placeholder">'+(item.type==='video'?'🎬':'📰')+'</div>';
+    const imgHtml=`<img src="${thumb}" onerror="this.style.display='none';this.parentElement.style.background='var(--surface)';this.parentElement.innerHTML='<div class=placeholder>'+(item.type==='video'?'🎬':'📰')+'</div>'">`;
     const bm=isBookmarked(item.url)?'saved':'';
     const heat='🔥'.repeat(getHeat(item.title));
     html+=`<a class="card" href="${item.url}" target="_blank"><button class="bookmark-btn ${bm}" onclick="toggleBookmark(${JSON.stringify(item).replace(/"/g,'&quot;')},event)">⭐</button><div class="card-img">${imgHtml}</div><div class="card-body">${tag}<span class="heat">${heat}</span><div class="title">${item.title}</div><div class="desc">${item.desc||''}</div></div></a>`;
