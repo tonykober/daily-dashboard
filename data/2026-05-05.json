@@ -9,8 +9,8 @@
     {"type":"video","title":"本月最大AI新聞總整理","desc":"Google Gemini 1.5、Sora AI文字轉影片等重大更新","url":"https://www.youtube.com/watch?v=b2luyGaFHcQ"},
     {"type":"video","title":"AI軍備競賽越來越瘋狂","desc":"深入分析各大AI公司的最新動態和競爭格局","url":"https://www.youtube.com/watch?v=qlKW7LOO9ts"},
     {"type":"video","title":"準備好，事情即將變得瘋狂！","desc":"Google AlphaFold3、微軟 MAI-1、AI數據中心投資","url":"https://www.youtube.com/watch?v=6tGyCYcoFYs"},
-    {"type":"video","title":"GPT-5.5 vs Claude Mythos 完整比較","desc":"兩大AI模型能力對比分析","url":"https://www.youtube.com/results?search_query=GPT+5.5+vs+Claude+Mythos+comparison"},
-    {"type":"video","title":"AI代理系統如何改變軟體開發","desc":"Claude Code和Codex的實際應用展示","url":"https://www.youtube.com/results?search_query=AI+agent+coding+Claude+Code+Codex+2026"}
+    {"type":"video","title":"OpenAI GPT-5.5 完整介紹和分析","desc":"代號Spud，遞歸自我改進的新一代智能","url":"https://newsletter.h-farm.ai/p/openai-s-gpt-5-5-reclaims-ai-throne"},
+    {"type":"video","title":"GPT-5.5 + Google全棧AI佈局深度解析","desc":"GPT-5.5瞄準代理工作，Google Cloud Next企業AI系統","url":"https://ai-report.kdnuggets.com/p/gpt-5-5-arrives-google-s-full-stack-ai-play"}
   ],
   "gaming": [
     {"type":"news","title":"《Forza Horizon 6》正式進入金碟階段，5/19發售確定","desc":"遊戲已完成開發，預載開放中，Xbox需135GB、PC需160GB","url":"https://www.gematsu.com/2026/05/forza-horizon-6-goes-gold"},
@@ -18,11 +18,11 @@
     {"type":"news","title":"《Forza Horizon 6》5月19日發售，日本場景正式公開","desc":"Xbox Developer_Direct 公布發售日，Premium版5/15搶先體驗","url":"https://www.forza.net/news/forza-horizon-6-coming-may-2026"},
     {"type":"news","title":"【巴哈GNN】《鐵拳8》DLC角色「州光」確定5月底上線","desc":"EVO Japan 2026公開第3季第1名DLC角色，校園怪盜女忍者","url":"https://gnn.gamer.com.tw"},
     {"type":"news","title":"【巴哈GNN】《數碼寶貝UP》全新手機遊戲事前登錄開啟","desc":"萬代南夢宮新作，事前登錄達10萬人可獲月光壁虎獸","url":"https://gnn.gamer.com.tw"},
-    {"type":"video","title":"Forza Horizon 6 官方日本場景遊玩預告","desc":"Xbox Developer_Direct 公開的實機遊玩影片","url":"https://www.youtube.com/results?search_query=Forza+Horizon+6+official+gameplay+trailer+japan"},
-    {"type":"video","title":"鐵拳8 州光 DLC 完整遊玩預告片","desc":"EVO Japan 2026 公開的角色展示影片","url":"https://www.youtube.com/results?search_query=tekken+8+kunimitsu+DLC+trailer+EVO+Japan+2026"},
-    {"type":"video","title":"崩壞星穹鐵道 三週年更新內容介紹","desc":"三週年活動和新版本內容中文解說","url":"https://www.youtube.com/results?search_query=崩壞星穹鐵道+三週年+2026+更新"},
-    {"type":"video","title":"Subnautica 2 官方搶先體驗預告片","desc":"5/14上市，4人合作水下探索生存遊戲","url":"https://www.youtube.com/results?search_query=Subnautica+2+official+early+access+trailer+2026"},
-    {"type":"video","title":"少女前線 十週年新作《藍蝶契約》預告","desc":"散爆網路公開的全新IP續作預告影片","url":"https://www.youtube.com/results?search_query=少女前線+藍蝶契約+預告+2026"}
+    {"type":"video","title":"Forza Horizon 6 序章實機遊玩影片","desc":"GT-R Nismo與新幹線並行、雪地越野等精彩畫面","url":"https://www.gematsu.com/2026/04/forza-horizon-6-prologue-gameplay"},
+    {"type":"video","title":"Forza Horizon 6 東京城市生態展示預告","desc":"系列史上最大都市區域，東京街景展示","url":"https://www.ign.com/videos/forza-horizon-6-official-tokyo-city-biome-showcase-trailer"},
+    {"type":"video","title":"Forza Horizon 6 官方遊玩預告片","desc":"Xbox Developer_Direct 日本場景預告","url":"https://me.ign.com/en/forza-horizon-6/240080/video/forza-horizon-6-official-gameplay-teaser-trailer-xbox-developer-direct-2026"},
+    {"type":"video","title":"Forza Horizon 6 新遊玩影片和地圖詳情","desc":"含實機畫面、地圖資訊和車輛清單","url":"https://www.motor1.com/news/792394/forza-horizon-6-gameplay-footage-details-revealed/"},
+    {"type":"video","title":"Forza Horizon 6 序章完整影片解析","desc":"6分鐘序章遊玩影片詳細報導","url":"https://www.bsimracing.com/forza-horizon-6-prologue-gameplay-video/"}
   ],
   "art": [
     {"type":"news","title":"數位藝術趨勢2026：創作者如何回應AI壓力","desc":"藝術家正在重新定義手工創作的價值","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
