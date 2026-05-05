@@ -1,28 +1,28 @@
 {
   "date": "2026-05-05",
   "ai": [
-    {"type":"news","title":"中國法院裁定：以AI取代員工裁員屬違法","desc":"杭州和北京法院分別裁定，因自動化擔憂引發廣泛討論","url":"https://cybernews.com/ai-news/"},
-    {"type":"news","title":"中國AI微短劇一個月產量超越Netflix全部歷史","desc":"工作室用生成式AI覆蓋編劇、剪輯和製作，產量接近工業化規模","url":"https://cybernews.com/ai-news/"},
-    {"type":"news","title":"Nvidia黃仁勳：你不會被AI取代，會被用AI的同事取代","desc":"強調每個人都必須學會使用AI工具","url":"https://fortune.com/2026/04/22/jensen-huang-nvidia-ai-replace-workers-not-jobs/"},
-    {"type":"news","title":"AI學會說話後，現在正在學會行動","desc":"從被動語言模型轉向主動代理系統，能跨應用執行複雜任務","url":"https://www.forbes.com/councils/forbesbusinesscouncil/2026/04/17/ai-learned-to-talk-now-its-learning-to-act/"},
+    {"type":"news","title":"Anthropic營收突破300億美元，Claude Code讓AI代理接管開發","desc":"自主AI代理團隊能在數分鐘內完成過去需要數天的程式開發任務","url":"https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/"},
+    {"type":"news","title":"OpenAI限制GPT-5.5-Cyber存取，僅開放給「網路防禦者」","desc":"批評Anthropic限制Mythos後，自己也對新模型採取相同策略","url":"https://www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/"},
+    {"type":"news","title":"Anthropic突破$30B、GPT-5.5推出Agent Symphony、Google全面改名","desc":"AI產業本週三大重磅事件深度分析","url":"https://agenticaihype.substack.com/p/anthropic-smashes-30b-gpt-55-drops"},
+    {"type":"news","title":"OpenAI發布GPT-5.5：編程、電腦操作和深度研究能力大幅提升","desc":"發布僅數週後即追平Anthropic的Claude Mythos","url":"https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html"},
     {"type":"news","title":"Stanford報告：自然科學中提及AI的論文增長30倍","desc":"2010至2025年間，科學家全面擁抱AI時代","url":"https://www.nature.com/articles/d41586-026-01199-z"},
     {"type":"video","title":"本月最大AI新聞總整理","desc":"Google Gemini 1.5、Sora AI文字轉影片等重大更新","url":"https://www.youtube.com/watch?v=b2luyGaFHcQ"},
     {"type":"video","title":"AI軍備競賽越來越瘋狂","desc":"深入分析各大AI公司的最新動態和競爭格局","url":"https://www.youtube.com/watch?v=qlKW7LOO9ts"},
     {"type":"video","title":"準備好，事情即將變得瘋狂！","desc":"Google AlphaFold3、微軟 MAI-1、AI數據中心投資","url":"https://www.youtube.com/watch?v=6tGyCYcoFYs"},
-    {"type":"video","title":"OpenAI GPT-5.5 完整介紹","desc":"編程、電腦操作和深度研究能力大幅提升","url":"https://www.youtube.com/results?search_query=GPT+5.5+openai+介紹"},
-    {"type":"video","title":"AI代理系統最新發展解析","desc":"從ChatGPT到自主代理的演進","url":"https://www.youtube.com/results?search_query=AI+agent+代理+2026+中文"}
+    {"type":"video","title":"GPT-5.5 vs Claude Mythos 完整比較","desc":"兩大AI模型能力對比分析","url":"https://www.youtube.com/results?search_query=GPT+5.5+vs+Claude+Mythos+comparison"},
+    {"type":"video","title":"AI代理系統如何改變軟體開發","desc":"Claude Code和Codex的實際應用展示","url":"https://www.youtube.com/results?search_query=AI+agent+coding+Claude+Code+Codex+2026"}
   ],
   "gaming": [
-    {"type":"news","title":"【巴哈GNN】最新Steam控制器今日開賣 歐美僅30分鐘售罄","desc":"Valve全新硬體產品，台灣地區目前也已無法訂購","url":"https://gnn.gamer.com.tw"},
-    {"type":"news","title":"【巴哈GNN】《鐵拳8》DLC角色「州光」詳細介紹 確定5月底上線","desc":"EVO Japan 2026公開第3季第1名DLC角色，校園怪盜女忍者","url":"https://gnn.gamer.com.tw"},
+    {"type":"news","title":"《Forza Horizon 6》正式進入金碟階段，5/19發售確定","desc":"遊戲已完成開發，預載開放中，Xbox需135GB、PC需160GB","url":"https://www.gematsu.com/2026/05/forza-horizon-6-goes-gold"},
+    {"type":"news","title":"《Forza Horizon 6》官方預覽：收藏品、無縫賽事和開放世界設計","desc":"系列最大開放世界冒險，日本場景超過550輛真實車款","url":"https://news.xbox.com/en-us/2026/04/08/forza-horizon-6-preview-japan-collectibles-seamless-races-open-world-design/"},
+    {"type":"news","title":"《Forza Horizon 6》5月19日發售，日本場景正式公開","desc":"Xbox Developer_Direct 公布發售日，Premium版5/15搶先體驗","url":"https://www.forza.net/news/forza-horizon-6-coming-may-2026"},
+    {"type":"news","title":"【巴哈GNN】《鐵拳8》DLC角色「州光」確定5月底上線","desc":"EVO Japan 2026公開第3季第1名DLC角色，校園怪盜女忍者","url":"https://gnn.gamer.com.tw"},
     {"type":"news","title":"【巴哈GNN】《數碼寶貝UP》全新手機遊戲事前登錄開啟","desc":"萬代南夢宮新作，事前登錄達10萬人可獲月光壁虎獸","url":"https://gnn.gamer.com.tw"},
-    {"type":"news","title":"【巴哈GNN】《崩壞：星穹鐵道》三週年「Run to 歡愉」台中場開幕","desc":"大型線下路跑活動，以歡愉和三週年為核心主題","url":"https://gnn.gamer.com.tw"},
-    {"type":"news","title":"【巴哈GNN】《少女前線》十週年公開新作《藍蝶契約》《逆向坍塌：F》","desc":"散爆網路兩款新作正式揭曉，預計2026年內推出","url":"https://gnn.gamer.com.tw"},
-    {"type":"video","title":"鐵拳8 州光 DLC 角色遊玩預告","desc":"EVO Japan 2026 公開完整遊玩影片","url":"https://www.youtube.com/results?search_query=鐵拳8+州光+DLC+預告"},
-    {"type":"video","title":"崩壞星穹鐵道 三週年活動介紹","desc":"台中路跑活動和遊戲內三週年更新內容","url":"https://www.youtube.com/results?search_query=崩壞星穹鐵道+三週年+2026"},
-    {"type":"video","title":"Forza Horizon 6 日本場景中文實機","desc":"5/19發售，日本舞台開放世界賽車遊戲","url":"https://www.youtube.com/results?search_query=Forza+Horizon+6+日本+中文"},
-    {"type":"video","title":"數碼寶貝UP 新作情報整理","desc":"萬代南夢宮全新手機遊戲介紹","url":"https://www.youtube.com/results?search_query=數碼寶貝UP+新作+2026"},
-    {"type":"video","title":"本週遊戲新聞速報｜Bilibili","desc":"B站遊戲區本週熱門遊戲資訊","url":"https://www.bilibili.com/v/game"}
+    {"type":"video","title":"Forza Horizon 6 官方日本場景遊玩預告","desc":"Xbox Developer_Direct 公開的實機遊玩影片","url":"https://www.youtube.com/results?search_query=Forza+Horizon+6+official+gameplay+trailer+japan"},
+    {"type":"video","title":"鐵拳8 州光 DLC 完整遊玩預告片","desc":"EVO Japan 2026 公開的角色展示影片","url":"https://www.youtube.com/results?search_query=tekken+8+kunimitsu+DLC+trailer+EVO+Japan+2026"},
+    {"type":"video","title":"崩壞星穹鐵道 三週年更新內容介紹","desc":"三週年活動和新版本內容中文解說","url":"https://www.youtube.com/results?search_query=崩壞星穹鐵道+三週年+2026+更新"},
+    {"type":"video","title":"Subnautica 2 官方搶先體驗預告片","desc":"5/14上市，4人合作水下探索生存遊戲","url":"https://www.youtube.com/results?search_query=Subnautica+2+official+early+access+trailer+2026"},
+    {"type":"video","title":"少女前線 十週年新作《藍蝶契約》預告","desc":"散爆網路公開的全新IP續作預告影片","url":"https://www.youtube.com/results?search_query=少女前線+藍蝶契約+預告+2026"}
   ],
   "art": [
     {"type":"news","title":"數位藝術趨勢2026：創作者如何回應AI壓力","desc":"藝術家正在重新定義手工創作的價值","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
@@ -49,16 +49,16 @@
     {"type":"video","title":"AI手機時代來臨","desc":"手機AI功能實測與未來展望","url":"https://www.youtube.com/results?search_query=AI+手機+2026+功能+實測"}
   ],
   "crypto": [
-    {"type":"news","title":"Bitcoin突破$80,000創四個月新高","desc":"Trump宣布「自由計畫」後BTC飆升，日漲3%、月漲20%","url":"https://99bitcoins.com/news/bitcoin-btc/bitcoin-news-today-btc-usd-80k-trump-project-freedom/"},
-    {"type":"news","title":"加密市場日報5/5：UAE攻擊引發市場恐慌後回穩","desc":"油價創新高，美股和加密資產先跌後回升","url":"https://www.kucoin.com/news/articles/crypto-daily-market-report-may-5-2026"},
-    {"type":"news","title":"Bitcoin超越$80K，ETH表現優於BTC","desc":"ETH日漲3.11%至$2,374，大型幣領漲","url":"https://www.tokenpost.com/news/investing/20313"},
-    {"type":"news","title":"參議員Lummis承諾5月推動Clarity Act","desc":"Bitcoin 2026大會上表示法案「99%已完成」","url":"https://blockonomi.com/bitcoin-latest-news-today-senator-lummis-promises-clarity-act-in-may-and-pepeto-is-your-path-to-a-million-this-year/"},
-    {"type":"news","title":"比特幣史詩級突破75,000美元後持續攀升","desc":"市場在油價噩夢和加密狂歡之間撕裂","url":"https://techflowpost.com/zh-TW/article/30702"},
-    {"type":"video","title":"比特幣突破8萬美元分析","desc":"BTC走勢分析和後市展望","url":"https://www.youtube.com/results?search_query=比特幣+80000+分析+2026"},
-    {"type":"video","title":"Clarity Act對加密市場的影響","desc":"美國加密貨幣立法最新進展解讀","url":"https://www.youtube.com/results?search_query=clarity+act+crypto+legislation+2026"},
-    {"type":"video","title":"以太坊ETH走勢分析","desc":"ETH突破$2,374後的技術面分析","url":"https://www.youtube.com/results?search_query=ethereum+ETH+分析+2026+5月"},
-    {"type":"video","title":"本週加密貨幣大事回顧","desc":"Trump政策、地緣政治對幣圈的影響","url":"https://www.youtube.com/results?search_query=crypto+weekly+recap+2026+may+中文"},
-    {"type":"video","title":"穩定幣法案進展與市場影響","desc":"Circle和Coinbase為何大漲","url":"https://www.youtube.com/results?search_query=stablecoin+legislation+2026+中文"}
+    {"type":"news","title":"Bitcoin突破$80,000：機構買盤和大規模空頭清算推動","desc":"打破數週盤整，瞄準$96K目標價","url":"https://news.bitcoin.com/bitcoin-breaks-80000-institutional-demand-short-squeeze/"},
+    {"type":"news","title":"Bitcoin在Consensus 2026開幕時突破$80,000","desc":"美國現貨BTC ETF 5/1流入$6.3億，提供機構支撐","url":"https://crypto.news/bitcoin-price-breaks-80000-at-consensus-2026/"},
+    {"type":"news","title":"Bitcoin突破$80K後快速回落，關鍵支撐位分析","desc":"BTC觸及$80,595後回落至$78,600，交易者分析關鍵水平","url":"https://www.morningstar.com/news/marketwatch/2026050448/bitcoin-busted-through-80000-for-the-first-time-since-january-heres-the-crucial-level-it-needs-to-hold-right-now"},
+    {"type":"news","title":"Bitcoin收復$80,000但交易者對突破持懷疑態度","desc":"預測市場看好$85K但$90K機率低，缺乏強烈信念","url":"https://www.coindesk.com/markets/2026/05/04/bitcoin-reclaims-usd80-000-as-flows-build-but-traders-hedge-and-doubt-a-breakout"},
+    {"type":"news","title":"為何Bitcoin今天飆升？伊朗局勢緩和推動加密市場","desc":"BTC創三個月新高，機構預測2026目標$130K-$225K","url":"https://www.financemagnates.com/trending/why-is-bitcoin-surging-today-btc-price-tops-80000-for-three-month-high-as-iran-de-escalation-lifts-crypto/"},
+    {"type":"video","title":"比特幣突破8萬美元完整分析","desc":"技術面和基本面分析，後市展望","url":"https://www.youtube.com/results?search_query=bitcoin+80000+analysis+may+2026"},
+    {"type":"video","title":"Consensus 2026 邁阿密大會重點整理","desc":"加密貨幣年度最大會議精華","url":"https://www.youtube.com/results?search_query=Consensus+2026+Miami+highlights"},
+    {"type":"video","title":"美國加密貨幣立法 Clarity Act 最新進展","desc":"參議院兩黨妥協推動穩定幣法案","url":"https://www.youtube.com/results?search_query=Clarity+Act+crypto+legislation+2026+Senate"},
+    {"type":"video","title":"BTC ETF資金流入分析","desc":"機構資金連續五週淨流入的影響","url":"https://www.youtube.com/results?search_query=Bitcoin+ETF+inflows+institutional+2026"},
+    {"type":"video","title":"以太坊 vs 比特幣 5月走勢比較","desc":"ETH表現優於BTC的原因分析","url":"https://www.youtube.com/results?search_query=ethereum+vs+bitcoin+may+2026+analysis"}
   ],
   "dev": [
     {"type":"news","title":"Xcode 26.5 RC 和 iOS 26.5 RC 發布","desc":"Apple開發者工具最新版本，5月4日釋出","url":"https://developer.apple.com/news/releases/"},
