@@ -62,7 +62,6 @@ h1{font-size:1.5em;color:var(--accent)}
   </div>
 </header>
 <div class="controls">
-  <button class="theme-btn" id="refreshBtn" style="padding:6px 14px;font-size:0.85em">🔄 更新資訊</button>
   <div class="date-nav">
     <button id="prev">◀</button>
     <span id="dateLabel"></span>
@@ -157,22 +156,6 @@ document.getElementById('themeToggle').onclick=()=>{
   localStorage.setItem('theme',isDark?'light':'dark');
 };
 if(localStorage.getItem('theme')==='light'){document.documentElement.setAttribute('data-theme','light');document.getElementById('themeToggle').textContent='☀️'}
-const REFRESH_COOLDOWN=300000;
-document.getElementById('refreshBtn').onclick=function(){
-  const btn=this;
-  const lastRefresh=parseInt(localStorage.getItem('lastRefresh')||'0');
-  const elapsed=Date.now()-lastRefresh;
-  if(elapsed<REFRESH_COOLDOWN){
-    const remaining=Math.ceil((REFRESH_COOLDOWN-elapsed)/60000);
-    alert('⏳ 冷卻中，請等待約 '+remaining+' 分鐘後再試。\n\n資訊更新需要約3-5分鐘處理時間。');
-    return;
-  }
-  localStorage.setItem('lastRefresh',Date.now().toString());
-  btn.textContent='⏳ 已送出';
-  setTimeout(()=>{btn.textContent='🔄 更新資訊'},REFRESH_COOLDOWN);
-  window.open('https://t.me/share/url?url=.&text=更新儀表板','_blank');
-  alert('✅ 請在 Telegram 中發送訊息。\n\n資訊將在約 3-5 分鐘內更新完成，届時請重新整理頁面。');
-};
 init();
 </script>
 </div>
