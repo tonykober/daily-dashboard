@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-06",
+  "ai": [
+    {"type":"news","title":"Trump對AI新前沿出手：Anthropic Mythos引發監管風暴","desc":"新一代AI模型能以驚人速度發現網路安全漏洞，迫使政府介入","url":"https://www.axios.com/2026/05/05/trump-anthropic-ai-regulation-mythos-cyber"},
+    {"type":"news","title":"中國將AI機器人列為國家戰略核心","desc":"第15個五年計畫將機器人置於現代工業體系核心","url":"https://ifr.org/ifr-press-releases/news/china-makes-ai-powered-robots-core-of-national-strategy"},
+    {"type":"news","title":"員工正在訓練AI和機器人來取代自己","desc":"人類數千年來一直在讓自己失業，這次可能結局不妙","url":"https://www.independent.co.uk/tech/ai-job-replacement-robots-meta-b2967096.html"},
+    {"type":"news","title":"首爾經濟日報 vs 紐約時報：爭奪全球最佳AI新聞產品","desc":"韓國媒體首次進入WAN-IFRA數位媒體獎AI類別全球決賽","url":"https://en.sedaily.com/technology/2026/05/05/seoul-economic-daily-vs-nyt-five-way-battle-for-worlds-best"},
+    {"type":"news","title":"AI Collective發起「Humans in AI Week」全球活動","desc":"全球最大非營利AI社群，6/1-6/8超過100城市同步舉辦","url":"https://www.eznewswire.com/newsroom/ai-collective-humans-in-ai-week"},
+    {"type":"video","title":"本月最大AI新聞總整理","desc":"Google Gemini 1.5、Sora等重大更新","url":"https://www.youtube.com/watch?v=b2luyGaFHcQ"},
+    {"type":"video","title":"AI軍備競賽越來越瘋狂","desc":"各大AI公司最新動態和競爭格局","url":"https://www.youtube.com/watch?v=qlKW7LOO9ts"},
+    {"type":"video","title":"準備好，事情即將變得瘋狂！","desc":"AlphaFold3、MAI-1、AI數據中心投資","url":"https://www.youtube.com/watch?v=6tGyCYcoFYs"},
+    {"type":"video","title":"人類科學家在複雜任務上擊敗最佳AI代理","desc":"Stanford報告深度分析","url":"https://www.nature.com/articles/d41586-026-01199-z"},
+    {"type":"video","title":"美國人如何務實地使用AI提升效率","desc":"教師、行銷、產品經理的真實案例","url":"https://fortune.com/2026/05/01/meet-the-americans-dismissing-ai-hype-and-using-it-with-ingenuity-the-efficiencies-gained-out-of-it-have-been-tremendous/"}
+  ],
+  "gaming": [
+    {"type":"news","title":"Xbox Game Pass 5月陣容公布：13款遊戲加入","desc":"Forza Horizon 6、Doom: The Dark Ages、Subnautica 2 領銜","url":"https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/"},
+    {"type":"news","title":"Forza Horizon 6 確認加入Game Pass首日陣容","desc":"5/19上線，日本場景550+車款，系列最大開放世界","url":"https://www.windowscentral.com/gaming/forza-horizon-6-is-driving-into-xbox-game-pass-this-month-along-with-heavy-hitters-like-doom-the-dark-ages-and-subnautica-2-and-more"},
+    {"type":"news","title":"13款遊戲5月登陸Game Pass完整清單","desc":"Mixtape 5/7、Doom: The Dark Ages 5/14、Subnautica 2 5/14","url":"https://xpgained.co.uk/gaming-news/game-pass-may-2026-forza-horizon-6-doom-subnautica-2"},
+    {"type":"news","title":"VGC：Xbox公布下一批13款Game Pass遊戲","desc":"包含Forza Horizon 6、Mixtape和Subnautica 2","url":"https://www.videogameschronicle.com/news/xbox-details-the-next-13-game-pass-titles-including-forza-horizon-6-mixtape-and-subnautica-2/"},
+    {"type":"news","title":"Wuchang: Fallen Feathers 加入Game Pass","desc":"中國風動作遊戲《無常：落羽》確認加入5月陣容","url":"https://www.shacknews.com/article/149005/xbox-game-pass-may-2026-games-forza-horizon-6-subnautica-2-mixtape"},
+    {"type":"video","title":"Forza Horizon 6 序章實機遊玩影片","desc":"GT-R與新幹線並行、雪地越野精彩畫面","url":"https://www.gematsu.com/2026/04/forza-horizon-6-prologue-gameplay"},
+    {"type":"video","title":"Game Pass 5月完整陣容詳細介紹","desc":"13款遊戲逐一介紹","url":"https://www.gematsu.com/2026/05/game-pass-adds-forza-horizon-6-mixtape-subnautica-2-early-access-and-more-in-early-to-mid-may"},
+    {"type":"video","title":"Forza Horizon 6 東京城市展示預告","desc":"系列史上最大都市區域","url":"https://www.ign.com/videos/forza-horizon-6-official-tokyo-city-biome-showcase-trailer"},
+    {"type":"video","title":"Forza Horizon 6 為何是Game Pass本月主角","desc":"五年來首款新作深度分析","url":"https://www.thurrott.com/games/335692/forza-horizon-6-subnautica-2-and-more-are-headed-to-game-pass-in-may"},
+    {"type":"video","title":"本月Game Pass遊戲完整分析","desc":"KitGuru詳細評析","url":"https://www.kitguru.net/gaming/matthew-wilson/forza-horizon-6-subnautica-2-and-more-head-to-game-pass-this-month/"}
+  ],
+  "art": [],
+  "tech": [],
+  "crypto": [],
+  "dev": [],
+  "design": [],
+  "business": [],
+  "finance": []
+}
