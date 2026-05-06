@@ -10,25 +10,67 @@
     {"type":"video","title":"AI軍備競賽越來越瘋狂","desc":"各大AI公司最新動態和競爭格局","url":"https://www.youtube.com/watch?v=qlKW7LOO9ts"},
     {"type":"video","title":"準備好，事情即將變得瘋狂！","desc":"AlphaFold3、MAI-1、AI數據中心投資","url":"https://www.youtube.com/watch?v=6tGyCYcoFYs"},
     {"type":"video","title":"人類科學家在複雜任務上擊敗最佳AI代理","desc":"Stanford報告深度分析","url":"https://www.nature.com/articles/d41586-026-01199-z"},
-    {"type":"video","title":"美國人如何務實地使用AI提升效率","desc":"教師、行銷、產品經理的真實案例","url":"https://fortune.com/2026/05/01/meet-the-americans-dismissing-ai-hype-and-using-it-with-ingenuity-the-efficiencies-gained-out-of-it-have-been-tremendous/"}
+    {"type":"video","title":"AI Power Plays 定義本週科技趨勢","desc":"安全漏洞和產業轉變深度報導","url":"https://www.techrepublic.com/article/ai-power-plays-security-breaches-and-industry-shifts-define-the-week-in-tech/"}
   ],
   "gaming": [
     {"type":"news","title":"Xbox Game Pass 5月陣容公布：13款遊戲加入","desc":"Forza Horizon 6、Doom: The Dark Ages、Subnautica 2 領銜","url":"https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/"},
     {"type":"news","title":"Forza Horizon 6 確認加入Game Pass首日陣容","desc":"5/19上線，日本場景550+車款，系列最大開放世界","url":"https://www.windowscentral.com/gaming/forza-horizon-6-is-driving-into-xbox-game-pass-this-month-along-with-heavy-hitters-like-doom-the-dark-ages-and-subnautica-2-and-more"},
     {"type":"news","title":"13款遊戲5月登陸Game Pass完整清單","desc":"Mixtape 5/7、Doom: The Dark Ages 5/14、Subnautica 2 5/14","url":"https://xpgained.co.uk/gaming-news/game-pass-may-2026-forza-horizon-6-doom-subnautica-2"},
     {"type":"news","title":"VGC：Xbox公布下一批13款Game Pass遊戲","desc":"包含Forza Horizon 6、Mixtape和Subnautica 2","url":"https://www.videogameschronicle.com/news/xbox-details-the-next-13-game-pass-titles-including-forza-horizon-6-mixtape-and-subnautica-2/"},
-    {"type":"news","title":"Wuchang: Fallen Feathers 加入Game Pass","desc":"中國風動作遊戲《無常：落羽》確認加入5月陣容","url":"https://www.shacknews.com/article/149005/xbox-game-pass-may-2026-games-forza-horizon-6-subnautica-2-mixtape"},
+    {"type":"news","title":"Wuchang: Fallen Feathers 也將加入Game Pass","desc":"中國風動作遊戲《無常：落羽》確認加入5月陣容","url":"https://www.shacknews.com/article/149005/xbox-game-pass-may-2026-games-forza-horizon-6-subnautica-2-mixtape"},
     {"type":"video","title":"Forza Horizon 6 序章實機遊玩影片","desc":"GT-R與新幹線並行、雪地越野精彩畫面","url":"https://www.gematsu.com/2026/04/forza-horizon-6-prologue-gameplay"},
     {"type":"video","title":"Game Pass 5月完整陣容詳細介紹","desc":"13款遊戲逐一介紹","url":"https://www.gematsu.com/2026/05/game-pass-adds-forza-horizon-6-mixtape-subnautica-2-early-access-and-more-in-early-to-mid-may"},
     {"type":"video","title":"Forza Horizon 6 東京城市展示預告","desc":"系列史上最大都市區域","url":"https://www.ign.com/videos/forza-horizon-6-official-tokyo-city-biome-showcase-trailer"},
     {"type":"video","title":"Forza Horizon 6 為何是Game Pass本月主角","desc":"五年來首款新作深度分析","url":"https://www.thurrott.com/games/335692/forza-horizon-6-subnautica-2-and-more-are-headed-to-game-pass-in-may"},
     {"type":"video","title":"本月Game Pass遊戲完整分析","desc":"KitGuru詳細評析","url":"https://www.kitguru.net/gaming/matthew-wilson/forza-horizon-6-subnautica-2-and-more-head-to-game-pass-this-month/"}
   ],
-  "art": [],
-  "tech": [],
-  "crypto": [],
-  "dev": [],
-  "design": [],
-  "business": [],
-  "finance": []
+  "tech": [
+    {"type":"news","title":"Apple正與Intel和Samsung洽談美國晶片製造","desc":"探索將主要處理器生產從TSMC分散，Intel股價飆漲13%","url":"https://9to5mac.com/2026/05/04/report-apple-considers-intel-and-samsung-to-diversify-chip-manufacturing-away-from-tsmc/"},
+    {"type":"news","title":"Samsung關閉Messages應用，7月起改用Google Messages","desc":"Apple也在15年後改變iPhone訊息策略","url":"https://www.forbes.com/sites/zakdoffman/2026/05/05/samsung-shuts-down-messages-apple-changes-iphone-after-15-years/"},
+    {"type":"news","title":"Intel飆漲13%創歷史新高：Apple晶片代工報導引爆","desc":"今年累計漲175%，空頭被大規模軋空","url":"https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html"},
+    {"type":"news","title":"Apple晶片報告三大重點和一個令人擔憂的前景","desc":"分散供應鏈合理但TSMC仍是最佳選擇","url":"https://9to5mac.com/2026/05/05/three-takeouts-from-the-apple-chip-report-with-one-worrying-prospect/"},
+    {"type":"news","title":"2026年5月Google Play服務和系統更新重點","desc":"AndroidRuntimeV2 API強制遷移，開發者需注意","url":"https://www.archyde.com/may-2026-google-play-services-system-updates-key-changes-for-users-developers/"}
+  ],
+  "crypto": [
+    {"type":"news","title":"加密市場日報5/6：Bitcoin突破$81,000","desc":"半導體股飆漲推動S&P和Nasdaq創新高，BTC同步上漲","url":"https://www.kucoin.com/news/articles/crypto-daily-market-report-may-6-2026"},
+    {"type":"news","title":"Bitcoin突破$80K：CLARITY Act接近終點線","desc":"穩定幣法案進展推動市場樂觀情緒","url":"https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/"},
+    {"type":"news","title":"Consensus Miami 2026：信任仍是加密採用最大障礙","desc":"複雜性、差勁用戶體驗和缺乏透明度是主要障礙","url":"https://www.coindesk.com/"},
+    {"type":"news","title":"Bitcoin價格到$85K？分析師稱將複製黃金和白銀走勢","desc":"BTC重新測試80,000水平，觸及$80,800","url":"https://www.mexc.com/news/1070812"},
+    {"type":"news","title":"加密市場日報5/5：UAE攻擊引發恐慌後回穩","desc":"油價創新高後回落，風險資產恢復大部分損失","url":"https://www.kucoin.com/news/articles/crypto-daily-market-report-may-5-2026"}
+  ],
+  "art": [
+    {"type":"news","title":"Oscar更新規則：禁止AI生成的表演和編劇參選","desc":"仍允許AI工具用於電影製作，但人類創作必須為核心","url":"https://80.lv/articles/news"},
+    {"type":"news","title":"數位藝術趨勢2026：創作者如何回應AI壓力","desc":"2D藝術家開始學3D，探索AR/VR等新領域","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
+    {"type":"news","title":"免費低多邊形3D地牢資產包（商用可）","desc":"Tidal Flask Studios FBX資產包限時免費","url":"http://www.cgchannel.com/tag/game-art/"},
+    {"type":"news","title":"Games Artist：遊戲開發、概念藝術、3D建模文章集","desc":"探索遊戲開發世界的專業資源","url":"https://gamesartist.co.uk/"},
+    {"type":"news","title":"3DVF Magazine：2026數位藝術產業新聞","desc":"數位藝術產業最新動態和趨勢","url":"https://3dvf.com/en/news/"}
+  ],
+  "dev": [
+    {"type":"news","title":"Intel代工業務獲Apple和Google大單在望","desc":"使用先進製程和封裝技術製造下一代晶片","url":"https://finance.yahoo.com/markets/stocks/articles/intel-next-chapter-government-backing-152809605.html"},
+    {"type":"news","title":"2026年5月Google Play服務更新：開發者須知","desc":"AndroidRuntimeV2 API強制遷移，棄用舊版Java字節碼","url":"https://www.archyde.com/may-2026-google-play-services-system-updates-key-changes-for-users-developers/"},
+    {"type":"news","title":"Apple Visual Intelligence系統進入iOS 27相機","desc":"AI驅動的照片編輯工具Extend、Enhance、Reframe","url":"https://www.techrepublic.com/article/ai-power-plays-security-breaches-and-industry-shifts-define-the-week-in-tech/"},
+    {"type":"news","title":"Showgunners團隊反思設計轉向和戰術系統挑戰","desc":"小團隊打造緊密敘事遊戲的經驗分享","url":"https://80.lv/articles/video-game/"},
+    {"type":"news","title":"Game Developer：遊戲製作人的永恆建議","desc":"回顧GDC 2013經典演講中的智慧和靈感","url":"https://www.gamedeveloper.com/art"}
+  ],
+  "design": [
+    {"type":"news","title":"數位藝術趨勢2026：創作者如何回應AI壓力","desc":"藝術家重新定義手工創作的價值","url":"https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure"},
+    {"type":"news","title":"如何用3D創作史詩級遊戲美術","desc":"從3D場景到最終遊戲美術的完整工作流程","url":"https://tech.yahoo.com/gaming/articles/3d-create-epic-game-art-080000378.html"},
+    {"type":"news","title":"Computer Graphics World：數位製作最前沿","desc":"動作捕捉系統和數位製作最新技術","url":"https://www.cgw.com/Publications/Current-Issue.aspx"},
+    {"type":"news","title":"Samsung關閉Messages：UI一致性的設計決策","desc":"從自有應用轉向Google Messages的設計考量","url":"https://www.forbes.com/sites/zakdoffman/2026/05/05/samsung-shuts-down-messages-apple-changes-iphone-after-15-years/"},
+    {"type":"news","title":"Unity Studio：新的網頁工具用於創作互動3D應用","desc":"遊戲引擎中藝術家的關鍵新功能","url":"https://www.cgchannel.com/tag/game-art/page/2/"}
+  ],
+  "business": [
+    {"type":"news","title":"Intel飆漲15%創歷史新高：Apple代工報導引爆","desc":"Apple探索與Intel和Samsung合作在美國製造晶片","url":"https://www.businessinsider.com/intel-stock-record-high-chip-talks-apple-ai-us-china-2026-5"},
+    {"type":"news","title":"Apple與Intel和Samsung的晶片代工談判","desc":"早期階段探索，尚未下單，旨在分散TSMC依賴","url":"https://www.reuters.com/business/apple-explores-using-intel-samsung-build-main-device-chips-us-bloomberg-news-2026-05-05/"},
+    {"type":"news","title":"Intel今年漲175%後還能買嗎？","desc":"Apple合作報導推動股價再創新高","url":"https://finance.yahoo.com/markets/stocks/articles/intel-rocketing-higher-reports-may-164448917.html"},
+    {"type":"news","title":"華爾街因Intel-Apple樂觀情緒創新高","desc":"Intel和Apple合作報導推動整體市場上漲","url":"https://www.xtb.com/en/market-analysis/us-open-wall-street-reaches-new-heights-on-intel-apple-optimism"},
+    {"type":"news","title":"Intel空頭被大規模軋空：Apple代工報導","desc":"股價飆漲14%至$109，空頭損失慘重","url":"https://247wallst.com/investing/2026/05/05/intel-rips-14-higher-apple-foundry-reports-crush-bears-in-massive-short-squeeze/"}
+  ],
+  "finance": [
+    {"type":"news","title":"Intel飆漲13%創歷史新高","desc":"Apple晶片代工談判報導推動，今年累計漲175%","url":"https://www.cnbc.com/2026/05/05/intel-intc-stock-apple-talks-report.html"},
+    {"type":"news","title":"為何Intel股票今天飆升至歷史新高","desc":"Apple考慮讓Intel製造處理器的報導引爆市場","url":"https://www.fool.com/investing/2026/05/05/why-intel-stock-skyrocketed-to-record-highs-today/"},
+    {"type":"news","title":"Intel股價飆漲15.4%至$120歷史新高","desc":"Apple合作討論仍在早期階段，但市場反應強烈","url":"https://www.livemint.com/market/intel-stock-soars-15-4-to-fresh-all-time-high-on-report-of-apple-chip-partnership-talks-11778000572236.html"},
+    {"type":"news","title":"盤前最大動態股：PLTR、PYPL、INTC、BUD","desc":"Intel因Apple報導漲3%+，Palantir和PayPal也有動態","url":"https://www.cnbc.com/2026/05/05/stocks-making-the-biggest-moves-premarket-pltr-pypl-intc-bud.html"},
+    {"type":"news","title":"Bitcoin突破$80K：CLARITY Act接近終點線","desc":"加密市場隨股市同步上漲","url":"https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/"}
+  ]
 }
