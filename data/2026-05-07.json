@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-07",
+  "ai": [
+    {"type":"news","title":"Trump政府與Google、Microsoft、xAI簽署AI合作協議","desc":"審查AI模型後才公開發布，加強政府對AI的監管","url":"https://www.foxbusiness.com/technology/trump-admin-review-ai-models-from-google-microsoft-xai-ahead-public-release"},
+    {"type":"news","title":"越來越多公司以AI為由裁員","desc":"Pinterest和Dow將裁員歸因於AI轉型","url":"https://www.cbsnews.com/news/ai-layoffs-2026-artificial-intelligence-amazon-pinterest/"},
+    {"type":"news","title":"Bitcoin礦商Hut 8達成$98億AI數據中心交易","desc":"Morgan Stanley首次推出加密交易服務","url":"https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/"},
+    {"type":"news","title":"Coinbase裁員測試AI原生小組工作模式","desc":"以AI為核心重組團隊結構","url":"https://investingnews.com/cryptocurrency-market-recap/"},
+    {"type":"news","title":"自動化軍備競賽對勞工的巨大影響","desc":"AI驅動數據中心公司大幅增長","url":"https://www.abc.net.au/news/2026-05-04/artificial-intelligence-fog-layoff-data-centres-craig-scroggie/106635938"}
+  ],
+  "gaming": [],
+  "art": [],
+  "tech": [
+    {"type":"news","title":"AMD盤後飆漲15%：財報超預期+Q2展望強勁","desc":"Super Micro Computer也漲18%，推動Nasdaq創新高","url":"https://blockonomi.com/market-wrap-tech-earnings-propel-nasdaq-higher-as-bitcoin-surges-past-81k/"},
+    {"type":"news","title":"Intel-Apple晶片代工談判持續發酵","desc":"市場持續關注美國本土晶片製造進展","url":"https://www.mexc.com/news/1073488"}
+  ],
+  "crypto": [
+    {"type":"news","title":"Bitcoin突破$82,298，週漲6.7%","desc":"AMD和Super Micro財報推動Nasdaq創新高，BTC同步上漲","url":"https://investingnews.com/cryptocurrency-market-recap/"},
+    {"type":"news","title":"Michael Saylor的Strategy Q1虧損$125億","desc":"BTC從$87K跌至$68K期間的巨額帳面損失","url":"https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price"},
+    {"type":"news","title":"Bitcoin礦商Hut 8達成$98億數據中心交易","desc":"Morgan Stanley首次推出加密交易服務","url":"https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/"}
+  ],
+  "dev": [],
+  "design": [],
+  "business": [],
+  "finance": [
+    {"type":"news","title":"科技財報推動Nasdaq創新高，BTC突破$81K","desc":"AMD漲15%、Super Micro漲18%領漲","url":"https://blockonomi.com/market-wrap-tech-earnings-propel-nasdaq-higher-as-bitcoin-surges-past-81k/"},
+    {"type":"news","title":"AMD和Super Micro Computer財報驅動市場","desc":"Nasdaq創新高，半導體板塊全面上漲","url":"https://www.mexc.com/news/1073488"}
+  ]
+}
