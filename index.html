@@ -105,7 +105,10 @@ function isBookmarked(url){return bookmarks.some(b=>b.url===url)}
 async function init(){
   dates=(await(await fetch('data/index.json')).json()).sort().reverse();
   if(!dates.length){document.getElementById('content').innerHTML='<div class="empty">尚無資料</div>';return}
-  dateIdx=0;render();
+  const today=new Date().toISOString().split('T')[0];
+  const todayIdx=dates.indexOf(today);
+  dateIdx=todayIdx>=0?todayIdx:0;
+  render();
 }
 async function loadDate(d){
   if(!cache[d])cache[d]=await(await fetch('data/'+d+'.json')).json();
