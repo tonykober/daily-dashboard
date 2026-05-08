@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-08",
+  "ai": [
+    {"type":"news","title":"AI成為裁員主因：佔4月份26%的裁員原因","desc":"連續第二個月AI是企業裁員的首要原因","url":"https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/"},
+    {"type":"news","title":"EU妥協AI監管規則，批評者稱向大型科技公司讓步","desc":"歐盟同意淡化AI規則，包括延遲實施","url":"https://cybernews.com/ai-news/"},
+    {"type":"news","title":"2026年4月AI月報：Anthropic發布史上最強漏洞發現模型","desc":"模型能力強到拒絕公開發布，產業首例","url":"https://futurescope.beehiiv.com/p/this-month-in-ai-april-2026-edition"},
+    {"type":"news","title":"太空與AI基礎設施界線模糊","desc":"競爭AI訓練資源的協議凸顯產業融合","url":"https://techstartups.com/2026/05/07/top-tech-news-today-may-7-2026/"},
+    {"type":"news","title":"Trump政府對AI新前沿出手監管","desc":"Anthropic Mythos和GPT-5.5引發監管風暴","url":"https://www.axios.com/2026/05/05/trump-anthropic-ai-regulation-mythos-cyber"}
+  ],
+  "gaming": [],
+  "art": [],
+  "tech": [],
+  "crypto": [],
+  "dev": [],
+  "design": [],
+  "business": [],
+  "finance": []
+}
