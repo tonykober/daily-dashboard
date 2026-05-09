@@ -1,0 +1,66 @@
+{
+  "date": "2026-05-09",
+  "categories": {
+    "ai": [
+      {"title": "AI成為裁員主因：4月份26%的裁員歸因於人工智慧", "url": "https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/", "source": "CBS News"},
+      {"title": "Anthropic「做夢」AI引發爭議：AI代理能分析失敗並改進未來執行", "url": "https://easternherald.com/2026/05/07/anthropic-dreaming-ai-humanized-machines-backlash/", "source": "Eastern Herald"},
+      {"title": "AI使用全球激增但貧富差距擴大：微軟報告", "url": "https://techxplore.com/news/2026-05-ai-surges-globally-rich-poor.html", "source": "TechXplore"},
+      {"title": "川普政府從放任轉向嚴格AI監管政策", "url": "https://www.axios.com/2026/05/05/trump-anthropic-ai-regulation-mythos-cyber", "source": "Axios"},
+      {"title": "中國AI新職業湧現：創新驅動發展帶來新機遇", "url": "http://en.people.cn/n3/2026/0508/c90000-20454012.html", "source": "People's Daily"}
+    ],
+    "ai_videos": [
+      {"title": "2026年AI完全入門指南：從零到自動化", "url": "https://theneuron.ai/explainer-articles/everything-we-covered-in-our-ai-for-total-beginners-livestream-full-guide-with-timestamps/", "source": "The Neuron"},
+      {"title": "OpenAI Academy：免費學習AI時代必備技能", "url": "https://academy.openai.com/", "source": "OpenAI"},
+      {"title": "2026年學習AI影片和圖像創作的六大核心技能", "url": "https://aivideobootcamp.com/blog/how-to-learn-ai-video-2026/", "source": "AI Video Bootcamp"},
+      {"title": "Google AI Studio實用教學：自動化與字幕生成", "url": "https://www.chaindesk.ai/en/ai-news/google-ai-studio-the-death-of-software-tutorial-videos-e6c_uwQwV9A", "source": "Chaindesk"},
+      {"title": "2026年免費學AI的五大YouTube頻道推薦", "url": "https://www.financialexpress.com/life/technology-top-5-youtube-channels-to-master-ai-for-free-in-2026-4225920/", "source": "Financial Express"}
+    ],
+    "gaming": [
+      {"title": "2026年5月PC新遊戲：Forza Horizon 6、Subnautica 2等大作", "url": "https://www.pcgamer.com/games/pc-game-release-dates-may-2026/", "source": "PC Gamer"},
+      {"title": "5月遊戲發售日：007 First Light、Forza Horizon 6等重磅作品", "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch", "source": "IGN"},
+      {"title": "Life is Strange: Mixtape 獲評即時經典", "url": "https://www.gameinformer.com/", "source": "Game Informer"},
+      {"title": "Star Fox 重製版正式公布登陸 Switch 2", "url": "https://www.ign.com/news", "source": "IGN"},
+      {"title": "Nintendo Switch 2 確認9月將調漲價格", "url": "https://www.ign.com/news", "source": "IGN"}
+    ],
+    "tech": [
+      {"title": "量子科學突破：首次實現強量子交互作用新方法", "url": "https://scitechdaily.com/", "source": "SciTechDaily"},
+      {"title": "Mag7財報週：微軟、Meta、蘋果、亞馬遜、Alphabet混合表現", "url": "https://investingnews.com/top-tech-news/", "source": "Investing News"},
+      {"title": "Linux「Dirty Frag」漏洞：無補丁公開root exploit", "url": "https://theregister.co.uk/", "source": "The Register"},
+      {"title": "Steam Controller 預購明日重新開放", "url": "https://www.gameinformer.com/", "source": "Game Informer"},
+      {"title": "OpenAI為ChatGPT推出自我傷害風險通知安全功能", "url": "https://cybernews.com/tech/", "source": "Cybernews"}
+    ],
+    "crypto": [
+      {"title": "Coinbase裁員14%約700人：因應市場低迷重組", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News"},
+      {"title": "比特幣突破82,800美元後回落：技術阻力位83,000", "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-may-7-2026", "source": "KuCoin"},
+      {"title": "2026年5月最值得關注的加密貨幣：BTC、SOL、ETH", "url": "https://crypto.com/en/market-updates/best-crypto-may-2026", "source": "Crypto.com"},
+      {"title": "比特幣ETF資金流入強勁後週四反轉", "url": "https://www.metalpay.com/news-insights/crypto-news---8-may-2026", "source": "Metal Pay"},
+      {"title": "SEC主席支持鏈上金融規則：代幣化資產股票上漲", "url": "https://www.coindesk.com/", "source": "CoinDesk"}
+    ],
+    "dev": [
+      {"title": "Atlassian股價飆漲29%：雲端和數據中心業務強勁增長", "url": "https://www.cnbc.com/internet/", "source": "CNBC"},
+      {"title": "VideoTutor AI教學平台TikTok觀看量突破5000萬", "url": "https://www.globenewswire.com/news-release/2026/05/01/3285655/0/en/videotutor-surpasses-50-million-tiktok-views-signals-shift-in-ai-education-from-giving-answers-to-generating-instruction.html", "source": "GlobeNewsWire"},
+      {"title": "YouTube CEO 2026展望：創作者重新定義娛樂產業", "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/", "source": "YouTube Blog"},
+      {"title": "Raspberry Pi推出Windows管理員遠端連接工具", "url": "https://theregister.co.uk/", "source": "The Register"},
+      {"title": "AI工具將影片製作成本降低91%：從每分鐘4500美元降至400美元", "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026", "source": "Guidde"}
+    ],
+    "art": [
+      {"title": "AI影像市場達151.8億美元：2026年創作者必備六大技能", "url": "https://aivideobootcamp.com/blog/how-to-learn-ai-video-2026/", "source": "AI Video Bootcamp"},
+      {"title": "YouTube負責任AI創新方針：平衡創意與社群保護", "url": "https://blog.youtube/inside-youtube/our-approach-to-responsible-ai-innovation/", "source": "YouTube Blog"},
+      {"title": "James Cameron和迪士尼因未授權使用演員肖像被告", "url": "https://www.ign.com/news", "source": "IGN"}
+    ],
+    "design": [
+      {"title": "AI生成教學影片效率提升11倍：Guidde平台分析", "url": "https://www.guidde.com/knowledge-hub/how-ai-generates-tutorial-videos-guide-2026", "source": "Guidde"},
+      {"title": "Lego推出電影靈感Technic新套組", "url": "https://theregister.co.uk/", "source": "The Register"}
+    ],
+    "business": [
+      {"title": "蘋果CEO庫克警告記憶體短缺將持續延長", "url": "https://www.cnbc.com/internet/", "source": "CNBC"},
+      {"title": "美國人務實運用AI：效率提升顯著", "url": "https://fortune.com/2026/05/01/meet-the-americans-dismissing-ai-hype-and-using-it-with-ingenuity-the-efficiencies-gained-out-of-it-have-been-tremendous/", "source": "Fortune"},
+      {"title": "53%美國政府機構正在探索或規劃Agentic AI試點", "url": "https://businessofgovernment.org/blog/weekly-roundup-may-4-8-2026", "source": "IBM Center"}
+    ],
+    "finance": [
+      {"title": "S&P 500和Nasdaq創新高：科技財報和就業數據推動", "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-may-7-2026", "source": "KuCoin"},
+      {"title": "華爾街日報警告：AI增長可能靠補貼而非真實需求", "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/", "source": "MarTech"},
+      {"title": "Strategy考慮出售比特幣：加密市場面臨壓力", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News"}
+    ]
+  }
+}
