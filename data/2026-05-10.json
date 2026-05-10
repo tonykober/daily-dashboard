@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-10",
+  "categories": {
+    "ai": [
+      {"title": "OpenAI 推出 GPT-5.5-Cyber：與 Anthropic Mythos 競爭網路安全領域", "url": "https://tech.yahoo.com/ai/articles/openai-rolls-latest-competitor-anthropic-142000885.html", "source": "Yahoo Tech"},
+      {"title": "OpenAI 發布 GPT-5.5 Instant：ChatGPT 新預設模型減少幻覺", "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/", "source": "TechCrunch"},
+      {"title": "AI 連續第二個月成為裁員主因：佔4月裁員26%", "url": "https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/", "source": "CBS News"},
+      {"title": "OpenAI 三款新語音模型：即時翻譯70種語言+即時轉錄", "url": "https://cybercorsairs.com/openai-cooked-hard-this-week-heres-the-rundown/", "source": "CyberCorsairs"},
+      {"title": "GPT-5.5 出現「哥布林」偏執問題：OpenAI 已在測試 GPT-5.6", "url": "https://en.wikipedia.org/wiki/GPT-5.5", "source": "Wikipedia"}
+    ],
+    "ai_videos": [
+      {"title": "2026年AI完整精通指南：從初學到系統建構者的5個階段", "url": "https://artificialcorner.com/p/ai-pro", "source": "Artificial Corner"},
+      {"title": "2026年AI工具完整指南：20類工具涵蓋寫作、自動化、行銷", "url": "https://gptcentral.beehiiv.com/p/the-ai-tools-playbook", "source": "GPT Central"},
+      {"title": "如何在2026年實際使用AI：從零到自動化完整指南", "url": "https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/", "source": "The Neuron"},
+      {"title": "AI入門完整學習路徑：2-4週達到生產力提升", "url": "https://www.gptprompts.ai/learn-ai/learn-ai-for-beginners", "source": "GPT Prompts"},
+      {"title": "2026年開發者和初學者最佳AI工具指南", "url": "https://gamineai.com/blog/ai-tools-for-developers-2026", "source": "Gamine AI"}
+    ],
+    "gaming": [
+      {"title": "Star Fox 重製版 Switch 2 獨佔：6月25日發售", "url": "https://www.nintendo.com/us/whatsnew/star-fox-direct-sees-fox-mccloud-and-crew-prepare-for-liftoff-on-nintendo-switch-2-june-25/", "source": "Nintendo"},
+      {"title": "Xbox Game Pass 5月：Forza Horizon 6、Doom: The Dark Ages、Subnautica 2", "url": "https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/", "source": "Xbox"},
+      {"title": "FromSoftware 新作 Cerulean Onslaught 即將在 Summer Game Fest 公布", "url": "https://www.vice.com/en/article/fromsoftwares-next-game-being-announced-soon-according-to-leak/", "source": "Vice"},
+      {"title": "007 First Light 確認5月27日發售：James Bond 起源故事", "url": "https://games.gg/news/io-interactive-ceo-gta6-delay-project/", "source": "Games.gg"},
+      {"title": "Subnautica 2 搶先體驗5月14日上線", "url": "https://www.ign.com/articles/subnautica-2-finally-gets-early-access-release-date", "source": "IGN"}
+    ],
+    "tech": [
+      {"title": "OpenAI GPT-5.5-Cyber 向網路安全團隊限量開放", "url": "https://www.axios.com/2026/05/07/openai-gpt-55-cybersecurity-model", "source": "Axios"},
+      {"title": "Coinbase 遭 AWS 中斷影響：用戶交易延遲", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News"},
+      {"title": "美國4月就業超預期：新增11.5萬個工作崗位", "url": "https://www.binance.com/en/square/news/all", "source": "Binance"},
+      {"title": "Trump Media 報告Q1虧損4.06億美元：加密資產減值為主因", "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-equity-markdowns-drive-trump-060611319.html", "source": "Yahoo Finance"},
+      {"title": "AI泡沫論辯：科技領袖和分析師怎麼看", "url": "https://www.cnbc.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-analysts.html", "source": "CNBC"}
+    ],
+    "crypto": [
+      {"title": "BlackRock 計劃推出穩定幣貨幣市場基金", "url": "https://www.cryptointegrat.com/p/crypto-news-may-9-2026", "source": "Crypto Integrat"},
+      {"title": "Bitcoin 重回8萬美元：加密市場總值達2.69兆美元", "url": "https://coinedition.com/top-five-crypto-news-that-you-shouldnt-miss/", "source": "Coin Edition"},
+      {"title": "Coinbase Q1淨虧損3.94億美元：加密投資未實現虧損4.82億", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News"},
+      {"title": "CLARITY法案辯論升溫：美國議員推動更嚴格加密倫理規範", "url": "https://coinedition.com/top-five-todays-crypto-news-that-you-should-know/", "source": "Coin Edition"},
+      {"title": "Trump Media 持有9,542枚比特幣但Q1加密虧損4.05億", "url": "https://www.hokanews.com/2026/05/trump-media-shocked-wall-street-with.html", "source": "Hoka News"}
+    ],
+    "dev": [
+      {"title": "OpenAI GPT-5.5 API 正式開放：含 Pro 版本", "url": "https://openai.com/index/introducing-gpt-5-5/", "source": "OpenAI"},
+      {"title": "GPT-5.5-Cyber 限量預覽：專為網路防禦者設計", "url": "https://www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/", "source": "The Register"},
+      {"title": "2026年學習AI工具最快方法：課程和資源整理", "url": "https://tutorialsearch.io/blog/whats-the-fastest-way-to-learn-ai-tools", "source": "Tutorial Search"},
+      {"title": "AI工具概覽教學：從入門到精通", "url": "https://gptprompts.ai/learn-ai/ai-tools-ai-tutorial", "source": "GPT Prompts"},
+      {"title": "OpenAI 與 Anthropic 企業市場爭奪戰：GPT-5.5 vs Mythos", "url": "https://www.implicator.ai/openai-launches-gpt-5-5-to-reclaim-enterprise-lead-from-anthropic/", "source": "Implicator"}
+    ],
+    "art": [
+      {"title": "AI影像創作2026完整學習路徑：六大核心技能", "url": "https://aivideobootcamp.com/blog/how-to-learn-ai-video-2026/", "source": "AI Video Bootcamp"},
+      {"title": "AI工具將影片製作成本降低91%", "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026", "source": "Guidde"}
+    ],
+    "design": [
+      {"title": "AI生成教學影片效率提升11倍：2026年指南", "url": "https://www.guidde.com/knowledge-hub/how-ai-generates-tutorial-videos-guide-2026", "source": "Guidde"},
+      {"title": "你沒在用但應該用的AI工具：課程和資源", "url": "https://tutorialsearch.io/blog/ai-tools-not-using-but-should-be-courses-tutorials-resources-2026", "source": "Tutorial Search"}
+    ],
+    "business": [
+      {"title": "Amazon CEO：AI支出不會保守，今年資本支出約2000億美元", "url": "https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html", "source": "CNBC"},
+      {"title": "State of AI 2026年5月報告：政策、研究、產業全面回顧", "url": "https://nathanbenaich.substack.com/p/state-of-ai-may-2026", "source": "Substack"}
+    ],
+    "finance": [
+      {"title": "美國就業數據超預期：比特幣維持8萬美元以上", "url": "https://www.binance.com/en/square/news/all", "source": "Binance"},
+      {"title": "加密市場總值攀升至2.69兆美元：主要幣種小幅上漲", "url": "https://coinedition.com/top-five-crypto-news-that-you-shouldnt-miss/", "source": "Coin Edition"},
+      {"title": "Coinbase Q1財報：淨虧損受加密投資減值拖累", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News"}
+    ]
+  }
+}
