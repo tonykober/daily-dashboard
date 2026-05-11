@@ -129,7 +129,7 @@ async function render(){
     const imgHtml=`<img src="${thumb}" onerror="this.style.display='none';this.parentElement.style.background='var(--surface)';this.parentElement.innerHTML='<div class=placeholder>'+(item.type==='video'?'🎬':'📰')+'</div>'">`;
     const bm=isBookmarked(item.url)?'saved':'';
     const heat='🔥'.repeat(getHeat(item.title));
-    html+=`<a class="card" href="${item.url}" target="_blank"><button class="bookmark-btn ${bm}" onclick="toggleBookmark(${JSON.stringify(item).replace(/"/g,'&quot;')},event)">⭐</button><div class="card-img">${imgHtml}</div><div class="card-body">${tag}<span class="heat">${heat}</span><div class="title">${item.title}</div><div class="desc">${item.desc||''}</div></div></a>`;
+    html+=`<a class="card" href="${item.url}" target="_blank"><button class="bookmark-btn ${bm}" onclick="toggleBookmark(${JSON.stringify(item).replace(/"/g,'&quot;')},event)">⭐</button><div class="card-body">${tag}<span class="heat">${heat}</span><div class="title">${item.title}</div><div class="desc">${item.desc||''}</div></div></a>`;
   });
   document.getElementById('content').innerHTML=html;
 }
