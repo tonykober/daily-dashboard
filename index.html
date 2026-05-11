@@ -54,6 +54,13 @@ h1{font-size:36px;color:var(--accent)}
 .stock-briefing .sb-event{font-size:16px;color:#d29922;padding:2px 0}
 .stock-briefing .sparkline{margin:8px 0;padding:8px;background:var(--bg);border-radius:6px}
 .stock-briefing .sparkline svg{width:100%;height:40px}
+.loading{text-align:center;padding:40px;grid-column:1/-1}
+.loading .spinner{display:inline-block;width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.back-top{position:fixed;bottom:24px;right:24px;width:40px;height:40px;border-radius:50%;background:var(--accent);color:#fff;border:none;font-size:18px;cursor:pointer;display:none;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,0.3);z-index:99}
+.back-top.show{display:flex}
+.sb-toggle{background:none;border:none;color:var(--accent);cursor:pointer;font-size:14px;margin-left:8px}
+.sb-content.collapsed{display:none}
 @media(max-width:768px){
 h1{font-size:36px}
 .search-box{font-size:14.4px}
@@ -89,6 +96,7 @@ h1{font-size:36px}
     <button id="prev">◀</button>
     <span id="dateLabel"></span>
     <button id="next">▶</button>
+    <input type="date" id="datePicker" style="background:var(--surface);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 8px;font-size:14px;margin-left:8px">
   </div>
   <div class="tabs" id="tabsContainer">
     <button class="tab active" data-tab="ai">🤖 AI</button>
@@ -106,6 +114,7 @@ h1{font-size:36px}
 <div class="stats" id="stats"></div>
 <div id="stockBriefing"></div>
 <div class="grid" id="content"></div>
+<button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">▲</button>
 <script>
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='';
 function getHeat(title){let h=0;for(let i=0;i<title.length;i++)h=((h<<5)-h)+title.charCodeAt(i);return Math.abs(h%5)+1}
@@ -141,13 +150,13 @@ function renderStockBriefing(cats){
   const el=document.getElementById('stockBriefing');
   if(currentTab!=='finance'||!cats||!cats.stock_briefing){el.innerHTML='';return}
   const sb=cats.stock_briefing;
-  let h='<div class="stock-briefing"><h2>📊 台股操盤 — '+sb.date+'</h2>';
+  let h='<div class="stock-briefing"><h2>📊 台股操盤 — '+sb.date+'<button class="sb-toggle" onclick="document.getElementById(\'sbContent\').classList.toggle(\'collapsed\');this.textContent=this.textContent===\'收合\'?\'展開\':\'收合\'">收合</button></h2><div id="sbContent">';
   if(sb.sparkline&&sb.sparkline.length>1){const pts=sb.sparkline,min=Math.min(...pts),max=Math.max(...pts),range=max-min||1,w=300,ht=40;let path='M0,'+(ht-(pts[0]-min)/range*ht);pts.forEach((p,i)=>{if(i>0)path+=' L'+(i/(pts.length-1)*w)+','+(ht-(p-min)/range*ht)});h+='<div class="sparkline"><svg viewBox="0 0 '+w+' '+ht+'" preserveAspectRatio="none"><path d="'+path+'" fill="none" stroke="var(--accent)" stroke-width="2"/></svg><div style="font-size:12px;color:var(--muted)">近期走勢：'+pts[0]+' → '+pts[pts.length-1]+'</div></div>'}
   if(sb.stocks&&sb.stocks.length){h+='<div class="sb-section"><div class="sb-label">個股動向</div>';sb.stocks.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
   if(sb.etf&&sb.etf.length){h+='<div class="sb-section"><div class="sb-label">ETF趨勢</div>';sb.etf.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
   if(sb.events&&sb.events.length){h+='<div class="sb-section"><div class="sb-label">焦點訊息</div>';sb.events.forEach(e=>{h+='<div class="sb-event">• '+e+'</div>'});h+='</div>'}
   if(sb.summary){h+='<div class="sb-section"><div class="sb-label">整體評估</div><div class="sb-summary">'+sb.summary+'</div></div>'}
-  h+='</div>';el.innerHTML=h;
+  h+='</div></div>';el.innerHTML=h;
 }
 function renderStats(cats){
   let news=0,videos=0;
@@ -155,8 +164,10 @@ function renderStats(cats){
   document.getElementById('stats').innerHTML=`<div class="stat-card">📰 新聞 <strong>${news}</strong></div><div class="stat-card">🎬 影片 <strong>${videos}</strong></div><div class="stat-card">⭐ 收藏 <strong>${bookmarks.length}</strong></div>`;
 }
 async function render(){
+  document.getElementById('content').innerHTML='<div class="loading"><div class="spinner"></div></div>';
   const d=dates[dateIdx];
   document.getElementById('dateLabel').textContent=d;
+  document.getElementById('datePicker').value=d;
   document.getElementById('prev').disabled=dateIdx>=dates.length-1;
   document.getElementById('next').disabled=dateIdx<=0;
   let items;
@@ -176,6 +187,8 @@ async function render(){
 }
 document.getElementById('prev').onclick=()=>{if(dateIdx<dates.length-1){dateIdx++;render()}};
 document.getElementById('next').onclick=()=>{if(dateIdx>0){dateIdx--;render()}};
+document.getElementById('datePicker').onchange=e=>{const idx=dates.indexOf(e.target.value);if(idx>=0){dateIdx=idx;render()}};
+window.onscroll=()=>{document.getElementById('backTop').classList.toggle('show',window.scrollY>300)};
 document.getElementById('tabsContainer').onclick=e=>{
   if(!e.target.classList.contains('tab'))return;
   document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
