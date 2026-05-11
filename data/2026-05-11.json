@@ -2,63 +2,279 @@
   "date": "2026-05-11",
   "categories": {
     "ai": [
-      {"title": "OpenAI 手機即將量產：2027年改變智慧型手機市場", "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551", "source": "NDTV Profit"},
-      {"title": "字節跳動AI基礎設施支出提升至300億美元：增加25%", "url": "https://the-decoder.com/artificial-intelligence-news/short-news/", "source": "The Decoder"},
-      {"title": "Anthropic推出銀行專用AI代理：自動化金融機構工作", "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551", "source": "NDTV Profit"},
-      {"title": "AI連續第二個月成為裁員主因：佔4月裁員26%", "url": "https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/", "source": "CBS News"},
-      {"title": "川普政府AI監管大轉彎：從放任到嚴格審查", "url": "https://www.axios.com/2026/05/05/trump-anthropic-ai-regulation-mythos-cyber", "source": "Axios"}
+      {
+        "title": "OpenAI 手機即將量產：2027年改變智慧型手機市場",
+        "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "字節跳動AI基礎設施支出提升至300億美元：增加25%",
+        "url": "https://the-decoder.com/artificial-intelligence-news/short-news/",
+        "source": "The Decoder"
+      },
+      {
+        "title": "Anthropic推出銀行專用AI代理：自動化金融機構工作",
+        "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "AI連續第二個月成為裁員主因：佔4月裁員26%",
+        "url": "https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/",
+        "source": "CBS News"
+      },
+      {
+        "title": "川普政府AI監管大轉彎：從放任到嚴格審查",
+        "url": "https://www.axios.com/2026/05/05/trump-anthropic-ai-regulation-mythos-cyber",
+        "source": "Axios"
+      }
     ],
     "ai_videos": [
-      {"title": "2026年AI代理學習路徑：從聊天機器人到自主工作流", "url": "https://aiagentssimplified.substack.com/p/the-2026-path-to-learning-ai-agents", "source": "AI Agents Simplified"},
-      {"title": "2026年生成式AI完整路線圖：LLM、擴散模型、RAG", "url": "https://www.scaler.com/blog/generative-ai-roadmap/", "source": "Scaler"},
-      {"title": "2026年AI完整精通指南：5級技能堆疊", "url": "https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/", "source": "The Neuron"},
-      {"title": "2026年AI訓練完整指南：2-4週達到生產力", "url": "https://gptprompts.ai/learn-ai/ai-training-guide", "source": "GPT Prompts"},
-      {"title": "2026年最佳AI工程實作學習資源：12個動手做專案", "url": "https://www.firecrawl.dev/blog/best-ai-resources", "source": "Firecrawl"}
+      {
+        "title": "2026年AI代理學習路徑：從聊天機器人到自主工作流",
+        "url": "https://aiagentssimplified.substack.com/p/the-2026-path-to-learning-ai-agents",
+        "source": "AI Agents Simplified"
+      },
+      {
+        "title": "2026年生成式AI完整路線圖：LLM、擴散模型、RAG",
+        "url": "https://www.scaler.com/blog/generative-ai-roadmap/",
+        "source": "Scaler"
+      },
+      {
+        "title": "2026年AI完整精通指南：5級技能堆疊",
+        "url": "https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/",
+        "source": "The Neuron"
+      },
+      {
+        "title": "2026年AI訓練完整指南：2-4週達到生產力",
+        "url": "https://gptprompts.ai/learn-ai/ai-training-guide",
+        "source": "GPT Prompts"
+      },
+      {
+        "title": "2026年最佳AI工程實作學習資源：12個動手做專案",
+        "url": "https://www.firecrawl.dev/blog/best-ai-resources",
+        "source": "Firecrawl"
+      }
     ],
     "gaming": [
-      {"title": "Star Fox 重製版 Switch 2 獨佔：6月25日發售", "url": "https://www.nintendo.com/us/whatsnew/star-fox-direct-sees-fox-mccloud-and-crew-prepare-for-liftoff-on-nintendo-switch-2-june-25/", "source": "Nintendo"},
-      {"title": "Xbox Game Pass 5月：Forza Horizon 6、Subnautica 2", "url": "https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/", "source": "Xbox"},
-      {"title": "Subnautica 2 搶先體驗5月14日上線", "url": "https://www.ign.com/articles/subnautica-2-finally-gets-early-access-release-date", "source": "IGN"},
-      {"title": "Nacon Direct 2026：Hunter、Dracula、Rageborn 新作公布", "url": "https://bleedingcool.com/games/everything-revealed-during-the-nacon-direct-2026/", "source": "Bleeding Cool"},
-      {"title": "Summer Game Fest 2026 一個月後直播", "url": "https://www.pushsquare.com/news/2026/05/summer-game-fest-2026-hype-starts-one-month-out-from-livestream", "source": "Push Square"}
+      {
+        "title": "Star Fox 重製版 Switch 2 獨佔：6月25日發售",
+        "url": "https://www.nintendo.com/us/whatsnew/star-fox-direct-sees-fox-mccloud-and-crew-prepare-for-liftoff-on-nintendo-switch-2-june-25/",
+        "source": "Nintendo"
+      },
+      {
+        "title": "Xbox Game Pass 5月：Forza Horizon 6、Subnautica 2",
+        "url": "https://news.xbox.com/en-us/2026/05/05/xbox-game-pass-may-2026-wave-1/",
+        "source": "Xbox"
+      },
+      {
+        "title": "Subnautica 2 搶先體驗5月14日上線",
+        "url": "https://www.ign.com/articles/subnautica-2-finally-gets-early-access-release-date",
+        "source": "IGN"
+      },
+      {
+        "title": "Nacon Direct 2026：Hunter、Dracula、Rageborn 新作公布",
+        "url": "https://bleedingcool.com/games/everything-revealed-during-the-nacon-direct-2026/",
+        "source": "Bleeding Cool"
+      },
+      {
+        "title": "Summer Game Fest 2026 一個月後直播",
+        "url": "https://www.pushsquare.com/news/2026/05/summer-game-fest-2026-hype-starts-one-month-out-from-livestream",
+        "source": "Push Square"
+      }
     ],
     "tech": [
-      {"title": "Genesis AI機器人手：能彈鋼琴也能切番茄", "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551", "source": "NDTV Profit"},
-      {"title": "Instagram取消「追蹤者」數字顯示", "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551", "source": "NDTV Profit"},
-      {"title": "量子安全公司QeM任命新董事", "url": "https://www.newsfilecorp.com/news/crypto", "source": "Newsfile"},
-      {"title": "Nvidia CEO看好智慧眼鏡為手機自然繼任者", "url": "https://fortune.com/section/artificial-intelligence/", "source": "Fortune"},
-      {"title": "Google移除部分AI健康摘要：用戶安全受威脅", "url": "https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation", "source": "The Guardian"}
+      {
+        "title": "Genesis AI機器人手：能彈鋼琴也能切番茄",
+        "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "Instagram取消「追蹤者」數字顯示",
+        "url": "https://www.ndtvprofit.com/technology/weekly-tech-wrap-instagram-kills-followers-openai-phone-coming-pixel-11-specs-vivo-x300-ultra-oneplus-nord-ce-6-launched-11467551",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "量子安全公司QeM任命新董事",
+        "url": "https://www.newsfilecorp.com/news/crypto",
+        "source": "Newsfile"
+      },
+      {
+        "title": "Nvidia CEO看好智慧眼鏡為手機自然繼任者",
+        "url": "https://fortune.com/section/artificial-intelligence/",
+        "source": "Fortune"
+      },
+      {
+        "title": "Google移除部分AI健康摘要：用戶安全受威脅",
+        "url": "https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation",
+        "source": "The Guardian"
+      }
     ],
     "crypto": [
-      {"title": "Bitcoin確認8萬美元底部：下一目標85,000美元", "url": "https://cryptodaily.co.uk/", "source": "Crypto Daily"},
-      {"title": "Trump Media加密投資虧損4.06億：BTC和CRO減值", "url": "https://crypto.news/trump-media-posts-406m-loss-after-bitcoin-cro-markdowns/", "source": "Crypto News"},
-      {"title": "Coinbase Q1淨虧損3.94億：加密投資未實現虧損4.82億", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News"},
-      {"title": "美國4月就業超預期：比特幣維持8萬美元以上", "url": "https://www.binance.com/en/square/news/all", "source": "Binance"},
-      {"title": "Trump Media加密賭注崩盤：季度虧損4.06億", "url": "https://bitcoinist.com/trump-medias-crypto-bet-implodes-with-massive-406m-quarterly-loss/", "source": "Bitcoinist"}
+      {
+        "title": "Bitcoin確認8萬美元底部：下一目標85,000美元",
+        "url": "https://cryptodaily.co.uk/",
+        "source": "Crypto Daily"
+      },
+      {
+        "title": "Trump Media加密投資虧損4.06億：BTC和CRO減值",
+        "url": "https://crypto.news/trump-media-posts-406m-loss-after-bitcoin-cro-markdowns/",
+        "source": "Crypto News"
+      },
+      {
+        "title": "Coinbase Q1淨虧損3.94億：加密投資未實現虧損4.82億",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News"
+      },
+      {
+        "title": "美國4月就業超預期：比特幣維持8萬美元以上",
+        "url": "https://www.binance.com/en/square/news/all",
+        "source": "Binance"
+      },
+      {
+        "title": "Trump Media加密賭注崩盤：季度虧損4.06億",
+        "url": "https://bitcoinist.com/trump-medias-crypto-bet-implodes-with-massive-406m-quarterly-loss/",
+        "source": "Bitcoinist"
+      }
     ],
     "dev": [
-      {"title": "2026年AI學習資源解碼：課程、Repo、社群完整指南", "url": "https://tutorialsearch.io/blog/ai-learning-decoded-courses-repos-resources-worth-your-time-2026", "source": "Tutorial Search"},
-      {"title": "Context Engineering：從Demo到生產級AI代理的關鍵", "url": "https://www.firecrawl.dev/blog/best-ai-resources", "source": "Firecrawl"},
-      {"title": "2026年企業AI訓練市場：廠商中立指南", "url": "https://dupple.com/blog/ai-training-for-employees", "source": "Dupple"},
-      {"title": "你沒在用但應該用的AI工具：2026年資源整理", "url": "https://tutorialsearch.io/blog/ai-tools-not-using-but-should-be-courses-tutorials-resources-2026", "source": "Tutorial Search"},
-      {"title": "2026年AI入門路線圖：無需編碼2-4週上手", "url": "https://aiweekly.co/learning-ai/artificial-intelligence/how-learn-ai-2026-complete-roadmap-beginners", "source": "AI Weekly"}
+      {
+        "title": "2026年AI學習資源解碼：課程、Repo、社群完整指南",
+        "url": "https://tutorialsearch.io/blog/ai-learning-decoded-courses-repos-resources-worth-your-time-2026",
+        "source": "Tutorial Search"
+      },
+      {
+        "title": "Context Engineering：從Demo到生產級AI代理的關鍵",
+        "url": "https://www.firecrawl.dev/blog/best-ai-resources",
+        "source": "Firecrawl"
+      },
+      {
+        "title": "2026年企業AI訓練市場：廠商中立指南",
+        "url": "https://dupple.com/blog/ai-training-for-employees",
+        "source": "Dupple"
+      },
+      {
+        "title": "你沒在用但應該用的AI工具：2026年資源整理",
+        "url": "https://tutorialsearch.io/blog/ai-tools-not-using-but-should-be-courses-tutorials-resources-2026",
+        "source": "Tutorial Search"
+      },
+      {
+        "title": "2026年AI入門路線圖：無需編碼2-4週上手",
+        "url": "https://aiweekly.co/learning-ai/artificial-intelligence/how-learn-ai-2026-complete-roadmap-beginners",
+        "source": "AI Weekly"
+      }
     ],
     "art": [
-      {"title": "AI影像創作2026完整學習路徑：六大核心技能", "url": "https://aivideobootcamp.com/blog/how-to-learn-ai-video-2026/", "source": "AI Video Bootcamp"},
-      {"title": "AI生成教學影片效率提升11倍", "url": "https://www.guidde.com/knowledge-hub/how-ai-generates-tutorial-videos-guide-2026", "source": "Guidde"}
+      {
+        "title": "AI影像創作2026完整學習路徑：六大核心技能",
+        "url": "https://aivideobootcamp.com/blog/how-to-learn-ai-video-2026/",
+        "source": "AI Video Bootcamp"
+      },
+      {
+        "title": "AI生成教學影片效率提升11倍",
+        "url": "https://www.guidde.com/knowledge-hub/how-ai-generates-tutorial-videos-guide-2026",
+        "source": "Guidde"
+      }
     ],
     "design": [
-      {"title": "AI工具將影片製作成本降低91%：2026年指南", "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026", "source": "Guidde"},
-      {"title": "2026年最佳AI YouTube頻道學習資源", "url": "https://tutorialsearch.io/blog/ai-tools-not-using-but-should-be-courses-tutorials-resources-2026", "source": "Tutorial Search"}
+      {
+        "title": "AI工具將影片製作成本降低91%：2026年指南",
+        "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026",
+        "source": "Guidde"
+      },
+      {
+        "title": "2026年最佳AI YouTube頻道學習資源",
+        "url": "https://tutorialsearch.io/blog/ai-tools-not-using-but-should-be-courses-tutorials-resources-2026",
+        "source": "Tutorial Search"
+      }
     ],
     "business": [
-      {"title": "字節跳動2026年AI支出提升至300億美元", "url": "https://the-decoder.com/artificial-intelligence-news/short-news/", "source": "The Decoder"},
-      {"title": "白領工作者轉行傳統行業：AI裁員潮影響", "url": "https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers", "source": "The Guardian"}
+      {
+        "title": "字節跳動2026年AI支出提升至300億美元",
+        "url": "https://the-decoder.com/artificial-intelligence-news/short-news/",
+        "source": "The Decoder"
+      },
+      {
+        "title": "白領工作者轉行傳統行業：AI裁員潮影響",
+        "url": "https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers",
+        "source": "The Guardian"
+      }
     ],
     "finance": [
-      {"title": "Bitcoin確認8萬美元支撐：技術分析看向85K", "url": "https://cryptodaily.co.uk/", "source": "Crypto Daily"},
-      {"title": "美國就業數據超預期：穩定市場和加密資產", "url": "https://www.binance.com/en/square/news/all", "source": "Binance"},
-      {"title": "Trump Media Q1虧損4.06億：加密和股票減值", "url": "https://crypto.news/trump-media-posts-406m-loss-after-bitcoin-cro-markdowns/", "source": "Crypto News"}
+      {
+        "title": "S&P 500、Nasdaq創歷史新高，AI與財報樂觀推動連續六週上漲",
+        "url": "https://www.reuters.com/business/us-stock-futures-rise-chips-rebound-ahead-jobs-data-2026-05-08/",
+        "source": "Reuters"
+      },
+      {
+        "title": "AMD財報引爆AI股漲勢，S&P 500收7,365點、Nasdaq 25,838點",
+        "url": "https://www.reuters.com/business/us-stock-index-futures-rise-middle-east-peace-hopes-ai-optimism-2026-05-06/",
+        "source": "Reuters"
+      },
+      {
+        "title": "本週關注：CPI、零售銷售、Fed官員談話，AI財報考驗創紀錄漲勢",
+        "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-cpi-retail-sales-fed-speakers-and-ai-earnings-test-record-stock-rally-1596894",
+        "source": "FX Empire"
+      },
+      {
+        "title": "三大市場趨勢將塑造2026下半年走勢",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-market-trends-could-shape-142000521.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "AI投資熱潮推升美股，強勁資本支出支撐科技股獲利",
+        "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/08/market-outlook-ai-spending-boom-powers-us-stocks-higher-again/",
+        "source": "BNN Bloomberg"
+      },
+      {
+        "title": "Fed維持利率3.5%-3.75%不變，市場預期降息延至2027年",
+        "url": "https://finance.yahoo.com/economy/policy/article/federal-reserve-holds-steady-as-divisions-emerge-over-interest-rate-stance-130000414.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Fed快速失去降息理由，就業市場穩定、通膨仍具黏性",
+        "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Morningstar：AI基礎建設漲勢能否持續？低估值高股息股精選",
+        "url": "https://www.morningstar.com/markets/smart-investor-undervalued-dividend-raisers-can-ai-infrastructure-rally-continue-us-market-outlook",
+        "source": "Morningstar"
+      },
+      {
+        "title": "台股突破40,000點創歷史新高，AI熱潮帶動單日暴漲1,778點",
+        "url": "https://www.taipeitimes.com/News/front/archives/2026/05/05/2003856767",
+        "source": "Taipei Times"
+      },
+      {
+        "title": "台灣市值突破4兆美元超越英國，台積電佔比逾40%",
+        "url": "https://www.moneycontrol.com/news/business/taiwan-market-cap-tops-4-trillion-on-ai-boom-overtaking-uk-13890802.html",
+        "source": "Moneycontrol"
+      },
+      {
+        "title": "台積電條款鬆綁：基金單一持股上限從10%提高至25%，估引入60億美元資金",
+        "url": "https://ca.finance.yahoo.com/news/tsmc-hits-record-rule-change-183128693.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "台灣金管會考慮放寬融資倍數限制，從4倍淨值提高至5-6倍",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/05/02/2003856599",
+        "source": "Taipei Times"
+      },
+      {
+        "title": "2026年4月市場回顧：美股AI驅動創新高，新興市場受惠半導體供應鏈",
+        "url": "https://backbayinsights.substack.com/p/april-2026-market-review",
+        "source": "Back Bay Insights"
+      },
+      {
+        "title": "Nvidia降溫、Microsoft下跌60%，但AI股仍值得買入的理由",
+        "url": "https://www.fool.com/investing/2026/04/22/nvidia-is-down-microsoft-is-stumbling-and-the-fed/",
+        "source": "Motley Fool"
+      },
+      {
+        "title": "美伊停火協議穩定油價，美股反彈道瓊收49,298點",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/05/stock-market-today-may-5-stocks-rebound-as-u-s-iran-truce-holds/",
+        "source": "Motley Fool"
+      }
     ]
   }
 }
