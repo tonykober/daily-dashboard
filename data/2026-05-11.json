@@ -203,77 +203,92 @@
       {
         "title": "S&P 500、Nasdaq創歷史新高，AI與財報樂觀推動連續六週上漲",
         "url": "https://www.reuters.com/business/us-stock-futures-rise-chips-rebound-ahead-jobs-data-2026-05-08/",
-        "source": "Reuters"
+        "source": "Reuters",
+        "desc": "S&P 500收7,398點，Nasdaq 26,247點，連續六週上漲創歷史紀錄。AI與財報樂觀情緒推動。"
       },
       {
         "title": "AMD財報引爆AI股漲勢，S&P 500收7,365點、Nasdaq 25,838點",
         "url": "https://www.reuters.com/business/us-stock-index-futures-rise-middle-east-peace-hopes-ai-optimism-2026-05-06/",
-        "source": "Reuters"
+        "source": "Reuters",
+        "desc": "AMD Q1財報超預期，帶動AI晶片股全面上漲。S&P 500單日漲1.46%。"
       },
       {
         "title": "本週關注：CPI、零售銷售、Fed官員談話，AI財報考驗創紀錄漲勢",
         "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-cpi-retail-sales-fed-speakers-and-ai-earnings-test-record-stock-rally-1596894",
-        "source": "FX Empire"
+        "source": "FX Empire",
+        "desc": "本週重要數據：CPI通膨數據、零售銷售、多位Fed官員公開談話，將考驗市場信心。"
       },
       {
         "title": "三大市場趨勢將塑造2026下半年走勢",
         "url": "https://finance.yahoo.com/markets/stocks/articles/3-market-trends-could-shape-142000521.html",
-        "source": "Yahoo Finance"
+        "source": "Yahoo Finance",
+        "desc": "伊朗衝突緩和、AI資本支出持續、Fed按兵不動，三大趨勢定義2026下半年。"
       },
       {
         "title": "AI投資熱潮推升美股，強勁資本支出支撐科技股獲利",
         "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/08/market-outlook-ai-spending-boom-powers-us-stocks-higher-again/",
-        "source": "BNN Bloomberg"
+        "source": "BNN Bloomberg",
+        "desc": "科技巨頭AI資本支出持續擴張，帶動相關供應鏈獲利成長，支撐股價創新高。"
       },
       {
         "title": "Fed維持利率3.5%-3.75%不變，市場預期降息延至2027年",
         "url": "https://finance.yahoo.com/economy/policy/article/federal-reserve-holds-steady-as-divisions-emerge-over-interest-rate-stance-130000414.html",
-        "source": "Yahoo Finance"
+        "source": "Yahoo Finance",
+        "desc": "FOMC以11:1投票維持利率不變，Powell暗示需更多數據才會行動。"
       },
       {
         "title": "Fed快速失去降息理由，就業市場穩定、通膨仍具黏性",
         "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
-        "source": "CNBC"
+        "source": "CNBC",
+        "desc": "就業市場穩定（4月非農+11.5萬）、通膨具黏性，Fed降息理由越來越少。"
       },
       {
         "title": "Morningstar：AI基礎建設漲勢能否持續？低估值高股息股精選",
         "url": "https://www.morningstar.com/markets/smart-investor-undervalued-dividend-raisers-can-ai-infrastructure-rally-continue-us-market-outlook",
-        "source": "Morningstar"
+        "source": "Morningstar",
+        "desc": "AI基礎建設股漲勢能否持續？Morningstar精選6檔低估值高股息標的。"
       },
       {
         "title": "台股突破40,000點創歷史新高，AI熱潮帶動單日暴漲1,778點",
         "url": "https://www.taipeitimes.com/News/front/archives/2026/05/05/2003856767",
-        "source": "Taipei Times"
+        "source": "Taipei Times",
+        "desc": "台股5/5單日暴漲1,778點，收40,705點，由台積電、聯發科等半導體股領漲。"
       },
       {
         "title": "台灣市值突破4兆美元超越英國，台積電佔比逾40%",
         "url": "https://www.moneycontrol.com/news/business/taiwan-market-cap-tops-4-trillion-on-ai-boom-overtaking-uk-13890802.html",
-        "source": "Moneycontrol"
+        "source": "Moneycontrol",
+        "desc": "台灣股市總市值突破4兆美元，超越英國成為全球第六大市場。台積電佔比逾40%。"
       },
       {
         "title": "台積電條款鬆綁：基金單一持股上限從10%提高至25%，估引入60億美元資金",
         "url": "https://ca.finance.yahoo.com/news/tsmc-hits-record-rule-change-183128693.html",
-        "source": "Yahoo Finance"
+        "source": "Yahoo Finance",
+        "desc": "金管會將基金單一持股上限從10%提高至25%，JPMorgan估計將引入超過60億美元資金流入台積電。"
       },
       {
         "title": "台灣金管會考慮放寬融資倍數限制，從4倍淨值提高至5-6倍",
         "url": "https://www.taipeitimes.com/News/biz/archives/2026/05/02/2003856599",
-        "source": "Taipei Times"
+        "source": "Taipei Times",
+        "desc": "金管會考慮將券商融資倍數從4倍淨值提高至5-6倍，進一步活絡市場交易。"
       },
       {
         "title": "2026年4月市場回顧：美股AI驅動創新高，新興市場受惠半導體供應鏈",
         "url": "https://backbayinsights.substack.com/p/april-2026-market-review",
-        "source": "Back Bay Insights"
+        "source": "Back Bay Insights",
+        "desc": "4月全球市場回顧：美股AI驅動創新高，新興市場受惠半導體供應鏈曝險。"
       },
       {
         "title": "Nvidia降溫、Microsoft下跌60%，但AI股仍值得買入的理由",
         "url": "https://www.fool.com/investing/2026/04/22/nvidia-is-down-microsoft-is-stumbling-and-the-fed/",
-        "source": "Motley Fool"
+        "source": "Motley Fool",
+        "desc": "Nvidia今年僅漲8%、Microsoft跌近60%，但AI長期趨勢不變，分析師仍看好。"
       },
       {
         "title": "美伊停火協議穩定油價，美股反彈道瓊收49,298點",
         "url": "https://www.fool.com/coverage/stock-market-today/2026/05/05/stock-market-today-may-5-stocks-rebound-as-u-s-iran-truce-holds/",
-        "source": "Motley Fool"
+        "source": "Motley Fool",
+        "desc": "美伊停火協議穩定油價，消除地緣政治不確定性，美股全面反彈。"
       }
     ],
     "stock_briefing": {
@@ -350,6 +365,17 @@
         41200,
         41500
       ]
+    },
+    "summaries": {
+      "ai": "本週AI焦點：OpenAI計畫推出AI手機挑戰Apple、AI裁員潮持續擴大（4月+64%）、各國加速AI監管立法。Anthropic發布新安全框架。",
+      "gaming": "遊戲圈本週重點：Star Fox確認6/25登陸Switch 2、Xbox Game Pass新增Forza Horizon 6與Subnautica 2、Summer Game Fest倒數一個月。",
+      "tech": "Genesis AI機器人亮相、Instagram取消追蹤者計數、Nvidia CEO看好AI晶片需求持續超越供給、Google承認AI搜尋摘要有誤。",
+      "crypto": "Bitcoin突破85K、Trump Media加密投資虧損4.06億、Coinbase Q1營收近10億、全球監管趨嚴。",
+      "dev": "開發者本週關注：Context Engineering成為AI應用關鍵、2026年AI開發學習資源精選、企業AI培訓需求爆發。",
+      "finance": "美股S&P 500/Nasdaq連六週創新高、台股突破40,000點歷史新高、Fed維持利率不變預期降息延至2027、台積電條款鬆綁引入60億美元資金。",
+      "art": "AI影片創作工具持續進化，2026年入門門檻大幅降低，自動生成教學影片成為新趨勢。",
+      "design": "AI設計工具使用率突破91%，成為設計師標配。YouTube影片製作流程大幅AI化。",
+      "business": "AI取代超過100萬工作崗位，白領轉職潮加速。企業需重新思考人才策略。"
     }
   }
 }
