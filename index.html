@@ -125,8 +125,8 @@ function renderStockBriefing(cats){
   let h='<div class="stock-briefing"><h2>📊 台股操盤 — '+sb.date+'</h2>';
   if(sb.stocks&&sb.stocks.length){h+='<div class="sb-section"><div class="sb-label">個股動向</div>';sb.stocks.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
   if(sb.etf&&sb.etf.length){h+='<div class="sb-section"><div class="sb-label">ETF趨勢</div>';sb.etf.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
-  if(sb.events&&sb.events.length){h+='<div class="sb-section"><div class="sb-label">⚡ 突發事件</div>';sb.events.forEach(e=>{h+='<div class="sb-event">• '+e+'</div>'});h+='</div>'}
-  if(sb.summary){h+='<div class="sb-summary">💡 '+sb.summary+'</div>'}
+  if(sb.events&&sb.events.length){h+='<div class="sb-section"><div class="sb-label">焦點訊息</div>';sb.events.forEach(e=>{h+='<div class="sb-event">• '+e+'</div>'});h+='</div>'}
+  if(sb.summary){h+='<div class="sb-section"><div class="sb-label">整體評估</div><div class="sb-summary">'+sb.summary+'</div></div>'}
   h+='</div>';el.innerHTML=h;
 }
 function renderStats(cats){
