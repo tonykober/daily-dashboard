@@ -129,7 +129,7 @@ h1{font-size:28px}
 <script>
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='',watchlist=JSON.parse(localStorage.getItem('watchlist')||'[]');
 const SHEET_ID='11cuSAO3MZfUmau1pd603685i18d0SlQKN-h--jUrp2s';
-const APPS_SCRIPT_URL='https://script.google.com/macros/s/DEPLOY_ID/exec';
+const APPS_SCRIPT_URL='https://script.google.com/macros/s/AKfycbw3z41uOGWQOU_uLtaFUSAld73oUb7cbQyaYTlgDpgwkBGSbXrrqDYEoKpRw-9qZv40/exec';
 async function loadWatchlistFromSheet(){try{const res=await fetch(APPS_SCRIPT_URL+'?action=loadWatchlist');if(res.ok){const data=await res.json();if(data.watchlist&&Array.isArray(data.watchlist)){watchlist=data.watchlist;localStorage.setItem('watchlist',JSON.stringify(watchlist))}}}catch(e){console.log('Sheet sync unavailable, using localStorage')}}
 async function saveWatchlistToSheet(){try{await fetch(APPS_SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain'},body:JSON.stringify({action:'saveWatchlist',watchlist})})}catch(e){console.log('Sheet save failed')}}
 function addToWatchlist(){const name=prompt('輸入股票名稱（如：台積電）');if(name&&!watchlist.includes(name)){watchlist.push(name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}}
