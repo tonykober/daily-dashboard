@@ -44,6 +44,16 @@ h1{font-size:36px;color:var(--accent)}
 .bookmark-btn.saved{background:var(--accent)}
 .empty{text-align:center;color:var(--muted);padding:40px;font-size:1em;grid-column:1/-1}
 .heat{display:inline-block;font-size:12px;margin-left:4px;color:#f0883e}
+.stock-briefing{max-width:1200px;margin:0 auto 16px;background:var(--surface);border:2px solid var(--accent);border-radius:10px;padding:16px 20px}
+.stock-briefing h2{font-size:18px;color:var(--accent);margin-bottom:12px}
+.stock-briefing .sb-section{margin-bottom:10px}
+.stock-briefing .sb-label{font-size:14px;font-weight:600;color:var(--text);margin-bottom:4px}
+.stock-briefing .sb-item{font-size:14px;color:var(--text);padding:3px 0;border-bottom:1px solid var(--border)}
+.stock-briefing .sb-item .trend-up{color:#3fb950}
+.stock-briefing .sb-item .trend-down{color:#f85149}
+.stock-briefing .sb-item .trend-flat{color:var(--muted)}
+.stock-briefing .sb-summary{font-size:14px;color:var(--muted);margin-top:8px;padding:8px;background:var(--bg);border-radius:6px}
+.stock-briefing .sb-event{font-size:13px;color:#d29922;padding:2px 0}
 </style>
 </head>
 <body>
@@ -74,6 +84,7 @@ h1{font-size:36px;color:var(--accent)}
   </div>
 </div>
 <div class="stats" id="stats"></div>
+<div id="stockBriefing"></div>
 <div class="grid" id="content"></div>
 <script>
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='';
@@ -107,6 +118,17 @@ async function loadDate(d){
   if(!cache[d])cache[d]=await(await fetch('data/'+d+'.json')).json();
   return cache[d];
 }
+function renderStockBriefing(cats){
+  const el=document.getElementById('stockBriefing');
+  if(currentTab!=='finance'||!cats||!cats.stock_briefing){el.innerHTML='';return}
+  const sb=cats.stock_briefing;
+  let h='<div class="stock-briefing"><h2>📊 台股操盤 — '+sb.date+'</h2>';
+  if(sb.stocks&&sb.stocks.length){h+='<div class="sb-section"><div class="sb-label">個股動向</div>';sb.stocks.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
+  if(sb.etf&&sb.etf.length){h+='<div class="sb-section"><div class="sb-label">ETF趨勢</div>';sb.etf.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
+  if(sb.events&&sb.events.length){h+='<div class="sb-section"><div class="sb-label">⚡ 突發事件</div>';sb.events.forEach(e=>{h+='<div class="sb-event">• '+e+'</div>'});h+='</div>'}
+  if(sb.summary){h+='<div class="sb-summary">💡 '+sb.summary+'</div>'}
+  h+='</div>';el.innerHTML=h;
+}
 function renderStats(cats){
   let news=0,videos=0;
   Object.keys(cats).forEach(k=>{if(Array.isArray(cats[k]))cats[k].forEach(i=>{if(i.type==='video')videos++;else news++})});
@@ -119,7 +141,7 @@ async function render(){
   document.getElementById('next').disabled=dateIdx<=0;
   let items;
   if(currentTab==='bookmarks'){items=bookmarks}
-  else{const data=await loadDate(d);const cats=data.categories||data;items=cats[currentTab]||[];if(currentTab==='ai'&&cats.ai_videos)items=items.concat(cats.ai_videos);renderStats(cats)}
+  else{const data=await loadDate(d);const cats=data.categories||data;items=cats[currentTab]||[];if(currentTab==='ai'&&cats.ai_videos)items=items.concat(cats.ai_videos);renderStats(cats);renderStockBriefing(cats)}
   if(searchQuery){const q=searchQuery.toLowerCase();items=items.filter(i=>(i.title+' '+(i.desc||'')).toLowerCase().includes(q))}
   if(!items.length){document.getElementById('content').innerHTML='<div class="empty">'+(currentTab==='bookmarks'?'尚無收藏':'該分類尚無資料')+'</div>';return}
   let html='';
