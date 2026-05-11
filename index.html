@@ -62,7 +62,6 @@ h1{font-size:1.5em;color:var(--accent)}
   </div>
   <div class="tabs" id="tabsContainer">
     <button class="tab active" data-tab="ai">🤖 AI</button>
-    <button class="tab" data-tab="ai_videos">📹 AI影片</button>
     <button class="tab" data-tab="gaming">🎮 遊戲</button>
     <button class="tab" data-tab="art">🎨 美術</button>
     <button class="tab" data-tab="tech">💻 科技</button>
@@ -120,7 +119,7 @@ async function render(){
   document.getElementById('next').disabled=dateIdx<=0;
   let items;
   if(currentTab==='bookmarks'){items=bookmarks}
-  else{const data=await loadDate(d);const cats=data.categories||data;items=cats[currentTab]||[];renderStats(cats)}
+  else{const data=await loadDate(d);const cats=data.categories||data;items=cats[currentTab]||[];if(currentTab==='ai'&&cats.ai_videos)items=items.concat(cats.ai_videos);renderStats(cats)}
   if(searchQuery){const q=searchQuery.toLowerCase();items=items.filter(i=>(i.title+' '+(i.desc||'')).toLowerCase().includes(q))}
   if(!items.length){document.getElementById('content').innerHTML='<div class="empty">'+(currentTab==='bookmarks'?'尚無收藏':'該分類尚無資料')+'</div>';return}
   let html='';
