@@ -19,8 +19,8 @@ h1{font-size:36px;color:var(--accent)}
 .date-nav button{background:var(--surface);border:1px solid var(--border);color:var(--text);padding:6px 12px;border-radius:6px;cursor:pointer}
 .date-nav button:hover{border-color:var(--accent)}
 .date-nav span{font-size:16px;min-width:110px;text-align:center}
-#datePicker{font-size:16px;min-width:110px;text-align:center;background:transparent;border:none;color:var(--text);cursor:pointer;font-family:inherit}
-#datePicker::-webkit-calendar-picker-indicator{opacity:0;position:absolute;width:100%;height:100%;cursor:pointer}
+#datePicker{font-size:16px;min-width:110px;text-align:center;background:transparent;border:none;color:var(--text);cursor:pointer;font-family:inherit;position:relative}
+#datePicker::-webkit-calendar-picker-indicator{opacity:0;position:absolute;left:0;top:0;width:100%;height:100%;cursor:pointer}
 .tabs{display:flex;gap:3px;background:var(--surface);border-radius:8px;padding:3px;border:1px solid var(--border);flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}
 .tab{padding:6px 14px;border-radius:6px;cursor:pointer;font-size:14px;border:none;color:var(--muted);background:transparent;white-space:nowrap}
 .tab.active{background:var(--accent);color:#fff}
@@ -185,8 +185,8 @@ async function render(){
   });
   document.getElementById('content').innerHTML=html;
 }
-document.getElementById('prev').onclick=()=>{if(dateIdx<dates.length-1){dateIdx++;render()}};
-document.getElementById('next').onclick=()=>{if(dateIdx>0){dateIdx--;render()}};
+document.getElementById('prev').onclick=e=>{e.stopPropagation();if(dateIdx<dates.length-1){dateIdx++;render()}};
+document.getElementById('next').onclick=e=>{e.stopPropagation();if(dateIdx>0){dateIdx--;render()}};
 document.getElementById('datePicker').onchange=e=>{const idx=dates.indexOf(e.target.value);if(idx>=0){dateIdx=idx;render()}};
 window.onscroll=()=>{document.getElementById('backTop').classList.toggle('show',window.scrollY>300)};
 document.getElementById('tabsContainer').onclick=e=>{
