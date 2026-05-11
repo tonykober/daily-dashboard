@@ -62,6 +62,7 @@ h1{font-size:1.5em;color:var(--accent)}
   </div>
   <div class="tabs" id="tabsContainer">
     <button class="tab active" data-tab="ai">🤖 AI</button>
+    <button class="tab" data-tab="ai_videos">📹 AI影片</button>
     <button class="tab" data-tab="gaming">🎮 遊戲</button>
     <button class="tab" data-tab="art">🎨 美術</button>
     <button class="tab" data-tab="tech">💻 科技</button>
@@ -107,10 +108,9 @@ async function loadDate(d){
   if(!cache[d])cache[d]=await(await fetch('data/'+d+'.json')).json();
   return cache[d];
 }
-function renderStats(data){
-  const allItems=Object.values(data).flat().filter(Array.isArray);
+function renderStats(cats){
   let news=0,videos=0;
-  Object.keys(data).forEach(k=>{if(k!=='date'&&Array.isArray(data[k]))data[k].forEach(i=>{if(i.type==='news')news++;else videos++})});
+  Object.keys(cats).forEach(k=>{if(Array.isArray(cats[k]))cats[k].forEach(i=>{if(i.type==='video')videos++;else news++})});
   document.getElementById('stats').innerHTML=`<div class="stat-card">📰 新聞 <strong>${news}</strong></div><div class="stat-card">🎬 影片 <strong>${videos}</strong></div><div class="stat-card">⭐ 收藏 <strong>${bookmarks.length}</strong></div>`;
 }
 async function render(){
@@ -120,7 +120,7 @@ async function render(){
   document.getElementById('next').disabled=dateIdx<=0;
   let items;
   if(currentTab==='bookmarks'){items=bookmarks}
-  else{const data=await loadDate(d);items=data[currentTab]||[];renderStats(data)}
+  else{const data=await loadDate(d);const cats=data.categories||data;items=cats[currentTab]||[];renderStats(cats)}
   if(searchQuery){const q=searchQuery.toLowerCase();items=items.filter(i=>(i.title+' '+(i.desc||'')).toLowerCase().includes(q))}
   if(!items.length){document.getElementById('content').innerHTML='<div class="empty">'+(currentTab==='bookmarks'?'尚無收藏':'該分類尚無資料')+'</div>';return}
   let html='';
