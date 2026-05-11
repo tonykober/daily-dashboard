@@ -128,8 +128,12 @@ h1{font-size:28px}
 <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">▲</button>
 <script>
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='',watchlist=JSON.parse(localStorage.getItem('watchlist')||'[]');
-function addToWatchlist(){const name=prompt('輸入股票名稱（如：台積電）');if(name&&!watchlist.includes(name)){watchlist.push(name);localStorage.setItem('watchlist',JSON.stringify(watchlist));render()}}
-function removeFromWatchlist(name){watchlist=watchlist.filter(w=>w!==name);localStorage.setItem('watchlist',JSON.stringify(watchlist));render()}
+const SHEET_ID='11cuSAO3MZfUmau1pd603685i18d0SlQKN-h--jUrp2s';
+const APPS_SCRIPT_URL='https://script.google.com/macros/s/DEPLOY_ID/exec';
+async function loadWatchlistFromSheet(){try{const res=await fetch(APPS_SCRIPT_URL+'?action=loadWatchlist');if(res.ok){const data=await res.json();if(data.watchlist&&Array.isArray(data.watchlist)){watchlist=data.watchlist;localStorage.setItem('watchlist',JSON.stringify(watchlist))}}}catch(e){console.log('Sheet sync unavailable, using localStorage')}}
+async function saveWatchlistToSheet(){try{await fetch(APPS_SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain'},body:JSON.stringify({action:'saveWatchlist',watchlist})})}catch(e){console.log('Sheet save failed')}}
+function addToWatchlist(){const name=prompt('輸入股票名稱（如：台積電）');if(name&&!watchlist.includes(name)){watchlist.push(name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}}
+function removeFromWatchlist(name){watchlist=watchlist.filter(w=>w!==name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}
 function getHeat(title){let h=0;for(let i=0;i<title.length;i++)h=((h<<5)-h)+title.charCodeAt(i);return Math.abs(h%5)+1}
 function toggleBookmark(item,e){
   e.preventDefault();e.stopPropagation();
@@ -148,6 +152,7 @@ async function init(){
     const today=new Date().toISOString().split('T')[0];
     const todayIdx=dates.indexOf(today);
     dateIdx=todayIdx>=0?todayIdx:0;
+    await loadWatchlistFromSheet();
     render();
   }catch(e){document.getElementById('content').innerHTML='<div class="empty">載入失敗：'+e.message+'<br><button onclick="init()" style="margin-top:8px;padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--text);cursor:pointer">重試</button></div>'}
 }
