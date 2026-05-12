@@ -132,7 +132,7 @@ h1{font-size:28px}
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='',watchlist=JSON.parse(localStorage.getItem('watchlist')||'[]');
 const SHEET_ID='11cuSAO3MZfUmau1pd603685i18d0SlQKN-h--jUrp2s';
 const APPS_SCRIPT_URL='https://script.google.com/macros/s/AKfycbw3z41uOGWQOU_uLtaFUSAld73oUb7cbQyaYTlgDpgwkBGSbXrrqDYEoKpRw-9qZv40/exec';
-async function loadWatchlistFromSheet(){try{const res=await fetch(APPS_SCRIPT_URL+'?action=loadWatchlist');if(res.ok){const data=await res.json();if(data.watchlist&&Array.isArray(data.watchlist)){watchlist=data.watchlist;localStorage.setItem('watchlist',JSON.stringify(watchlist))}}}catch(e){console.log('Sheet sync unavailable, using localStorage')}}
+async function loadWatchlistFromSheet(){try{const ctrl=new AbortController();setTimeout(()=>ctrl.abort(),3000);const res=await fetch(APPS_SCRIPT_URL+'?action=loadWatchlist',{signal:ctrl.signal});if(res.ok){const data=await res.json();if(data.watchlist&&Array.isArray(data.watchlist)){watchlist=data.watchlist;localStorage.setItem('watchlist',JSON.stringify(watchlist))}}}catch(e){console.log('Sheet sync unavailable, using localStorage')}}
 async function saveWatchlistToSheet(){try{await fetch(APPS_SCRIPT_URL,{method:'POST',headers:{'Content-Type':'text/plain'},body:JSON.stringify({action:'saveWatchlist',watchlist})})}catch(e){console.log('Sheet save failed')}}
 function addToWatchlist(){const name=prompt('輸入股票名稱（如：台積電）');if(name&&!watchlist.includes(name)){watchlist.push(name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}}
 function removeFromWatchlist(name){watchlist=watchlist.filter(w=>w!==name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}
@@ -186,13 +186,14 @@ function renderStats(cats){
 }
 async function render(){
   document.getElementById('content').innerHTML='<div class="loading"><div class="spinner"></div></div>';
+  try{
   const d=dates[dateIdx];
   document.getElementById('datePicker').value=d;
   document.getElementById('prev').disabled=dateIdx>=dates.length-1;
   document.getElementById('next').disabled=dateIdx<=0;
   let items;
   if(currentTab==='bookmarks'){items=bookmarks}
-  else{const data=await loadDate(d);const cats=data.categories||data;items=cats[currentTab]||[];if(currentTab==='ai'&&cats.ai_videos)items=items.concat(cats.ai_videos);renderStats(cats);renderStockBriefing(cats);const sumEl=document.getElementById('catSummary');const catData=cats[currentTab];if(cats.summaries&&cats.summaries[currentTab]){sumEl.innerHTML='<div class="cat-summary">💡 '+cats.summaries[currentTab]+'</div>'}else{sumEl.innerHTML=''}}
+  else{const data=await loadDate(d);const cats=data.categories||data;items=cats[currentTab]||[];if(currentTab==='ai'&&cats.ai_videos)items=items.concat(cats.ai_videos);renderStats(cats);try{renderStockBriefing(cats)}catch(e){console.log('stock briefing error:',e)};const sumEl=document.getElementById('catSummary');if(cats.summaries&&cats.summaries[currentTab]){sumEl.innerHTML='<div class="cat-summary">💡 '+cats.summaries[currentTab]+'</div>'}else{sumEl.innerHTML=''}}
   if(searchQuery){const q=searchQuery.toLowerCase();items=items.filter(i=>(i.title+' '+(i.desc||'')).toLowerCase().includes(q))}
   if(!items.length){document.getElementById('content').innerHTML='<div class="empty">'+(currentTab==='bookmarks'?'尚無收藏':'該分類尚無資料')+'</div>';return}
   let html='';
@@ -204,6 +205,7 @@ async function render(){
     html+=`<a class="card" href="${item.url}" target="_blank"><button class="bookmark-btn ${bm}" onclick="toggleBookmark(${JSON.stringify(item).replace(/"/g,'&quot;')},event)">⭐</button><div class="card-body">${tag}<span class="heat">${heat}</span><div class="title">${item.title}</div><div class="desc">${item.desc||''}</div>${src}</div></a>`;
   });
   document.getElementById('content').innerHTML=html;
+  }catch(err){document.getElementById('content').innerHTML='<div class="empty">渲染錯誤：'+err.message+'</div>';console.error(err)}
 }
 document.getElementById('prev').onclick=e=>{e.stopPropagation();if(dateIdx<dates.length-1){dateIdx++;render()}};
 document.getElementById('next').onclick=e=>{e.stopPropagation();if(dateIdx>0){dateIdx--;render()}};
