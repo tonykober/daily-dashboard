@@ -56,6 +56,21 @@ h1{font-size:36px;color:var(--accent)}
 .stock-briefing .sb-event{font-size:16px;color:#d29922;padding:2px 0}
 .stock-briefing .sparkline{margin:8px 0;padding:8px;background:var(--bg);border-radius:6px}
 .stock-briefing .sparkline svg{width:100%;height:40px}
+.sb-dashboard{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-top:12px}
+.sb-panel{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px}
+.sb-panel-title{font-size:14px;font-weight:600;color:var(--accent);margin-bottom:8px;border-bottom:1px solid var(--border);padding-bottom:6px}
+.sb-panel-row{display:flex;justify-content:space-between;font-size:13px;padding:3px 0;border-bottom:1px solid rgba(48,54,61,0.3)}
+.sb-panel-row .name{color:var(--text)}
+.sb-panel-row .val-up{color:#f85149}
+.sb-panel-row .val-down{color:#3fb950}
+.sb-panel-row .val-flat{color:var(--muted)}
+.sb-market-header{display:flex;align-items:baseline;gap:12px;margin-bottom:8px}
+.sb-market-header .idx{font-size:24px;font-weight:700;color:var(--text)}
+.sb-market-header .chg-up{font-size:16px;color:#f85149}
+.sb-market-header .chg-down{font-size:16px;color:#3fb950}
+.sb-sentiment{text-align:center;padding:8px}
+.sb-sentiment .score{font-size:28px;font-weight:700}
+.sb-sentiment .label{font-size:12px;color:var(--muted)}
 .loading{text-align:center;padding:40px;grid-column:1/-1}
 .loading .spinner{display:inline-block;width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -173,9 +188,25 @@ async function renderStockBriefing(cats){
   let h='<div class="stock-briefing"><h2>📊 台股操盤 — '+sb.date+'<button class="sb-toggle" onclick="var c=document.getElementById(\'sbContent\');c.classList.toggle(\'collapsed\');this.textContent=c.classList.contains(\'collapsed\')?\'▶\':\'▼\'">▼</button></h2><div id="sbContent" class="sb-content">';
   if(watchlist.length){try{h+='<div class="watchlist"><div class="watchlist-header"><span>⭐ 追蹤清單</span><span><button class="watchlist-add" onclick="loadWatchlistFromSheet().then(render)" title="重新載入">🔄</button><button class="watchlist-add" onclick="addToWatchlist()">+ 新增</button></span></div>';const allStocks=(sb.stocks||[]).concat(sb.etf||[]);for(const w of watchlist){const wStr=String(w).trim();const del='<span class="remove" onclick="event.stopPropagation();removeFromWatchlist(\''+wStr.replace(/'/g,"\\'")+'\')">✕</span>';const matchFn=s=>s.name.includes(wStr)||wStr.includes(s.name.split('(')[0].split(' ')[0]);const found=allStocks.find(matchFn);if(found){const cls=found.trend.includes('漲')||found.trend.includes('多')?'trend-up':found.trend.includes('跌')||found.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+found.name+' '+found.trend+'</span> — '+found.note+' <span style="font-size:12px;color:var(--muted)">(今日)</span> '+del+'</div>'}else{let hist=null,histDate='';for(let i=1;i<dates.length&&i<7;i++){try{const pd=await loadDate(dates[dateIdx+i]);const pc=(pd.categories||pd);const psb=pc.stock_briefing;if(psb){const ps=(psb.stocks||[]).concat(psb.etf||[]);const pf=ps.find(matchFn);if(pf){hist=pf;histDate=dates[dateIdx+i];break}}}catch(e){}}if(hist){const cls=hist.trend.includes('漲')||hist.trend.includes('多')?'trend-up':hist.trend.includes('跌')||hist.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+hist.name+' '+hist.trend+'</span> — '+hist.note+' <span style="font-size:12px;color:var(--muted)">(更新：'+histDate+')</span> '+del+'</div>'}else{h+='<div class="sb-item">'+wStr+' — <span style="color:var(--muted)">暫無資訊，將在下次更新時補充</span> '+del+'</div>'}}};h+='</div>'}catch(we){console.error('watchlist error:',we);h+='<div class="watchlist"><div style="font-size:13px;color:#f85149">追蹤清單載入失敗</div><button class="watchlist-add" onclick="loadWatchlistFromSheet().then(render)">🔄 重新載入</button></div>'}}else{h+='<div class="watchlist"><div class="watchlist-header"><span>⭐ 追蹤清單</span><span><button class="watchlist-add" onclick="loadWatchlistFromSheet().then(render)" title="重新載入">🔄</button><button class="watchlist-add" onclick="addToWatchlist()">+ 新增</button></span></div><div style="font-size:13px;color:var(--muted)">尚未設定追蹤標的</div></div>'}
   if(sb.sparkline&&sb.sparkline.length>1){const pts=sb.sparkline,min=Math.min(...pts),max=Math.max(...pts),range=max-min||1,w=300,ht=40;let path='M0,'+(ht-(pts[0]-min)/range*ht);pts.forEach((p,i)=>{if(i>0)path+=' L'+(i/(pts.length-1)*w)+','+(ht-(p-min)/range*ht)});h+='<div class="sparkline"><svg viewBox="0 0 '+w+' '+ht+'" preserveAspectRatio="none"><path d="'+path+'" fill="none" stroke="var(--accent)" stroke-width="2"/></svg><div style="font-size:12px;color:var(--muted)">近期走勢：'+pts[0]+' → '+pts[pts.length-1]+'</div></div>'}
-  if(sb.stocks&&sb.stocks.length){h+='<div class="sb-section"><div class="sb-label">個股動向</div>';sb.stocks.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
-  if(sb.etf&&sb.etf.length){h+='<div class="sb-section"><div class="sb-label">ETF趨勢</div>';sb.etf.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'trend-up':s.trend.includes('跌')||s.trend.includes('空')?'trend-down':'trend-flat';h+='<div class="sb-item"><span class="'+cls+'">'+s.name+' '+s.trend+'</span> — '+s.note+'</div>'});h+='</div>'}
-  if(sb.events&&sb.events.length){h+='<div class="sb-section"><div class="sb-label">焦點訊息</div>';sb.events.forEach(e=>{h+='<div class="sb-event">• '+e+'</div>'});h+='</div>'}
+  h+='<div class="sb-dashboard">';
+  // Panel 1: Market Overview
+  if(sb.market){const m=sb.market;const chgCls=m.change>=0?'chg-up':'chg-down';h+='<div class="sb-panel"><div class="sb-panel-title">📈 市場總覽</div><div class="sb-market-header"><span class="idx">'+m.index+'</span><span class="'+chgCls+'">'+(m.change>=0?'+':'')+m.change+' ('+m.changePercent+')</span></div><div class="sb-panel-row"><span class="name">成交量</span><span>'+m.volume+'</span></div></div>'}
+  // Panel 2: Sector Top
+  if(sb.sectors&&sb.sectors.length){h+='<div class="sb-panel"><div class="sb-panel-title">🏭 類股漲跌</div>';sb.sectors.forEach(s=>{const cls=s.change>=0?'val-up':'val-down';h+='<div class="sb-panel-row"><span class="name">'+s.name+'</span><span class="'+cls+'">'+(s.change>=0?'+':'')+s.change+'%</span></div>'});h+='</div>'}
+  // Panel 3: Stock Top
+  if(sb.stocks&&sb.stocks.length){h+='<div class="sb-panel"><div class="sb-panel-title">💪 個股強弱</div>';sb.stocks.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'val-up':s.trend.includes('跌')||s.trend.includes('空')?'val-down':'val-flat';h+='<div class="sb-panel-row"><span class="name">'+s.name+'</span><span class="'+cls+'">'+s.trend+'</span></div>'});h+='</div>'}
+  // Panel 4: ETF
+  if(sb.etf&&sb.etf.length){h+='<div class="sb-panel"><div class="sb-panel-title">📊 ETF 趨勢</div>';sb.etf.forEach(s=>{const cls=s.trend.includes('漲')||s.trend.includes('多')?'val-up':s.trend.includes('跌')||s.trend.includes('空')?'val-down':'val-flat';h+='<div class="sb-panel-row"><span class="name">'+s.name+'</span><span class="'+cls+'">'+s.trend+'</span></div>'});h+='</div>'}
+  // Panel 5: Institutional
+  if(sb.institutional){const inst=sb.institutional;h+='<div class="sb-panel"><div class="sb-panel-title">🏦 法人籌碼</div>';Object.keys(inst).forEach(k=>{const v=inst[k];const cls=v>=0?'val-up':'val-down';h+='<div class="sb-panel-row"><span class="name">'+k+'</span><span class="'+cls+'">'+(v>=0?'+':'')+v+'億</span></div>'});h+='</div>'}
+  // Panel 6: Sentiment
+  if(sb.sentiment){const s=sb.sentiment;const color=s.score>=70?'#f85149':s.score>=40?'#d29922':'#3fb950';h+='<div class="sb-panel"><div class="sb-panel-title">🎯 市場情緒</div><div class="sb-sentiment"><div class="score" style="color:'+color+'">'+s.score+'</div><div class="label">'+s.label+'</div></div></div>'}
+  // Panel 7: International
+  if(sb.international&&sb.international.length){h+='<div class="sb-panel"><div class="sb-panel-title">🌍 國際市場</div>';sb.international.forEach(m=>{const cls=m.change>=0?'val-up':'val-down';h+='<div class="sb-panel-row"><span class="name">'+m.name+'</span><span class="'+cls+'">'+(m.change>=0?'+':'')+m.change+'%</span></div>'});h+='</div>'}
+  // Panel 8: Events
+  if(sb.events&&sb.events.length){h+='<div class="sb-panel" style="grid-column:1/-1"><div class="sb-panel-title">⚡ 焦點訊息</div>';sb.events.forEach(e=>{h+='<div class="sb-event">• '+e+'</div>'});h+='</div>'}
+  h+='</div>';
+  // Summary
   if(sb.summary){h+='<div class="sb-section"><div class="sb-label">整體評估</div><div class="sb-summary">'+sb.summary+'</div></div>'}
   h+='</div></div>';el.innerHTML=h;
 }
