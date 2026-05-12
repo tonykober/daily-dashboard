@@ -130,10 +130,10 @@ h1{font-size:28px}
 <button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">▲</button>
 <script>
 let dates=[],dateIdx=0,currentTab='ai',cache={},bookmarks=JSON.parse(localStorage.getItem('bookmarks')||'[]'),searchQuery='',watchlist=JSON.parse(localStorage.getItem('watchlist')||'[]').filter(w=>typeof w==='string'&&w);
-const SHEET_ID='11cuSAO3MZfUmau1pd603685i18d0SlQKN-h--jUrp2s';
+const SHEET_ID='1ySPqQQLJRYIPVhuugm30mHF-GCNk-DXVKWvUirjoJqg';
 const APPS_SCRIPT_URL='https://script.google.com/macros/s/AKfycbw3z41uOGWQOU_uLtaFUSAld73oUb7cbQyaYTlgDpgwkBGSbXrrqDYEoKpRw-9qZv40/exec';
-async function loadWatchlistFromSheet(){}
-async function saveWatchlistToSheet(){}
+async function loadWatchlistFromSheet(){try{const ctrl=new AbortController();setTimeout(()=>ctrl.abort(),5000);const res=await fetch('https://docs.google.com/spreadsheets/d/'+SHEET_ID+'/gviz/tq?tqx=out:csv&sheet=Watchlist',{signal:ctrl.signal});if(res.ok){const csv=await res.text();const items=csv.split('\n').map(r=>r.replace(/^"|"$/g,'').trim()).filter(r=>r&&r!=='name');if(items.length){watchlist=items;localStorage.setItem('watchlist',JSON.stringify(watchlist))}}}catch(e){console.log('Sheet read failed, using localStorage')}}
+async function saveWatchlistToSheet(){try{fetch(APPS_SCRIPT_URL,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain'},body:JSON.stringify({action:'saveWatchlist',watchlist})})}catch(e){}}
 function addToWatchlist(){const name=prompt('輸入股票名稱（如：台積電）');if(name&&!watchlist.includes(name)){watchlist.push(name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}}
 function removeFromWatchlist(name){watchlist=watchlist.filter(w=>w!==name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}
 function getHeat(title){let h=0;for(let i=0;i<title.length;i++)h=((h<<5)-h)+title.charCodeAt(i);return Math.abs(h%5)+1}
