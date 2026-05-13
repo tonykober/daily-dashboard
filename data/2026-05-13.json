@@ -1,0 +1,497 @@
+{
+  "date": "2026-05-13",
+  "categories": {
+    "ai": [
+      {
+        "title": "美國情報機構爭奪AI監管主導權，Commerce vs 國安系統角力",
+        "url": "https://www.washingtonpost.com/politics/2026/05/11/trump-ai-regulation-commerce-intelligence/",
+        "source": "Washington Post",
+        "desc": "Trump出訪中國前夕，政府內部對AI模型評估權責激烈爭論。"
+      },
+      {
+        "title": "AI週末大事：白宮逆轉AI去監管政策、醫療AI兩大突破、Cloudflare裁1,100人",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-weekend-digest-everything-that-happened-in-ai-this-weekend-saturday-sunday-may-9-10-2026/",
+        "source": "The Neuron",
+        "desc": "白宮悄悄逆轉AI去監管方向，醫療AI在48小時內通過兩項重大驗證。"
+      },
+      {
+        "title": "OpenAI發布GPT-5.5：程式碼能力大幅提升，可自主操作電腦",
+        "url": "https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html",
+        "source": "CNBC",
+        "desc": "繼Anthropic推出Mythos後，OpenAI以GPT-5.5回應，強化coding與深度研究能力。"
+      },
+      {
+        "title": "Anthropic Mythos引發AI安全恐慌，Trump政府被迫出手監管",
+        "url": "https://www.axios.com/2026/05/05/trump-anthropic-ai-regulation-mythos-cyber",
+        "source": "Axios",
+        "desc": "首個因安全顧慮拒絕公開發布的AI模型，能以驚人速度發現網路安全漏洞。"
+      },
+      {
+        "title": "OpenAI將向歐盟提供新網路安全模型，但Anthropic仍拒絕開放Mythos",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "AI安全模型的地緣政治角力：美歐合作vs模型管控。"
+      },
+      {
+        "title": "Cerebras提高IPO價格區間，擬募資48億美元",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "AI晶片新創Cerebras上市在即，估值持續攀升反映市場對AI算力需求。"
+      },
+      {
+        "title": "BC省宣布重大AI投資，將帶來大量就業與經濟成長",
+        "url": "https://vancouversun.com/business/telus-ai-announcement",
+        "source": "Vancouver Sun",
+        "desc": "Telus主導的AI投資計畫，預計創造數千個高薪工作機會。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "2026年4月AI月報：Anthropic Mythos震撼業界，AI安全成焦點",
+        "url": "https://futurescope.beehiiv.com/p/this-month-in-ai-april-2026-edition",
+        "source": "Futurescope",
+        "desc": "回顧4月AI產業重大事件，從Mythos到GPT-5.5的競爭格局。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Directive 8020今日發售：Dark Pictures新作太空恐怖冒險",
+        "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-may-2026-week-20",
+        "source": "DLCompare",
+        "desc": "Supermassive Games新作，殖民船上對抗變形外星生物的恐怖選擇遊戲。"
+      },
+      {
+        "title": "2026年5月遊戲大作：Forza Horizon 6、007 First Light、Subnautica 2",
+        "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+        "source": "IGN",
+        "desc": "本月重磅：日本賽車Forza Horizon 6、詹姆斯乘龐德起源故事、深海探險續作。"
+      },
+      {
+        "title": "Subnautica 2搶先體驗版本週上線，Steam最多願望清單遊戲",
+        "url": "https://www.pcgamer.com/games/pc-game-release-dates-may-2026/",
+        "source": "PC Gamer",
+        "desc": "5月Early Access大爆發，Subnautica 2領銜眾多搶先體驗新作。"
+      },
+      {
+        "title": "Nintendo股價暴跌8%：Switch 2漲價+銷售預測疲軟",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "Switch 2定價高於預期，加上銷售展望保守，投資人信心動搖。"
+      },
+      {
+        "title": "2026年最佳遊戲盤點：從Raccoon City到貓咪Roguelike",
+        "url": "https://www.ign.com/articles/the-best-video-games-of-2026",
+        "source": "IGN",
+        "desc": "2026年已交出多款佳作，Resident Evil Requiem領銜年度最佳候選。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Microsoft CEO Nadella出庭Musk v. Altman訴訟案作證",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "Musk控告Altman案進入關鍵階段，Nadella就Microsoft與OpenAI關係作證。"
+      },
+      {
+        "title": "Trump邀請Musk、Cook、Fink等CEO加入中國峰會代表團",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "美中科技外交新動向，科技巨頭CEO將隨Trump出訪中國。"
+      },
+      {
+        "title": "Dan Ives預測Nasdaq將達30,000點：AI漲勢將擴散",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "知名分析師看好AI帶動科技股持續上漲，目標Nasdaq 30K。"
+      },
+      {
+        "title": "Micron記憶體晶片股持續飆漲，漲勢似乎無法阻擋",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "AI訓練與推論對HBM記憶體需求爆發，Micron成最大受益者。"
+      },
+      {
+        "title": "惡意Hugging Face模型偽裝OpenAI發布，24.4萬次下載",
+        "url": "https://www.infoworld.com/software-development/",
+        "source": "InfoWorld",
+        "desc": "AI模型供應鏈攻擊新手法：18小時內衝上Hugging Face趨勢榜首。"
+      },
+      {
+        "title": "Circle完成Arc代幣預售募資2.22億美元，估值30億",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "USDC發行商Circle推出新代幣，機構投資人積極參與。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin波動加劇：CME缺口交易與伊朗風險碰撞",
+        "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
+        "source": "CoinDesk",
+        "desc": "BTC從80,700衝到82,400後回落，伊朗緊張推升美元壓制加密貨幣。"
+      },
+      {
+        "title": "Bitcoin開盤創數月新高，ETH突破2,369美元",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-11-2026-bitcoins-strongest-opening-in-months-113216131.html",
+        "source": "Yahoo Finance",
+        "desc": "BTC週一開盤強勁，ETH創4月底以來最高開盤價。"
+      },
+      {
+        "title": "加密基金單週流入8.58億美元，BTC佔7.06億",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-bull-run-loading-858m-150216955.html",
+        "source": "Yahoo Finance",
+        "desc": "CLARITY法案提振信心，機構資金大舉流入加密貨幣基金。"
+      },
+      {
+        "title": "4月現貨BTC ETF創紀錄流入19.7億美元，累計超580億",
+        "url": "https://www.ainvest.com/news/bitcoin-ethereum-big-numbers-rally-2605/",
+        "source": "AInvest",
+        "desc": "2026年最強月份，逆轉年初疲軟態勢。"
+      },
+      {
+        "title": "美國參議院CLARITY法案聽證會本週登場，加密監管框架將定調",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "參議院銀行委員會準備高風險投票，將決定加密貨幣監管方向。"
+      },
+      {
+        "title": "BTC價格修正，但ETH與山寨幣展現強勢",
+        "url": "https://coinpedia.org/price-analysis/crypto-market-news-today-btc-price-corrects-while-ethereum-altcoins-display-strength/",
+        "source": "Coinpedia",
+        "desc": "BTC在84K遇阻回落，但ETH/BTC匯率連三日反彈。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "開發者的AI困境：「我開始失去寫程式的能力」",
+        "url": "https://thenewstack.io/ai-coding-tools-reckoning/",
+        "source": "The New Stack",
+        "desc": "開發者反思過度依賴AI工具的代價，技能退化成為新議題。"
+      },
+      {
+        "title": "2026年AI程式工具革命：從自動補全到全自動部署",
+        "url": "https://tech-insider.org/ai-coding-tools-2026-transforming-software-development/",
+        "source": "Tech Insider",
+        "desc": "AI coding工具已能寫、重構、除錯、部署生產程式碼。"
+      },
+      {
+        "title": "2026程式工具三大趨勢：Vibe Coding、雲原生編排、Rust崛起",
+        "url": "https://www.accio.com/business/programming-tool",
+        "source": "Accio",
+        "desc": "AI驅動的「氛圍編程」自動化手動腳本，Rust解決記憶體安全問題。"
+      },
+      {
+        "title": "Salesforce全面開放API/MCP/CLI：25年功能一次到位",
+        "url": "https://www.salesforce.com/blog/salesforce-development-innovation-2026/",
+        "source": "Salesforce",
+        "desc": "所有Salesforce功能現可透過API、MCP或CLI存取，Agent開發更便利。"
+      },
+      {
+        "title": "Enterprise Spotlight：AI如何改變軟體開發",
+        "url": "https://www.networkworld.com/article/4164498/enterprise-spotlight-transforming-software-development-with-ai-4.html",
+        "source": "Network World",
+        "desc": "企業級AI開發工具專題報導，涵蓋CIO到開發者的完整視角。"
+      }
+    ],
+    "art": [
+      {
+        "title": "AI影片創作2026完整學習指南：從入門到進階",
+        "url": "https://aivideobootcamp.com/blog/how-to-learn-ai-video-2026/",
+        "source": "AI Video Bootcamp",
+        "desc": "系統性學習AI影片製作的完整路線圖。"
+      },
+      {
+        "title": "AI自動生成教學影片的11個步驟",
+        "url": "https://www.guidde.com/knowledge-hub/how-ai-generates-tutorial-videos-guide-2026",
+        "source": "Guidde",
+        "desc": "從腳本到成品，AI如何自動化教學影片製作流程。"
+      }
+    ],
+    "design": [
+      {
+        "title": "AI設計工具使用率突破91%：2026年設計趨勢",
+        "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026",
+        "source": "Guidde",
+        "desc": "AI已成為設計師標配工具，改變創作流程。"
+      },
+      {
+        "title": "2026年最佳AI YouTube影片製作學習資源",
+        "url": "https://tutorialsearch.io/blog/ai-tools-not-using-but-should-be-courses-tutorials-resources-2026",
+        "source": "Tutorial Search",
+        "desc": "精選AI影片製作課程與工具推薦。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Hassett稱AI沒有讓人失業——但科技裁員持續",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "白宮經濟顧問與現實數據矛盾：科技業裁員潮未停。"
+      },
+      {
+        "title": "OpenAI成立部署公司，40億美元投資嵌入AI工程師到企業",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/",
+        "source": "Times of India",
+        "desc": "收購Tomoro增加150名AI專家，協助企業整合先進AI。"
+      },
+      {
+        "title": "GM裁減數百名IT員工，評估AI取代需求",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "通用汽車削減IT人力成本，AI自動化加速傳統企業轉型。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美國CPI 3.8%超預期創三年新高，S&P 500從紀錄高點回落",
+        "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P收7,401(-0.16%)、Nasdaq-0.71%。4月CPI月增0.6%、年增3.8%，高於預期3.7%。"
+      },
+      {
+        "title": "華爾街遭CPI+油價雙重打擊，道瓊跌307點",
+        "url": "https://economictimes.indiatimes.com/news/international/us/why-did-the-us-stock-market-crash-today-after-the-cpi-inflation-report-dow-jones-sp-500-and-nasdaq-sink-deep-into-red-as-iran-tensions-and-soaring-oil-prices-fuel-fresh-inflation-fears-across-wall-street/articleshow/131042627.cms",
+        "source": "Economic Times",
+        "desc": "CPI 3.8%為三年最高，伊朗緊張推升油價至，通膨恐懼重返。"
+      },
+      {
+        "title": "台股收41,898點（+108），盤中觸42,253後回落未能站穩42K",
+        "url": "https://focustaiwan.tw/business/202605120021",
+        "source": "Focus Taiwan",
+        "desc": "成交量1.38兆，半導體股盤中創高後回落，金融傳產相對強勢。"
+      },
+      {
+        "title": "CNBC警告：台韓股市集中度風險，台積電佔TAIEX逾40%",
+        "url": "https://www.cnbc.com/2026/05/12/tsmc-samsung-sk-hynixs-south-korea-taiwan-stocks-ai-chipmakers-concentration-risk.html",
+        "source": "CNBC",
+        "desc": "台積電+三星+SK海力士主導兩國股市，單一產業風險引發關注。"
+      },
+      {
+        "title": "S&P 500因通膨數據從紀錄高點下跌，晶片股領跌",
+        "url": "https://247wallst.com/investing/2026/05/12/stock-market-live-may-12-2026-sp-500-spy-sinks-on-higher-inflation/",
+        "source": "24/7 Wall St",
+        "desc": "Micron-3.6%、Qualcomm-11%、AMD-2%，記憶體晶片漲勢暫歇。"
+      },
+      {
+        "title": "Trump稱美伊停火「命懸一線」，原油飆破",
+        "url": "https://www.tradingnews.com/news/stock-market-today-dow-slides-from-records-on-3-percent-cpi",
+        "source": "Trading News",
+        "desc": "伊朗要求戰爭賠償+解凍資產+荷姆茲海峽主權，談判陷僵局。"
+      },
+      {
+        "title": "通膨敘事破裂：CPI打破反通膨趨勢，Fed降息遙遙無期",
+        "url": "https://www.bbntimes.com/global-economy/s-p-500-us-equities-fall-from-record-highs-as-april-cpi-comes-in-hotter-than-expected-and-iran-tensions-flare",
+        "source": "BBN Times",
+        "desc": "年增3.8%為2023年5月以來最高，市場重新定價Fed政策路徑。"
+      }
+    ],
+    "stock_briefing": {
+      "date": "2026-05-13",
+      "sparkline": [
+        39617,
+        40705,
+        41200,
+        41790,
+        42021,
+        42232,
+        41898,
+        41900
+      ],
+      "sparkline_dates": [
+        "4/23",
+        "4/28",
+        "5/5",
+        "5/8",
+        "5/9",
+        "5/11",
+        "5/12",
+        "5/13E"
+      ],
+      "market": {
+        "index": "41,898",
+        "change": 108,
+        "changePercent": "+0.26%",
+        "volume": "1.38兆",
+        "futures": "41,500 (-0.95%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -0.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": -0.8
+        },
+        {
+          "name": "記憶體",
+          "change": -2.1
+        },
+        {
+          "name": "金融保險",
+          "change": 0.6
+        },
+        {
+          "name": "傳產",
+          "change": 0.4
+        },
+        {
+          "name": "航運",
+          "change": 1.2
+        },
+        {
+          "name": "鋼鐵",
+          "change": 0.3
+        },
+        {
+          "name": "生技",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "台積電(2330)",
+          "trend": "跌 回檔",
+          "note": "美CPI超預期+晶片股回落，台積電面臨獲利了結壓力。CNBC警告台韓市場集中度風險（台積電佔TAIEX逾40%）"
+        },
+        {
+          "name": "聯發科(2454)",
+          "trend": "跌 回檔",
+          "note": "跟隨美國晶片股回落，AMD-2%、Qualcomm-11%拖累"
+        },
+        {
+          "name": "台達電(2308)",
+          "trend": "跌 小跌",
+          "note": "AI伺服器電源需求不變，但短線跟隨大盤修正"
+        },
+        {
+          "name": "鴻海(2317)",
+          "trend": "平 持平",
+          "note": "GB200出貨預期支撐，跌幅有限"
+        },
+        {
+          "name": "廣達(2382)",
+          "trend": "跌 小跌",
+          "note": "AI伺服器ODM短線獲利了結"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 抗跌",
+          "note": "高股息防禦性顯現，科技股回檔時資金轉入高息標的，殖利率約5.5%"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 小跌",
+          "note": "台積電佔比過高，跟隨半導體回檔，但跌幅小於個股"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 抗跌",
+          "note": "ESG+高股息在通膨環境下具防禦價值"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 小跌",
+          "note": "科技成分較高，跟隨晶片股回落但月配息支撐"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 小跌",
+          "note": "台積電拖累，但整體跌幅有限"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 抗跌",
+          "note": "資金避險流入高息ETF，殖利率5.5%具吸引力"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 抗跌",
+          "note": "通膨環境下高息+ESG防禦性佳"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 小跌",
+          "note": "科技成分受壓但月配息緩衝"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "高息標的在市場修正時表現相對強勢"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "平 持平",
+          "note": "價值型在通膨環境下相對抗跌"
+        }
+      ],
+      "institutional": {
+        "外資": -85,
+        "投信": 15,
+        "自營商": -22
+      },
+      "sentiment": {
+        "score": 58,
+        "label": "偏多但轉謹慎 — CPI超預期引發獲利了結",
+        "history": [
+          60,
+          65,
+          68,
+          70,
+          72,
+          72,
+          58
+        ]
+      },
+      "international": [
+        {
+          "name": "S&P 500",
+          "change": -0.16
+        },
+        {
+          "name": "Nasdaq",
+          "change": -0.71
+        },
+        {
+          "name": "道瓊",
+          "change": 0.11
+        },
+        {
+          "name": "日經225",
+          "change": -0.45
+        },
+        {
+          "name": "WTI原油",
+          "change": 4.19
+        },
+        {
+          "name": "美元指數",
+          "change": 0.35
+        }
+      ],
+      "events": [
+        "⚠️ 美國4月CPI 3.8%超預期（預期3.7%），為三年最高，通膨敘事破裂",
+        "⚠️ WTI原油突破/桶，伊朗局勢升溫推升能源價格",
+        "台股5/12收41,898（+108點），盤中觸42,253後回落，未能站穩42,000",
+        "Trump稱美伊停火「命懸一線」，拒絕伊朗反提案（要求戰爭賠償+解凍資產）",
+        "美國晶片股大幅回落：Micron-3.6%、Qualcomm-11%、AMD-2%",
+        "CNBC警告：台韓股市集中度風險，台積電佔TAIEX逾40%、三星+SK海力士佔KOSPI 42%",
+        "Fed降息預期再度延後，市場定價2027年才可能降息"
+      ],
+      "summary": "⚠️ 風險升溫：美國CPI 3.8%超預期+原油破，通膨敘事破裂，Fed降息無望。美股晶片股大幅回落，台股盤中觸42,253後回落收41,898，未能站穩42,000。短線建議：減碼科技/AI股獲利了結，增持高股息ETF（0056、00878）防禦。今日台股期貨夜盤跌0.95%，預期開盤偏弱。"
+    },
+    "summaries": {
+      "ai": "本週AI焦點：美國情報機構爭奪AI監管權、白宮逆轉去監管政策、OpenAI向歐盟開放網安模型、Cerebras IPO擬募48億、Cloudflare裁員1,100人轉型AI-first。",
+      "gaming": "今日發售：Directive 8020太空恐怖冒險。本週重磅：Subnautica 2搶先體驗、Forza Horizon 6。Nintendo因Switch 2漲價股價暴跌8%。",
+      "tech": "Nadella出庭Musk v. Altman案、Trump邀科技CEO訪中、Dan Ives喊Nasdaq 30K、Micron記憶體股飆漲、Hugging Face供應鏈攻擊警報。",
+      "crypto": "BTC波動加劇（80.7K→82.4K→回落）、伊朗風險壓制、加密基金週流入8.58億、CLARITY法案本週聽證、4月BTC ETF創紀錄流入19.7億。",
+      "dev": "開發者反思AI依賴症、2026 AI coding工具全面革命、Vibe Coding趨勢、Salesforce全面開放API/MCP、Hugging Face供應鏈攻擊警示。",
+      "finance": "⚠️ 重大轉折：美國CPI 3.8%超預期+原油，通膨敘事破裂。美股從紀錄高點回落，晶片股領跌。台股盤中觸42,253後回落收41,898。Fed降息預期延至2027年。高股息ETF相對抗跌。",
+      "art": "AI影片創作門檻持續降低，自動生成教學影片成為2026年新趨勢。",
+      "design": "AI設計工具使用率突破91%，已成為設計師標配。",
+      "business": "白宮稱AI未造成失業但裁員持續、OpenAI成立40億部署公司、GM裁IT員工評估AI取代。"
+    }
+  }
+}
