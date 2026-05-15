@@ -465,7 +465,11 @@
       "summary": "多重利多：美股創新高+CLARITY通過+Trump-Xi峰會+MSCI調升台灣。台股昨反彈至41,752，期貨+0.83%至42,100，今日預期續漲挑戰42,000。外資轉買超。情緒65偏多。",
       "searched": [
         "00891A"
-      ]
+      ],
+      "buffett_indicator": {
+        "value": 198,
+        "label": "嚴重高估"
+      }
     },
     "summaries": {
       "ai": "Google攔截AI零日攻擊、Nadella 920億回報、AI算力太空化、AI揪胰臟癌、Trump-Xi AI議題。",

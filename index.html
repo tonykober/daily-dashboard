@@ -81,6 +81,11 @@ h1{font-size:36px;color:var(--accent)}
 .sb-sentiment .gauge svg{width:100%;height:100%}
 .sb-sentiment .history{margin-top:8px}
 .sb-sentiment .history svg{width:100%;height:30px}
+.sb-buffett{padding:8px 0}
+.sb-buffett .value{font-size:24px;font-weight:700;margin-bottom:6px}
+.sb-buffett .zones{font-size:12px}
+.sb-buffett .zone{padding:3px 6px;border-radius:4px;margin:2px 0;display:block}
+.sb-buffett .zone.active{border:1px solid var(--accent);background:rgba(88,166,255,0.1)}
 .loading{text-align:center;padding:40px;grid-column:1/-1}
 .loading .spinner{display:inline-block;width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -222,6 +227,8 @@ async function renderStockBriefing(cats){
   if(sb.sentiment){const s=sb.sentiment;const color=s.score>=75?'#f85149':s.score>=50?'#d29922':s.score>=25?'#3fb950':'#8b949e';const cx=80,cy=80,r=55;function arcPt(deg){return[cx+r*Math.cos(deg*Math.PI/180),cy-r*Math.sin(deg*Math.PI/180)]}const a0=arcPt(180),a1=arcPt(135),a2=arcPt(90),a3=arcPt(45),a4=arcPt(0);h+='<div class="sb-panel"><div class="sb-panel-title">🎯 市場情緒</div><div class="sb-sentiment"><div class="gauge"><svg viewBox="0 0 160 90"><path d="M'+a0[0]+','+a0[1]+' A'+r+','+r+' 0 0,1 '+a1[0]+','+a1[1]+'" fill="none" stroke="#8b949e" stroke-width="10" stroke-linecap="round"/><path d="M'+a1[0]+','+a1[1]+' A'+r+','+r+' 0 0,1 '+a2[0]+','+a2[1]+'" fill="none" stroke="#3fb950" stroke-width="10" stroke-linecap="round"/><path d="M'+a2[0]+','+a2[1]+' A'+r+','+r+' 0 0,1 '+a3[0]+','+a3[1]+'" fill="none" stroke="#d29922" stroke-width="10" stroke-linecap="round"/><path d="M'+a3[0]+','+a3[1]+' A'+r+','+r+' 0 0,1 '+a4[0]+','+a4[1]+'" fill="none" stroke="#f85149" stroke-width="10" stroke-linecap="round"/><line x1="80" y1="80" x2="35" y2="80" stroke="var(--text)" stroke-width="2.5" stroke-linecap="round" transform="rotate('+(s.score/100*180)+',80,80)"/><circle cx="80" cy="80" r="4" fill="var(--text)"/><text x="5" y="85" font-size="12" fill="var(--muted)">0</text><text x="145" y="85" font-size="12" fill="var(--muted)">100</text></svg></div><div class="score" style="color:'+color+'">'+s.score+'</div><div class="label">'+s.label+'</div>';if(s.history&&s.history.length>1){const pts=s.history,min=Math.min(...pts),max=Math.max(...pts),rng=max-min||1;let lp='M0,'+(30-(pts[0]-min)/rng*28);pts.forEach((p,i)=>{if(i>0)lp+=' L'+(i/(pts.length-1)*160)+','+(30-(p-min)/rng*28)});h+='<div class="history"><svg viewBox="0 0 160 30" preserveAspectRatio="none"><path d="'+lp+'" fill="none" stroke="var(--accent)" stroke-width="1.5"/></svg><div style="font-size:10px;color:var(--muted)">過去一週情緒指數</div></div>'}h+='</div></div>'}
   // Panel 7: International
   if(sb.international&&sb.international.length){h+='<div class="sb-panel"><div class="sb-panel-title">🌍 國際市場</div>';sb.international.forEach(m=>{const cls=m.change>=0?'val-up':'val-down';h+='<div class="sb-panel-row"><span class="name">'+m.name+'</span><span class="'+cls+'">'+(m.change>=0?'+':'')+m.change+'%</span></div>'});h+='</div>'}
+  // Panel: Buffett Indicator
+  if(sb.buffett_indicator){const bi=sb.buffett_indicator;const zones=[{range:'< 50%',label:'嚴重低估',max:50},{range:'50-75%',label:'適度低估',max:75},{range:'75-90%',label:'合理估值',max:90},{range:'90-115%',label:'輕度高估',max:115},{range:'> 115%',label:'嚴重高估',max:999}];const v=bi.value;h+='<div class="sb-panel"><div class="sb-panel-title">📐 巴菲特指數</div><div class="sb-buffett"><div class="value" style="color:'+( v>115?'#f85149':v>90?'#d29922':v>75?'var(--text)':'#3fb950')+'">'+v+'%</div><div class="zones">';zones.forEach(z=>{const active=((z.max===50&&v<50)||(z.max===75&&v>=50&&v<75)||(z.max===90&&v>=75&&v<90)||(z.max===115&&v>=90&&v<=115)||(z.max===999&&v>115));h+='<div class="zone'+(active?' active':'')+'">'+z.range+' '+z.label+'</div>'});h+='</div></div></div>'}
   // Panel 8: Events
   if(sb.events&&sb.events.length){h+='<div class="sb-panel" style="grid-column:1/-1"><div class="sb-panel-title">⚡ 焦點訊息</div>';sb.events.forEach(e=>{h+='<div class="sb-event">• '+e+'</div>'});h+='</div>'}
   h+='</div>';
