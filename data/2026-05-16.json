@@ -1,0 +1,492 @@
+{
+  "date": "2026-05-16",
+  "categories": {
+    "ai": [
+      {
+        "title": "Anthropic企業市場超越OpenAI，假OpenAI模型在Hugging Face獲24.4萬下載",
+        "url": "https://www.neuralbuddies.com/p/ai-news-recap-may-15-2026",
+        "source": "Neural Buddies",
+        "desc": "Anthropic企業採用率首次超越OpenAI，同時AI供應鏈攻擊持續。"
+      },
+      {
+        "title": "ChatGPT變身個人理財助手：Pro用戶可連接銀行帳戶分析交易",
+        "url": "https://the-decoder.com/",
+        "source": "The Decoder",
+        "desc": "OpenAI用GPT-5.5 Thinking提供個人化財務分析，未來將開放所有用戶。"
+      },
+      {
+        "title": "Recursive Superintelligence獲重大融資，打造自我改進AI",
+        "url": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-thursday-may-14-2026/",
+        "source": "The Neuron",
+        "desc": "Nous Research宣稱LLM預訓練速度提升2-3倍，NVIDIA推出彈性推理。"
+      },
+      {
+        "title": "NASA測試次世代太空晶片：性能超越現有太空飛行電腦數百倍",
+        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "source": "Science Daily",
+        "desc": "抗輻射處理器讓太空船能更獨立運作。"
+      },
+      {
+        "title": "OpenAI成立部署公司：40億投資，嵌入AI工程師到企業",
+        "url": "https://www.marketingprofs.com/opinions/2026/54786/ai-update-may-15-2026-ai-news-and-views-from-the-past-week",
+        "source": "Marketing Profs",
+        "desc": "收購Tomoro增150名AI專家，加速企業AI整合。"
+      },
+      {
+        "title": "AI本週大事：HPE、NVIDIA、SAP重大更新",
+        "url": "https://solutionsreview.com/ai-news-for-the-week-of-may-15-updates-from-hpe-nvidia-sap-more/",
+        "source": "Solutions Review",
+        "desc": "企業AI工具持續進化。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "AI本週回顧：自我改進AI、彈性推理、瀏覽器控制Agent",
+        "url": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-thursday-may-14-2026/",
+        "source": "The Neuron",
+        "desc": "Kimi推出瀏覽器控制Agent、Anthropic CFO解釋算力經濟。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Subnautica 2：12小時破200萬銷量，Steam同時在線46.7萬",
+        "url": "https://www.gamedeveloper.com/business/subnautica-2-has-surpassed-2-million-sales-in-12-hours",
+        "source": "Game Developer",
+        "desc": "全平台同時在線超過65萬，2026年最大遊戲發售之一。"
+      },
+      {
+        "title": "Subnautica 2迅速成為2026年最大遊戲之一",
+        "url": "https://www.vice.com/en/article/subnautica-2-quickly-becomes-one-of-the-biggest-games-of-2026/",
+        "source": "VICE",
+        "desc": "Steam最多願望清單遊戲上線24小時即打破紀錄。"
+      },
+      {
+        "title": "Forza Horizon 6高級版搶先開放：Steam峰值17.2萬玩家",
+        "url": "https://me.ign.com/en/forza-horizon-6/244202/forza-horizon-6-is-only-officially-playable-now-to-those-who-bought-its-pricier-premium-edition-but",
+        "source": "IGN",
+        "desc": "$119.99高級版搶先體驗，正式版下週上線。"
+      },
+      {
+        "title": "Subnautica 2超越原作玩家數，成為系列最大作品",
+        "url": "https://comicbook.com/gaming/news/subnautica-2-blows-past-the-original-games-player-count/",
+        "source": "Comic Book",
+        "desc": "UE5引擎+4人合作模式推動病毒式傳播。"
+      },
+      {
+        "title": "Subnautica 2登頂Steam銷售榜，超越Crimson Desert",
+        "url": "https://comicbook.com/gaming/news/steam-pc-best-selling-game-subnautica-2-crimson-desert/",
+        "source": "Comic Book",
+        "desc": "成為今年開局最大的遊戲。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Trump-Xi峰會成果：200架波音訂單、Nvidia H200對中銷售許可",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-s-and-p-500-breaks-7-500-for-the-first-time",
+        "source": "Market Index",
+        "desc": "16位美國CEO隨行，習近平告訴Musk和Cook中國將「更大開放」。"
+      },
+      {
+        "title": "Cerebras IPO首日暴漲，AI晶片新創成功上市",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-s-and-p-500-breaks-7-500-for-the-first-time",
+        "source": "Market Index",
+        "desc": "AI算力需求推動晶片新創估值飆升。"
+      },
+      {
+        "title": "CLARITY法案通過後加密股暴漲：Coinbase +9%、Strategy +8%",
+        "url": "https://www.forbes.com/sites/aliciapark/2026/05/14/crypto-stocks-surge-as-senate-committee-advances-long-stalled-clarity-act/",
+        "source": "Forbes",
+        "desc": "加密產業最高立法優先事項終於突破。"
+      },
+      {
+        "title": "美股週五大跌：殖利率飆升+通膨擔憂+峰會失望",
+        "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "道瓊跌537點，科技股領跌。"
+      },
+      {
+        "title": "Subnautica 2：12小時200萬銷量創EA遊戲紀錄",
+        "url": "https://www.ign.com/articles/subnautica-2-is-already-making-waves-selling-2-million-copies-in-just-12-hours",
+        "source": "IGN",
+        "desc": "全平台65萬同時在線。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "CLARITY法案通過後BTC衝上$82K，但週五回落至$79K",
+        "url": "https://www.tradingview.com/news/financemagnates:58fadd4f6094b:0-why-is-crypto-going-up-clarity-act-pushes-xrp-price-to-2-month-high-as-bitcoin-dogecoin-and-ethereum-follow/",
+        "source": "TradingView",
+        "desc": "XRP漲至2個月新高，但獲利了結壓力浮現。"
+      },
+      {
+        "title": "加密股暴漲：Coinbase +9%、Strategy +8%、Robinhood +6%",
+        "url": "https://www.forbes.com/sites/aliciapark/2026/05/14/crypto-stocks-surge-as-senate-committee-advances-long-stalled-clarity-act/",
+        "source": "Forbes",
+        "desc": "CLARITY通過推動加密相關股票單日最大漲幅。"
+      },
+      {
+        "title": "CLARITY法案通過是加密史上最重要的一天？",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-just-cleared-senate-092031058.html",
+        "source": "Yahoo Finance",
+        "desc": "BTC衝$81,965後回落，市場消化利多。"
+      },
+      {
+        "title": "Bitcoin突破$82K後回落至$79K：CLARITY利多出盡？",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "BTC週五跌2.3%至$78,742，ETH/BTC持續走弱。"
+      },
+      {
+        "title": "CLARITY法案跨黨派支持改變一切？BTC和XRP前景分析",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/why-clarity-act-bipartisan-support-125718522.html",
+        "source": "Yahoo Finance",
+        "desc": "法案仍需全院表決，但方向已定。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "AI研究者建造「Emergence World」：AI Agent自主運作數週的實驗",
+        "url": "https://cybernews.com/ai-news/",
+        "source": "Cybernews",
+        "desc": "多模型生態系中AI Agent的長期行為觀察，結果如科幻小說。"
+      },
+      {
+        "title": "Google確認：AI軟體生態系成駭客主要攻擊目標",
+        "url": "https://fortune.com/2026/05/12/google-hackers-using-ai-to-weaponize-zero-day-vulnerabilities/",
+        "source": "Fortune",
+        "desc": "LLM生產環境成新攻擊面。"
+      },
+      {
+        "title": "開發者AI困境：「我開始失去寫程式的能力」",
+        "url": "https://thenewstack.io/ai-coding-tools-reckoning/",
+        "source": "The New Stack",
+        "desc": "過度依賴的代價。"
+      },
+      {
+        "title": "Subnautica 2用UE5開發：12小時200萬銷量的技術選擇",
+        "url": "https://www.gamedeveloper.com/business/subnautica-2-has-surpassed-2-million-sales-in-12-hours",
+        "source": "Game Developer",
+        "desc": "從Unity轉UE5的決策如何影響遊戲品質和銷售。"
+      }
+    ],
+    "art": [
+      {
+        "title": "del Toro坎城痛批AI取代藝術",
+        "url": "https://www.thewrap.com/category/artificial-intelligence/",
+        "source": "The Wrap",
+        "desc": "強烈反對AI創作。"
+      },
+      {
+        "title": "Subnautica 2深海視覺：UE5打造的恐懼美學",
+        "url": "https://www.thegamer.com/subnautica-2-early-access-review-underwater-survival-horror-sequel/",
+        "source": "The Gamer",
+        "desc": "深海恐懼的藝術表現。"
+      }
+    ],
+    "design": [
+      {
+        "title": "AI設計工具使用率91%",
+        "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026",
+        "source": "Guidde",
+        "desc": "2026設計趨勢。"
+      },
+      {
+        "title": "Subnautica 2 UI/UX引導vs自由的設計取捨",
+        "url": "https://kotaku.com/subnautica-2-impressions-early-access-release-unknown-worlds-2000696024",
+        "source": "Kotaku",
+        "desc": "過度引導引發玩家爭議。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Trump-Xi峰會：200架波音+Nvidia對中銷售+中國「更大開放」",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-s-and-p-500-breaks-7-500-for-the-first-time",
+        "source": "Market Index",
+        "desc": "16位CEO隨行，商業友好基調。"
+      },
+      {
+        "title": "Cerebras IPO首日暴漲，AI晶片市場再添新玩家",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-s-and-p-500-breaks-7-500-for-the-first-time",
+        "source": "Market Index",
+        "desc": "48億美元IPO成功。"
+      },
+      {
+        "title": "美股週五大跌：殖利率飆升+峰會失望+獲利了結",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-yields-jump-amid-inflation-jitters-224527705.html",
+        "source": "Yahoo Finance",
+        "desc": "道瓊跌537點跌破50,000。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股週五大跌：道瓊-537、Nasdaq-1.54%，殖利率飆升+峰會失望",
+        "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "科技股領跌，通膨擔憂重返。"
+      },
+      {
+        "title": "Trump-Xi峰會成果：波音200架訂單、Nvidia H200對中許可",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-s-and-p-500-breaks-7-500-for-the-first-time",
+        "source": "Market Index",
+        "desc": "商業友好但市場認為不夠。"
+      },
+      {
+        "title": "CLARITY法案通過推動加密股暴漲：Coinbase +9%",
+        "url": "https://www.forbes.com/sites/aliciapark/2026/05/14/crypto-stocks-surge-as-senate-committee-advances-long-stalled-clarity-act/",
+        "source": "Forbes",
+        "desc": "加密產業歷史性突破。"
+      },
+      {
+        "title": "Cerebras IPO首日暴漲，AI晶片新創成功上市",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-s-and-p-500-breaks-7-500-for-the-first-time",
+        "source": "Market Index",
+        "desc": "AI算力需求推動。"
+      },
+      {
+        "title": "美股本週回顧：創新高後回落，通膨+殖利率成壓力",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-bond-yields-jump-to-cap-volatile-week-ahead-of-nvidia-earnings-224527328.html",
+        "source": "Yahoo Finance",
+        "desc": "下週Nvidia財報成焦點。"
+      },
+      {
+        "title": "BTC衝$82K後回落$79K：CLARITY利多出盡？",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "加密市場消化法案利多。"
+      }
+    ],
+    "stock_briefing": {
+      "date": "2026-05-16",
+      "sparkline": [
+        41790,
+        42021,
+        42232,
+        41898,
+        41375,
+        41752,
+        42100
+      ],
+      "sparkline_dates": [
+        "5/8",
+        "5/9",
+        "5/11",
+        "5/12",
+        "5/13",
+        "5/14",
+        "5/15E"
+      ],
+      "market": {
+        "index": "41,752",
+        "change": 377,
+        "changePercent": "+0.91%",
+        "volume": "1.217兆",
+        "futures": "42,100 (+0.83%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 1.2
+        },
+        {
+          "name": "AI伺服器",
+          "change": 1.5
+        },
+        {
+          "name": "記憶體",
+          "change": 0.8
+        },
+        {
+          "name": "PCB/載板",
+          "change": 0.5
+        },
+        {
+          "name": "金融保險",
+          "change": 0.6
+        },
+        {
+          "name": "傳產",
+          "change": 0.3
+        },
+        {
+          "name": "航運",
+          "change": -0.2
+        },
+        {
+          "name": "加密概念",
+          "change": 3.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 反彈",
+          "note": "跟隨美股晶片反彈，MSCI調升利多"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "跟隨大盤+0.91%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩健",
+          "note": "殖利率5.5%防禦"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "ESG+高息"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "高息跟漲"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "漲 小漲",
+          "note": "價值型"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 反彈",
+          "note": "與0050相近"
+        },
+        {
+          "name": "00892 富邦台灣半導體",
+          "trend": "漲 反彈",
+          "note": "半導體帶動"
+        },
+        {
+          "name": "00891 中信關鍵半導體",
+          "trend": "漲 反彈",
+          "note": "跟隨回升"
+        },
+        {
+          "name": "00981A 主動統一台股增長",
+          "trend": "漲 反彈",
+          "note": "今年+72%"
+        },
+        {
+          "name": "00982A 主動群益台灣強棒",
+          "trend": "漲 反彈",
+          "note": "今年+55%"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 反彈",
+          "note": "科技回升+月配息"
+        },
+        {
+          "name": "00403A 主動型ETF",
+          "trend": "漲 強勢",
+          "note": "規模突破千億，溢價超過5%引發金管會關注。新上市主動型ETF資金瘋狂湧入"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "+0.91%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩健",
+          "note": "防禦"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "ESG+高息"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 反彈",
+          "note": "科技回升"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "高息"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "漲 小漲",
+          "note": "價值型"
+        }
+      ],
+      "institutional": {
+        "外資": 95,
+        "投信": 22,
+        "自營商": 8
+      },
+      "sentiment": {
+        "score": 55,
+        "label": "中性偏謹慎 — 美股週五大跌，下週一預期開低",
+        "history": [
+          58,
+          55,
+          52,
+          58,
+          65,
+          55,
+          55
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊",
+          "change": 0.74
+        },
+        {
+          "name": "Nasdaq",
+          "change": 0.88
+        },
+        {
+          "name": "日經225",
+          "change": 0.55
+        },
+        {
+          "name": "WTI原油",
+          "change": -0.8
+        },
+        {
+          "name": "Bitcoin",
+          "change": 5.2
+        },
+        {
+          "name": "美元指數",
+          "change": -0.2
+        }
+      ],
+      "events": [
+        "【週末休市】台股上週收41,752",
+        "美股週五大跌：道瓊-537跌破50,000、Nasdaq-1.54%",
+        "Trump-Xi峰會結束：波音200架+Nvidia H200對中許可，但市場認為不夠",
+        "殖利率飆升引發獲利了結，科技股領跌",
+        "CLARITY法案通過後BTC衝$82K→回落$79K",
+        "Cerebras IPO首日暴漲，AI晶片市場火熱",
+        "下週關注：Nvidia財報（週三）"
+      ],
+      "summary": "【週末休市】台股上週五收41,752（+377）。美股週五大跌（道瓊-537、Nasdaq-1.54%），殖利率飆升+Trump-Xi峰會失望。下週一台股預期開低。下週關注：Nvidia財報（週三）。CLARITY法案通過為加密市場長期利多。",
+      "searched": [
+        "00891A"
+      ],
+      "buffett_indicator": {
+        "value": 198,
+        "label": "嚴重高估"
+      }
+    },
+    "summaries": {
+      "ai": "Anthropic企業超越OpenAI、ChatGPT變理財助手、自我改進AI融資、NASA太空晶片、OpenAI 40億部署公司。",
+      "gaming": "Subnautica 2：12小時破200萬銷量！Steam 46.7萬同時在線。Forza Horizon 6高級版17.2萬玩家。",
+      "tech": "Trump-Xi峰會成果（波音+Nvidia）、Cerebras IPO暴漲、CLARITY通過、美股週五大跌。",
+      "crypto": "CLARITY通過後BTC衝$82K→回落$79K。加密股暴漲（Coinbase +9%）。XRP漲至2月新高。利多出盡？",
+      "dev": "AI Agent長期實驗（Emergence World）、AI攻擊目標、開發者AI依賴、Subnautica 2 UE5技術。",
+      "finance": "美股週五大跌（道瓊-537）：殖利率+峰會失望。Trump-Xi成果。CLARITY推動加密股。Cerebras IPO。下週Nvidia財報。",
+      "art": "del Toro反AI、Subnautica 2 UE5視覺。",
+      "design": "AI設計91%、Subnautica 2 UI/UX。",
+      "business": "Trump-Xi峰會商業成果、Cerebras IPO、美股大跌。"
+    }
+  }
+}
