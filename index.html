@@ -180,11 +180,14 @@ function addToWatchlist(){const name=prompt('輸入股票名稱或代號（如�
 function removeFromWatchlist(name){watchlist=watchlist.filter(w=>w!==name);localStorage.setItem('watchlist',JSON.stringify(watchlist));saveWatchlistToSheet();render()}
 function getHeat(title){let h=0;for(let i=0;i<title.length;i++)h=((h<<5)-h)+title.charCodeAt(i);return Math.abs(h%5)+1}
 function trendArrow(t){const isUp=t.includes('漲')||t.includes('多');const isDown=t.includes('跌')||t.includes('空');const desc=t.replace(/^[漲跌平]\s*/,'');return{cls:isUp?'val-up':isDown?'val-down':'val-flat',arrow:isUp?'▲':isDown?'▼':'▬',tcls:isUp?'trend-up':isDown?'trend-down':'trend-flat',desc:desc}}
+async function loadBookmarksFromSheet(){try{const ctrl=new AbortController();setTimeout(()=>ctrl.abort(),5000);const res=await fetch('https://docs.google.com/spreadsheets/d/'+SHEET_ID+'/gviz/tq?tqx=out:csv&sheet=Bookmarks&t='+Date.now(),{signal:ctrl.signal,cache:'no-store'});if(res.ok){const csv=await res.text();const lines=csv.split('\n').filter(r=>r.trim()&&!r.startsWith('"url"'));if(lines.length){try{bookmarks=lines.map(r=>{const parts=r.split('","').map(s=>s.replace(/^"|"$/g,''));return{url:parts[0]||'',title:parts[1]||'',source:parts[2]||''}}).filter(b=>b.url);localStorage.setItem('bookmarks',JSON.stringify(bookmarks))}catch(e){}}}}catch(e){console.log('Bookmarks sheet read failed')}}
+function saveBookmarksToSheet(){try{fetch(APPS_SCRIPT_URL,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain'},body:JSON.stringify({action:'saveBookmarks',bookmarks})})}catch(e){}}
 function toggleBookmark(item,e){
   e.preventDefault();e.stopPropagation();
   const idx=bookmarks.findIndex(b=>b.url===item.url);
   if(idx>=0)bookmarks.splice(idx,1);else bookmarks.push(item);
   localStorage.setItem('bookmarks',JSON.stringify(bookmarks));
+  saveBookmarksToSheet();
   render();
 }
 function isBookmarked(url){return bookmarks.some(b=>b.url===url)}
@@ -198,6 +201,7 @@ async function init(){
     const todayIdx=dates.indexOf(today);
     dateIdx=todayIdx>=0?todayIdx:0;
     await loadWatchlistFromSheet();
+    await loadBookmarksFromSheet();
     render();
   }catch(e){document.getElementById('content').innerHTML='<div class="empty">載入失敗：'+e.message+'<br><button onclick="init()" style="margin-top:8px;padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface);color:var(--text);cursor:pointer">重試</button></div>'}
 }
