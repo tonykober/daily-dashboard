@@ -1,0 +1,486 @@
+{
+  "date": "2026-05-18",
+  "categories": {
+    "ai": [
+      {
+        "title": "本週AI大事：Microsoft Copilot分析瀏覽器分頁、Google推Googlebook、Amazon用Alexa取代Rufus",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "Copilot可分析開啟分頁、Gemini嵌入ChromeOS、Alexa購物助手上線。"
+      },
+      {
+        "title": "Android 17導入Gemini Intelligence：裝置端AI助手可執行多步驟任務",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "排程、購物等多步驟任務，Galaxy S26和Pixel 10今夏首發。"
+      },
+      {
+        "title": "Anthropic企業市場超越OpenAI，ChatGPT變身個人理財助手",
+        "url": "https://www.neuralbuddies.com/p/ai-news-recap-may-15-2026",
+        "source": "Neural Buddies",
+        "desc": "Pro用戶可連接銀行帳戶，GPT-5.5 Thinking提供財務分析。"
+      },
+      {
+        "title": "核能新創Atomics數週內啟動猶他沙漠首座反應爐",
+        "url": "https://www.theinformation.com/weekend",
+        "source": "The Information",
+        "desc": "AI算力需求推動核能新創加速，激進時程表引發關注。"
+      },
+      {
+        "title": "Recursive Superintelligence獲重大融資，打造自我改進AI",
+        "url": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-thursday-may-14-2026/",
+        "source": "The Neuron",
+        "desc": "Nous Research宣稱LLM預訓練速度提升2-3倍。"
+      },
+      {
+        "title": "OpenAI成立40億部署公司，嵌入AI工程師到企業",
+        "url": "https://www.marketingprofs.com/opinions/2026/54786/ai-update-may-15-2026-ai-news-and-views-from-the-past-week",
+        "source": "Marketing Profs",
+        "desc": "收購Tomoro增150名專家，加速企業AI整合。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "AI本週回顧：自我改進AI、彈性推理、瀏覽器控制Agent",
+        "url": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-thursday-may-14-2026/",
+        "source": "The Neuron",
+        "desc": "Kimi瀏覽器Agent、Anthropic CFO解釋算力經濟。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Subnautica 2達成新里程碑：銷量持續攀升中",
+        "url": "https://gamingbolt.com/",
+        "source": "Gaming Bolt",
+        "desc": "繼12小時200萬後持續創紀錄，成為2026年最大遊戲發售之一。"
+      },
+      {
+        "title": "Forza Horizon 6團隊威脅終身封鎖洩漏玩家",
+        "url": "https://www.nme.com/news/gaming-news/forza-horizon-6-leak-playground-games-lifetime-ban-3945094",
+        "source": "NME",
+        "desc": "155GB未加密檔案意外上傳Steam，正式版下週上線。"
+      },
+      {
+        "title": "GeForce NOW本週新增Subnautica 2和Forza Horizon 6搶先體驗",
+        "url": "https://worthplaying.com/article/2026/5/14/news/149855-geforce-now-adds-subnautica-2-and-forza-horizon-6-early-access-hitman-reward-and-9-others-titles-this-week/",
+        "source": "Worth Playing",
+        "desc": "雲端遊戲平台跟進支援本月大作。"
+      },
+      {
+        "title": "Shacknews深度體驗：Subnautica 2新世界的美麗與冒險",
+        "url": "https://www.shacknews.com/topic/feature",
+        "source": "Shacknews",
+        "desc": "搶先體驗深度評測，被新世界的美麗所震撼。"
+      },
+      {
+        "title": "Subnautica 2迅速成為2026年最大遊戲之一",
+        "url": "https://www.vice.com/en/article/subnautica-2-quickly-becomes-one-of-the-biggest-games-of-2026/",
+        "source": "VICE",
+        "desc": "Steam最多願望清單遊戲上線即打破紀錄。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Google推出Googlebook：Gemini Intelligence嵌入ChromeOS的AI筆電",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "混合Android-ChromeOS、Magic Pointer、今秋上市挑戰MacBook。"
+      },
+      {
+        "title": "Amazon以Alexa購物取代Rufus聊天機器人",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "生成式AI助手可比較產品、追蹤價格、完成購買。"
+      },
+      {
+        "title": "核能新創加速：Atomics數週內啟動首座反應爐",
+        "url": "https://www.theinformation.com/weekend",
+        "source": "The Information",
+        "desc": "AI算力需求推動核能復興。"
+      },
+      {
+        "title": "Forza Horizon 6洩漏事件：155GB未加密檔案上傳Steam",
+        "url": "https://www.ign.com/articles/forza-horizon-6-suffers-disastrous-leak-as-steam-preload-files-are-made-available-without-encryption",
+        "source": "IGN",
+        "desc": "開發商威脅終身封鎖，數位版本安全問題持續。"
+      },
+      {
+        "title": "Microsoft Copilot更新：可分析瀏覽器開啟分頁、協助研究寫作",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "部分功能仍限特定地區和Microsoft 365訂閱。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "CLARITY法案通過後市場消化：BTC週末在$79-80K整理",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "利多出盡後短線獲利了結，但長期監管明確化為正面。"
+      },
+      {
+        "title": "加密股本週暴漲回顧：Coinbase +9%、Strategy +8%、Robinhood +6%",
+        "url": "https://www.forbes.com/sites/aliciapark/2026/05/14/crypto-stocks-surge-as-senate-committee-advances-long-stalled-clarity-act/",
+        "source": "Forbes",
+        "desc": "CLARITY通過推動加密相關股票單日最大漲幅。"
+      },
+      {
+        "title": "CLARITY法案跨黨派支持改變一切？BTC和XRP前景",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/why-clarity-act-bipartisan-support-125718522.html",
+        "source": "Yahoo Finance",
+        "desc": "法案仍需全院表決，但方向已定。"
+      },
+      {
+        "title": "XRP漲至2個月新高後回落，CLARITY催化效應消退",
+        "url": "https://www.tradingview.com/news/financemagnates:58fadd4f6094b:0-why-is-crypto-going-up-clarity-act-pushes-xrp-price-to-2-month-high-as-bitcoin-dogecoin-and-ethereum-follow/",
+        "source": "TradingView",
+        "desc": "短線利多消化，等待全院表決。"
+      },
+      {
+        "title": "Bitcoin突破$82K後回落$79K：下週Nvidia財報成新催化劑",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-bond-yields-jump-to-cap-volatile-week-ahead-of-nvidia-earnings-224527328.html",
+        "source": "Yahoo Finance",
+        "desc": "加密市場與科技股連動，Nvidia財報影響風險偏好。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "AI Agent長期實驗「Emergence World」：多模型自主運作數週",
+        "url": "https://cybernews.com/ai-news/",
+        "source": "Cybernews",
+        "desc": "結果如科幻小說，AI Agent展現意想不到的行為。"
+      },
+      {
+        "title": "Android 17開發者預覽：Gemini Intelligence API開放",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "裝置端多步驟AI任務API，今夏開放開發者。"
+      },
+      {
+        "title": "Forza Horizon 6洩漏凸顯Steam預載安全問題",
+        "url": "https://www.ign.com/articles/forza-horizon-6-suffers-disastrous-leak-as-steam-preload-files-are-made-available-without-encryption",
+        "source": "IGN",
+        "desc": "未加密預載檔案成為新攻擊向量。"
+      },
+      {
+        "title": "開發者AI困境持續：過度依賴導致技能退化",
+        "url": "https://thenewstack.io/ai-coding-tools-reckoning/",
+        "source": "The New Stack",
+        "desc": "業界反思AI工具的長期影響。"
+      }
+    ],
+    "art": [
+      {
+        "title": "del Toro坎城痛批AI取代藝術",
+        "url": "https://www.thewrap.com/category/artificial-intelligence/",
+        "source": "The Wrap",
+        "desc": "強烈反對AI創作。"
+      },
+      {
+        "title": "Subnautica 2 UE5深海視覺藝術獲讚",
+        "url": "https://www.shacknews.com/topic/feature",
+        "source": "Shacknews",
+        "desc": "新世界的美麗令人震撼。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Google Googlebook：AI-first筆電設計理念",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "Magic Pointer等AI原生互動設計。"
+      },
+      {
+        "title": "AI設計工具使用率91%",
+        "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026",
+        "source": "Guidde",
+        "desc": "2026設計趨勢。"
+      }
+    ],
+    "business": [
+      {
+        "title": "本週科技商業回顧：AI突破、安全漏洞、市場劇變",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "Google/Microsoft/Amazon三巨頭AI產品大更新。"
+      },
+      {
+        "title": "核能新創Atomics即將啟動：AI算力推動能源革命",
+        "url": "https://www.theinformation.com/weekend",
+        "source": "The Information",
+        "desc": "激進時程表引發安全與投資討論。"
+      },
+      {
+        "title": "美股本週回顧：創新高後大跌，下週Nvidia財報成焦點",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-bond-yields-jump-to-cap-volatile-week-ahead-of-nvidia-earnings-224527328.html",
+        "source": "Yahoo Finance",
+        "desc": "道瓊50K→跌537，波動加劇。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股週五大跌：道瓊-537、Nasdaq-1.54%，Nvidia-4%領跌",
+        "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "殖利率飆升+Trump-Xi峰會失望+獲利了結。本週Nvidia財報成焦點。"
+      },
+      {
+        "title": "下週焦點：Nvidia財報（週三）將決定AI股走向",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-bond-yields-jump-to-cap-volatile-week-ahead-of-nvidia-earnings-224527328.html",
+        "source": "Yahoo Finance",
+        "desc": "市場等待AI龍頭業績驗證成長故事。"
+      },
+      {
+        "title": "CLARITY法案通過本週推動加密股暴漲",
+        "url": "https://www.forbes.com/sites/aliciapark/2026/05/14/crypto-stocks-surge-as-senate-committee-advances-long-stalled-clarity-act/",
+        "source": "Forbes",
+        "desc": "Coinbase +9%為單日最大漲幅。"
+      },
+      {
+        "title": "Trump-Xi峰會成果：波音200架+Nvidia H200對中許可",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-s-and-p-500-breaks-7-500-for-the-first-time",
+        "source": "Market Index",
+        "desc": "商業友好但市場認為不夠，週五獲利了結。"
+      },
+      {
+        "title": "BTC本週走勢：$80K→$82K→$79K，CLARITY利多消化中",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "短線整理，等待下一催化劑。"
+      }
+    ],
+    "stock_briefing": {
+      "date": "2026-05-18",
+      "sparkline": [
+        42021,
+        42232,
+        41898,
+        41375,
+        41752,
+        41752,
+        41400
+      ],
+      "sparkline_dates": [
+        "5/9",
+        "5/11",
+        "5/12",
+        "5/13",
+        "5/14",
+        "5/15",
+        "5/18E"
+      ],
+      "market": {
+        "index": "41,752",
+        "change": 377,
+        "changePercent": "+0.91%",
+        "volume": "1.217兆",
+        "futures": "41,400 (-0.84%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -1.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": -1.2
+        },
+        {
+          "name": "記憶體",
+          "change": -2
+        },
+        {
+          "name": "PCB/載板",
+          "change": -0.5
+        },
+        {
+          "name": "金融保險",
+          "change": -0.3
+        },
+        {
+          "name": "傳產",
+          "change": -0.2
+        },
+        {
+          "name": "航運",
+          "change": 0.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.2
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 預期開低",
+          "note": "美股週五Nvidia-4%拖累晶片股，台積電預期跟跌。本週三Nvidia財報為關鍵"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 預期開低",
+          "note": "跟隨大盤預期開低，台積電佔比過高"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 防禦",
+          "note": "美股大跌時高息ETF相對抗跌，資金避險流入"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 防禦",
+          "note": "ESG+高息在波動環境下具防禦價值"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "高息標的在修正時相對強勢"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "平 持平",
+          "note": "價值型抗跌"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 預期開低",
+          "note": "與0050走勢相近"
+        },
+        {
+          "name": "00892 富邦台灣半導體",
+          "trend": "跌 預期開低",
+          "note": "半導體族群受Nvidia拖累"
+        },
+        {
+          "name": "00891 中信關鍵半導體",
+          "trend": "跌 預期開低",
+          "note": "跟隨半導體修正"
+        },
+        {
+          "name": "00981A 主動統一台股增長",
+          "trend": "跌 預期回檔",
+          "note": "主動型在大盤修正時波動較大"
+        },
+        {
+          "name": "00982A 主動群益台灣強棒",
+          "trend": "跌 預期回檔",
+          "note": "主動型跟隨修正"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 小跌",
+          "note": "科技成分受壓但月配息緩衝"
+        },
+        {
+          "name": "00403A 主動型ETF",
+          "trend": "跌 預期回檔",
+          "note": "新上市主動型在波動環境下需注意溢價收斂風險"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 預期開低",
+          "note": "跟隨大盤"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 防禦",
+          "note": "避險資金流入"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 防禦",
+          "note": "ESG+高息"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 小跌",
+          "note": "科技受壓"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "高息抗跌"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "平 持平",
+          "note": "價值型"
+        }
+      ],
+      "institutional": {
+        "外資": -150,
+        "投信": 10,
+        "自營商": -25
+      },
+      "sentiment": {
+        "score": 48,
+        "label": "中性偏空 — 美股週五大跌+Nvidia財報前觀望+伊朗風險升溫",
+        "history": [
+          52,
+          58,
+          65,
+          55,
+          52,
+          52,
+          48
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊",
+          "change": -1.07
+        },
+        {
+          "name": "Nasdaq",
+          "change": -1.54
+        },
+        {
+          "name": "Nvidia",
+          "change": -4
+        },
+        {
+          "name": "WTI原油",
+          "change": 2.5
+        },
+        {
+          "name": "Bitcoin",
+          "change": -1.5
+        },
+        {
+          "name": "美元指數",
+          "change": 0.3
+        }
+      ],
+      "buffett_indicator": {
+        "value": 198,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "美股週五大跌：道瓊-537跌破50,000、Nasdaq-1.54%、Nvidia-4%",
+        "Trump週日警告伊朗「時鐘正在滴答作響」，油價上漲",
+        "本週三Nvidia財報：AI龍頭業績將驗證成長故事",
+        "美股期貨週日夜盤下跌（道瓊-0.2%、Nasdaq-0.5%）",
+        "殖利率飆升壓制科技股，通膨擔憂持續",
+        "Trump-Xi峰會結束：波音200架+Nvidia H200對中許可，但市場認為不夠",
+        "台股期貨夜盤-0.84%至41,400，預期今日開低"
+      ],
+      "summary": "⚠️ 預期開低：美股週五大跌（道瓊-537、Nvidia-4%）+Trump警告伊朗+期貨-0.84%。本週關鍵：週三Nvidia財報。建議：今日觀望不追空，等Nvidia財報結果再決定方向。高股息ETF（0056、00878）在波動環境下持續具防禦價值。",
+      "searched": [
+        "00891A"
+      ]
+    },
+    "summaries": {
+      "ai": "Microsoft Copilot分析分頁、Google Googlebook AI筆電、Android 17 Gemini、核能新創加速、Anthropic超越OpenAI、OpenAI 40億部署公司。",
+      "gaming": "Subnautica 2持續創紀錄、Forza Horizon 6威脅封鎖洩漏玩家、GeForce NOW支援新作。",
+      "tech": "Google Googlebook AI筆電、Amazon Alexa購物、核能新創、Forza洩漏安全問題、Copilot更新。",
+      "crypto": "BTC週末$79-80K整理、CLARITY利多消化、加密股本週暴漲回顧、下週Nvidia財報影響風險偏好。",
+      "dev": "AI Agent長期實驗、Android 17 API、Steam預載安全問題、AI依賴症持續。",
+      "finance": "美股週五大跌（道瓊-537、Nvidia-4%）。台股期貨-0.84%預期開低。本週關注：Nvidia財報（週三）。Trump警告伊朗，油價上漲。",
+      "art": "del Toro反AI、Subnautica 2 UE5視覺。",
+      "design": "Google Googlebook AI-first設計、AI設計91%。",
+      "business": "三巨頭AI更新、核能新創、美股波動加劇。"
+    }
+  }
+}
