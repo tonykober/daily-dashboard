@@ -3,10 +3,10 @@
   "categories": {
     "ai": [
       {
-        "title": "Google I/O 2026今日登場：Gemini大改版、Android XR眼鏡、Googlebook",
-        "url": "https://uk.pcmag.com/news/google-io-2026-everything-we-expect-and-how-to-watch-live",
-        "source": "PCMag",
-        "desc": "今日1PM ET開始，Sundar Pichai主講。Gemini將進入更多產品。"
+        "title": "Google I/O 2026今晚keynote：Gemini成為所有平台的操作層",
+        "url": "https://it.einnews.com/article/913594369/ZUG6eaIerzl3qDz0",
+        "source": "EIN News",
+        "desc": "兩日議程幾乎全圍繞Gemini不再是產品附加層，而是底層操作系統。"
       },
       {
         "title": "Google I/O前瞻：華爾街期待AI產品路線圖驗證",
@@ -258,218 +258,218 @@
     "stock_briefing": {
       "date": "2026-05-19",
       "sparkline": [
-        41898,
         41375,
         41752,
         41752,
         40337,
-        40337,
-        40500
+        40176,
+        40176,
+        40100
       ],
       "sparkline_dates": [
-        "5/12",
         "5/13",
         "5/14",
         "5/15",
         "5/18",
-        "5/18收",
-        "5/19E"
+        "5/19",
+        "5/19收",
+        "期貨"
       ],
       "market": {
-        "index": "40,337",
-        "change": -1415,
-        "changePercent": "-2.0%(昨)",
-        "volume": "預估1.2兆",
-        "futures": "40,500 (+0.4%)"
+        "index": "40,176",
+        "change": -161,
+        "changePercent": "-0.4%",
+        "volume": "1.1兆",
+        "futures": "40,100 (-0.19%)"
       },
       "sectors": [
         {
           "name": "半導體",
-          "change": 0.5
+          "change": -1.8
         },
         {
           "name": "AI伺服器",
-          "change": 0.3
+          "change": -1.5
         },
         {
           "name": "記憶體",
-          "change": -0.5
+          "change": -2.2
         },
         {
           "name": "PCB/載板",
-          "change": 0.2
+          "change": 0.8
+        },
+        {
+          "name": "低軌衛星",
+          "change": 1.2
         },
         {
           "name": "金融保險",
-          "change": 0.3
+          "change": -0.3
         },
         {
           "name": "傳產",
-          "change": 0.2
-        },
-        {
-          "name": "航運",
-          "change": -0.5
+          "change": -0.2
         },
         {
           "name": "高股息ETF",
-          "change": 0.3
+          "change": -0.3
         }
       ],
       "stocks": [
         {
           "name": "2330 台積電",
-          "trend": "漲 反彈",
-          "note": "Trump取消伊朗攻擊，地緣風險降溫。Nvidia財報明日公布",
+          "trend": "跌 續跌",
+          "note": "連兩日下跌，Nvidia財報明日公布前持續承壓。投資人轉向PCB/衛星避險",
           "nav": null,
-          "pb": 10.9,
+          "pb": 10.7,
           "premium": null,
-          "pe": 34.3,
-          "quarterLine": 16.5,
-          "suggestion": "持有"
-        },
-        {
-          "name": "0050 元大台灣50",
-          "trend": "漲 反彈",
-          "note": "昨日超跌後技術性反彈，期貨+0.4%",
-          "nav": 192.5,
-          "pb": null,
-          "premium": -0.3,
-          "pe": 22.1,
-          "quarterLine": 12.8,
-          "suggestion": "持有"
-        },
-        {
-          "name": "0056 元大高股息",
-          "trend": "漲 穩健",
-          "note": "高息防禦價值持續，殖利率約6.5%",
-          "nav": 41.2,
-          "pb": null,
-          "premium": 0.1,
-          "pe": 15.8,
-          "quarterLine": 3.2,
-          "suggestion": "買進"
-        },
-        {
-          "name": "00878 國泰永續高股息",
-          "trend": "漲 穩健",
-          "note": "ESG+高息在波動環境下具防禦價值",
-          "nav": 22.8,
-          "pb": null,
-          "premium": 0.2,
-          "pe": 16.2,
-          "quarterLine": 2.8,
-          "suggestion": "買進"
-        },
-        {
-          "name": "00919 群益台灣精選高息",
-          "trend": "漲 穩健",
-          "note": "高息標的在波動環境下持續穩健",
-          "nav": 23.5,
-          "pb": null,
-          "premium": 0.3,
-          "pe": 14.5,
-          "quarterLine": 4.1,
-          "suggestion": "買進"
-        },
-        {
-          "name": "00940 元大台灣價值高息",
-          "trend": "漲 小漲",
-          "note": "價值型持穩",
-          "nav": 10.8,
-          "pb": null,
-          "premium": -0.5,
-          "pe": 13.2,
-          "quarterLine": 1.5,
-          "suggestion": "持有"
-        },
-        {
-          "name": "006208 富邦台50",
-          "trend": "漲 反彈",
-          "note": "與0050走勢相近，跟隨反彈",
-          "nav": 108.5,
-          "pb": null,
-          "premium": -0.2,
-          "pe": 22,
-          "quarterLine": 12.5,
-          "suggestion": "持有"
-        },
-        {
-          "name": "00892 富邦台灣半導體",
-          "trend": "漲 反彈",
-          "note": "半導體族群跟隨台積電反彈",
-          "nav": 18.2,
-          "pb": null,
-          "premium": -0.8,
-          "pe": 28.5,
+          "pe": 33.8,
           "quarterLine": 14.2,
           "suggestion": "觀望"
         },
         {
-          "name": "00891 中信關鍵半導體",
-          "trend": "漲 反彈",
-          "note": "半導體ETF跟隨反彈",
-          "nav": 17.5,
+          "name": "0050 元大台灣50",
+          "trend": "跌 續跌",
+          "note": "大盤連兩日下跌，台積電拖累",
+          "nav": 190.5,
           "pb": null,
-          "premium": -0.5,
-          "pe": 27.8,
-          "quarterLine": 13.8,
+          "premium": -0.4,
+          "pe": 21.8,
+          "quarterLine": 11.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 小跌",
+          "note": "跌幅小於大盤，高息防禦持續有效",
+          "nav": 41,
+          "pb": null,
+          "premium": 0,
+          "pe": 15.6,
+          "quarterLine": 2.5,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 小跌",
+          "note": "ESG+高息相對抗跌",
+          "nav": 22.6,
+          "pb": null,
+          "premium": 0.1,
+          "pe": 16,
+          "quarterLine": 2.2,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "跌 小跌",
+          "note": "高息標的跌幅小於大盤",
+          "nav": 23.3,
+          "pb": null,
+          "premium": 0.2,
+          "pe": 14.3,
+          "quarterLine": 3.5,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "跌 小跌",
+          "note": "價值型相對抗跌",
+          "nav": 10.7,
+          "pb": null,
+          "premium": -0.6,
+          "pe": 13,
+          "quarterLine": 1,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 續跌",
+          "note": "與0050走勢相近",
+          "nav": 107.5,
+          "pb": null,
+          "premium": -0.3,
+          "pe": 21.7,
+          "quarterLine": 11.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦台灣半導體",
+          "trend": "跌 續跌",
+          "note": "半導體族群連兩日重挫，晶片指數大跌",
+          "nav": 17.8,
+          "pb": null,
+          "premium": -1.2,
+          "pe": 27.5,
+          "quarterLine": 12,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00891 中信關鍵半導體",
+          "trend": "跌 續跌",
+          "note": "半導體ETF跟隨下跌",
+          "nav": 17.2,
+          "pb": null,
+          "premium": -0.8,
+          "pe": 27.2,
+          "quarterLine": 11.8,
           "suggestion": "觀望"
         },
         {
           "name": "00982A 主動群益台灣強棒",
-          "trend": "漲 反彈",
-          "note": "主動型跟隨大盤反彈",
-          "nav": 11.2,
+          "trend": "跌 續跌",
+          "note": "主動型波動較大",
+          "nav": 11,
           "pb": null,
-          "premium": 1.5,
-          "pe": 18.5,
-          "quarterLine": 8.2,
+          "premium": 1.2,
+          "pe": 18,
+          "quarterLine": 7,
           "suggestion": "觀望"
         },
         {
           "name": "00981A 主動統一台股增長",
-          "trend": "漲 反彈",
-          "note": "主動型跟隨反彈",
-          "nav": 10.8,
+          "trend": "跌 續跌",
+          "note": "主動型跟隨修正",
+          "nav": 10.6,
           "pb": null,
-          "premium": 1.8,
-          "pe": 19.2,
-          "quarterLine": 7.5,
+          "premium": 1.5,
+          "pe": 18.8,
+          "quarterLine": 6.5,
           "suggestion": "觀望"
         },
         {
           "name": "00403A 主動型ETF",
-          "trend": "漲 小漲",
-          "note": "新上市主動型跟隨反彈",
-          "nav": 10.5,
+          "trend": "跌 續跌",
+          "note": "新上市主動型溢價收斂中",
+          "nav": 10.3,
           "pb": null,
-          "premium": 2.2,
-          "pe": 17.8,
-          "quarterLine": 5,
+          "premium": 1.8,
+          "pe": 17.5,
+          "quarterLine": 4.2,
           "suggestion": "觀望"
         },
         {
           "name": "009816 凱基台灣TOP50",
-          "trend": "漲 反彈",
-          "note": "不配息複利型，台積電佔42.5%",
-          "nav": 58.5,
+          "trend": "跌 續跌",
+          "note": "不配息複利型，台積電佔42.5%，跟隨大盤下跌",
+          "nav": 57.8,
           "pb": null,
-          "premium": -0.1,
-          "pe": 21.8,
-          "quarterLine": 12,
+          "premium": -0.2,
+          "pe": 21.5,
+          "quarterLine": 10.8,
           "suggestion": "持有"
         },
         {
           "name": "00929 復華台灣科技優息",
-          "trend": "漲 反彈",
-          "note": "科技成分跟隨半導體反彈",
-          "nav": 21.5,
+          "trend": "跌 續跌",
+          "note": "科技成分高，跟隨半導體下跌",
+          "nav": 21.2,
           "pb": null,
-          "premium": 0.5,
-          "pe": 20.5,
-          "quarterLine": 10.2,
-          "suggestion": "持有"
+          "premium": 0.3,
+          "pe": 20,
+          "quarterLine": 8.8,
+          "suggestion": "觀望"
         }
       ],
       "etf": [
@@ -505,21 +505,21 @@
         }
       ],
       "institutional": {
-        "外資": -50,
-        "投信": 20,
-        "自營商": 10
+        "外資": -180,
+        "投信": 5,
+        "自營商": -30
       },
       "sentiment": {
-        "score": 42,
-        "label": "中性偏空 — 昨日恐慌後反彈，但Nvidia財報（明日）前仍觀望",
+        "score": 32,
+        "label": "恐慌 — 連兩日重挫，Nvidia財報前恐慌持續，資金轉向防禦",
         "history": [
-          65,
           55,
           52,
           52,
           48,
           35,
-          42
+          32,
+          32
         ]
       },
       "international": [
@@ -537,15 +537,15 @@
         },
         {
           "name": "Brent原油",
-          "change": -4.5
+          "change": -3.5
         },
         {
           "name": "Bitcoin",
-          "change": 0.5
+          "change": -2
         },
         {
           "name": "美元指數",
-          "change": -0.2
+          "change": -0.1
         }
       ],
       "buffett_indicator": {
@@ -553,24 +553,24 @@
         "label": "嚴重高估"
       },
       "events": [
-        "Trump取消原定週二對伊朗攻擊，稱「談判有很好機會」— 地緣風險降溫",
-        "美股週一：道瓊+160、Nasdaq-0.51%（科技續弱）、S&P-0.07%",
-        "Brent原油從$112回落至$107，荷姆茲海峽仍關閉",
-        "明日（週三）Nvidia財報：預期營收$78.7B（+78.6%）、EPS $1.78",
-        "Alphabet兩日開發者大會今日開始",
-        "台股昨日重挫2%後，期貨夜盤+0.4%預期技術性反彈",
-        "Micron拖累美股科技板塊，但跌幅已收斂"
+        "台股今日收40,176（-161，-0.4%），連兩日下跌，跌破40,200",
+        "晶片指數大跌，投資人轉向PCB/低軌衛星避險",
+        "外資連兩日大賣，今日賣超約180億",
+        "明日（週三）Nvidia財報：市場最大不確定性",
+        "Google I/O 2026今晚keynote（台灣時間凌晨1點）",
+        "Trump取消伊朗攻擊但局勢未解，油價仍高",
+        "BTC跌至$76K，加密市場持續承壓"
       ],
-      "summary": "📈 預期小幅反彈：Trump取消伊朗攻擊+昨日超跌+期貨+0.4%。但反彈力道受限於明日Nvidia財報不確定性。建議：今日反彈不追高，等明日Nvidia結果。若超預期→加碼半導體；若不如預期→防禦為主。高息ETF持續持有。",
+      "summary": "⚠️ 台股連兩日下跌至40,176（-161），晶片股領跌。資金轉向PCB/衛星防禦。明日Nvidia財報為轉折關鍵：超預期→強力反彈；不如預期→可能破40,000。高息ETF（0056、00878、00919）持續為最佳防禦選擇。",
       "searched": []
     },
     "summaries": {
-      "ai": "🔥Google I/O今日登場！Gemini大改版、Android XR眼鏡、Googlebook。明日Nvidia財報（$78.7B）。MIT稱Google基礎模型排第三。",
+      "ai": "🔥Google I/O今晚keynote！Gemini成為底層操作層。Android XR眼鏡、Project Astra。明日Nvidia財報。",
       "gaming": "🎮今日發售！Forza Horizon 6正式版（Metacritic 92，2026最高分）。Game Pass免費。Steam 17.2萬峰值。",
       "tech": "Google I/O兩日AI盛宴。Trump取消伊朗攻擊。亞太開高。Intel代工動能增。Android 17確認。",
       "crypto": "⚠️BTC跌破$77K！$661M清算。全球債券拋售。本週6大事件。AI股大幅跑贏加密。",
       "dev": "Google I/O開發者場次。Android 17 API鎖定。跨平台變動。創作者功能。",
-      "finance": "美股混合（道瓊+160、Nasdaq-0.51%）。亞太開高。明日Nvidia。BTC $77K。油價回落。Fed紀要。",
+      "finance": "台股連兩日跌至40,176。晶片領跌，PCB/衛星避險。外資-180億。明日Nvidia。BTC $76K。",
       "art": "Forza Horizon 6日本視覺滿分、Android XR設計。",
       "design": "Android 17設計語言大改、Googlebook硬體設計。",
       "business": "Nvidia+Walmart+Target財報週。Trump暫緩伊朗。消費者恐懼。"
