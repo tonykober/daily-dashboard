@@ -1,0 +1,495 @@
+{
+  "date": "2026-05-19",
+  "categories": {
+    "ai": [
+      {
+        "title": "本週焦點：Nvidia財報（週三）將驗證AI需求故事，預期營收$78.7B",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-to-report-q1-earnings-as-chip-stocks-soar-on-ai-strength-191200180.html",
+        "source": "Yahoo Finance",
+        "desc": "Q1營收預期成長78.6%，毛利率74.5%，指引將決定AI股走向。"
+      },
+      {
+        "title": "Nvidia $780億財報考驗：能否揭示真正的AI需求規模",
+        "url": "https://www.fool.com/investing/2026/05/14/nvidias-78-billion-earnings-test-could-reveal-the/",
+        "source": "Motley Fool",
+        "desc": "投資人期望可能比數字本身更難超越。"
+      },
+      {
+        "title": "Alphabet兩日開發者大會本週登場，AI基礎建設投資持續性受檢驗",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-earnings-alphabet-conference-other-170002623.html",
+        "source": "Yahoo Finance",
+        "desc": "Nvidia+Alphabet雙重考驗AI投資故事。"
+      },
+      {
+        "title": "Microsoft Copilot可分析瀏覽器分頁、Google推Googlebook AI筆電",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "三巨頭AI產品持續進化。"
+      },
+      {
+        "title": "Anthropic企業市場超越OpenAI，ChatGPT變身個人理財助手",
+        "url": "https://www.neuralbuddies.com/p/ai-news-recap-may-15-2026",
+        "source": "Neural Buddies",
+        "desc": "Pro用戶可連接銀行帳戶分析交易。"
+      },
+      {
+        "title": "華爾街看到AI「換班」：Intel、AMD飆漲而Nvidia落後",
+        "url": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
+        "source": "CNBC",
+        "desc": "AI晶片投資從Nvidia擴散到Intel、AMD、Micron。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Nvidia財報前瞻：為何分析師說可能暴跌",
+        "url": "https://www.fool.com/investing/2026/05/11/palantir-show-why-nvidia-stock-can-plunge-may-21/",
+        "source": "Motley Fool",
+        "desc": "Palantir案例顯示超預期也可能跌。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "明日發售：Forza Horizon 6正式版登陸Game Pass（日本場景）",
+        "url": "https://gamingbolt.com/forza-horizon-6-subnautica-2-and-mixtape-headline-wave-1-of-game-pass-in-may",
+        "source": "Gaming Bolt",
+        "desc": "5/19正式上線，高級版已達Steam 17.2萬同時在線。"
+      },
+      {
+        "title": "Forza Horizon 6高級版Steam銷量超越前作：峰值17.2萬玩家",
+        "url": "https://www.ign.com/articles/forza-horizon-6-is-only-officially-playable-now-to-those-who-bought-its-pricier-premium-edition-but-its-still-putting-up-big-numbers-on-steam",
+        "source": "IGN",
+        "desc": "$119.99高級版表現遠超Forza Horizon 5的8萬峰值。"
+      },
+      {
+        "title": "Forza Horizon 6上週Steam最暢銷遊戲（正式發售前）",
+        "url": "https://www.windowscentral.com/gaming/forza/xboxs-forza-horizon-6-was-the-best-selling-game-on-steam-last-week-well-ahead-of-launch",
+        "source": "Windows Central",
+        "desc": "僅次於Subnautica 2，正式版明日上線預期更高。"
+      },
+      {
+        "title": "Subnautica 2持續稱霸：200萬銷量後仍為Steam第一",
+        "url": "https://comicbook.com/gaming/news/steam-pc-best-selling-game-subnautica-2-crimson-desert/",
+        "source": "Comic Book",
+        "desc": "UE5+4人合作推動病毒式傳播。"
+      },
+      {
+        "title": "5月Game Pass最強陣容：Forza Horizon 6、Subnautica 2、Mixtape等13款",
+        "url": "https://www.videogameschronicle.com/news/xbox-details-the-next-13-game-pass-titles-including-forza-horizon-6-mixtape-and-subnautica-2/",
+        "source": "VGC",
+        "desc": "Xbox史上最強月份之一。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "本週科技焦點：Nvidia財報+Alphabet開發者大會雙重考驗",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-earnings-alphabet-conference-other-170002623.html",
+        "source": "Yahoo Finance",
+        "desc": "AI基礎建設投資持續性將被驗證。"
+      },
+      {
+        "title": "華爾街AI晶片愛好轉移：從Nvidia擴散到Intel、AMD、Micron",
+        "url": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
+        "source": "CNBC",
+        "desc": "AI投資從集中走向分散。"
+      },
+      {
+        "title": "Forza Horizon 6明日正式發售：Game Pass日本賽車大作",
+        "url": "https://gamingbolt.com/forza-horizon-6-subnautica-2-and-mixtape-headline-wave-1-of-game-pass-in-may",
+        "source": "Gaming Bolt",
+        "desc": "Steam高級版已超越前作峰值。"
+      },
+      {
+        "title": "Trump警告伊朗「時鐘正在滴答作響」，油價上漲",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-nvidia-walmart-earnings/",
+        "source": "Investor's Business Daily",
+        "desc": "地緣政治風險再升溫。"
+      },
+      {
+        "title": "Google Googlebook AI筆電：Gemini嵌入ChromeOS挑戰MacBook",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "今秋上市，混合Android-ChromeOS。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC週末$79-80K整理，本週Nvidia財報影響風險偏好",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-bond-yields-jump-to-cap-volatile-week-ahead-of-nvidia-earnings-224527328.html",
+        "source": "Yahoo Finance",
+        "desc": "加密市場與科技股連動，等待新催化劑。"
+      },
+      {
+        "title": "CLARITY法案通過後市場消化：短線利多出盡，長期正面",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/why-clarity-act-bipartisan-support-125718522.html",
+        "source": "Yahoo Finance",
+        "desc": "法案仍需全院表決，但方向已定。"
+      },
+      {
+        "title": "加密股上週暴漲回顧：Coinbase +9%、Strategy +8%",
+        "url": "https://www.forbes.com/sites/aliciapark/2026/05/14/crypto-stocks-surge-as-senate-committee-advances-long-stalled-clarity-act/",
+        "source": "Forbes",
+        "desc": "CLARITY通過推動單日最大漲幅。"
+      },
+      {
+        "title": "XRP漲至2個月新高後回落，等待全院表決",
+        "url": "https://www.tradingview.com/news/financemagnates:58fadd4f6094b:0-why-is-crypto-going-up-clarity-act-pushes-xrp-price-to-2-month-high-as-bitcoin-dogecoin-and-ethereum-follow/",
+        "source": "TradingView",
+        "desc": "CLARITY催化效應消退中。"
+      },
+      {
+        "title": "Nvidia財報預期營收$78.7B：若超預期將提振風險資產包括加密",
+        "url": "https://www.cmcmarkets.com/en-gb/news-and-analysis/the-week-ahead-nvidia-earnings-uk-japan-cpi",
+        "source": "CMC Markets",
+        "desc": "AI龍頭業績影響整體風險偏好。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia財報前瞻：開發者關注AI算力供需與定價趨勢",
+        "url": "https://www.cmcmarkets.com/en-gb/news-and-analysis/the-week-ahead-nvidia-earnings-uk-japan-cpi",
+        "source": "CMC Markets",
+        "desc": "Q1毛利率74.5%預期，GPU供需影響開發成本。"
+      },
+      {
+        "title": "Alphabet開發者大會本週登場：AI API與工具更新",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-earnings-alphabet-conference-other-170002623.html",
+        "source": "Yahoo Finance",
+        "desc": "Gemini API、Android 17開發者工具預期公布。"
+      },
+      {
+        "title": "AI Agent長期實驗「Emergence World」：多模型自主運作數週",
+        "url": "https://cybernews.com/ai-news/",
+        "source": "Cybernews",
+        "desc": "AI Agent展現意想不到的行為。"
+      },
+      {
+        "title": "開發者AI困境持續：過度依賴導致技能退化",
+        "url": "https://thenewstack.io/ai-coding-tools-reckoning/",
+        "source": "The New Stack",
+        "desc": "業界反思AI工具長期影響。"
+      }
+    ],
+    "art": [
+      {
+        "title": "del Toro坎城痛批AI取代藝術",
+        "url": "https://www.thewrap.com/category/artificial-intelligence/",
+        "source": "The Wrap",
+        "desc": "強烈反對AI創作。"
+      },
+      {
+        "title": "Forza Horizon 6日本場景視覺設計獲讚",
+        "url": "https://www.ign.com/articles/forza-horizon-6-is-only-officially-playable-now-to-those-who-bought-its-pricier-premium-edition-but-its-still-putting-up-big-numbers-on-steam",
+        "source": "IGN",
+        "desc": "櫻花、東京街道等日本美學呈現。"
+      }
+    ],
+    "design": [
+      {
+        "title": "AI設計工具使用率91%",
+        "url": "https://www.guidde.com/knowledge-hub/how-to-create-tutorial-videos-with-ai-guide-2026",
+        "source": "Guidde",
+        "desc": "2026設計趨勢。"
+      },
+      {
+        "title": "Google Googlebook：AI-first筆電設計理念",
+        "url": "https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-market-shifts-define-this-week-in-tech/",
+        "source": "TechRepublic",
+        "desc": "Magic Pointer等AI原生互動。"
+      }
+    ],
+    "business": [
+      {
+        "title": "本週財報焦點：Nvidia（週三）+Walmart（週四）+Home Depot",
+        "url": "https://www.fxleaders.com/news/2026/05/17/forex-signals-may-18-nvidia-walmart-baidu-home-depot-and-ryanair-earnings-preview-for-the-week/",
+        "source": "FX Leaders",
+        "desc": "AI支出+消費需求雙重檢驗。"
+      },
+      {
+        "title": "Nvidia預期EPS $1.78、營收$78.98B：AI需求能否持續",
+        "url": "https://www.cmcmarkets.com/en-gb/news-and-analysis/the-week-ahead-nvidia-earnings-uk-japan-cpi",
+        "source": "CMC Markets",
+        "desc": "毛利率74.5%，指引為關鍵。"
+      },
+      {
+        "title": "Trump警告伊朗+油價上漲：地緣政治風險本週持續",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-nvidia-walmart-earnings/",
+        "source": "Investor's Business Daily",
+        "desc": "道瓊期貨週日夜盤下跌。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股期貨週日下跌：Trump警告伊朗+Nvidia財報前觀望",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-nvidia-walmart-earnings/",
+        "source": "Investor's Business Daily",
+        "desc": "道瓊-0.2%、Nasdaq-0.5%，油價上漲。"
+      },
+      {
+        "title": "本週焦點：Nvidia財報（週三）+Alphabet大會+Walmart",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-earnings-alphabet-conference-other-170002623.html",
+        "source": "Yahoo Finance",
+        "desc": "AI投資持續性將被驗證。"
+      },
+      {
+        "title": "Nvidia Q1預期：營收$78.7B（+78.6%）、EPS $1.78",
+        "url": "https://www.cmcmarkets.com/en-gb/news-and-analysis/the-week-ahead-nvidia-earnings-uk-japan-cpi",
+        "source": "CMC Markets",
+        "desc": "毛利率74.5%，指引決定後市。"
+      },
+      {
+        "title": "美股上週回顧：創新高後週五大跌，本週波動預期加大",
+        "url": "https://ts2.tech/en/wall-streets-record-rally-was-hit-by-oil-and-bonds-nvidia-is-next/",
+        "source": "TS2",
+        "desc": "週線微幅收漲但動能減弱。"
+      },
+      {
+        "title": "台股期貨夜盤-0.84%至41,400，預期今日開低",
+        "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "跟隨美股週五大跌修正。"
+      },
+      {
+        "title": "BTC $79-80K整理，Nvidia財報將影響風險偏好",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-bond-yields-jump-to-cap-volatile-week-ahead-of-nvidia-earnings-224527328.html",
+        "source": "Yahoo Finance",
+        "desc": "加密與科技股連動等待催化。"
+      }
+    ],
+    "stock_briefing": {
+      "date": "2026-05-19",
+      "sparkline": [
+        41898,
+        41375,
+        41752,
+        41752,
+        40337,
+        40337,
+        40500
+      ],
+      "sparkline_dates": [
+        "5/12",
+        "5/13",
+        "5/14",
+        "5/15",
+        "5/18",
+        "5/18收",
+        "5/19E"
+      ],
+      "market": {
+        "index": "40,337",
+        "change": -1415,
+        "changePercent": "-2.0%(昨)",
+        "volume": "預估1.2兆",
+        "futures": "40,500 (+0.4%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 0.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": 0.3
+        },
+        {
+          "name": "記憶體",
+          "change": -0.5
+        },
+        {
+          "name": "PCB/載板",
+          "change": 0.2
+        },
+        {
+          "name": "金融保險",
+          "change": 0.3
+        },
+        {
+          "name": "傳產",
+          "change": 0.2
+        },
+        {
+          "name": "航運",
+          "change": -0.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.3
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 反彈",
+          "note": "Trump取消伊朗攻擊計畫，地緣風險降溫。美股Nasdaq僅-0.51%跌幅收斂，台積電預期小幅反彈"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "昨日超跌後技術性反彈，期貨+0.4%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩健",
+          "note": "昨日抗跌今日持穩，高息防禦價值持續"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "ESG+高息持續吸引避險資金"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "高息標的在波動環境下持續穩健"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "漲 小漲",
+          "note": "價值型持穩"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 反彈",
+          "note": "與0050走勢相近，跟隨反彈"
+        },
+        {
+          "name": "00892 富邦台灣半導體",
+          "trend": "漲 反彈",
+          "note": "半導體族群跟隨台積電反彈"
+        },
+        {
+          "name": "00891 中信關鍵半導體",
+          "trend": "漲 反彈",
+          "note": "半導體ETF跟隨反彈"
+        },
+        {
+          "name": "00982A 主動群益台灣強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨大盤反彈"
+        },
+        {
+          "name": "00981A 主動統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨反彈"
+        },
+        {
+          "name": "00403A 主動型ETF",
+          "trend": "漲 小漲",
+          "note": "新上市主動型跟隨反彈"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 反彈",
+          "note": "不配息複利型，台積電佔42.5%，跟隨大盤反彈"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 反彈",
+          "note": "科技成分跟隨半導體反彈"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "期貨+0.4%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩健",
+          "note": "高息防禦"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "ESG+高息"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 反彈",
+          "note": "科技反彈"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "高息抗跌"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 反彈",
+          "note": "不配息複利型"
+        }
+      ],
+      "institutional": {
+        "外資": -50,
+        "投信": 20,
+        "自營商": 10
+      },
+      "sentiment": {
+        "score": 42,
+        "label": "中性偏空 — 昨日恐慌後反彈，但Nvidia財報（明日）前仍觀望",
+        "history": [
+          65,
+          55,
+          52,
+          52,
+          48,
+          35,
+          42
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週一)",
+          "change": 0.32
+        },
+        {
+          "name": "Nasdaq(週一)",
+          "change": -0.51
+        },
+        {
+          "name": "S&P 500(週一)",
+          "change": -0.07
+        },
+        {
+          "name": "Brent原油",
+          "change": -4.5
+        },
+        {
+          "name": "Bitcoin",
+          "change": 0.5
+        },
+        {
+          "name": "美元指數",
+          "change": -0.2
+        }
+      ],
+      "buffett_indicator": {
+        "value": 195,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "Trump取消原定週二對伊朗攻擊，稱「談判有很好機會」— 地緣風險降溫",
+        "美股週一：道瓊+160、Nasdaq-0.51%（科技續弱）、S&P-0.07%",
+        "Brent原油從$112回落至$107，荷姆茲海峽仍關閉",
+        "明日（週三）Nvidia財報：預期營收$78.7B（+78.6%）、EPS $1.78",
+        "Alphabet兩日開發者大會今日開始",
+        "台股昨日重挫2%後，期貨夜盤+0.4%預期技術性反彈",
+        "Micron拖累美股科技板塊，但跌幅已收斂"
+      ],
+      "summary": "📈 預期小幅反彈：Trump取消伊朗攻擊+昨日超跌+期貨+0.4%。但反彈力道受限於明日Nvidia財報不確定性。建議：今日反彈不追高，等明日Nvidia結果。若超預期→加碼半導體；若不如預期→防禦為主。高息ETF持續持有。",
+      "searched": []
+    },
+    "summaries": {
+      "ai": "本週焦點：Nvidia財報（週三，預期$78.7B）+Alphabet開發者大會。AI晶片投資從Nvidia擴散到Intel/AMD。Copilot/Googlebook/ChatGPT理財持續進化。",
+      "gaming": "明日Forza Horizon 6正式版上線Game Pass！高級版Steam 17.2萬峰值超越前作。Subnautica 2持續稱霸。",
+      "tech": "Nvidia+Alphabet雙重考驗AI投資。AI晶片愛好擴散。Trump警告伊朗。Googlebook AI筆電。",
+      "crypto": "BTC $79-80K整理。CLARITY利多消化中。本週Nvidia財報影響風險偏好。加密股上週暴漲回顧。",
+      "dev": "Nvidia財報影響GPU定價。Alphabet開發者大會。AI Agent實驗。AI依賴症持續。",
+      "finance": "本週關鍵：Nvidia財報（週三）+Walmart+Alphabet。美股期貨下跌。台股預期開低。Trump警告伊朗。",
+      "art": "del Toro反AI、Forza Horizon 6日本視覺。",
+      "design": "AI設計91%、Googlebook AI-first設計。",
+      "business": "Nvidia+Walmart+Home Depot財報週。Trump伊朗風險。AI需求驗證。"
+    }
+  }
+}
