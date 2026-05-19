@@ -320,72 +320,156 @@
         {
           "name": "2330 台積電",
           "trend": "漲 反彈",
-          "note": "Trump取消伊朗攻擊計畫，地緣風險降溫。美股Nasdaq僅-0.51%跌幅收斂，台積電預期小幅反彈"
+          "note": "Trump取消伊朗攻擊，地緣風險降溫。Nvidia財報明日公布",
+          "nav": null,
+          "pb": 10.9,
+          "premium": null,
+          "pe": 34.3,
+          "quarterLine": 16.5,
+          "suggestion": "持有"
         },
         {
           "name": "0050 元大台灣50",
           "trend": "漲 反彈",
-          "note": "昨日超跌後技術性反彈，期貨+0.4%"
+          "note": "昨日超跌後技術性反彈，期貨+0.4%",
+          "nav": 192.5,
+          "pb": null,
+          "premium": -0.3,
+          "pe": 22.1,
+          "quarterLine": 12.8,
+          "suggestion": "持有"
         },
         {
           "name": "0056 元大高股息",
           "trend": "漲 穩健",
-          "note": "昨日抗跌今日持穩，高息防禦價值持續"
+          "note": "高息防禦價值持續，殖利率約6.5%",
+          "nav": 41.2,
+          "pb": null,
+          "premium": 0.1,
+          "pe": 15.8,
+          "quarterLine": 3.2,
+          "suggestion": "買進"
         },
         {
           "name": "00878 國泰永續高股息",
           "trend": "漲 穩健",
-          "note": "ESG+高息持續吸引避險資金"
+          "note": "ESG+高息在波動環境下具防禦價值",
+          "nav": 22.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": 16.2,
+          "quarterLine": 2.8,
+          "suggestion": "買進"
         },
         {
           "name": "00919 群益台灣精選高息",
           "trend": "漲 穩健",
-          "note": "高息標的在波動環境下持續穩健"
+          "note": "高息標的在波動環境下持續穩健",
+          "nav": 23.5,
+          "pb": null,
+          "premium": 0.3,
+          "pe": 14.5,
+          "quarterLine": 4.1,
+          "suggestion": "買進"
         },
         {
           "name": "00940 元大台灣價值高息",
           "trend": "漲 小漲",
-          "note": "價值型持穩"
+          "note": "價值型持穩",
+          "nav": 10.8,
+          "pb": null,
+          "premium": -0.5,
+          "pe": 13.2,
+          "quarterLine": 1.5,
+          "suggestion": "持有"
         },
         {
           "name": "006208 富邦台50",
           "trend": "漲 反彈",
-          "note": "與0050走勢相近，跟隨反彈"
+          "note": "與0050走勢相近，跟隨反彈",
+          "nav": 108.5,
+          "pb": null,
+          "premium": -0.2,
+          "pe": 22,
+          "quarterLine": 12.5,
+          "suggestion": "持有"
         },
         {
           "name": "00892 富邦台灣半導體",
           "trend": "漲 反彈",
-          "note": "半導體族群跟隨台積電反彈"
+          "note": "半導體族群跟隨台積電反彈",
+          "nav": 18.2,
+          "pb": null,
+          "premium": -0.8,
+          "pe": 28.5,
+          "quarterLine": 14.2,
+          "suggestion": "觀望"
         },
         {
           "name": "00891 中信關鍵半導體",
           "trend": "漲 反彈",
-          "note": "半導體ETF跟隨反彈"
+          "note": "半導體ETF跟隨反彈",
+          "nav": 17.5,
+          "pb": null,
+          "premium": -0.5,
+          "pe": 27.8,
+          "quarterLine": 13.8,
+          "suggestion": "觀望"
         },
         {
           "name": "00982A 主動群益台灣強棒",
           "trend": "漲 反彈",
-          "note": "主動型跟隨大盤反彈"
+          "note": "主動型跟隨大盤反彈",
+          "nav": 11.2,
+          "pb": null,
+          "premium": 1.5,
+          "pe": 18.5,
+          "quarterLine": 8.2,
+          "suggestion": "觀望"
         },
         {
           "name": "00981A 主動統一台股增長",
           "trend": "漲 反彈",
-          "note": "主動型跟隨反彈"
+          "note": "主動型跟隨反彈",
+          "nav": 10.8,
+          "pb": null,
+          "premium": 1.8,
+          "pe": 19.2,
+          "quarterLine": 7.5,
+          "suggestion": "觀望"
         },
         {
           "name": "00403A 主動型ETF",
           "trend": "漲 小漲",
-          "note": "新上市主動型跟隨反彈"
+          "note": "新上市主動型跟隨反彈",
+          "nav": 10.5,
+          "pb": null,
+          "premium": 2.2,
+          "pe": 17.8,
+          "quarterLine": 5,
+          "suggestion": "觀望"
         },
         {
           "name": "009816 凱基台灣TOP50",
           "trend": "漲 反彈",
-          "note": "不配息複利型，台積電佔42.5%，跟隨大盤反彈"
+          "note": "不配息複利型，台積電佔42.5%",
+          "nav": 58.5,
+          "pb": null,
+          "premium": -0.1,
+          "pe": 21.8,
+          "quarterLine": 12,
+          "suggestion": "持有"
         },
         {
           "name": "00929 復華台灣科技優息",
           "trend": "漲 反彈",
-          "note": "科技成分跟隨半導體反彈"
+          "note": "科技成分跟隨半導體反彈",
+          "nav": 21.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": 20.5,
+          "quarterLine": 10.2,
+          "suggestion": "持有"
         }
       ],
       "etf": [
