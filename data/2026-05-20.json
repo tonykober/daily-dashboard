@@ -1,16 +1,254 @@
 {
   "date": "2026-05-20",
   "categories": {
-    "ai": [],
-    "ai_videos": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
+    "ai": [
+      {
+        "title": "Google I/O 2026：Gemini 3.5 Flash成為預設模型，4倍速超越其他前沿模型",
+        "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+        "source": "The Verge",
+        "desc": "超越3.1 Pro的編碼、Agent、多模態能力，同時保持Flash系列的速度和成本。"
+      },
+      {
+        "title": "Google推出Gemini Spark：個人AI Agent，可在Chrome中自主操作",
+        "url": "https://tech.yahoo.com/ai/gemini/article/google-launches-gemini-35-flash-spark-omni-and-more-ai-updates-at-google-io-2026-172856601.html",
+        "source": "Yahoo Tech",
+        "desc": "個人化AI代理，可自動完成任務。"
+      },
+      {
+        "title": "Google AI Ultra降價至$100/月，改用「算力使用量」取代每日提示限制",
+        "url": "https://www.techtimes.com/articles/316853/20260519/google-cuts-ai-ultra-100-launches-gemini-spark-agent-android-xr-glasses-i-o-2026.htm",
+        "source": "Tech Times",
+        "desc": "取消每日限制，改為計算使用量模式。"
+      },
+      {
+        "title": "Gemini Omni：任意輸入生成任意輸出，影片生成/編輯/多角度",
+        "url": "https://www.financialexpress.com/life/technology-google-io-2026-rounding-up-every-new-ai-hardware-announcement-made-4245394/",
+        "source": "Financial Express",
+        "desc": "從單張照片生成多角度影片、混搭場景。"
+      },
+      {
+        "title": "Samsung XR智慧眼鏡亮相：Gemini驅動，Warby Parker/Gentle Monster合作",
+        "url": "https://www.yahoo.com/tech/general/article/google-io-2026-all-the-news-and-biggest-announcements-of-the-year-for-gemini-ai-android-xr-smart-glasses-and-more-171618610.html",
+        "source": "Yahoo Tech",
+        "desc": "今秋上市，可對話、聽音樂、錄影、通話。"
+      },
+      {
+        "title": "今晚Nvidia財報：預期EPS $1.77、營收$79B，Goldman稱貢獻S&P 20%回報",
+        "url": "https://www.cnbc.com/2026/05/19/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "選擇權定價$3550億波動，可能成立$6兆俱樂部。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Google I/O 2026 Keynote完整回顧：13大公告",
+        "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+        "source": "The Verge",
+        "desc": "Gemini 3.5 Flash、Spark、Omni、XR眼鏡。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Forza Horizon 6正式發售首日Steam 27萬同時在線，系列紀錄三倍",
+        "url": "https://www.windowscentral.com/gaming/forza/forza-horizon-6-pulls-in-over-270-000-steam-players-at-launch-and-the-number-is-still-climbing-as-playgrounds-racer-picks-up-momentum",
+        "source": "Windows Central",
+        "desc": "從早期存取17萬到正式版27萬，持續攀升中。"
+      },
+      {
+        "title": "Forza Horizon 6搶先體驗期間已超過170萬玩家",
+        "url": "https://playday.one/2026/05/19/forza-horizon-6-reaches-nearly-1-7-million-players-before-full-us-launch/",
+        "source": "Playday",
+        "desc": "正式美國上線前已達168萬。"
+      },
+      {
+        "title": "Forza Horizon 6成為Xbox史上最大Steam首發",
+        "url": "https://gamingbolt.com/forza-horizon-6-is-xboxs-biggest-steam-launch-in-history/amp",
+        "source": "Gaming Bolt",
+        "desc": "排行榜顯示超過100萬高級版玩家。"
+      },
+      {
+        "title": "Forza Horizon 6搶先體驗超過140萬玩家",
+        "url": "https://www.kitguru.net/tech-news/mustafa-mahmoud/forza-horizon-6-surpassed-1-4-million-players-during-its-advanced-access-period/",
+        "source": "KitGuru",
+        "desc": "$120高級版銷售驚人，日本場景大獲好評。"
+      },
+      {
+        "title": "Forza Horizon 6 Steam峰值三倍超越前作",
+        "url": "https://www.pcgamesn.com/forza-horizon-6/player-count-double-peak",
+        "source": "PCGamesN",
+        "desc": "FH5峰值81K→FH6達270K+。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Google I/O 2026完整回顧：Gemini成為所有Google產品的底層",
+        "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+        "source": "9to5Google",
+        "desc": "搜尋、Chrome、Workspace、Android全面Gemini化。"
+      },
+      {
+        "title": "Samsung Android XR智慧眼鏡今秋上市：Gemini驅動的智慧穿戴",
+        "url": "https://www.yahoo.com/tech/general/article/google-io-2026-all-the-news-and-biggest-announcements-of-the-year-for-gemini-ai-android-xr-smart-glasses-and-more-171618610.html",
+        "source": "Yahoo Tech",
+        "desc": "與Warby Parker、Gentle Monster合作。"
+      },
+      {
+        "title": "今晚Nvidia財報：可能成為首家$6兆市值公司",
+        "url": "https://www.fool.com/investing/2026/05/19/nvidia-earnings-report-may-20-buy-stock/",
+        "source": "Motley Fool",
+        "desc": "預期營收$79B，選擇權定價巨大波動。"
+      },
+      {
+        "title": "美股連三日下跌：殖利率飆升壓制科技股",
+        "url": "https://www.cnbc.com/amp/2026/05/19/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P -0.67%、Nasdaq -0.84%、道瓊-322。"
+      },
+      {
+        "title": "Forza Horizon 6正式版Steam 27萬同時在線創紀錄",
+        "url": "https://www.pcgamesn.com/forza-horizon-6/player-count-double-peak",
+        "source": "PCGamesN",
+        "desc": "Xbox史上最大Steam首發。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Nvidia財報將決定Bitcoin下一步：ETF賣壓後等待催化劑",
+        "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/nvidia-earnings-could-decide-bitcoin-next-move-after-etf-selling-wave/cZXuUvJReNS",
+        "source": "Stocktwits",
+        "desc": "Wintermute分析：Nvidia超預期→BTC反彈。"
+      },
+      {
+        "title": "油價、Fed不確定性、Nvidia財報三重壓力下的加密市場",
+        "url": "https://defi-planet.com/2026/05/oil-fed-uncertainty-and-nvidia-earnings-put-crypto-under-market-pressure/",
+        "source": "DeFi Planet",
+        "desc": "BTC在$76-77K區間承壓。"
+      },
+      {
+        "title": "Nvidia財報為何成為加密市場關鍵指標",
+        "url": "https://www.gate.com/blog/nvidia-earnings-preview-why-may-20-has-become-a-key-signal-for-crypto-markets",
+        "source": "Gate.io",
+        "desc": "加密與傳統金融相關性持續增強。"
+      },
+      {
+        "title": "BTC vs AI股：Nvidia +18% YTD vs Bitcoin -19% YTD",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/invest-bitcoin-ai-stocks-now-133008517.html",
+        "source": "Yahoo Finance",
+        "desc": "AI股今年大幅跑贏加密貨幣。"
+      },
+      {
+        "title": "Bitcoin等待Fed會議紀要+Nvidia：$661M清算後尋底",
+        "url": "https://crypto.news/bitcoin-braces-for-fed-minutes-and-nvidia-earnings-after-661m-wipeout/",
+        "source": "Crypto News",
+        "desc": "多頭清算後市場極度謹慎。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Google I/O 2026開發者重點：Gemini 3.5 Flash API、Spark Agent SDK",
+        "url": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+        "source": "9to5Google",
+        "desc": "Agent式編碼能力大幅提升，可生成互動式Web UI。"
+      },
+      {
+        "title": "Gemini改用「算力使用量」計費：開發者成本模式改變",
+        "url": "https://www.techtimes.com/articles/316853/20260519/google-cuts-ai-ultra-100-launches-gemini-spark-agent-android-xr-glasses-i-o-2026.htm",
+        "source": "Tech Times",
+        "desc": "取消每日提示限制，改為compute-used模式。"
+      },
+      {
+        "title": "Gemini Omni API：任意輸入→任意輸出的多模態開發",
+        "url": "https://www.financialexpress.com/life/technology-google-io-2026-rounding-up-every-new-ai-hardware-announcement-made-4245394/",
+        "source": "Financial Express",
+        "desc": "影片生成、場景混搭、多角度生成。"
+      },
+      {
+        "title": "Android XR開發者工具：為智慧眼鏡打造應用",
+        "url": "https://www.yahoo.com/tech/general/article/google-io-2026-all-the-news-and-biggest-announcements-of-the-year-for-gemini-ai-android-xr-smart-glasses-and-more-171618610.html",
+        "source": "Yahoo Tech",
+        "desc": "今秋上市前開發者可提前準備。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Forza Horizon 6日本場景視覺：東京、富士山、櫻花獲滿分評價",
+        "url": "https://www.windowscentral.com/gaming/forza/forza-horizon-6-pulls-in-over-270-000-steam-players-at-launch-and-the-number-is-still-climbing-as-playgrounds-racer-picks-up-momentum",
+        "source": "Windows Central",
+        "desc": "27萬玩家湧入體驗日本美學。"
+      },
+      {
+        "title": "Samsung XR眼鏡工業設計：Gentle Monster聯名",
+        "url": "https://www.yahoo.com/tech/general/article/google-io-2026-all-the-news-and-biggest-announcements-of-the-year-for-gemini-ai-android-xr-smart-glasses-and-more-171618610.html",
+        "source": "Yahoo Tech",
+        "desc": "時尚品牌×科技的穿戴設計。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Google I/O：Gemini生成互動式Web UI和圖形的新設計範式",
+        "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+        "source": "The Verge",
+        "desc": "AI直接生成豐富互動介面。"
+      },
+      {
+        "title": "Samsung XR智慧眼鏡：Warby Parker時尚設計語言",
+        "url": "https://www.yahoo.com/tech/general/article/google-io-2026-all-the-news-and-biggest-announcements-of-the-year-for-gemini-ai-android-xr-smart-glasses-and-more-171618610.html",
+        "source": "Yahoo Tech",
+        "desc": "科技融入日常穿搭。"
+      }
+    ],
+    "business": [
+      {
+        "title": "今晚Nvidia財報：Goldman稱貢獻S&P 500今年20%回報",
+        "url": "https://www.cnbc.com/2026/05/19/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "單一公司影響力史無前例。"
+      },
+      {
+        "title": "Google I/O商業影響：AI Ultra降至$100、Spark Agent商業化",
+        "url": "https://www.techtimes.com/articles/316853/20260519/google-cuts-ai-ultra-100-launches-gemini-spark-agent-android-xr-glasses-i-o-2026.htm",
+        "source": "Tech Times",
+        "desc": "降價搶市場，Agent商業模式成形。"
+      },
+      {
+        "title": "Forza Horizon 6商業成功：170萬搶先體驗+Xbox最大Steam首發",
+        "url": "https://gamingbolt.com/forza-horizon-6-is-xboxs-biggest-steam-launch-in-history/amp",
+        "source": "Gaming Bolt",
+        "desc": "$120高級版銷售驚人，Game Pass策略奏效。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股連三日下跌：S&P -0.67%、Nasdaq -0.84%、道瓊-322",
+        "url": "https://www.cnbc.com/amp/2026/05/19/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "殖利率飆升+通膨擔憂壓制成長股。"
+      },
+      {
+        "title": "今晚Nvidia財報：預期EPS $1.77、營收$79B、選擇權定價$3550億波動",
+        "url": "https://www.fool.com/investing/2026/05/19/nvidia-earnings-report-may-20-buy-stock/",
+        "source": "Motley Fool",
+        "desc": "可能成為首家$6兆市值公司或暴跌6%。"
+      },
+      {
+        "title": "美股期貨持平等待Nvidia：Goldman稱其貢獻S&P 20%回報",
+        "url": "https://www.cnbc.com/2026/05/19/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "市場屏息以待。"
+      },
+      {
+        "title": "Nvidia財報將決定Bitcoin走向：ETF賣壓後等催化劑",
+        "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/nvidia-earnings-could-decide-bitcoin-next-move-after-etf-selling-wave/cZXuUvJReNS",
+        "source": "Stocktwits",
+        "desc": "加密與科技股連動加深。"
+      },
+      {
+        "title": "台股期貨-0.94%至39,800：連四日修正預期",
+        "url": "https://www.cnbc.com/2026/05/19/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "等今晚Nvidia結果決定方向。"
+      }
+    ],
     "stock_briefing": {
       "date": "2026-05-20",
       "updated_at": "2026-05-20 08:30",
@@ -321,6 +559,16 @@
       "summary": "⚠️ 預期續跌：美股連三跌+殖利率飆升+期貨-0.94%。今日為Nvidia財報前最後交易日，市場極度觀望。建議：今日不操作，等今晚Nvidia結果。若超預期（營收>$80B+指引>$88B）→明日強力反彈可加碼半導體；若僅符合預期或不如預期→繼續防禦。高息ETF持續為最佳避風港。",
       "searched": []
     },
-    "summaries": {}
+    "summaries": {
+      "ai": "🔥Google I/O：Gemini 3.5 Flash（4倍速）成預設、Spark個人Agent、Omni多模態、AI Ultra降至$100。Samsung XR眼鏡。今晚Nvidia財報。",
+      "gaming": "🎮Forza Horizon 6正式版Steam 27萬同時在線！系列三倍紀錄。170萬搶先體驗。Xbox最大Steam首發。",
+      "tech": "Google I/O完整回顧。Samsung XR眼鏡今秋。今晚Nvidia可能$6兆。美股連三跌。FH6 27萬。",
+      "crypto": "⚡今晚Nvidia決定BTC走向。ETF賣壓。油價+Fed+Nvidia三重壓力。BTC -19% YTD vs Nvidia +18%。",
+      "dev": "Gemini 3.5 Flash API、Spark SDK、Omni多模態、compute-used計費、Android XR開發工具。",
+      "finance": "⚡今晚Nvidia財報（$79B、$3550億波動）。美股連三跌。期貨-0.94%。Goldman：Nvidia=S&P 20%。",
+      "art": "Forza日本視覺27萬體驗、Samsung XR Gentle Monster設計。",
+      "design": "Gemini生成互動UI、Samsung XR Warby Parker設計。",
+      "business": "Nvidia=S&P 20%回報。Google AI Ultra降價。FH6商業成功。"
+    }
   }
 }
