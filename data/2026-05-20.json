@@ -251,7 +251,7 @@
     ],
     "stock_briefing": {
       "date": "2026-05-20",
-      "updated_at": "2026-05-20 08:30",
+      "updated_at": "2026-05-20 10:09",
       "sparkline": [
         41752,
         41752,
@@ -272,199 +272,191 @@
       ],
       "market": {
         "index": "40,176",
-        "change": -161,
-        "changePercent": "-0.4%(昨)",
-        "volume": "預估1.0兆",
-        "futures": "39,800 (-0.94%)"
+        "change": -715,
+        "changePercent": "-1.75%",
+        "volume": "4,800億",
+        "futures": "40,050 (-0.31%)"
       },
       "sectors": [
         {
           "name": "半導體",
-          "change": -1.5
+          "change": -2.1
         },
         {
-          "name": "AI伺服器",
-          "change": -1.2
-        },
-        {
-          "name": "記憶體",
+          "name": "電子",
           "change": -1.8
         },
         {
-          "name": "PCB/載板",
-          "change": -0.3
-        },
-        {
-          "name": "低軌衛星",
-          "change": 0.5
-        },
-        {
-          "name": "金融保險",
+          "name": "金融",
           "change": -0.5
         },
         {
           "name": "傳產",
-          "change": -0.3
+          "change": -0.8
         },
         {
-          "name": "高股息ETF",
-          "change": -0.3
+          "name": "航運",
+          "change": -1.2
+        },
+        {
+          "name": "PCB/衛星",
+          "change": 1.5
         }
       ],
       "stocks": [
         {
           "name": "2330 台積電",
-          "trend": "跌 續跌",
-          "note": "美股連三日下跌+殖利率飆升+Nvidia今晚財報前最大不確定性。選擇權定價$3550億波動",
+          "trend": "跌 連三跌",
+          "note": "受美股科技股連跌+殖利率飆升壓力，離季線仍偏高",
           "nav": null,
-          "pb": 10.5,
+          "pb": 10.89,
           "premium": null,
-          "pe": 33.2,
-          "quarterLine": 12.8,
+          "pe": 34.3,
+          "quarterLine": 16.7,
           "suggestion": "觀望"
         },
         {
           "name": "0050 元大台灣50",
-          "trend": "跌 續跌",
-          "note": "期貨-0.94%預期開低，連三日修正",
-          "nav": 189,
+          "trend": "跌 隨大盤",
+          "note": "大盤跌1.75%帶動",
+          "nav": 204.5,
           "pb": null,
-          "premium": -0.5,
-          "pe": 21.5,
-          "quarterLine": 10.2,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
           "suggestion": "持有"
         },
         {
           "name": "0056 元大高股息",
           "trend": "跌 小跌",
-          "note": "高息防禦持續有效，跌幅預期小於大盤",
-          "nav": 40.8,
+          "note": "防禦型，跌幅小於大盤",
+          "nav": 41.8,
           "pb": null,
-          "premium": -0.1,
-          "pe": 15.5,
-          "quarterLine": 1.8,
-          "suggestion": "買進"
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1.8,
+          "suggestion": "持有"
         },
         {
           "name": "00878 國泰永續高股息",
           "trend": "跌 小跌",
-          "note": "ESG+高息在恐慌中持續抗跌",
-          "nav": 22.4,
-          "pb": null,
-          "premium": 0,
-          "pe": 15.8,
-          "quarterLine": 1.5,
-          "suggestion": "買進"
-        },
-        {
-          "name": "00919 群益台灣精選高息",
-          "trend": "跌 小跌",
-          "note": "高息標的跌幅持續小於大盤",
-          "nav": 23.1,
+          "note": "高股息防禦性較佳",
+          "nav": 24.3,
           "pb": null,
           "premium": 0.1,
-          "pe": 14.1,
-          "quarterLine": 2.8,
+          "pe": null,
+          "quarterLine": -1.5,
           "suggestion": "買進"
         },
         {
-          "name": "00940 元大台灣價值高息",
+          "name": "00919 群益精選高息",
           "trend": "跌 小跌",
-          "note": "價值型持續抗跌",
-          "nav": 10.6,
+          "note": "月配息支撐買氣",
+          "nav": 26.8,
           "pb": null,
-          "premium": -0.7,
-          "pe": 12.8,
-          "quarterLine": 0.5,
-          "suggestion": "買進"
-        },
-        {
-          "name": "006208 富邦台50",
-          "trend": "跌 續跌",
-          "note": "與0050走勢相近",
-          "nav": 106.5,
-          "pb": null,
-          "premium": -0.4,
-          "pe": 21.4,
-          "quarterLine": 10,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": -1.2,
           "suggestion": "持有"
         },
         {
-          "name": "00892 富邦台灣半導體",
-          "trend": "跌 續跌",
-          "note": "半導體連三日重挫，等Nvidia結果",
-          "nav": 17.5,
+          "name": "00940 元大價值高息",
+          "trend": "跌 小跌",
+          "note": "價值型選股相對抗跌",
+          "nav": 9.4,
           "pb": null,
-          "premium": -1.5,
-          "pe": 26.8,
-          "quarterLine": 10.5,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 隨大盤",
+          "note": "同0050走勢",
+          "nav": 104.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 續跌",
+          "note": "半導體族群承壓，等Nvidia財報",
+          "nav": 32.5,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -3.5,
           "suggestion": "觀望"
         },
         {
-          "name": "00891 中信關鍵半導體",
+          "name": "00891 中信半導體",
           "trend": "跌 續跌",
-          "note": "半導體ETF持續承壓",
-          "nav": 16.9,
+          "note": "同00892，半導體回檔",
+          "nav": 16.7,
           "pb": null,
-          "premium": -1,
-          "pe": 26.5,
-          "quarterLine": 10.2,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -4,
           "suggestion": "觀望"
         },
         {
-          "name": "00982A 主動群益台灣強棒",
-          "trend": "跌 續跌",
-          "note": "主動型波動大",
-          "nav": 10.8,
+          "name": "00982A 群益精選強棒",
+          "trend": "跌 小跌",
+          "note": "主動型，跌幅略大於大盤",
+          "nav": 14.8,
           "pb": null,
-          "premium": 1,
-          "pe": 17.5,
-          "quarterLine": 5.8,
-          "suggestion": "觀望"
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
         },
         {
-          "name": "00981A 主動統一台股增長",
-          "trend": "跌 續跌",
-          "note": "主動型跟隨修正",
-          "nav": 10.4,
+          "name": "00981A 統一台股增長",
+          "trend": "跌 小跌",
+          "note": "主動成長型",
+          "nav": 29.59,
           "pb": null,
-          "premium": 1.2,
-          "pe": 18.2,
-          "quarterLine": 5.2,
-          "suggestion": "觀望"
+          "premium": -0.03,
+          "pe": null,
+          "quarterLine": -1.5,
+          "suggestion": "持有"
         },
         {
-          "name": "00403A 主動型ETF",
+          "name": "00403A 中信美債20年",
           "trend": "跌 續跌",
-          "note": "溢價收斂風險持續",
-          "nav": 10.1,
+          "note": "美債殖利率續創高(30Y破5.2%)，債券價格持續承壓",
+          "nav": null,
           "pb": null,
-          "premium": 1.5,
-          "pe": 17,
-          "quarterLine": 3.5,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": -5,
           "suggestion": "觀望"
         },
         {
           "name": "009816 凱基台灣TOP50",
-          "trend": "跌 續跌",
-          "note": "不配息複利型，台積電佔42.5%，跟隨大盤下跌",
+          "trend": "跌 隨大盤",
+          "note": "不配息複利型，台積電佔42.5%",
           "nav": 57.2,
           "pb": null,
           "premium": -0.3,
           "pe": 21.2,
-          "quarterLine": 9.5,
+          "quarterLine": -2,
           "suggestion": "持有"
         },
         {
-          "name": "00929 復華台灣科技優息",
-          "trend": "跌 續跌",
-          "note": "科技成分高，半導體拖累",
-          "nav": 20.8,
+          "name": "00929 復華科技優息",
+          "trend": "跌 小跌",
+          "note": "科技+配息雙主題",
+          "nav": 22.8,
           "pb": null,
-          "premium": 0.1,
-          "pe": 19.5,
-          "quarterLine": 7.5,
-          "suggestion": "觀望"
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
         }
       ],
       "etf": [
@@ -500,47 +492,43 @@
         }
       ],
       "institutional": {
-        "外資": -200,
-        "投信": -10,
-        "自營商": -35
+        "外資": -350,
+        "投信": -15,
+        "自營商": -45
       },
       "sentiment": {
-        "score": 28,
-        "label": "恐慌 — 美股連三跌+殖利率飆升+Nvidia財報前極度觀望",
+        "score": 32,
+        "label": "恐慌 — 連三日下跌+殖利率飆升+地緣風險升溫",
         "history": [
-          52,
+          65,
           52,
           48,
+          42,
           35,
           32,
-          28,
-          28
+          32
         ]
       },
       "international": [
         {
-          "name": "道瓊(週二)",
+          "name": "道璧",
           "change": -0.65
         },
         {
-          "name": "Nasdaq(週二)",
-          "change": -0.84
-        },
-        {
-          "name": "S&P 500(週二)",
+          "name": "S&P 500",
           "change": -0.67
         },
         {
-          "name": "Nvidia(週二)",
-          "change": -0.7
+          "name": "Nasdaq",
+          "change": -0.84
         },
         {
-          "name": "Brent原油",
-          "change": -1.5
+          "name": "日經225",
+          "change": -0.92
         },
         {
-          "name": "美10年期殖利率",
-          "change": 0.08
+          "name": "恆生",
+          "change": -1.49
         }
       ],
       "buffett_indicator": {
@@ -548,15 +536,14 @@
         "label": "嚴重高估"
       },
       "events": [
-        "🔴 美股連三日下跌：S&P -0.67%、Nasdaq -0.84%、道瓊-322",
-        "🔴 殖利率飆升壓制成長股，通膨擔憂→可能升息",
-        "⚡ 今晚Nvidia財報（盤後）：選擇權定價$3550億市值波動",
-        "🟢 Google I/O：Gemini 3.5 Flash成為預設模型、Samsung XR眼鏡、Gemini Spark",
-        "台股期貨夜盤-0.94%至39,800，預期今日開低",
-        "外資連三日賣超，恐慌情緒持續",
-        "JPMorgan上調台股目標至47,000（牛市50,000）— 長期看多"
+        "今日盤後：Nvidia Q1 FY2027 財報（市場預期營收-79B）",
+        "美國30年期公債殖利率突破5.20%",
+        "Trump對伊朗發出新警告，油價Brent ",
+        "台股跌破41,000關卡，回測40,000整數支撐",
+        "5/29 MSCI調整生效（台灣權重上調）",
+        "G7財長會議討論荷莫茲海峽"
       ],
-      "summary": "⚠️ 預期續跌：美股連三跌+殖利率飆升+期貨-0.94%。今日為Nvidia財報前最後交易日，市場極度觀望。建議：今日不操作，等今晚Nvidia結果。若超預期（營收>$80B+指引>$88B）→明日強力反彈可加碼半導體；若僅符合預期或不如預期→繼續防禦。高息ETF持續為最佳避風港。",
+      "summary": "台股連續下跌，跌破41,000關卡至40,176。主因：美股連三跌（殖利率飆升壓制科技股）、Trump對伊朗新警告推升油價、全球債市持續拋售。今日最大焦點為Nvidia盤後財報，結果將決定半導體族群短期方向。高股息ETF相對抗跌，核心部位定期定額不停。台積電離季線仍+16.7%偏高，不宜追高。建議：觀望等Nvidia財報，保持現金水位。",
       "searched": []
     },
     "summaries": {
