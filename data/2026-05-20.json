@@ -1,0 +1,580 @@
+{
+  "date": "2026-05-20",
+  "categories": {
+    "ai": [
+      {
+        "title": "Google I/O 2026今晚keynote：Gemini成為所有平台的操作層",
+        "url": "https://it.einnews.com/article/913594369/ZUG6eaIerzl3qDz0",
+        "source": "EIN News",
+        "desc": "兩日議程幾乎全圍繞Gemini不再是產品附加層，而是底層操作系統。"
+      },
+      {
+        "title": "Google I/O前瞻：華爾街期待AI產品路線圖驗證",
+        "url": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
+        "source": "CNBC",
+        "desc": "搜尋、雲端、Android、晶片、企業軟體全面AI化。"
+      },
+      {
+        "title": "MIT Technology Review：Google在基礎模型競賽中排第三",
+        "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+        "source": "MIT Tech Review",
+        "desc": "I/O是Google證明AI實力的關鍵時刻。"
+      },
+      {
+        "title": "明日Nvidia財報：預期營收$78.7B，AI需求故事的終極考驗",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-oil-103632663.html",
+        "source": "Yahoo Finance",
+        "desc": "指引$86B將決定AI股走向。"
+      },
+      {
+        "title": "BofA預期Google I/O將有重大AI推進：搜尋、Chrome、Android全面升級",
+        "url": "https://uk.finance.yahoo.com/news/google-o-preview-bank-america-135600940.html",
+        "source": "Yahoo Finance",
+        "desc": "銀行看好Alphabet AI佈局。"
+      },
+      {
+        "title": "Gemini Intelligence：Android的Agent式AI層，可執行多步驟任務",
+        "url": "https://thenextweb.com/news/google-io-2026-gemini-intelligence-android-xr-glasses",
+        "source": "The Next Web",
+        "desc": "Googlebook、Android XR眼鏡搭載Gemini 2.5 Pro。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Google I/O 2026 Keynote直播：Gemini、Android 17、XR眼鏡",
+        "url": "https://www.androidcentral.com/phones/live/google-i-o-2026-live-blog-android-17-android-xr-glasses-and-all-the-gemini-ai-news",
+        "source": "Android Central",
+        "desc": "今日即時更新。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "🎮 今日發售！Forza Horizon 6正式版登陸Game Pass（日本場景）",
+        "url": "https://gamingbolt.com/forza-horizon-6-subnautica-2-and-mixtape-headline-wave-1-of-game-pass-in-may",
+        "source": "Gaming Bolt",
+        "desc": "Metacritic 92分，2026年最高評分遊戲。Game Pass Ultimate免費遊玩。"
+      },
+      {
+        "title": "Forza Horizon 6評測匯總：系列最佳，100小時高品質內容",
+        "url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-review/",
+        "source": "GamesRadar",
+        "desc": "OpenCritic 100%推薦率，日本開放世界令人驚嘆。"
+      },
+      {
+        "title": "Forza Horizon 6 Steam早期存取峰值17.2萬，超越前作兩倍",
+        "url": "https://www.ign.com/articles/forza-horizon-6-is-only-officially-playable-now-to-those-who-bought-its-pricier-premium-edition-but-its-still-putting-up-big-numbers-on-steam",
+        "source": "IGN",
+        "desc": "$119.99高級版表現驚人，正式版今日上線預期更高。"
+      },
+      {
+        "title": "Forza Horizon 6是2026年Metacritic最高分遊戲",
+        "url": "https://www.nme.com/news/gaming-news/forza-horizon-6-is-the-best-reviewed-game-of-2026-so-far-3946010",
+        "source": "NME",
+        "desc": "92分超越Pokemon Pokopia和RE Requiem的89分。"
+      },
+      {
+        "title": "VGC評測：Playground Games超越自我，必玩賽車遊戲",
+        "url": "https://www.videogameschronicle.com/review/forza-horizon-6/",
+        "source": "VGC",
+        "desc": "Horizon Festival終於來到日本，多年玩家期待成真。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Google I/O 2026今日開幕：兩日AI盛宴，Gemini全面升級",
+        "url": "https://uk.pcmag.com/news/google-io-2026-everything-we-expect-and-how-to-watch-live",
+        "source": "PCMag",
+        "desc": "Android 17、XR眼鏡、Googlebook、Gemini 2.5。"
+      },
+      {
+        "title": "Trump取消伊朗攻擊計畫，稱「談判有很好機會」",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+        "source": "CBS News",
+        "desc": "原定週二攻擊暫緩，但白宮稱「nothing has changed」。"
+      },
+      {
+        "title": "亞太市場週二開高：油價回落+Trump暫緩伊朗攻擊",
+        "url": "https://www.cnbc.com/",
+        "source": "CNBC",
+        "desc": "地緣風險暫時降溫。"
+      },
+      {
+        "title": "Intel CEO稱代工業務動能增強，客戶興趣成長",
+        "url": "https://www.cnbc.com/",
+        "source": "CNBC",
+        "desc": "AI晶片競爭從Nvidia擴散。"
+      },
+      {
+        "title": "Android 17代號「Cinnamon Bun」：API Level 37正式確認",
+        "url": "https://www.androidauthority.com/android-17-3561251/",
+        "source": "Android Authority",
+        "desc": "今日I/O預期公布更多細節。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin跌破$77,000：$661M清算潮，95%為多頭",
+        "url": "https://crypto.news/bitcoin-braces-for-fed-minutes-and-nvidia-earnings-after-661m-wipeout/",
+        "source": "Crypto News",
+        "desc": "全球債券拋售+油價飆升+伊朗風險三重打擊。"
+      },
+      {
+        "title": "BTC本週展望：Nvidia財報為主要催化劑，價格尋底中",
+        "url": "https://www.fxempire.com/forecasts/article/bitcoin-weekly-outlook-nvidia-earnings-in-main-focus-as-btc-price-eyes-dip-1598328",
+        "source": "FX Empire",
+        "desc": "華爾街預期Nvidia營收$78.5B、指引$86B。"
+      },
+      {
+        "title": "加密市場面臨關鍵週：6大事件可能撼動市場",
+        "url": "https://www.hokanews.com/2026/05/crypto-week-heat-6-events-that-could.html",
+        "source": "Hoka News",
+        "desc": "Fed會議紀要、Nvidia、就業數據、消費者信心。"
+      },
+      {
+        "title": "$580M加密多頭清算：美10年期殖利率破4.5%、日本30年期創紀錄",
+        "url": "https://www.binance.com/en/square/post/05-16-2026-580m-in-crypto-longs-wiped-out-as-bitcoin-falls-to-78k-a-dangerous-week-ahead-with-iran-strikes-fed-minutes-and-nvidia-earnings-323717554925361",
+        "source": "Binance",
+        "desc": "全球債券拋售引發連鎖清算。"
+      },
+      {
+        "title": "該投資Bitcoin還是AI股？Nvidia +18% YTD vs BTC -19% YTD",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/invest-bitcoin-ai-stocks-now-133008517.html",
+        "source": "Yahoo Finance",
+        "desc": "AI股今年大幅跑贏加密貨幣。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Google I/O 2026開發者重點：Android 17 API、Gemini SDK、XR開發",
+        "url": "https://www.androidcentral.com/phones/live/google-i-o-2026-live-blog-android-17-android-xr-glasses-and-all-the-gemini-ai-news",
+        "source": "Android Central",
+        "desc": "今日1PM ET開始，開發者場次1:30PM。"
+      },
+      {
+        "title": "Android 17 Beta 3已達平台穩定：API鎖定，可提交Play Store",
+        "url": "https://android-developers.googleblog.com/2026/03/the-third-beta-of-android-17.html",
+        "source": "Google Blog",
+        "desc": "EyeDropper API、隱私Contacts Picker等新功能。"
+      },
+      {
+        "title": "Google I/O 2026對iOS開發者的影響：跨平台API變動",
+        "url": "https://marketingtrending.asoworld.com/en/news/google-i-o-2026-tomorrow-android-17-gemini-ai-and-googlebook-set-to-redefine-the-ecosystem/",
+        "source": "ASO World",
+        "desc": "Android 17設計語言大改，跨平台開發者需追蹤。"
+      },
+      {
+        "title": "Android 17新增創作者功能：Google官方部落格",
+        "url": "https://blog.google/products-and-platforms/platforms/android/android-17-creator-features/",
+        "source": "Google Blog",
+        "desc": "影片編輯、AI輔助創作工具。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Forza Horizon 6日本場景視覺設計獲滿分評價",
+        "url": "https://www.videogameschronicle.com/review/forza-horizon-6/",
+        "source": "VGC",
+        "desc": "櫻花、東京街道、富士山等日本美學完美呈現。"
+      },
+      {
+        "title": "Google Android XR眼鏡設計：AR/AI融合新美學",
+        "url": "https://thenextweb.com/news/google-io-2026-gemini-intelligence-android-xr-glasses",
+        "source": "The Next Web",
+        "desc": "Gemini 2.5 Pro驅動的XR體驗。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Google I/O 2026：Android 17設計語言大改版",
+        "url": "https://marketingtrending.asoworld.com/en/news/google-i-o-2026-tomorrow-android-17-gemini-ai-and-googlebook-set-to-redefine-the-ecosystem/",
+        "source": "ASO World",
+        "desc": "新設計系統影響所有Android應用。"
+      },
+      {
+        "title": "Googlebook硬體設計：挑戰MacBook的AI-first筆電",
+        "url": "https://thenextweb.com/news/google-io-2026-gemini-intelligence-android-xr-glasses",
+        "source": "The Next Web",
+        "desc": "Magic Pointer、Gemini嵌入ChromeOS。"
+      }
+    ],
+    "business": [
+      {
+        "title": "本週財報焦點：Nvidia（明日）+Walmart（週四）+Target+Home Depot",
+        "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-oil-yields-and-nvidia-earnings-drive-pivotal-week-for-stocks-1598376",
+        "source": "FX Empire",
+        "desc": "AI支出+消費者強度雙重檢驗。"
+      },
+      {
+        "title": "Trump取消伊朗攻擊：油價從$112回落，市場鬆一口氣",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/",
+        "source": "Investor's Business Daily",
+        "desc": "道瓊收漲160點，科技仍弱。"
+      },
+      {
+        "title": "消費者恐懼衝擊零售股：Walmart、Target財報前承壓",
+        "url": "https://www.investors.com/news/walmart-target-earnings-consumer-fears-retail-stocks/",
+        "source": "Investor's Business Daily",
+        "desc": "通膨+油價+利率三重壓力。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股週一收盤：道瓊+160、Nasdaq-0.51%、S&P-0.07%",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/",
+        "source": "Investor's Business Daily",
+        "desc": "Trump取消伊朗攻擊後跌幅收斂。"
+      },
+      {
+        "title": "亞太市場週二開高：油價回落+地緣風險降溫",
+        "url": "https://www.cnbc.com/",
+        "source": "CNBC",
+        "desc": "台股期貨+0.4%預期反彈。"
+      },
+      {
+        "title": "明日Nvidia財報：預期營收$78.7B、EPS $1.78、指引$86B",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-oil-103632663.html",
+        "source": "Yahoo Finance",
+        "desc": "AI龍頭業績將決定後市方向。"
+      },
+      {
+        "title": "Bitcoin跌破$77K：全球債券拋售引發$661M清算",
+        "url": "https://crypto.news/bitcoin-braces-for-fed-minutes-and-nvidia-earnings-after-661m-wipeout/",
+        "source": "Crypto News",
+        "desc": "美10年期破4.5%，風險資產全面承壓。"
+      },
+      {
+        "title": "油價波動：Brent從$112回落至$107，荷姆茲海峽仍關閉",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-18-earnings-nvidia-232705005.html",
+        "source": "Yahoo Finance",
+        "desc": "Trump暫緩攻擊但局勢未解。"
+      },
+      {
+        "title": "Fed會議紀要本週公布：通膨擔憂+殖利率飆升壓制降息預期",
+        "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-oil-yields-and-nvidia-earnings-drive-pivotal-week-for-stocks-1598376",
+        "source": "FX Empire",
+        "desc": "市場重新評估降息時程。"
+      }
+    ],
+    "stock_briefing": {
+      "date": "2026-05-20",
+      "updated_at": "2026-05-20 08:30",
+      "sparkline": [
+        41752,
+        41752,
+        40337,
+        40176,
+        40176,
+        39800,
+        39800
+      ],
+      "sparkline_dates": [
+        "5/14",
+        "5/15",
+        "5/18",
+        "5/19",
+        "5/19收",
+        "5/20E",
+        "期貨"
+      ],
+      "market": {
+        "index": "40,176",
+        "change": -161,
+        "changePercent": "-0.4%(昨)",
+        "volume": "預估1.0兆",
+        "futures": "39,800 (-0.94%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -1.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": -1.2
+        },
+        {
+          "name": "記憶體",
+          "change": -1.8
+        },
+        {
+          "name": "PCB/載板",
+          "change": -0.3
+        },
+        {
+          "name": "低軌衛星",
+          "change": 0.5
+        },
+        {
+          "name": "金融保險",
+          "change": -0.5
+        },
+        {
+          "name": "傳產",
+          "change": -0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": -0.3
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 續跌",
+          "note": "美股連三日下跌+殖利率飆升+Nvidia今晚財報前最大不確定性。選擇權定價$3550億波動",
+          "nav": null,
+          "pb": 10.5,
+          "premium": null,
+          "pe": 33.2,
+          "quarterLine": 12.8,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 續跌",
+          "note": "期貨-0.94%預期開低，連三日修正",
+          "nav": 189,
+          "pb": null,
+          "premium": -0.5,
+          "pe": 21.5,
+          "quarterLine": 10.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 小跌",
+          "note": "高息防禦持續有效，跌幅預期小於大盤",
+          "nav": 40.8,
+          "pb": null,
+          "premium": -0.1,
+          "pe": 15.5,
+          "quarterLine": 1.8,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 小跌",
+          "note": "ESG+高息在恐慌中持續抗跌",
+          "nav": 22.4,
+          "pb": null,
+          "premium": 0,
+          "pe": 15.8,
+          "quarterLine": 1.5,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "跌 小跌",
+          "note": "高息標的跌幅持續小於大盤",
+          "nav": 23.1,
+          "pb": null,
+          "premium": 0.1,
+          "pe": 14.1,
+          "quarterLine": 2.8,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00940 元大台灣價值高息",
+          "trend": "跌 小跌",
+          "note": "價值型持續抗跌",
+          "nav": 10.6,
+          "pb": null,
+          "premium": -0.7,
+          "pe": 12.8,
+          "quarterLine": 0.5,
+          "suggestion": "買進"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 續跌",
+          "note": "與0050走勢相近",
+          "nav": 106.5,
+          "pb": null,
+          "premium": -0.4,
+          "pe": 21.4,
+          "quarterLine": 10,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦台灣半導體",
+          "trend": "跌 續跌",
+          "note": "半導體連三日重挫，等Nvidia結果",
+          "nav": 17.5,
+          "pb": null,
+          "premium": -1.5,
+          "pe": 26.8,
+          "quarterLine": 10.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00891 中信關鍵半導體",
+          "trend": "跌 續跌",
+          "note": "半導體ETF持續承壓",
+          "nav": 16.9,
+          "pb": null,
+          "premium": -1,
+          "pe": 26.5,
+          "quarterLine": 10.2,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00982A 主動群益台灣強棒",
+          "trend": "跌 續跌",
+          "note": "主動型波動大",
+          "nav": 10.8,
+          "pb": null,
+          "premium": 1,
+          "pe": 17.5,
+          "quarterLine": 5.8,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00981A 主動統一台股增長",
+          "trend": "跌 續跌",
+          "note": "主動型跟隨修正",
+          "nav": 10.4,
+          "pb": null,
+          "premium": 1.2,
+          "pe": 18.2,
+          "quarterLine": 5.2,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00403A 主動型ETF",
+          "trend": "跌 續跌",
+          "note": "溢價收斂風險持續",
+          "nav": 10.1,
+          "pb": null,
+          "premium": 1.5,
+          "pe": 17,
+          "quarterLine": 3.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 續跌",
+          "note": "不配息複利型，台積電佔42.5%，跟隨大盤下跌",
+          "nav": 57.2,
+          "pb": null,
+          "premium": -0.3,
+          "pe": 21.2,
+          "quarterLine": 9.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 續跌",
+          "note": "科技成分高，半導體拖累",
+          "nav": 20.8,
+          "pb": null,
+          "premium": 0.1,
+          "pe": 19.5,
+          "quarterLine": 7.5,
+          "suggestion": "觀望"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 續跌",
+          "note": "期貨-0.94%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 小跌",
+          "note": "高息防禦"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 小跌",
+          "note": "ESG+高息"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 續跌",
+          "note": "科技受壓"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "跌 小跌",
+          "note": "高息抗跌"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 續跌",
+          "note": "不配息複利型"
+        }
+      ],
+      "institutional": {
+        "外資": -200,
+        "投信": -10,
+        "自營商": -35
+      },
+      "sentiment": {
+        "score": 28,
+        "label": "恐慌 — 美股連三跌+殖利率飆升+Nvidia財報前極度觀望",
+        "history": [
+          52,
+          52,
+          48,
+          35,
+          32,
+          28,
+          28
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週二)",
+          "change": -0.65
+        },
+        {
+          "name": "Nasdaq(週二)",
+          "change": -0.84
+        },
+        {
+          "name": "S&P 500(週二)",
+          "change": -0.67
+        },
+        {
+          "name": "Nvidia(週二)",
+          "change": -0.7
+        },
+        {
+          "name": "Brent原油",
+          "change": -1.5
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": 0.08
+        }
+      ],
+      "buffett_indicator": {
+        "value": 193,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴 美股連三日下跌：S&P -0.67%、Nasdaq -0.84%、道瓊-322",
+        "🔴 殖利率飆升壓制成長股，通膨擔憂→可能升息",
+        "⚡ 今晚Nvidia財報（盤後）：選擇權定價$3550億市值波動",
+        "🟢 Google I/O：Gemini 3.5 Flash成為預設模型、Samsung XR眼鏡、Gemini Spark",
+        "台股期貨夜盤-0.94%至39,800，預期今日開低",
+        "外資連三日賣超，恐慌情緒持續",
+        "JPMorgan上調台股目標至47,000（牛市50,000）— 長期看多"
+      ],
+      "summary": "⚠️ 預期續跌：美股連三跌+殖利率飆升+期貨-0.94%。今日為Nvidia財報前最後交易日，市場極度觀望。建議：今日不操作，等今晚Nvidia結果。若超預期（營收>$80B+指引>$88B）→明日強力反彈可加碼半導體；若僅符合預期或不如預期→繼續防禦。高息ETF持續為最佳避風港。",
+      "searched": []
+    },
+    "summaries": {
+      "ai": "🔥Google I/O今晚keynote！Gemini成為底層操作層。Android XR眼鏡、Project Astra。明日Nvidia財報。",
+      "gaming": "🎮今日發售！Forza Horizon 6正式版（Metacritic 92，2026最高分）。Game Pass免費。Steam 17.2萬峰值。",
+      "tech": "Google I/O兩日AI盛宴。Trump取消伊朗攻擊。亞太開高。Intel代工動能增。Android 17確認。",
+      "crypto": "⚠️BTC跌破$77K！$661M清算。全球債券拋售。本週6大事件。AI股大幅跑贏加密。",
+      "dev": "Google I/O開發者場次。Android 17 API鎖定。跨平台變動。創作者功能。",
+      "finance": "台股連兩日跌至40,176。晶片領跌，PCB/衛星避險。外資-180億。明日Nvidia。BTC $76K。",
+      "art": "Forza Horizon 6日本視覺滿分、Android XR設計。",
+      "design": "Android 17設計語言大改、Googlebook硬體設計。",
+      "business": "Nvidia+Walmart+Target財報週。Trump暫緩伊朗。消費者恐懼。"
+    }
+  }
+}
