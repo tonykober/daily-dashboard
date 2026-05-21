@@ -1,0 +1,327 @@
+{
+  "date": "2026-05-21",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-05-21",
+      "updated_at": "2026-05-21 08:30",
+      "sparkline": [
+        40337,
+        40176,
+        40021,
+        40021,
+        40500,
+        40500,
+        40500
+      ],
+      "sparkline_dates": [
+        "5/18",
+        "5/19",
+        "5/20",
+        "5/20收",
+        "5/21E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "40,021",
+        "change": -155,
+        "changePercent": "-0.39%(昨)",
+        "volume": "預估1.5兆",
+        "futures": "40,500 (+1.2%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 2.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": 2
+        },
+        {
+          "name": "記憶體",
+          "change": 1.5
+        },
+        {
+          "name": "PCB/載板",
+          "change": 0.8
+        },
+        {
+          "name": "金融保險",
+          "change": 0.3
+        },
+        {
+          "name": "傳產",
+          "change": 0.2
+        },
+        {
+          "name": "航運",
+          "change": -0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 強彈",
+          "note": "Nvidia Q1營收$81.6B大超預期（+85% YoY），Q2指引$91B遠超$87B預期。台積電為Nvidia主要代工廠，直接受惠",
+          "nav": null,
+          "pb": 10.89,
+          "premium": null,
+          "pe": 34.3,
+          "quarterLine": 16.7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 強彈",
+          "note": "期貨+1.2%，台積電帶動大盤反彈",
+          "nav": 204.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩健",
+          "note": "大盤反彈帶動，高息標的跟漲",
+          "nav": 41.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1.8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "跟隨大盤反彈",
+          "nav": 24.3,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": -1.5,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 穩健",
+          "note": "月配息+大盤反彈雙利多",
+          "nav": 26.8,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": -1.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 小漲",
+          "note": "跟隨反彈",
+          "nav": 9.4,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 強彈",
+          "note": "同0050走勢",
+          "nav": 104.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 強彈",
+          "note": "Nvidia超預期直接利多半導體ETF",
+          "nav": 32.5,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 強彈",
+          "note": "半導體族群全面反彈",
+          "nav": 16.7,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨大盤反彈",
+          "nav": 14.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動成長型受惠",
+          "nav": 29.59,
+          "pb": null,
+          "premium": -0.03,
+          "pe": null,
+          "quarterLine": -1.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 反彈",
+          "note": "風險偏好回升但殖利率仍高，債券小幅反彈",
+          "nav": null,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": -5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 強彈",
+          "note": "不配息複利型，台積電佔42.5%，直接受惠Nvidia利多",
+          "nav": 57.2,
+          "pb": null,
+          "premium": -0.3,
+          "pe": 21.2,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強彈",
+          "note": "科技+配息，Nvidia利多帶動",
+          "nav": 22.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 強彈",
+          "note": "期貨+1.2%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩健",
+          "note": "跟隨反彈"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "ESG+高息"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 強彈",
+          "note": "科技反彈"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩健",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 強彈",
+          "note": "台積電受惠"
+        }
+      ],
+      "institutional": {
+        "外資": 150,
+        "投信": 20,
+        "自營商": 30
+      },
+      "sentiment": {
+        "score": 55,
+        "label": "中性偏多 — Nvidia超預期解除最大不確定性，但股價盤後仍跌需注意",
+        "history": [
+          48,
+          42,
+          35,
+          32,
+          30,
+          30,
+          55
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週三)",
+          "change": 1.24
+        },
+        {
+          "name": "Nasdaq(週三)",
+          "change": 1.72
+        },
+        {
+          "name": "S&P 500(週三)",
+          "change": 1.39
+        },
+        {
+          "name": "Nvidia(盤後)",
+          "change": -2
+        },
+        {
+          "name": "Brent原油",
+          "change": -3.5
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.05
+        }
+      ],
+      "buffett_indicator": {
+        "value": 193,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🟢 Nvidia Q1大超預期：營收$81.6B（+85%，超預期3.5%）、EPS $1.87（超$1.76）",
+        "🟢 Nvidia Q2指引$91B，遠超華爾街$87.3B預期",
+        "🟢 Nvidia股息大增25倍至$0.25/股",
+        "⚠️ Nvidia盤後仍跌約2%（連四季財報後下跌）— 利多出盡？",
+        "🟢 美股週三大漲：道瓊+600、Nasdaq+1.72%、S&P+1.39%",
+        "🟢 油價大跌3.5%（伊朗和談希望）",
+        "🟢 台股期貨+1.2%至40,500，預期今日強力反彈",
+        "📌 5/29 MSCI台灣權重上調 — 中期利多持續"
+      ],
+      "summary": "🚀 Nvidia超預期解除最大不確定性！Q1營收$81.6B（+85%）、Q2指引$91B遠超預期。美股大漲+油價跌+期貨+1.2%，台股預期強力反彈。但注意：Nvidia盤後仍跌2%（連四季利多出盡），反彈後不宜過度追高。建議：半導體ETF可從「觀望」轉「持有」，但台積電離季線+16.7%仍偏高。高息ETF持續持有。",
+      "searched": []
+    }
+  }
+}
