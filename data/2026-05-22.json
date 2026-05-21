@@ -1,0 +1,314 @@
+{
+  "date": "2026-05-22",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-05-22",
+      "updated_at": "2026-05-22 07:45",
+      "sparkline": [
+        40176,
+        40021,
+        40021,
+        40021,
+        40500,
+        40500,
+        40500
+      ],
+      "sparkline_dates": [
+        "5/19",
+        "5/20",
+        "5/21",
+        "5/21收",
+        "5/22E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "40,021",
+        "change": -155,
+        "changePercent": "-0.39%",
+        "volume": "5,200億",
+        "futures": "40,500 (+1.2%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -0.8
+        },
+        {
+          "name": "電子",
+          "change": -0.5
+        },
+        {
+          "name": "金融",
+          "change": 0.3
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -1.2
+        },
+        {
+          "name": "傳產",
+          "change": 0.2
+        },
+        {
+          "name": "PCB",
+          "change": 1
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 小跌",
+          "note": "Nvidia財報超預期但股價跌2%，台積電連動下跌。但AI需求確認強勁(數據中心+92% YoY)，中長期利多。今日期貨反彈+美股道瓊創新高，預計開高",
+          "nav": null,
+          "pb": 10.89,
+          "premium": null,
+          "pe": 34.3,
+          "quarterLine": 15.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 小跌",
+          "note": "隨大盤微跌，期貨反彈預示今日開高",
+          "nav": 203.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 抗跌",
+          "note": "防禦型穩定",
+          "nav": 41.6,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 抗跌",
+          "note": "高股息防禦性佳，跌幅小於大盤",
+          "nav": 24.2,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": -1.8,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "平 穩定",
+          "note": "月配息支撐",
+          "nav": 26.7,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "平 穩定",
+          "note": "價值型",
+          "nav": 9.35,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 小跌",
+          "note": "同0050",
+          "nav": 104.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 震盪",
+          "note": "Nvidia跌但AI需求確認，短線震盪但中期偏多",
+          "nav": 32.2,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 震盪",
+          "note": "同00892",
+          "nav": 16.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "平 穩定",
+          "note": "主動型",
+          "nav": 14.7,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平 穩定",
+          "note": "主動成長型",
+          "nav": 29.5,
+          "pb": null,
+          "premium": -0.03,
+          "pe": null,
+          "quarterLine": -1.8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "平 持平",
+          "note": "殖利率小幅回落，債券止跌",
+          "nav": null,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -4.2,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 小跌",
+          "note": "不配息複利型，台積電佔42.5%，期貨反彈預計開高",
+          "nav": 57,
+          "pb": null,
+          "premium": -0.3,
+          "pe": 21,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "平 穩定",
+          "note": "科技+配息雙主題",
+          "nav": 22.6,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.8,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 小跌",
+          "note": "期貨+1.2%預計開高"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 抗跌",
+          "note": "防禦穩定"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 抗跌",
+          "note": "高息防禦"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "平 穩定",
+          "note": "科技+配息"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "平 穩定",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 小跌",
+          "note": "期貨反彈"
+        }
+      ],
+      "institutional": {
+        "外資": -180,
+        "投信": 5,
+        "自營商": -25
+      },
+      "sentiment": {
+        "score": 42,
+        "label": "偏空轉中性 — 美股反彈+伊朗和談訊號提振信心",
+        "history": [
+          48,
+          42,
+          35,
+          32,
+          32,
+          38,
+          42
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊",
+          "change": 0.55
+        },
+        {
+          "name": "S&P 500",
+          "change": 0.17
+        },
+        {
+          "name": "Nasdaq",
+          "change": 0.09
+        },
+        {
+          "name": "日經225",
+          "change": 0.8
+        },
+        {
+          "name": "恆生",
+          "change": 0.5
+        }
+      ],
+      "buffett_indicator": {
+        "value": 192,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "道瓊創歷史新高 50,285（美伊和談希望）",
+        "Nvidia Q1超預期但股價跌2%（連四季財報後下跌）",
+        "Nvidia Q2營收指引$91B（超預期）、$80B回購計畫",
+        "美伊傳出巴基斯坦斡旋達成協議，Rubio稱有好跡象",
+        "油價回落（和談消息）",
+        "5/29 MSCI調整生效倒數7天",
+        "台股期貨反彈+1.2%，預計今日開高"
+      ],
+      "summary": "Nvidia財報全面超預期（營收$81.6B +85%、Q2指引$91B），但股價跌2%（市場已Price-in）。好消息是AI需求確認「拋物線式成長」，中長期利多台積電及半導體供應鏈。美股因伊朗和談希望反彈，道瓊創新高50,285。台股昨收40,021，但期貨今日反彈+1.2%至40,500，預計今日開高。建議：半導體ETF從「觀望」上調至「持有」（AI需求確認），但短線仍勿追高。高股息ETF持續定期定額。MSCI調整5/29生效前，權重股有被動買盤支撐。",
+      "searched": []
+    }
+  }
+}
