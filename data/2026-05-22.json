@@ -1,17 +1,271 @@
 {
   "date": "2026-05-22",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "Nvidia Q1後續：Jensen Huang稱AI需求「拋物線式成長」，Agentic AI已到來",
+        "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
+        "desc": "數據中心營收$75.2B（+92%），但承認已「基本放棄」中國AI晶片市場給華為。"
+      },
+      {
+        "title": "Nvidia交付Vera AI CPU給SpaceX、Anthropic、OpenAI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-delivers-vera-ai-cpus-113114593.html",
+        "source": "Yahoo Finance",
+        "desc": "新CPU平台首批客戶曝光，Musk稱「Vera Nice」。"
+      },
+      {
+        "title": "SpaceX IPO文件充滿AI賭注：Musk身兼CEO/CTO/董事長",
+        "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "source": "TechCrunch",
+        "desc": "目標估值$1.5兆+，募資$800億+。累計虧損$413億。"
+      },
+      {
+        "title": "Nvidia「五層蛋糕」AI策略：從晶片到平台到生態系",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+        "source": "CNBC",
+        "desc": "不只賣GPU，要建立完整AI基礎設施堆疊。"
+      },
+      {
+        "title": "Gene Munster：SpaceX IPO「吸走了」Nvidia財報的光環",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-stock-weekly-loss-spacex-ipo-hype-q1-earnings-gene-munster/cZXzsslReFT",
+        "source": "Stocktwits",
+        "desc": "Nvidia本週可能收跌，儘管財報超預期。"
+      },
+      {
+        "title": "Fortune Tech：SpaceX IPO招股書+Nvidia Q1+OpenAI即將IPO",
+        "url": "https://fortune.com/2026/05/21/rollout-complete-spacex-files-ipo-prospectus/",
+        "source": "Fortune",
+        "desc": "AI巨頭競相上市，資本市場迎來超級週期。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Forza Horizon 6達成巨大里程碑：跨Xbox/PC/Game Pass全平台",
+        "url": "https://www.windowscentral.com/gaming/forza/forza-horizon-6-hits-a-massive-milestone-across-xbox-pc-and-game-pass-after-its-explosive-release",
+        "source": "Windows Central",
+        "desc": "Steam新峰值+全平台爆發。"
+      },
+      {
+        "title": "Playground Games確認Fable仍在今年秋季推出，不會因FH6延期",
+        "url": "https://www.windowscentral.com/gaming/xbox/forza-horizon-6-dev-says-its-still-releasing-xboxs-fable-later-this-year",
+        "source": "Windows Central",
+        "desc": "「我們還沒完成」— 兩款大作同年。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1正式開始：每週獎勵車輛+新內容",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "5/21-6/18，持續更新內容。"
+      },
+      {
+        "title": "Forza Horizon 6 Steam峰值273K打破Xbox Game Studios紀錄",
+        "url": "http://www.purexbox.com/news/2026/05/forza-horizon-6-smashes-concurrent-player-record-for-xbox-game-studios-on-steam",
+        "source": "Pure Xbox",
+        "desc": "超越Halo Infinite成為Xbox Steam之王。"
+      },
+      {
+        "title": "Xbox Game Pass 5月第二批遊戲公布：FH6後續支援",
+        "url": "https://xbox.einnews.com/article/913728376/3L7D__bDbqTm9rJH",
+        "source": "EIN News",
+        "desc": "14款新遊戲加入。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "SpaceX IPO招股書：目標$1.5兆估值、募資$800億+",
+        "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "source": "TechCrunch",
+        "desc": "Q1虧損$42.7億，累計虧損$413億。Musk身兼三職。"
+      },
+      {
+        "title": "Nvidia承認「基本放棄」中國AI晶片市場給華為",
+        "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
+        "desc": "美國出口管制下的戰略選擇。"
+      },
+      {
+        "title": "美伊和平協議即將達成：巴基斯坦斡旋，Rubio稱有好跡象",
+        "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-clinches-record-high-sp-500-and-nasdaq-rise-as-stocks-rebound-on-us-iran-peace-hopes-232311117.html",
+        "source": "Yahoo Finance",
+        "desc": "道瓊創新高50,350+，油價暴跌。"
+      },
+      {
+        "title": "Nvidia Vera CPU平台：首批交付SpaceX、Anthropic、OpenAI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-delivers-vera-ai-cpus-113114593.html",
+        "source": "Yahoo Finance",
+        "desc": "從GPU擴展到CPU，全面AI基礎設施。"
+      },
+      {
+        "title": "Nvidia伊朗戰爭影響聲明：尚無重大業務衝擊但持續監控",
+        "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
+        "desc": "地緣政治風險仍在。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC漲至$77,800：美伊和平協議希望推動風險偏好",
+        "url": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
+        "source": "CoinDesk",
+        "desc": "和平=風險偏好交易。"
+      },
+      {
+        "title": "美伊和談消息推動美股+$5000億，油價暴跌至$96",
+        "url": "https://beincrypto.com/us-iran-draft-peace-deal-stocks-oil-impact/",
+        "source": "BeInCrypto",
+        "desc": "WTI跌至$96.23，通膨壓力大幅緩解。"
+      },
+      {
+        "title": "BTC形成雙底：Trump暗示伊朗談判即將結束",
+        "url": "https://crypto.news/bitcoin-price-forms-double-bottom-as-trump-signals-iran-negotiations-may-conclude-soon/",
+        "source": "Crypto News",
+        "desc": "技術面+基本面雙重支撐。"
+      },
+      {
+        "title": "BTC/ETH/XRP上漲：美伊和平樂觀情緒蔓延",
+        "url": "https://www.tmgm.com/en/analysis/market-news/article/crypto-today-bitcoin-ethereum-xrp-tick-up-as-optimism-builds-for-us-iran-peace-deal-202605211200",
+        "source": "TMGM",
+        "desc": "ETH $2,136、XRP $1.38。"
+      },
+      {
+        "title": "Nvidia礦業股漲但BTC反應溫和：AI vs 加密分化持續",
+        "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook",
+        "source": "CoinDesk",
+        "desc": "礦業股受惠數據中心需求。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia Vera CPU平台：AI從GPU擴展到CPU的開發者影響",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-delivers-vera-ai-cpus-113114593.html",
+        "source": "Yahoo Finance",
+        "desc": "SpaceX、Anthropic、OpenAI首批評估。"
+      },
+      {
+        "title": "Jensen Huang：Agentic AI開發已成主流，需求拋物線",
+        "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
+        "desc": "Agent式AI開發框架需求爆發。"
+      },
+      {
+        "title": "SpaceX IPO文件揭示AI投資：Starship+衛星+AI整合",
+        "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "source": "TechCrunch",
+        "desc": "太空+AI交叉領域開發機會。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1開發者支援：持續內容更新框架",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "Live Service遊戲開發模式。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Forza Horizon 6日本場景持續獲讚：Season 1新內容",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新獎勵車輛+季節性視覺變化。"
+      },
+      {
+        "title": "SpaceX Starship視覺：IPO文件中的太空美學",
+        "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "source": "TechCrunch",
+        "desc": "太空探索的視覺敘事。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia「五層蛋糕」產品架構設計",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+        "source": "CNBC",
+        "desc": "從晶片→平台→生態系的系統設計思維。"
+      },
+      {
+        "title": "Fable RPG確認秋季推出：深度反應式遊戲設計",
+        "url": "https://www.windowscentral.com/gaming/xbox/forza-horizon-6-dev-says-its-still-releasing-xboxs-fable-later-this-year",
+        "source": "Windows Central",
+        "desc": "幽默+深度反應的RPG設計。"
+      }
+    ],
+    "business": [
+      {
+        "title": "SpaceX IPO：目標$1.5兆估值，史上最大科技IPO",
+        "url": "https://fortune.com/2026/05/21/rollout-complete-spacex-files-ipo-prospectus/",
+        "source": "Fortune",
+        "desc": "Q1虧$42.7億但估值驚人。OpenAI也即將IPO。"
+      },
+      {
+        "title": "美伊和平協議即將達成：美股+$5000億、油價暴跌",
+        "url": "https://beincrypto.com/us-iran-draft-peace-deal-stocks-oil-impact/",
+        "source": "BeInCrypto",
+        "desc": "道瓊創新高50,350+。荷姆茲海峽可能重開。"
+      },
+      {
+        "title": "Nvidia放棄中國市場給華為：地緣政治重塑AI供應鏈",
+        "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
+        "desc": "美中AI脫鉤加速。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "道瓊創歷史新高50,350+：美伊和平協議希望推動",
+        "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-clinches-record-high-sp-500-and-nasdaq-rise-as-stocks-rebound-on-us-iran-peace-hopes-232311117.html",
+        "source": "Yahoo Finance",
+        "desc": "Rubio稱有好跡象，巴基斯坦斡旋。"
+      },
+      {
+        "title": "油價暴跌至$96：和談消息+荷姆茲海峽可能重開",
+        "url": "https://beincrypto.com/us-iran-draft-peace-deal-stocks-oil-impact/",
+        "source": "BeInCrypto",
+        "desc": "通膨壓力大幅緩解，Fed降息預期回升。"
+      },
+      {
+        "title": "Nvidia本週可能收跌：SpaceX IPO吸走光環",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-stock-weekly-loss-spacex-ipo-hype-q1-earnings-gene-munster/cZXzsslReFT",
+        "source": "Stocktwits",
+        "desc": "連四季財報後下跌+SpaceX搶風頭。"
+      },
+      {
+        "title": "SpaceX IPO招股書：募資$800億+、估值$1.5兆",
+        "url": "https://fortune.com/2026/05/21/rollout-complete-spacex-files-ipo-prospectus/",
+        "source": "Fortune",
+        "desc": "史上最大科技IPO即將到來。"
+      },
+      {
+        "title": "BTC漲至$77,800：和平希望+風險偏好回升",
+        "url": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
+        "source": "CoinDesk",
+        "desc": "但仍未突破$80K。"
+      },
+      {
+        "title": "台股期貨+1.2%至40,500：道瓊新高+和談利多",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-stocks-rally-oil-prices-iran-deal-hopes/",
+        "source": "Investor's Business Daily",
+        "desc": "預計今日開高。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Jensen Huang CNBC專訪：AI需求拋物線、放棄中國市場",
+        "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
+        "desc": "與Sara Eisen對談。"
+      }
+    ],
+    "summaries": {
+      "ai": "Nvidia後續：需求「拋物線」、放棄中國給華為、Vera CPU交付SpaceX/Anthropic/OpenAI。SpaceX IPO（$1.5兆）。五層蛋糕策略。",
+      "gaming": "🎮Forza Horizon 6全平台里程碑！Season 1開始。Fable確認秋季。Steam 273K紀錄。Game Pass第二批。",
+      "tech": "SpaceX IPO $1.5兆。Nvidia放棄中國。美伊和平即將達成。Vera CPU。伊朗風險聲明。",
+      "crypto": "BTC漲至$77.8K（和平希望）。美伊和談→美股+$5000億、油價$96。雙底形態。礦業股漲。",
+      "dev": "Nvidia Vera CPU。Agentic AI主流化。SpaceX AI投資。FH6 Live Service。",
+      "finance": "🔥道瓊創新高50,350+！美伊和平。油價暴跌$96。SpaceX $800億IPO。Nvidia週跌。BTC $77.8K。期貨+1.2%。",
+      "art": "FH6 Season 1視覺、SpaceX太空美學。",
+      "design": "Nvidia五層蛋糕架構、Fable RPG設計。",
+      "business": "SpaceX $1.5兆IPO。美伊和平+$5000億。Nvidia放棄中國。"
+    },
     "stock_briefing": {
       "date": "2026-05-22",
       "updated_at": "2026-05-22 07:45",
