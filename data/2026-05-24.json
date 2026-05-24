@@ -1,0 +1,270 @@
+{
+  "date": "2026-05-24",
+  "categories": {
+    "ai": [
+      {
+        "title": "Axios：改變AI的兩小時 — OpenAI、Anthropic、SpaceX競相佈局",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "SpaceX IPO鞏固Musk為AI經濟權力掮客，算力基礎設施成戰略資源。"
+      },
+      {
+        "title": "CNBC：AI能源基礎設施交易回報翻倍，超越Nvidia",
+        "url": "https://www.cnbc.com/2026/05/21/an-ai-trade-involving-energy-and-infrastructure-thats-doubled-your-money-topping-nvidia.html",
+        "source": "CNBC",
+        "desc": "荷姆茲海峽船隻開始通行，油價下跌的真正原因。"
+      },
+      {
+        "title": "Nvidia投資版圖超$400億：IREN $21億+Corning $32億",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "source": "CNBC",
+        "desc": "從晶片商轉型為AI生態系投資者。"
+      },
+      {
+        "title": "OpenAI加速IPO競賽，Anthropic Q2營收大幅成長",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html",
+        "source": "CNBC",
+        "desc": "AI巨頭競相上市，資本市場超級週期。"
+      },
+      {
+        "title": "SpaceX IPO估值可能接近$2兆：Goldman Sachs擔任主承銷商",
+        "url": "https://www.fool.com/investing/2026/05/20/stock-market-indexes-rally-wednesday-as-iran-talks/",
+        "source": "Motley Fool",
+        "desc": "募資$750億，史上最大IPO。"
+      },
+      {
+        "title": "Nvidia Vera CPU首批交付SpaceX、Anthropic、OpenAI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-delivers-vera-ai-cpus-113114593.html",
+        "source": "Yahoo Finance",
+        "desc": "Musk稱「Vera Nice」。從GPU擴展到CPU。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Jensen Huang CNBC專訪：AI需求拋物線、Agentic AI已到來",
+        "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
+        "desc": "放棄中國市場給華為。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Xbox Game Pass 5月第二波：Forza Horizon 6+Jurassic World Evolution 3+Escape Simulator",
+        "url": "https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/",
+        "source": "Xbox",
+        "desc": "14款新遊戲加入。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1進行中：每週獎勵車輛+新內容（5/21-6/18）",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "持續更新維持玩家黏著度。"
+      },
+      {
+        "title": "Forza Horizon 6全平台里程碑+Steam新峰值紀錄",
+        "url": "https://xbox.einnews.com/article/914156776/K8NsnVrQt4MHYhQa",
+        "source": "EIN News",
+        "desc": "跨Xbox/PC/Game Pass全面爆發。"
+      },
+      {
+        "title": "Playground Games確認Fable秋季推出不延期",
+        "url": "https://www.windowscentral.com/gaming/xbox/forza-horizon-6-dev-says-its-still-releasing-xboxs-fable-later-this-year",
+        "source": "Windows Central",
+        "desc": "FH6+Fable同年雙大作。"
+      },
+      {
+        "title": "遊戲產業轉向季節性內容+長期參與系統",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "FH6為代表案例。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔴 突發：Trump宣布伊朗和平協議「基本談妥」，荷姆茲海峽將重開",
+        "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+        "source": "CNBC",
+        "desc": "週六宣布。含核談判框架、解除制裁、解凍資產。但伊朗稱Trump說法「不完整」。"
+      },
+      {
+        "title": "The Guardian：Trump稱與伊朗和平協議已基本談妥",
+        "url": "https://www.theguardian.com/world/2026/may/23/trump-ceasefire-iran-strait-of-hormuz",
+        "source": "The Guardian",
+        "desc": "巴基斯坦斡旋+海灣國家+以色列參與。30-60天內完成正式協議。"
+      },
+      {
+        "title": "荷姆茲海峽船隻已開始通行：油價下跌的真正原因",
+        "url": "https://www.cnbc.com/2026/05/21/an-ai-trade-involving-energy-and-infrastructure-thats-doubled-your-money-topping-nvidia.html",
+        "source": "CNBC",
+        "desc": "不只是談判消息，實際通行已恢復。"
+      },
+      {
+        "title": "SpaceX IPO估值接近$2兆：Goldman Sachs主承銷",
+        "url": "https://www.fool.com/investing/2026/05/20/stock-market-indexes-rally-wednesday-as-iran-talks/",
+        "source": "Motley Fool",
+        "desc": "史上最大IPO即將到來。"
+      },
+      {
+        "title": "Samsung工會暫停罷工：達成臨時薪資協議",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html",
+        "source": "CNBC",
+        "desc": "半導體供應鏈風險暫時解除。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC因伊朗和平希望上漲至$77,800：Trump宣布協議「基本談妥」",
+        "url": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
+        "source": "CoinDesk",
+        "desc": "週一預期進一步上漲。"
+      },
+      {
+        "title": "BTC等待和談最終確認：確認→突破$80K、破裂→回$74K",
+        "url": "https://cryptodaily.co.uk/2026/05/bitcoin-waits-on-us-iran-peace-talks-resolution-next-big-move-loading",
+        "source": "Crypto Daily",
+        "desc": "Trump週六宣布後，週一開盤為關鍵。"
+      },
+      {
+        "title": "美伊和談推動美股+$5000億，油價跌至$96",
+        "url": "https://beincrypto.com/us-iran-draft-peace-deal-stocks-oil-impact/",
+        "source": "BeInCrypto",
+        "desc": "風險偏好大幅回升利好加密。"
+      },
+      {
+        "title": "BTC/ETH/XRP連漲：和平樂觀+油價跌+通膨緩解",
+        "url": "https://www.tmgm.com/en/analysis/market-news/article/crypto-today-bitcoin-ethereum-xrp-tick-up-as-optimism-builds-for-us-iran-peace-deal-202605211200",
+        "source": "TMGM",
+        "desc": "ETH $2,136、XRP $1.38。"
+      },
+      {
+        "title": "Al Arabiya報導美伊最終協議草案：加密市場準備突破",
+        "url": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
+        "source": "CoinDesk",
+        "desc": "沙烏地媒體確認草案存在。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia投資AI基礎設施超$400億：開發者算力供應改善",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "source": "CNBC",
+        "desc": "IREN+Corning等數據中心投資。"
+      },
+      {
+        "title": "SpaceX IPO中的技術架構：Starship+衛星+AI整合",
+        "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "source": "TechCrunch",
+        "desc": "太空+AI交叉開發機會。"
+      },
+      {
+        "title": "Forza Horizon 6季節性內容框架：Live Service開發模式",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "長期參與系統設計。"
+      },
+      {
+        "title": "OpenAI加速IPO：開發者生態系商業化",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html",
+        "source": "CNBC",
+        "desc": "API定價和開發者工具持續進化。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Forza Horizon 6 Season 1：日本季節性視覺變化",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車輛+環境變化。"
+      },
+      {
+        "title": "SpaceX Starship視覺：太空探索的美學想像",
+        "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "source": "TechCrunch",
+        "desc": "IPO文件中的太空願景。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia五層蛋糕產品架構設計",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+        "source": "CNBC",
+        "desc": "晶片→平台→生態系層次設計。"
+      },
+      {
+        "title": "遊戲產業Live Service設計趨勢",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "季節性內容+長期參與系統。"
+      }
+    ],
+    "business": [
+      {
+        "title": "🔴 突發：Trump宣布伊朗協議「基本談妥」— 全球能源市場將重塑",
+        "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+        "source": "CNBC",
+        "desc": "荷姆茲海峽重開+解除制裁+解凍資產。週一市場預期大漲。"
+      },
+      {
+        "title": "SpaceX IPO估值$2兆：Goldman主承銷，史上最大",
+        "url": "https://www.fool.com/investing/2026/05/20/stock-market-indexes-rally-wednesday-as-iran-talks/",
+        "source": "Motley Fool",
+        "desc": "募資$750億。AI+太空超級週期。"
+      },
+      {
+        "title": "Nvidia投資版圖$400億+：從晶片商轉型AI生態投資者",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "source": "CNBC",
+        "desc": "IREN $21億+Corning $32億。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🔴 突發：Trump週六宣布伊朗協議「基本談妥」，荷姆茲海峽將重開",
+        "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+        "source": "CNBC",
+        "desc": "週一全球市場預期大漲。油價可能暴跌至$80-85。通膨壓力大幅緩解。"
+      },
+      {
+        "title": "上週收盤：道瓊50,653（新高）、S&P 7,480、Nasdaq 26,369",
+        "url": "https://energynews.oedigital.com/crude-oil/2026/05/22/investors-focus-on-progress-in-usiran-negotiations-as-stocks-climb-and-yields-fall",
+        "source": "OE Digital",
+        "desc": "伊朗和談+Nvidia+SpaceX推動。"
+      },
+      {
+        "title": "油價上週暴跌：WTI -8%至$96、Brent -5%至$102",
+        "url": "https://www.cnbc.com/2026/05/22/oil-prices-today-trump-iran-strait-of-hormuz-uranium-.html",
+        "source": "CNBC",
+        "desc": "週一可能進一步跌至$80-85。"
+      },
+      {
+        "title": "SpaceX IPO $2兆估值：Goldman主承銷，募資$750億",
+        "url": "https://www.fool.com/investing/2026/05/20/stock-market-indexes-rally-wednesday-as-iran-talks/",
+        "source": "Motley Fool",
+        "desc": "史上最大IPO。"
+      },
+      {
+        "title": "BTC $77.8K：伊朗協議確認後預期突破$80K",
+        "url": "https://cryptodaily.co.uk/2026/05/bitcoin-waits-on-us-iran-peace-talks-resolution-next-big-move-loading",
+        "source": "Crypto Daily",
+        "desc": "風險偏好大幅回升。"
+      },
+      {
+        "title": "下週關注：伊朗協議正式公布、5/29 MSCI生效、Fed紀要",
+        "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+        "source": "CNBC",
+        "desc": "三重催化劑。台股預期強力反彈。"
+      }
+    ],
+    "summaries": {
+      "ai": "Axios：改變AI的兩小時。Nvidia投資$400億+。SpaceX $2兆IPO。OpenAI加速IPO。Vera CPU。",
+      "gaming": "🎮Game Pass第二波（FH6+JWE3）。Season 1進行中。Fable秋季確認。產業轉向Live Service。",
+      "tech": "🔴突發：Trump宣布伊朗協議「基本談妥」！荷姆茲海峽重開。SpaceX $2兆。Samsung工會暫停。",
+      "crypto": "BTC $77.8K等最終確認。Trump週六宣布→週一預期突破$80K。油價跌利好。Al Arabiya確認草案。",
+      "dev": "Nvidia $400億投資。SpaceX架構。FH6 Live Service。OpenAI IPO生態。",
+      "finance": "🔴突發：伊朗協議「基本談妥」！週一預期全球大漲。油價可能跌至$80-85。MSCI 5/29。SpaceX $2兆。",
+      "art": "FH6 Season 1視覺、SpaceX太空美學。",
+      "design": "Nvidia五層蛋糕、Live Service設計趨勢。",
+      "business": "🔴伊朗協議→全球能源重塑。SpaceX $2兆。Nvidia $400億投資版圖。"
+    }
+  }
+}
