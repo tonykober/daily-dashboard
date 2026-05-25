@@ -1,0 +1,327 @@
+{
+  "date": "2026-05-25",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-05-25",
+      "updated_at": "2026-05-25 08:30",
+      "sparkline": [
+        40176,
+        40021,
+        40021,
+        40021,
+        41200,
+        41200,
+        41200
+      ],
+      "sparkline_dates": [
+        "5/19",
+        "5/20",
+        "5/21",
+        "5/22收",
+        "5/25E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "40,021",
+        "change": -155,
+        "changePercent": "-0.39%(上週五)",
+        "volume": "預估2.0兆",
+        "futures": "41,200 (+2.9%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 3
+        },
+        {
+          "name": "AI伺服器",
+          "change": 2.5
+        },
+        {
+          "name": "電子",
+          "change": 2
+        },
+        {
+          "name": "金融保險",
+          "change": 1.5
+        },
+        {
+          "name": "航運",
+          "change": 3.5
+        },
+        {
+          "name": "傳產",
+          "change": 1
+        },
+        {
+          "name": "高股息ETF",
+          "change": 1.5
+        },
+        {
+          "name": "石化/塑膠",
+          "change": 2
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 大漲",
+          "note": "伊朗協議「基本談妥」+荷姆茲海峽重開→油價暴跌→通膨緩解→科技股全面反彈。日經創64,000新高。AI需求確認+地緣風險解除雙重利多",
+          "nav": null,
+          "pb": 10.89,
+          "premium": null,
+          "pe": 34.3,
+          "quarterLine": 15.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 大漲",
+          "note": "期貨+2.9%至41,200，預期跳空大漲",
+          "nav": 203.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 跟漲",
+          "note": "大盤大漲帶動，高息標的跟隨",
+          "nav": 41.6,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 跟漲",
+          "note": "風險偏好回升，高息ETF跟漲",
+          "nav": 24.2,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": -1.8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 跟漲",
+          "note": "月配息+大盤反彈",
+          "nav": 26.7,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 跟漲",
+          "note": "價值型跟隨大盤",
+          "nav": 9.35,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -1.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 大漲",
+          "note": "同0050",
+          "nav": 104.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 大漲",
+          "note": "半導體全面反彈，Nvidia AI需求確認+地緣風險解除",
+          "nav": 32.2,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 大漲",
+          "note": "半導體族群強力反彈",
+          "nav": 16.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨大盤反彈",
+          "nav": 14.7,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動成長型受惠",
+          "nav": 29.5,
+          "pb": null,
+          "premium": -0.03,
+          "pe": null,
+          "quarterLine": -1.8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 反彈",
+          "note": "油價跌→通膨緩解→殖利率下降→債券反彈",
+          "nav": null,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -4.2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 大漲",
+          "note": "不配息複利型，台積電佔42.5%，跟隨大盤大漲",
+          "nav": 57,
+          "pb": null,
+          "premium": -0.3,
+          "pe": 21,
+          "quarterLine": -2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 大漲",
+          "note": "科技+配息，半導體反彈帶動",
+          "nav": 22.6,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2.8,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 大漲",
+          "note": "期貨+2.9%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 跟漲",
+          "note": "大盤帶動"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 跟漲",
+          "note": "風險偏好回升"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 大漲",
+          "note": "科技反彈"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 跟漲",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 大漲",
+          "note": "台積電帶動"
+        }
+      ],
+      "institutional": {
+        "外資": 300,
+        "投信": 30,
+        "自營商": 50
+      },
+      "sentiment": {
+        "score": 72,
+        "label": "貪婪 — 伊朗協議+油價暴跌+日經新高+MSCI倒數，多頭全面回歸",
+        "history": [
+          42,
+          35,
+          32,
+          32,
+          38,
+          42,
+          72
+        ]
+      },
+      "international": [
+        {
+          "name": "日經225",
+          "change": 3.5
+        },
+        {
+          "name": "道瓊(上週五)",
+          "change": 0.73
+        },
+        {
+          "name": "S&P 500",
+          "change": 0.47
+        },
+        {
+          "name": "Nasdaq",
+          "change": 0.29
+        },
+        {
+          "name": "Brent原油",
+          "change": -8
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.12
+        }
+      ],
+      "buffett_indicator": {
+        "value": 192,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴 Trump週六宣布伊朗協議「基本談妥」，荷姆茲海峽將重開",
+        "🟢 日經225突破64,000創歷史新高（+3.5%）",
+        "🟢 油價預期暴跌：荷姆茲重開→全球能源供應恢復",
+        "🟢 台股期貨+2.9%至41,200，預期跳空大漲",
+        "🟢 通膨壓力大幅緩解→Fed降息預期回升",
+        "📌 5/29 MSCI台灣權重上調倒數4天 — 被動買盤即將湧入",
+        "⚠️ 伊朗稱Trump說法「不完整」，仍有變數",
+        "⚠️ 白宮附近傳槍聲導致安全封鎖，公布可能延遲"
+      ],
+      "summary": "🚀 伊朗協議「基本談妥」+荷姆茲海峽重開！全球市場狂歡：日經64,000新高、油價暴跌、通膨緩解。台股期貨+2.9%至41,200，預期今日跳空大漲。加上5/29 MSCI權重上調倒數4天，多頭全面回歸。但注意：伊朗稱Trump說法「不完整」，仍有變數。建議：今日大漲不追高（已反映大部分利多），等正式協議公布確認後再加碼。半導體ETF維持「持有」。",
+      "searched": []
+    }
+  }
+}
