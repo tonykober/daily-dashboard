@@ -1,17 +1,271 @@
 {
   "date": "2026-05-25",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "Anthropic與SpaceX簽署$1.25B/月算力合約至2029年",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "使用SpaceX Colossus超算。"
+      },
+      {
+        "title": "Nvidia投資版圖超$400億：IREN+Corning",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "source": "CNBC",
+        "desc": "從晶片商轉型AI生態投資者。"
+      },
+      {
+        "title": "五角大廈與Nvidia/OpenAI/Google/SpaceX簽署機密AI合約",
+        "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+        "source": "Decrypt",
+        "desc": "加速美軍AI優先轉型。"
+      },
+      {
+        "title": "OpenAI加速IPO，Anthropic Q2營收大幅成長",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html",
+        "source": "CNBC",
+        "desc": "AI巨頭競相上市。"
+      },
+      {
+        "title": "SpaceX IPO估值$1.75兆",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-deal-brent-crude-oil-earnings-tech-chip-stock-price-target-lowes-fed-rate-hike-treasury-yields-inflation-news/liveblog/131226904.cms",
+        "source": "Economic Times",
+        "desc": "Goldman主承銷。"
+      },
+      {
+        "title": "Nvidia Vera CPU交付SpaceX/Anthropic/OpenAI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-delivers-vera-ai-cpus-113114593.html",
+        "source": "Yahoo Finance",
+        "desc": "從GPU擴展到CPU。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Xbox Game Pass 5月第二波：FH6+JWE3+14款",
+        "url": "https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/",
+        "source": "Xbox",
+        "desc": "持續擴充。"
+      },
+      {
+        "title": "FH6 Season 1進行中（5/21-6/18）",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車。"
+      },
+      {
+        "title": "Fable確認秋季推出",
+        "url": "https://www.windowscentral.com/gaming/xbox/forza-horizon-6-dev-says-its-still-releasing-xboxs-fable-later-this-year",
+        "source": "Windows Central",
+        "desc": "FH6+Fable同年。"
+      },
+      {
+        "title": "FH6全平台里程碑+Steam 273K",
+        "url": "https://xbox.einnews.com/article/914156776/K8NsnVrQt4MHYhQa",
+        "source": "EIN News",
+        "desc": "Xbox最大Steam首發。"
+      },
+      {
+        "title": "遊戲產業轉向Live Service",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "FH6為代表。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Brent原油跌破$99：荷姆茲海峽船隻開始通行",
+        "url": "https://news.bitcoin.com/brent-crude-tumbles-below-99-as-trump-signals-us-iran-deal-bitcoin-holds-near-77k/",
+        "source": "Bitcoin.com",
+        "desc": "全球能源供應恢復。"
+      },
+      {
+        "title": "日經225突破64,000創歷史新高",
+        "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+        "source": "CNBC",
+        "desc": "亞洲狂歡。"
+      },
+      {
+        "title": "美股休市（Memorial Day）：期貨Nasdaq +1%",
+        "url": "https://www.bitget.com/news/detail/12560605426124",
+        "source": "Bitget",
+        "desc": "週二預期大漲。"
+      },
+      {
+        "title": "Anthropic-SpaceX $1.25B/月算力合約",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "AI軍備競賽。"
+      },
+      {
+        "title": "五角大廈AI合約：全巨頭參與",
+        "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+        "source": "Decrypt",
+        "desc": "軍事AI化。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Brent<$99 + BTC $77K：伊朗協議效應",
+        "url": "https://news.bitcoin.com/brent-crude-tumbles-below-99-as-trump-signals-us-iran-deal-bitcoin-holds-near-77k/",
+        "source": "Bitcoin.com",
+        "desc": "油跌利好風險資產。"
+      },
+      {
+        "title": "加密市場因油價暴跌反彈",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52764089/crypto-market-rally-sparks-as-crude-oil-plunges-amid-us-iran-deal-hopes",
+        "source": "Benzinga",
+        "desc": "通膨緩解。"
+      },
+      {
+        "title": "BTC回升至$76,500+",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-above-76-500-090847478.html",
+        "source": "Yahoo Finance",
+        "desc": "伊朗和談支撐。"
+      },
+      {
+        "title": "本週加密回顧：BTC波動+伊朗和談",
+        "url": "https://beincrypto.com/this-week-in-crypto-bitcoin-iran-deal-altcoins/",
+        "source": "BeInCrypto",
+        "desc": "Fed鷹派後反彈。"
+      },
+      {
+        "title": "強加密幣反彈但BTC相對弱勢",
+        "url": "https://www.bitget.com/news/detail/12560605426124",
+        "source": "Bitget",
+        "desc": "核問題仍是變數。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Anthropic-SpaceX Colossus超算合約",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "$1.25B/月至2029。"
+      },
+      {
+        "title": "五角大廈機密AI合約",
+        "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+        "source": "Decrypt",
+        "desc": "軍事AI開發。"
+      },
+      {
+        "title": "Nvidia $400億+AI基礎設施投資",
+        "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+        "source": "CNBC",
+        "desc": "開發者算力改善。"
+      },
+      {
+        "title": "FH6 Live Service框架",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "季節性內容開發。"
+      }
+    ],
+    "art": [
+      {
+        "title": "FH6 Season 1日本季節視覺",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "環境變化。"
+      },
+      {
+        "title": "SpaceX Colossus超算美學",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "算力基礎設施。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia五層蛋糕AI架構",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+        "source": "CNBC",
+        "desc": "系統設計。"
+      },
+      {
+        "title": "Live Service設計趨勢",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "季節性+長期參與。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Brent<$99：全球能源市場重塑",
+        "url": "https://news.bitcoin.com/brent-crude-tumbles-below-99-as-trump-signals-us-iran-deal-bitcoin-holds-near-77k/",
+        "source": "Bitcoin.com",
+        "desc": "荷姆茲通行恢復。"
+      },
+      {
+        "title": "Anthropic-SpaceX $1.25B/月合約",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "AI商業新標竿。"
+      },
+      {
+        "title": "五角大廈AI軍事合約",
+        "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+        "source": "Decrypt",
+        "desc": "國防AI爆發。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Brent跌破$99：伊朗協議+荷姆茲重開",
+        "url": "https://news.bitcoin.com/brent-crude-tumbles-below-99-as-trump-signals-us-iran-deal-bitcoin-holds-near-77k/",
+        "source": "Bitcoin.com",
+        "desc": "通膨緩解。"
+      },
+      {
+        "title": "日經64,000新高",
+        "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+        "source": "CNBC",
+        "desc": "亞洲狂歡。"
+      },
+      {
+        "title": "美股休市：期貨Nasdaq+1%",
+        "url": "https://www.bitget.com/news/detail/12560605426124",
+        "source": "Bitget",
+        "desc": "週二大漲預期。"
+      },
+      {
+        "title": "BTC $77K守住",
+        "url": "https://news.bitcoin.com/brent-crude-tumbles-below-99-as-trump-signals-us-iran-deal-bitcoin-holds-near-77k/",
+        "source": "Bitcoin.com",
+        "desc": "等正式確認。"
+      },
+      {
+        "title": "台股期貨+2.9%至41,200",
+        "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+        "source": "CNBC",
+        "desc": "MSCI倒數4天。"
+      },
+      {
+        "title": "SpaceX $1.75兆IPO+Anthropic合約",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "AI資本狂潮。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Axios：改變AI的兩小時",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "算力成戰略資源。"
+      }
+    ],
+    "summaries": {
+      "ai": "Anthropic-SpaceX $1.25B/月！五角大廈AI合約。Nvidia $400億。OpenAI/SpaceX IPO。Vera CPU。",
+      "gaming": "Game Pass第二波。FH6 Season 1。Fable秋季。273K。Live Service。",
+      "tech": "Brent<$99！日經64K新高。美股休市期貨漲。Anthropic-SpaceX。五角大廈AI。",
+      "crypto": "BTC $77K。Brent<$99利好。加密反彈。BTC弱勢。核問題變數。",
+      "dev": "Anthropic-SpaceX Colossus。五角大廈AI。Nvidia $400億。FH6 Live Service。",
+      "finance": "Brent<$99！日經64K。美股休市。台股+2.9%。MSCI倒數。SpaceX $1.75兆。",
+      "art": "FH6 Season 1、SpaceX美學。",
+      "design": "Nvidia五層蛋糕、Live Service。",
+      "business": "Brent<$99。Anthropic-SpaceX。五角大廈AI。"
+    },
     "stock_briefing": {
       "date": "2026-05-25",
       "updated_at": "2026-05-25 08:30",
