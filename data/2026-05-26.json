@@ -1,0 +1,327 @@
+{
+  "date": "2026-05-26",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-05-26",
+      "updated_at": "2026-05-26 08:30",
+      "sparkline": [
+        40021,
+        40021,
+        43644,
+        43644,
+        44500,
+        44500,
+        44500
+      ],
+      "sparkline_dates": [
+        "5/22",
+        "5/22收",
+        "5/25",
+        "5/25收",
+        "5/26E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "43,644",
+        "change": 1380,
+        "changePercent": "+3.26%",
+        "volume": "2.1兆",
+        "futures": "44,500 (+1.96%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 4.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": 3.8
+        },
+        {
+          "name": "電子",
+          "change": 3
+        },
+        {
+          "name": "金融保險",
+          "change": 2.5
+        },
+        {
+          "name": "航運",
+          "change": 5
+        },
+        {
+          "name": "石化/塑膠",
+          "change": 3.5
+        },
+        {
+          "name": "傳產",
+          "change": 2
+        },
+        {
+          "name": "高股息ETF",
+          "change": 2.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 噴出",
+          "note": "台股昨日創歷史新高43,644（+3.26%）！伊朗協議+荷姆茲重開+油價暴跌10%+日經65K。今日期貨再漲+1.96%至44,500",
+          "nav": null,
+          "pb": 11.5,
+          "premium": null,
+          "pe": 36,
+          "quarterLine": 20,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 噴出",
+          "note": "大盤創新高帶動，期貨續漲",
+          "nav": 215,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 大漲",
+          "note": "大盤狂歡帶動全面上漲",
+          "nav": 43.5,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 大漲",
+          "note": "風險偏好爆發，高息ETF跟漲",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 大漲",
+          "note": "月配息+大盤新高",
+          "nav": 28,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 大漲",
+          "note": "價值型跟隨大盤",
+          "nav": 9.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 噴出",
+          "note": "同0050",
+          "nav": 110,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 噴出",
+          "note": "半導體全面噴出，Nvidia+伊朗雙重利多",
+          "nav": 35,
+          "pb": null,
+          "premium": 0.8,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 噴出",
+          "note": "半導體族群狂歡",
+          "nav": 18,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 大漲",
+          "note": "主動型跟隨大盤",
+          "nav": 15.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 大漲",
+          "note": "主動成長型受惠",
+          "nav": 31,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 大漲",
+          "note": "油價暴跌→通膨緩解→殖利率大跌→債券大漲",
+          "nav": null,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 噴出",
+          "note": "不配息複利型，台積電佔42.5%，跟隨大盤創新高",
+          "nav": 61,
+          "pb": null,
+          "premium": 0.3,
+          "pe": 22.5,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 噴出",
+          "note": "科技+配息，半導體帶動",
+          "nav": 24,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 噴出",
+          "note": "大盤新高+期貨續漲"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 大漲",
+          "note": "全面上漲"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 大漲",
+          "note": "風險偏好爆發"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 噴出",
+          "note": "科技帶動"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 大漲",
+          "note": "月配息+新高"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 噴出",
+          "note": "台積電帶動"
+        }
+      ],
+      "institutional": {
+        "外資": 500,
+        "投信": 50,
+        "自營商": 80
+      },
+      "sentiment": {
+        "score": 85,
+        "label": "極度貪婪 — 台股創歷史新高！伊朗和平+油價暴跌+MSCI倒數，全面狂歡",
+        "history": [
+          35,
+          32,
+          38,
+          42,
+          72,
+          85,
+          85
+        ]
+      },
+      "international": [
+        {
+          "name": "日經225",
+          "change": 4.2
+        },
+        {
+          "name": "道瓊期貨",
+          "change": 0.8
+        },
+        {
+          "name": "Nasdaq期貨",
+          "change": 1.2
+        },
+        {
+          "name": "S&P期貨",
+          "change": 1
+        },
+        {
+          "name": "Brent原油",
+          "change": -10
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.15
+        }
+      ],
+      "buffett_indicator": {
+        "value": 205,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴 台股昨日創歷史新高 43,644（+3.26%，+1,380點）！",
+        "🟢 日經225突破65,000創新高（+4.2%）",
+        "🟢 油價暴跌10%：荷姆茲海峽重開在即",
+        "🟢 道瓊期貨+400點，美股週二預期大漲",
+        "🟢 台股期貨再漲+1.96%至44,500，今日預期續創新高",
+        "📌 5/29 MSCI台灣權重上調倒數3天 — 被動買盤持續湧入",
+        "⚠️ 巴菲特指數205%極度高估 — 短線過熱風險",
+        "⚠️ 情緒85極度貪婪 — 歷史上此區間容易出現回調"
+      ],
+      "summary": "🚀🚀 台股創歷史新高43,644！伊朗協議+荷姆茲重開+油價暴跌10%+日經65K+MSCI倒數，全面狂歡。今日期貨再漲+1.96%至44,500，預期續創新高。但注意：情緒85極度貪婪+巴菲特指數205%，短線過熱風險極高。建議：持有不加碼，不追高。已持有部位享受漲幅，但新資金等回調再進場。MSCI 5/29前有被動買盤支撐，但之後可能出現獲利了結。",
+      "searched": []
+    }
+  }
+}
