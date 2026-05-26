@@ -1,17 +1,271 @@
 {
   "date": "2026-05-26",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "AI能源基礎設施交易回報翻倍，超越Nvidia",
+        "url": "https://www.cnbc.com/2026/05/21/an-ai-trade-involving-energy-and-infrastructure-thats-doubled-your-money-topping-nvidia.html",
+        "source": "CNBC",
+        "desc": "荷姆茲海峽船隻已開始通行，AI數據中心能源成本將大幅下降。"
+      },
+      {
+        "title": "Anthropic-SpaceX $1.25B/月算力合約：AI軍備競賽白熱化",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "SpaceX Colossus超算成為AI訓練關鍵基礎設施。"
+      },
+      {
+        "title": "Nvidia Q1後續：AI需求「拋物線式成長」確認，市場全面反映",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-posts-strong-quarter-ai-leaders-race-to-ipo-.html",
+        "source": "CNBC",
+        "desc": "數據中心$75.2B（+92%），但股價利多出盡。"
+      },
+      {
+        "title": "五角大廈AI軍事合約：Nvidia/OpenAI/Google/SpaceX/Amazon全參與",
+        "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+        "source": "Decrypt",
+        "desc": "美軍AI優先轉型加速。"
+      },
+      {
+        "title": "SpaceX IPO $1.75兆估值：AI+太空超級週期",
+        "url": "https://fortune.com/2026/05/21/rollout-complete-spacex-files-ipo-prospectus/",
+        "source": "Fortune",
+        "desc": "Goldman主承銷，史上最大科技IPO。"
+      },
+      {
+        "title": "油價暴跌利好AI：數據中心能源成本壓力大幅緩解",
+        "url": "https://www.cnbc.com/2026/05/21/an-ai-trade-involving-energy-and-infrastructure-thats-doubled-your-money-topping-nvidia.html",
+        "source": "CNBC",
+        "desc": "WTI跌至$89，AI營運成本下降。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Xbox Game Pass 5月第二波：FH6+Jurassic World Evolution 3等14款",
+        "url": "https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/",
+        "source": "Xbox",
+        "desc": "持續擴充遊戲庫。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1進行中（5/21-6/18）",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車+內容更新。"
+      },
+      {
+        "title": "Playground Games確認Fable秋季推出",
+        "url": "https://www.windowscentral.com/gaming/xbox/forza-horizon-6-dev-says-its-still-releasing-xboxs-fable-later-this-year",
+        "source": "Windows Central",
+        "desc": "FH6+Fable同年雙大作。"
+      },
+      {
+        "title": "FH6全平台里程碑+Steam 273K紀錄",
+        "url": "https://xbox.einnews.com/article/914156776/K8NsnVrQt4MHYhQa",
+        "source": "EIN News",
+        "desc": "Xbox史上最大Steam首發。"
+      },
+      {
+        "title": "遊戲產業Live Service趨勢：FH6為代表",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "季節性內容+長期參與。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "全球股市創新高：S&P 7,534、台股43,644、日經65,000",
+        "url": "https://cryptonews.com/news/oil-price-bitcoin-sp500-7500-breakout-risk-on-surge/",
+        "source": "CryptoNews",
+        "desc": "伊朗和平+油價暴跌推動全面風險偏好。"
+      },
+      {
+        "title": "油價暴跌：WTI -7%至$89、Brent -6.9%至$96",
+        "url": "https://bitcoin.einnews.com/article/914901364/mPtsFvbEyH85Orlf",
+        "source": "EIN News",
+        "desc": "荷姆茲海峽重開在即，全球能源供應恢復。"
+      },
+      {
+        "title": "台股創歷史新高43,644（+3.26%）：亞洲領漲",
+        "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+        "source": "CNBC",
+        "desc": "日經65K、台股43.6K同創新高。"
+      },
+      {
+        "title": "道瓊期貨+400：美股週二預期大漲",
+        "url": "https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Memorial Day後開盤狂歡。"
+      },
+      {
+        "title": "Trump稱不急於達成伊朗協議：但市場已反映和平預期",
+        "url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+        "source": "The Guardian",
+        "desc": "「不要急」但方向已定。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "S&P創新高7,534+油價暴跌：風險偏好全面爆發",
+        "url": "https://cryptonews.com/news/oil-price-bitcoin-sp500-7500-breakout-risk-on-surge/",
+        "source": "CryptoNews",
+        "desc": "但BTC僅$77.2K，相對弱勢。"
+      },
+      {
+        "title": "Brent跌破$99+BTC $77K：加密市場反應溫和",
+        "url": "https://bitcoin.einnews.com/article/914901364/mPtsFvbEyH85Orlf",
+        "source": "EIN News",
+        "desc": "美股休市期間加密交易量低。"
+      },
+      {
+        "title": "BTC在50日均線$76,940上方交易：技術面支撐",
+        "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-trades-above-usd77-000-as-oil-s-5-slide-pushes-asian-equities-higher",
+        "source": "CoinDesk",
+        "desc": "亞洲股市大漲帶動。"
+      },
+      {
+        "title": "加密市場因油價暴跌反彈",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52764089/crypto-market-rally-sparks-as-crude-oil-plunges-amid-us-iran-deal-hopes",
+        "source": "Benzinga",
+        "desc": "通膨緩解利好風險資產。"
+      },
+      {
+        "title": "WTI跌至$89：加密評論員稱「所有人都看空時反而該注意」",
+        "url": "https://cryptocurrency.einnews.com/article/914884681/NMuvGWLoasXgNkcd",
+        "source": "EIN News",
+        "desc": "BTC交易量低但守住支撐。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "AI能源基礎設施：油價暴跌降低數據中心營運成本",
+        "url": "https://www.cnbc.com/2026/05/21/an-ai-trade-involving-energy-and-infrastructure-thats-doubled-your-money-topping-nvidia.html",
+        "source": "CNBC",
+        "desc": "開發者雲端成本可能下降。"
+      },
+      {
+        "title": "Anthropic-SpaceX Colossus超算：$1.25B/月算力合約",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "AI訓練基礎設施新標竿。"
+      },
+      {
+        "title": "五角大廈機密AI合約：軍事AI開發生態",
+        "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+        "source": "Decrypt",
+        "desc": "全巨頭參與。"
+      },
+      {
+        "title": "FH6 Live Service開發模式：季節性內容框架",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "長期參與系統。"
+      }
+    ],
+    "art": [
+      {
+        "title": "FH6 Season 1日本季節視覺",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "環境變化。"
+      },
+      {
+        "title": "全球市場狂歡的數據視覺化",
+        "url": "https://cryptonews.com/news/oil-price-bitcoin-sp500-7500-breakout-risk-on-surge/",
+        "source": "CryptoNews",
+        "desc": "S&P/台股/日經同創新高。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia五層蛋糕AI架構設計",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+        "source": "CNBC",
+        "desc": "系統設計思維。"
+      },
+      {
+        "title": "Live Service遊戲設計趨勢",
+        "url": "https://www.techloy.com/forza-horizon-6-season-1-on-xbox-game-pass-heres-everything-coming/",
+        "source": "Techloy",
+        "desc": "季節性+長期參與。"
+      }
+    ],
+    "business": [
+      {
+        "title": "全球股市同創新高：S&P 7,534、台股43,644、日經65,000",
+        "url": "https://cryptonews.com/news/oil-price-bitcoin-sp500-7500-breakout-risk-on-surge/",
+        "source": "CryptoNews",
+        "desc": "伊朗和平重塑全球風險偏好。"
+      },
+      {
+        "title": "油價暴跌重塑能源市場：WTI $89、Brent $96",
+        "url": "https://bitcoin.einnews.com/article/914901364/mPtsFvbEyH85Orlf",
+        "source": "EIN News",
+        "desc": "荷姆茲重開→全球供應恢復→通膨緩解。"
+      },
+      {
+        "title": "SpaceX $1.75兆IPO+Anthropic $1.25B/月：AI資本狂潮",
+        "url": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+        "source": "Axios",
+        "desc": "史上最大科技IPO即將到來。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "全球股市狂歡：S&P 7,534新高、台股43,644新高、日經65,000新高",
+        "url": "https://cryptonews.com/news/oil-price-bitcoin-sp500-7500-breakout-risk-on-surge/",
+        "source": "CryptoNews",
+        "desc": "伊朗和平+油價暴跌推動。"
+      },
+      {
+        "title": "油價暴跌：WTI -7%至$89、Brent -6.9%至$96（最低自5/7）",
+        "url": "https://bitcoin.einnews.com/article/914901364/mPtsFvbEyH85Orlf",
+        "source": "EIN News",
+        "desc": "荷姆茲重開在即。通膨壓力大幅緩解。"
+      },
+      {
+        "title": "道瓊期貨+400：美股週二開盤預期大漲",
+        "url": "https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Memorial Day後狂歡。"
+      },
+      {
+        "title": "台股創歷史新高43,644（+3.26%）：MSCI倒數3天",
+        "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+        "source": "CNBC",
+        "desc": "被動買盤+伊朗利多。"
+      },
+      {
+        "title": "BTC $77.2K相對弱勢：股市狂歡但加密溫和",
+        "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-trades-above-usd77-000-as-oil-s-5-slide-pushes-asian-equities-higher",
+        "source": "CoinDesk",
+        "desc": "50日均線上方但未突破$80K。"
+      },
+      {
+        "title": "5/29 MSCI台灣權重上調倒數3天：被動買盤持續",
+        "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+        "source": "CNBC",
+        "desc": "權重股有支撐。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "全球市場因伊朗和平狂歡：AI股領漲",
+        "url": "https://www.marketpulse.com/markets/asia-open-relief-rally-in-stock-markets-as-trump-signals-final-stages-of-us-iran-peace-deal/",
+        "source": "MarketPulse",
+        "desc": "地緣風險解除推動科技股。"
+      }
+    ],
+    "summaries": {
+      "ai": "AI能源成本因油價暴跌大降。Anthropic-SpaceX $1.25B/月。五角大廈AI合約。SpaceX $1.75兆IPO。Nvidia $400億投資。",
+      "gaming": "Game Pass第二波。FH6 Season 1。Fable秋季。273K紀錄。Live Service。",
+      "tech": "🔴全球新高！S&P 7,534+台股43,644+日經65K。油價WTI $89暴跌。道瓊期貨+400。Trump不急但方向已定。",
+      "crypto": "S&P新高但BTC僅$77.2K相對弱勢。油跌利好。50日均線支撐。交易量低。",
+      "dev": "AI能源成本降。Anthropic-SpaceX Colossus。五角大廈AI。FH6 Live Service。",
+      "finance": "🔴全球新高！S&P 7,534、台股43,644、日經65K。油價WTI $89。道瓊期貨+400。MSCI倒數3天。BTC $77.2K弱勢。",
+      "art": "FH6 Season 1、全球市場數據視覺化。",
+      "design": "Nvidia五層蛋糕、Live Service。",
+      "business": "全球新高。油價暴跌重塑能源。SpaceX $1.75兆+Anthropic。"
+    },
     "stock_briefing": {
       "date": "2026-05-26",
       "updated_at": "2026-05-26 08:30",
