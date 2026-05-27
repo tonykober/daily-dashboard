@@ -1,17 +1,271 @@
 {
   "date": "2026-05-27",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "Micron突破$1兆市值：AI記憶體需求爆發，HBM 2026全年售罄",
+        "url": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
+        "source": "CNBC",
+        "desc": "股價+19%！UBS目標價從$535升至$1,625。HBM4已開始量產。全球HBM市場2028年將達$1000億。"
+      },
+      {
+        "title": "Microsoft AI業務年化營收$370億（+123% YoY），Google Cloud積壓$4600億",
+        "url": "https://247wallst.com/investing/2026/05/25/spacexs-2-trillion-pitch-is-elon-musk-quietly-building-a-backup-internet-for-civilization/",
+        "source": "24/7 Wall St",
+        "desc": "Alphabet 2026 CapEx $1750-1850億。AI投資持續加速。"
+      },
+      {
+        "title": "SpaceX Starlink拿下American Airlines合約：500+架飛機裝機",
+        "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+        "source": "TechCrunch",
+        "desc": "2027年開始安裝。低軌衛星速度更快更穩定。IPO前又一勝利。"
+      },
+      {
+        "title": "SpaceX與五角大廈Starlink定價爭議",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261929336-micron-nasdaq-sp500-sox-intel-futu-spacex-tiktok-qcom-softbank-starlink-tradingkey",
+        "source": "Trading Key",
+        "desc": "軍用vs商用定價分歧。"
+      },
+      {
+        "title": "SoftBank準備SB Energy和Roze子公司IPO",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261929336-micron-nasdaq-sp500-sox-intel-futu-spacex-tiktok-qcom-softbank-starlink-tradingkey",
+        "source": "Trading Key",
+        "desc": "AI+能源IPO潮持續。"
+      },
+      {
+        "title": "Qualcomm因ByteDance晶片合作消息大漲",
+        "url": "https://uk.finance.yahoo.com/news/tech-stocks-today-micron-joins-1-trillion-club-qualcomm-stock-jumps-on-report-of-bytedance-chip-deal-100000715.html",
+        "source": "Yahoo Finance",
+        "desc": "TikTok母公司自研晶片合作。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Lego Batman: Legacy of the Dark Knight在英國銷量超越Forza Horizon 6和Yoshi",
+        "url": "https://metro.co.uk/2026/05/26/lego-batman-outsells-forza-horizon-6-yoshi-uk-sales-chart-28523567/",
+        "source": "Metro",
+        "desc": "5/23上市即登頂英國銷售榜。"
+      },
+      {
+        "title": "GTA 6原定發售日已過（5/26）：Rockstar沉默超過一年",
+        "url": "https://playtoearn.com/news",
+        "source": "PlayToEarn",
+        "desc": "延期至11/19，Take-Two CEO持續面對質疑。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續進行中",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車+內容更新。"
+      },
+      {
+        "title": "Xbox Game Pass 5月第二波持續擴充",
+        "url": "https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/",
+        "source": "Xbox",
+        "desc": "FH6+JWE3等14款。"
+      },
+      {
+        "title": "2026遊戲產業持續受記憶體短缺影響",
+        "url": "https://en.wikipedia.org/wiki/2026_in_video_games",
+        "source": "Wikipedia",
+        "desc": "HBM需求排擠消費級記憶體。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Micron +19%突破$1兆：費城半導體指數創新高",
+        "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-hit-record-closing-highs-on-ai-optimism-micron-joins-1-trillion-club",
+        "source": "Straits Times",
+        "desc": "UBS目標價三倍上調。AI記憶體改變估值邏輯。"
+      },
+      {
+        "title": "SpaceX Starlink拿下American Airlines：500+架飛機2027年裝機",
+        "url": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html",
+        "source": "CNBC",
+        "desc": "繼United、Southwest後又一大客戶。IPO前持續擴張。"
+      },
+      {
+        "title": "台灣超越印度成全球第5大股市：TSMC +49% YTD",
+        "url": "https://republicworld.com/business/taiwan-overtakes-india-worlds-fifth-largest-stock-market-tsmc-ai-rally-2026-05-26-125691",
+        "source": "Republic World",
+        "desc": "AI晶片推動台灣市場地位躍升。"
+      },
+      {
+        "title": "S&P 500和Nasdaq雙創新高：7,519 / 26,656",
+        "url": "https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Micron+科技股領漲。"
+      },
+      {
+        "title": "SpaceX $2兆估值：正在悄悄建造文明的備份網路？",
+        "url": "https://247wallst.com/investing/2026/05/25/spacexs-2-trillion-pitch-is-elon-musk-quietly-building-a-backup-internet-for-civilization/",
+        "source": "24/7 Wall St",
+        "desc": "Starlink全球覆蓋+軍事合約。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC $77-78K區間震盪：$78K阻力未破，反彈動能有限",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-may-26-2026",
+        "source": "KuCoin",
+        "desc": "技術面賣壓持續。"
+      },
+      {
+        "title": "S&P創新高但BTC相對弱勢：AI股持續吸走資金",
+        "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-hit-record-closing-highs-on-ai-optimism-micron-joins-1-trillion-club",
+        "source": "Straits Times",
+        "desc": "Micron +19% vs BTC 持平。"
+      },
+      {
+        "title": "Citrea (CTR) 上線HTX：Bitcoin零知識技術rollup",
+        "url": "https://www.newsfilecorp.com/news/crypto",
+        "source": "Newsfile",
+        "desc": "增強Bitcoin區塊空間能力。"
+      },
+      {
+        "title": "加密市場等待伊朗協議正式確認：方向性突破待定",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-may-26-2026",
+        "source": "KuCoin",
+        "desc": "$78K突破→$82K；失守$76K→$74K。"
+      },
+      {
+        "title": "油價續跌利好但BTC未能受惠：資金偏好AI股",
+        "url": "https://bitcoin.einnews.com/article/914901364/mPtsFvbEyH85Orlf",
+        "source": "EIN News",
+        "desc": "風險偏好回升但加密分流。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Micron HBM4量產開始：AI開發者算力記憶體瓶頸緩解",
+        "url": "https://thetechportal.com/2026/05/26/micron-crosses-1tn-market-cap-for-the-first-time-amid-ai-chip-boom/",
+        "source": "Tech Portal",
+        "desc": "2026全年HBM售罄，2027供應改善。"
+      },
+      {
+        "title": "SpaceX Starlink低軌衛星API：航空+軍事+消費者",
+        "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+        "source": "TechCrunch",
+        "desc": "開發者可利用低延遲衛星網路。"
+      },
+      {
+        "title": "Qualcomm-ByteDance晶片合作：自研AI晶片生態",
+        "url": "https://uk.finance.yahoo.com/news/tech-stocks-today-micron-joins-1-trillion-club-qualcomm-stock-jumps-on-report-of-bytedance-chip-deal-100000715.html",
+        "source": "Yahoo Finance",
+        "desc": "TikTok母公司進入晶片設計。"
+      },
+      {
+        "title": "Microsoft AI年化$370億：開發者工具持續擴張",
+        "url": "https://247wallst.com/investing/2026/05/25/spacexs-2-trillion-pitch-is-elon-musk-quietly-building-a-backup-internet-for-civilization/",
+        "source": "24/7 Wall St",
+        "desc": "Azure AI+Copilot生態。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Lego Batman: Legacy of the Dark Knight視覺設計獲讚",
+        "url": "https://metro.co.uk/2026/05/26/lego-batman-outsells-forza-horizon-6-yoshi-uk-sales-chart-28523567/",
+        "source": "Metro",
+        "desc": "登頂英國銷售榜。"
+      },
+      {
+        "title": "台灣第5大股市：數據視覺化",
+        "url": "https://republicworld.com/business/taiwan-overtakes-india-worlds-fifth-largest-stock-market-tsmc-ai-rally-2026-05-26-125691",
+        "source": "Republic World",
+        "desc": "TSMC推動市場地位。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Micron HBM4晶片設計：AI記憶體新架構",
+        "url": "https://thetechportal.com/2026/05/26/micron-crosses-1tn-market-cap-for-the-first-time-amid-ai-chip-boom/",
+        "source": "Tech Portal",
+        "desc": "高頻寬記憶體設計革新。"
+      },
+      {
+        "title": "SpaceX Starlink機上Wi-Fi體驗設計",
+        "url": "https://thetechportal.com/2026/05/27/spacexs-starlink-partners-with-american-airlines-for-high-speed-in-flight-wi-fi-starting-2027/",
+        "source": "Tech Portal",
+        "desc": "低軌衛星改善飛行體驗。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Micron $1兆俱樂部：AI記憶體改變半導體估值邏輯",
+        "url": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
+        "source": "CNBC",
+        "desc": "+19%單日！UBS目標價三倍上調。HBM市場2028年$1000億。"
+      },
+      {
+        "title": "SpaceX Starlink拿下American Airlines：IPO前持續擴張",
+        "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+        "source": "TechCrunch",
+        "desc": "繼United、Southwest後第三大航空客戶。"
+      },
+      {
+        "title": "台灣超越印度成全球第5大股市",
+        "url": "https://republicworld.com/business/taiwan-overtakes-india-worlds-fifth-largest-stock-market-tsmc-ai-rally-2026-05-26-125691",
+        "source": "Republic World",
+        "desc": "TSMC +49% YTD推動。AI晶片重塑全球資本市場格局。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "S&P 7,519+Nasdaq 26,656雙創新高：Micron +19%領漲",
+        "url": "https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "費城半導體指數也創新高。"
+      },
+      {
+        "title": "Micron突破$1兆：UBS目標價$1,625（從$535三倍上調）",
+        "url": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
+        "source": "CNBC",
+        "desc": "AI記憶體改變估值邏輯。"
+      },
+      {
+        "title": "台灣超越印度成全球第5大股市：TAIEX盤中44,097新高",
+        "url": "https://republicworld.com/business/taiwan-overtakes-india-worlds-fifth-largest-stock-market-tsmc-ai-rally-2026-05-26-125691",
+        "source": "Republic World",
+        "desc": "TSMC +49% YTD。"
+      },
+      {
+        "title": "WTI原油續跌至$93.89：伊朗和談持續+荷姆茲通行",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-26/",
+        "source": "Reuters",
+        "desc": "通膨壓力持續緩解。"
+      },
+      {
+        "title": "BTC $77-78K區間：AI股吸走風險資金",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-may-26-2026",
+        "source": "KuCoin",
+        "desc": "$78K阻力未破。"
+      },
+      {
+        "title": "MSCI台灣權重上調倒數2天：被動買盤持續",
+        "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+        "source": "CNBC",
+        "desc": "5/29生效。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Micron $1兆之路：AI記憶體如何改變半導體格局",
+        "url": "https://thetechportal.com/2026/05/26/micron-crosses-1tn-market-cap-for-the-first-time-amid-ai-chip-boom/",
+        "source": "Tech Portal",
+        "desc": "HBM供不應求。"
+      }
+    ],
+    "summaries": {
+      "ai": "🔥Micron $1兆（+19%）！HBM全年售罄。Microsoft AI $370億。Starlink拿下American Airlines。Qualcomm-ByteDance。SoftBank IPO。",
+      "gaming": "Lego Batman英國銷量超FH6！GTA 6原定日已過。FH6 Season 1。Game Pass。記憶體短缺影響。",
+      "tech": "Micron $1兆+費城半導體新高。Starlink-American Airlines。台灣第5大股市。S&P/Nasdaq新高。SpaceX $2兆。",
+      "crypto": "BTC $77-78K區間。$78K阻力。AI股吸走資金。Citrea上線。等伊朗確認。油跌未能帶動BTC。",
+      "dev": "Micron HBM4量產。Starlink API。Qualcomm-ByteDance。Microsoft AI $370億。",
+      "finance": "S&P/Nasdaq新高！Micron $1兆（+19%）。台灣第5大股市。WTI $93.89。BTC $77-78K。MSCI倒數2天。",
+      "art": "Lego Batman視覺、台灣市場數據。",
+      "design": "Micron HBM4架構、Starlink機上體驗。",
+      "business": "Micron $1兆。Starlink-American Airlines。台灣超越印度。"
+    },
     "stock_briefing": {
       "date": "2026-05-27",
       "updated_at": "2026-05-27 08:30",
