@@ -1,0 +1,327 @@
+{
+  "date": "2026-05-27",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-05-27",
+      "updated_at": "2026-05-27 08:30",
+      "sparkline": [
+        40021,
+        43644,
+        44097,
+        43525,
+        43525,
+        43600,
+        43600
+      ],
+      "sparkline_dates": [
+        "5/22",
+        "5/25",
+        "5/26高",
+        "5/26收",
+        "5/26收",
+        "5/27E",
+        ""
+      ],
+      "market": {
+        "index": "43,525",
+        "change": -119,
+        "changePercent": "-0.27%",
+        "volume": "1.8兆",
+        "futures": "43,600 (+0.17%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -0.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": 0.3
+        },
+        {
+          "name": "記憶體",
+          "change": 2
+        },
+        {
+          "name": "金融保險",
+          "change": -0.3
+        },
+        {
+          "name": "航運",
+          "change": -1
+        },
+        {
+          "name": "傳產",
+          "change": -0.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": -0.2
+        },
+        {
+          "name": "PCB",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "平 整理",
+          "note": "台股昨日盤中創44,097新高後拉回收43,525（-0.27%）。台灣超越印度成全球第5大股市！TSMC +49% YTD。今日美股S&P/Nasdaq續創新高，預期小幅反彈",
+          "nav": null,
+          "pb": 11.5,
+          "premium": null,
+          "pe": 36,
+          "quarterLine": 20,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "平 整理",
+          "note": "盤中新高後拉回，期貨+0.17%預期持平",
+          "nav": 215,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "大盤整理，高息標的持穩",
+          "nav": 43.5,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "高息防禦",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "平 穩定",
+          "note": "月配息支撐",
+          "nav": 28,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "平 穩定",
+          "note": "價值型持穩",
+          "nav": 9.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "平 整理",
+          "note": "同0050",
+          "nav": 110,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 Micron效應",
+          "note": "Micron突破$1兆市值！記憶體族群受惠，半導體ETF有支撐",
+          "nav": 35,
+          "pb": null,
+          "premium": 0.8,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 Micron效應",
+          "note": "記憶體+半導體族群受Micron帶動",
+          "nav": 18,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "平 穩定",
+          "note": "主動型持穩",
+          "nav": 15.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平 穩定",
+          "note": "主動成長型",
+          "nav": 31,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "平 持平",
+          "note": "殖利率持穩，債券橫盤",
+          "nav": null,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "平 整理",
+          "note": "不配息複利型，跟隨大盤整理",
+          "nav": 61,
+          "pb": null,
+          "premium": 0.3,
+          "pe": 22.5,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 Micron效應",
+          "note": "科技+配息，記憶體帶動",
+          "nav": 24,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "平 整理",
+          "note": "新高後拉回"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "高息持穩"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "防禦"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 Micron",
+          "note": "記憶體帶動"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "平 穩定",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "平 整理",
+          "note": "跟隨大盤"
+        }
+      ],
+      "institutional": {
+        "外資": 100,
+        "投信": 20,
+        "自營商": 10
+      },
+      "sentiment": {
+        "score": 78,
+        "label": "貪婪 — 新高後小幅拉回整理，Micron $1兆+S&P/Nasdaq續創新高支撐",
+        "history": [
+          32,
+          38,
+          42,
+          72,
+          85,
+          78,
+          78
+        ]
+      },
+      "international": [
+        {
+          "name": "S&P 500(週二)",
+          "change": 0.61
+        },
+        {
+          "name": "Nasdaq(週二)",
+          "change": 1.19
+        },
+        {
+          "name": "道瓊(週二)",
+          "change": -0.23
+        },
+        {
+          "name": "Micron",
+          "change": 7
+        },
+        {
+          "name": "WTI原油",
+          "change": -2.8
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.03
+        }
+      ],
+      "buffett_indicator": {
+        "value": 208,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "台股昨日盤中創44,097新高後拉回收43,525（-0.27%）",
+        "台灣超越印度成為全球第5大股市！TSMC +49% YTD",
+        "S&P 500和Nasdaq雙雙創新高（7,519 / 26,656）",
+        "Micron突破$1兆市值！記憶體族群全面受惠",
+        "WTI原油續跌至$93.89（-2.8%），通膨壓力持續緩解",
+        "伊朗傳出「renewed fighting」但市場不理會",
+        "5/29 MSCI台灣權重上調倒數2天",
+        "American Airlines與SpaceX Starlink合作（航空+衛星）"
+      ],
+      "summary": "台股昨日盤中創44,097新高後小幅拉回收43,525（-0.27%），屬正常整理。台灣超越印度成全球第5大股市！美股S&P/Nasdaq續創新高，Micron突破$1兆帶動記憶體族群。油價續跌。今日期貨+0.17%預期持平偏多。建議：維持持有，MSCI倒數2天有被動買盤支撐。但情緒78仍偏貪婪，不追高。Micron效應利好半導體ETF。",
+      "searched": []
+    }
+  }
+}
