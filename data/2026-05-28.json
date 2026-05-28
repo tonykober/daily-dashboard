@@ -1,0 +1,326 @@
+{
+  "date": "2026-05-28",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-05-28",
+      "updated_at": "2026-05-28 08:30",
+      "sparkline": [
+        43644,
+        44097,
+        43525,
+        43525,
+        43600,
+        43600,
+        43600
+      ],
+      "sparkline_dates": [
+        "5/25",
+        "5/26高",
+        "5/26收",
+        "5/27",
+        "5/28E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "43,525",
+        "change": -119,
+        "changePercent": "-0.27%(昨)",
+        "volume": "預估1.5兆",
+        "futures": "43,600 (+0.17%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -0.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": -0.3
+        },
+        {
+          "name": "記憶體",
+          "change": -1
+        },
+        {
+          "name": "金融保險",
+          "change": 0.3
+        },
+        {
+          "name": "航運",
+          "change": -0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0.2
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.1
+        },
+        {
+          "name": "PCB",
+          "change": 0.3
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "平 整理",
+          "note": "美股三大指數續創新高但漲幅極小，科技動能減弱。明日MSCI生效，今日為調整前最後交易日，權重股有被動買盤",
+          "nav": null,
+          "pb": 11.5,
+          "premium": null,
+          "pe": 36,
+          "quarterLine": 20,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "平 整理",
+          "note": "期貨+0.17%持平，MSCI前夕觀望",
+          "nav": 215,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "高息標的持穩",
+          "nav": 43.5,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "高息防禦",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "平 穩定",
+          "note": "月配息支撐",
+          "nav": 28,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "平 穩定",
+          "note": "價值型",
+          "nav": 9.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "平 整理",
+          "note": "同0050",
+          "nav": 110,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 回檔",
+          "note": "美股晶片股昨日回落，Micron效應消退。但MSCI有支撐",
+          "nav": 35,
+          "pb": null,
+          "premium": 0.8,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 回檔",
+          "note": "半導體短線回檔整理",
+          "nav": 18,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "平 穩定",
+          "note": "主動型持穩",
+          "nav": 15.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平 穩定",
+          "note": "主動成長型",
+          "nav": 31,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "平 持平",
+          "note": "殖利率持穩",
+          "nav": null,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "平 整理",
+          "note": "不配息複利型，MSCI前夕持穩",
+          "nav": 61,
+          "pb": null,
+          "premium": 0.3,
+          "pe": 22.5,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "平 穩定",
+          "note": "科技+配息",
+          "nav": 24,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "平 整理",
+          "note": "MSCI前夕"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "高息持穩"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "防禦"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "平 穩定",
+          "note": "科技+配息"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "平 穩定",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "平 整理",
+          "note": "MSCI支撐"
+        }
+      ],
+      "institutional": {
+        "外資": 80,
+        "投信": 15,
+        "自營商": 10
+      },
+      "sentiment": {
+        "score": 72,
+        "label": "貪婪 — 美股續創新高但動能減弱，MSCI明日生效前觀望",
+        "history": [
+          38,
+          42,
+          72,
+          85,
+          78,
+          72,
+          72
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週三)",
+          "change": 0.36
+        },
+        {
+          "name": "S&P 500(週三)",
+          "change": 0.02
+        },
+        {
+          "name": "Nasdaq(週三)",
+          "change": 0.07
+        },
+        {
+          "name": "WTI原油",
+          "change": -5
+        },
+        {
+          "name": "Brent原油",
+          "change": -3
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.02
+        }
+      ],
+      "buffett_indicator": {
+        "value": 208,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "美股三大指數續創新高（道瓊50,644/S&P 7,520/Nasdaq 26,674）但漲幅極小",
+        "科技/晶片股動能減弱，Micron效應消退",
+        "油價續跌：伊朗報導稱荷姆茲海峽可能一個月內重開",
+        "📌 明日（5/29）MSCI台灣權重上調生效！今日為調整前最後交易日",
+        "MSCI被動買盤預期今日尾盤湧入（權重股受惠）",
+        "美國4月通膨數據今日公布（PCE）",
+        "伊朗和談持續但細節仍有爭議"
+      ],
+      "summary": "美股三大指數續創新高但漲幅極小（+0.02%~0.36%），科技動能減弱。今日重點：📌 明日MSCI台灣權重上調生效，今日為調整前最後交易日，尾盤預期有被動買盤湧入權重股。油價續跌。建議：持有等MSCI效應，不追高。MSCI生效後可能出現「利多出盡」獲利了結，需注意。",
+      "searched": []
+    }
+  }
+}
