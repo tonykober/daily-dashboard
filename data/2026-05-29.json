@@ -1,0 +1,580 @@
+{
+  "date": "2026-05-29",
+  "categories": {
+    "stock_briefing": {
+      "date": "2026-05-29",
+      "updated_at": "2026-05-29 08:30",
+      "sparkline": [
+        43644,
+        43525,
+        43525,
+        43600,
+        43600,
+        43800,
+        43800
+      ],
+      "sparkline_dates": [
+        "5/25",
+        "5/26",
+        "5/27",
+        "5/28",
+        "5/28收",
+        "5/29E",
+        ""
+      ],
+      "market": {
+        "index": "43,525",
+        "change": 0,
+        "changePercent": "持平(昨)",
+        "volume": "預估2.0兆",
+        "futures": "43,800 (+0.63%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 0.5
+        },
+        {
+          "name": "AI伺服器",
+          "change": 0.3
+        },
+        {
+          "name": "記憶體",
+          "change": -0.5
+        },
+        {
+          "name": "金融保險",
+          "change": 0.3
+        },
+        {
+          "name": "航運",
+          "change": -0.3
+        },
+        {
+          "name": "傳產",
+          "change": 0.2
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.2
+        },
+        {
+          "name": "MSCI權重股",
+          "change": 1
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 MSCI",
+          "note": "今日MSCI台灣權重上調生效！被動買盤湧入。美伊60天停火延長MOU達成。S&P/Nasdaq續創新高",
+          "nav": null,
+          "pb": 11.5,
+          "premium": null,
+          "pe": 36,
+          "quarterLine": 20,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 MSCI",
+          "note": "MSCI生效日，權重股被動買盤",
+          "nav": 215,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "高息持穩",
+          "nav": 43.5,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "高息防禦",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "平 穩定",
+          "note": "月配息",
+          "nav": 28,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "平 穩定",
+          "note": "價值型",
+          "nav": 9.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 MSCI",
+          "note": "同0050",
+          "nav": 110,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 MSCI",
+          "note": "MSCI+半導體權重",
+          "nav": 35,
+          "pb": null,
+          "premium": 0.8,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 MSCI",
+          "note": "半導體權重受惠",
+          "nav": 18,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "平 穩定",
+          "note": "主動型",
+          "nav": 15.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平 穩定",
+          "note": "主動成長型",
+          "nav": 31,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 殖利率跌",
+          "note": "美伊停火→殖利率下跌→債券反彈",
+          "nav": null,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 MSCI",
+          "note": "不配息複利型，MSCI生效受惠",
+          "nav": 61,
+          "pb": null,
+          "premium": 0.3,
+          "pe": 22.5,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 MSCI",
+          "note": "科技+配息，MSCI受惠",
+          "nav": 24,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 MSCI",
+          "note": "生效日"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "高息"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "防禦"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 MSCI",
+          "note": "科技"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "平 穩定",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 MSCI",
+          "note": "權重受惠"
+        }
+      ],
+      "institutional": {
+        "外資": 300,
+        "投信": 30,
+        "自營商": 50
+      },
+      "sentiment": {
+        "score": 70,
+        "label": "貪婪 — MSCI生效+美伊停火延長，但注意利多出盡風險",
+        "history": [
+          42,
+          72,
+          85,
+          78,
+          72,
+          72,
+          70
+        ]
+      },
+      "international": [
+        {
+          "name": "S&P 500(週四)",
+          "change": 0.61
+        },
+        {
+          "name": "Nasdaq(週四)",
+          "change": 1
+        },
+        {
+          "name": "道瓊(週四)",
+          "change": 0.3
+        },
+        {
+          "name": "WTI原油",
+          "change": -3
+        },
+        {
+          "name": "BTC",
+          "change": -2.7
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.05
+        }
+      ],
+      "buffett_indicator": {
+        "value": 208,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "📌 今日MSCI台灣權重上調正式生效！被動買盤湧入",
+        "美伊達成60天停火延長MOU！油價跌破$90",
+        "S&P 7,520+Nasdaq 26,674續創新高（第9次5月新高）",
+        "PCE通膨3.8%（3年新高但符合預期）",
+        "BTC暴跌至$73K：8天ETF流出$7.33億",
+        "SpaceX加密代幣閃崩-45%，散戶損失慘重",
+        "GTA 6確認11/19發售：可能成為史上最大娛樂發行"
+      ],
+      "summary": "📌 MSCI台灣權重上調今日生效！被動買盤預期湧入權重股。美伊達成60天停火延長MOU，油價跌破$90。S&P/Nasdaq續創新高。但注意：BTC暴跌至$73K顯示風險資產分化，MSCI生效後可能出現利多出盡。建議：今日享受MSCI效應，但下週起需警惕獲利了結壓力。",
+      "searched": []
+    },
+    "ai": [
+      {
+        "title": "S&P 500五月第9次創新高：AI股持續領漲，但動能分化",
+        "url": "https://www.cbsnews.com/news/stock-market-high-nvidia-ai-economic-divide/",
+        "source": "CBS News",
+        "desc": "儘管通膨3年新高+消費者信心低迷，AI推動股市與實體經濟脫鉤。"
+      },
+      {
+        "title": "CoinDesk：熱錢循環從加密→黃金→AI→記憶體",
+        "url": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
+        "source": "CoinDesk",
+        "desc": "BTC被拋棄，資金追逐AI和記憶體股。"
+      },
+      {
+        "title": "Nvidia五層蛋糕AI策略持續發酵：從晶片到生態系",
+        "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+        "source": "CNBC",
+        "desc": "Vera CPU+投資$400億+五角大廈合約。"
+      },
+      {
+        "title": "SpaceX持有18,712 BTC（$14.2億）：科技巨頭加密持倉曝光",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-slips-to-74-958-as-banca-sella-wins-mica-license-spacex-holds-18-712-btc",
+        "source": "KuCoin",
+        "desc": "Musk旗下公司的加密策略。"
+      },
+      {
+        "title": "Microsoft AI年化$370億+Google Cloud積壓$4600億：AI投資持續加速",
+        "url": "https://247wallst.com/investing/2026/05/25/spacexs-2-trillion-pitch-is-elon-musk-quietly-building-a-backup-internet-for-civilization/",
+        "source": "24/7 Wall St",
+        "desc": "Alphabet CapEx $1750-1850億。"
+      },
+      {
+        "title": "美伊60天停火延長MOU：AI能源成本將進一步下降",
+        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價跌破$90利好數據中心營運。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "熱錢循環：從加密到AI到記憶體的資金流向",
+        "url": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
+        "source": "CoinDesk",
+        "desc": "BTC被拋棄的原因。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "GTA 6確認11月19日發售：可能成為史上最大娛樂發行",
+        "url": "https://videogames.einnews.com/article/915561436/zM1TohakDvuwP98e",
+        "source": "EIN News",
+        "desc": "PS5/Xbox Series X|S。網路熱議是否會有加密經濟。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續進行中",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車+內容更新。"
+      },
+      {
+        "title": "Fable確認秋季推出：Playground Games雙線作戰",
+        "url": "https://www.windowscentral.com/gaming/xbox/forza-horizon-6-dev-says-its-still-releasing-xboxs-fable-later-this-year",
+        "source": "Windows Central",
+        "desc": "FH6+Fable同年。"
+      },
+      {
+        "title": "Xbox Game Pass 5月第二波持續",
+        "url": "https://news.xbox.com/en-us/2026/05/19/xbox-game-pass-may-2026-wave-2/",
+        "source": "Xbox",
+        "desc": "14款遊戲。"
+      },
+      {
+        "title": "2026遊戲產業：記憶體短缺+AI影響持續",
+        "url": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
+        "source": "CoinDesk",
+        "desc": "HBM需求排擠消費級記憶體。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "美伊達成60天停火延長MOU：油價跌破$90",
+        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Axios報導後市場大漲。含核談判框架。"
+      },
+      {
+        "title": "S&P/Nasdaq續創新高：五月第9次！AI推動股市與經濟脫鉤",
+        "url": "https://www.cbsnews.com/news/stock-market-high-nvidia-ai-economic-divide/",
+        "source": "CBS News",
+        "desc": "通膨3年高+消費者低迷但股市狂歡。"
+      },
+      {
+        "title": "PCE通膨3.8%（3年新高）但符合預期：Fed態度關鍵",
+        "url": "https://www.schaeffersresearch.com/content/ezines/2026/05/28/stock-futures-mixed-after-inflation-data-iran-updates",
+        "source": "Schaeffer",
+        "desc": "核心PCE 3.3%。伊朗戰爭推高物價。"
+      },
+      {
+        "title": "SpaceX加密代幣閃崩-45%：散戶損失$150萬",
+        "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
+        "source": "CoinDesk",
+        "desc": "Hyperliquid預IPO合約流動性不足。"
+      },
+      {
+        "title": "GTA 6確認11/19：可能成為史上最大娛樂發行",
+        "url": "https://videogames.einnews.com/article/915561436/zM1TohakDvuwP98e",
+        "source": "EIN News",
+        "desc": "Rockstar沉默一年後確認。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC暴跌至$73K：8天ETF流出$7.33億，熱錢轉向AI",
+        "url": "https://crypto.news/why-is-the-crypto-market-going-down-today-may-28/",
+        "source": "Crypto News",
+        "desc": "美伊緊張+油價漲+清算壓力。傳統市場漲但加密跌。"
+      },
+      {
+        "title": "BTC跌破$73K：傳統市場因停火漲，加密卻下跌",
+        "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-pinned-below-usd73-000-despite-potential-u-s-iran-deal-news",
+        "source": "CoinDesk",
+        "desc": "S&P新高但BTC -2.7%，完全脫鉤。"
+      },
+      {
+        "title": "SpaceX加密代幣閃崩-45%：Hyperliquid預IPO合約散戶慘賠",
+        "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
+        "source": "CoinDesk",
+        "desc": "30分鐘內暴跌，流動性不足。"
+      },
+      {
+        "title": "加密市場暴跌：RWA板塊-6.57%、BTC<$75K、ETH跌至$2000",
+        "url": "https://www.kucoin.com/news/flash/crypto-market-plummets-rwa-sector-drops-over-6-5-btc-falls-below-75-000",
+        "source": "KuCoin",
+        "desc": "恐懼指數大跌。"
+      },
+      {
+        "title": "SpaceX持有18,712 BTC（$14.2億）：但市場不買帳",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-slips-to-74-958-as-banca-sella-wins-mica-license-spacex-holds-18-712-btc",
+        "source": "KuCoin",
+        "desc": "機構持倉無法阻止下跌。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "PCE通膨數據API：開發者經濟指標追蹤",
+        "url": "https://www.schaeffersresearch.com/content/ezines/2026/05/28/stock-futures-mixed-after-inflation-data-iran-updates",
+        "source": "Schaeffer",
+        "desc": "3.8%年率，核心3.3%。"
+      },
+      {
+        "title": "Hyperliquid預IPO合約技術分析：流動性風險",
+        "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
+        "source": "CoinDesk",
+        "desc": "DeFi流動性不足的技術教訓。"
+      },
+      {
+        "title": "GTA 6開發：可能的加密經濟整合討論",
+        "url": "https://videogames.einnews.com/article/915561436/zM1TohakDvuwP98e",
+        "source": "EIN News",
+        "desc": "虛擬經濟+區塊鏈可能性。"
+      },
+      {
+        "title": "MSCI指數調整技術：被動基金追蹤機制",
+        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "今日台灣權重上調生效。"
+      }
+    ],
+    "art": [
+      {
+        "title": "GTA 6視覺預期：史上最大開放世界",
+        "url": "https://videogames.einnews.com/article/915561436/zM1TohakDvuwP98e",
+        "source": "EIN News",
+        "desc": "11/19發售。"
+      },
+      {
+        "title": "FH6 Season 1日本季節視覺持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      }
+    ],
+    "design": [
+      {
+        "title": "熱錢循環視覺化：加密→黃金→AI→記憶體",
+        "url": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
+        "source": "CoinDesk",
+        "desc": "資金流向設計。"
+      },
+      {
+        "title": "GTA 6虛擬經濟設計討論",
+        "url": "https://videogames.einnews.com/article/915561436/zM1TohakDvuwP98e",
+        "source": "EIN News",
+        "desc": "加密經濟可能性。"
+      }
+    ],
+    "business": [
+      {
+        "title": "美伊60天停火延長MOU：全球能源市場穩定化",
+        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價<$90。含核談判框架+制裁討論。"
+      },
+      {
+        "title": "S&P五月第9次新高：AI推動股市與實體經濟脫鉤",
+        "url": "https://www.cbsnews.com/news/stock-market-high-nvidia-ai-economic-divide/",
+        "source": "CBS News",
+        "desc": "通膨3年高但股市狂歡。"
+      },
+      {
+        "title": "GTA 6確認11/19：預計成為史上最大娛樂發行",
+        "url": "https://videogames.einnews.com/article/915561436/zM1TohakDvuwP98e",
+        "source": "EIN News",
+        "desc": "Take-Two股價受惠。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "S&P 7,520+Nasdaq 26,674續創新高：美伊停火延長推動",
+        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "五月第9次新高。"
+      },
+      {
+        "title": "美伊60天停火延長MOU：油價跌破$90",
+        "url": "https://www.investors.com/news/oil-prices-us-iran-play-ultimate-game-of-chicken-sp-500/",
+        "source": "Investor's Business Daily",
+        "desc": "WTI<$90，通膨壓力緩解。"
+      },
+      {
+        "title": "PCE通膨3.8%（3年新高）：符合預期但仍高",
+        "url": "https://www.schaeffersresearch.com/content/ezines/2026/05/28/stock-futures-mixed-after-inflation-data-iran-updates",
+        "source": "Schaeffer",
+        "desc": "核心3.3%。Fed降息預期不變。"
+      },
+      {
+        "title": "BTC暴跌至$73K：8天ETF流出$7.33億，與股市完全脫鉤",
+        "url": "https://crypto.news/why-is-the-crypto-market-going-down-today-may-28/",
+        "source": "Crypto News",
+        "desc": "熱錢從加密轉向AI/記憶體。"
+      },
+      {
+        "title": "📌 今日MSCI台灣權重上調生效：被動買盤湧入",
+        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "台股權重股受惠。"
+      },
+      {
+        "title": "SpaceX加密代幣閃崩-45%：預IPO投機風險警示",
+        "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
+        "source": "CoinDesk",
+        "desc": "散戶損失$150萬。"
+      }
+    ],
+    "summaries": {
+      "ai": "S&P五月9次新高（AI推動）。熱錢從加密→AI→記憶體。SpaceX持有18,712 BTC。美伊停火利好AI能源。Microsoft $370億。",
+      "gaming": "🎮GTA 6確認11/19！可能史上最大娛樂發行。FH6 Season 1。Fable秋季。記憶體短缺影響。",
+      "tech": "美伊60天停火MOU！油價<$90。S&P/Nasdaq新高。PCE 3.8%。SpaceX代幣閃崩。GTA 6確認。",
+      "crypto": "⚠️BTC暴跌至$73K！8天ETF流出$7.33億。SpaceX代幣-45%。熱錢轉向AI。與股市完全脫鉤。",
+      "dev": "PCE數據。Hyperliquid流動性教訓。GTA 6加密經濟。MSCI追蹤機制。",
+      "finance": "📌MSCI今日生效！S&P/Nasdaq新高。美伊停火。PCE 3.8%。BTC $73K暴跌。油價<$90。SpaceX閃崩。",
+      "art": "GTA 6視覺、FH6 Season 1。",
+      "design": "熱錢循環視覺化、GTA 6經濟設計。",
+      "business": "美伊停火。S&P 9次新高。GTA 6確認。"
+    }
+  }
+}
