@@ -1,0 +1,270 @@
+{
+  "date": "2026-05-31",
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia $65億光子投資持續發酵：可能改變AI數據傳輸方式",
+        "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "source": "CNBC",
+        "desc": "光子比銅線更高效，解決AI擴展瓶頸。"
+      },
+      {
+        "title": "Nvidia GTC Taipei在Computex：Jensen Huang台北演講",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+        "source": "Nvidia Blog",
+        "desc": "AI和加速運算最新進展。"
+      },
+      {
+        "title": "GDC 2026：生成式AI使用率上升，開發者面臨基礎設施問題",
+        "url": "https://www.gamesindustry.biz/archive/news",
+        "source": "GamesIndustry.biz",
+        "desc": "AI工具普及但算力整合仍是挑戰。"
+      },
+      {
+        "title": "油價從高點-20%：AI數據中心能源成本大幅下降",
+        "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+        "source": "CNBC",
+        "desc": "WTI $86.89利好AI營運。"
+      },
+      {
+        "title": "Nvidia削減遊戲GPU產能優先AI：RTX 50 Super延期",
+        "url": "https://www.techbuzz.ai/articles/nvidia-cuts-gaming-gpu-production-to-prioritize-ai-chips",
+        "source": "TechBuzz",
+        "desc": "AI需求排擠消費級GPU。"
+      },
+      {
+        "title": "SpaceX持有18,712 BTC（$14.2億）：科技巨頭加密持倉",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-slips-to-74-958-as-banca-sella-wins-mica-license-spacex-holds-18-712-btc",
+        "source": "KuCoin",
+        "desc": "IPO前的資產配置。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Nvidia GTC Taipei預告",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+        "source": "Nvidia Blog",
+        "desc": "Computex直播。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "GTA 6確認11/19：Take-Two堅持零生成式AI，開發成本$10-15億",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "史上最貴娛樂產品。AI用於工具不用於創意。"
+      },
+      {
+        "title": "GDC 2026趨勢：生成式AI在遊戲開發中使用率上升",
+        "url": "https://www.gamesindustry.biz/archive/news",
+        "source": "GamesIndustry.biz",
+        "desc": "但面臨基礎設施挑戰。"
+      },
+      {
+        "title": "Nvidia砍遊戲GPU產能：RTX 50 Super延期",
+        "url": "https://www.techbuzz.ai/articles/nvidia-cuts-gaming-gpu-production-to-prioritize-ai-chips",
+        "source": "TechBuzz",
+        "desc": "玩家GPU供應持續緊張。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車。"
+      },
+      {
+        "title": "Fable確認秋季推出",
+        "url": "https://www.windowscentral.com/gaming/xbox/forza-horizon-6-dev-says-its-still-releasing-xboxs-fable-later-this-year",
+        "source": "Windows Central",
+        "desc": "Playground Games雙大作。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Trump週五會議結束未做「最終決定」：伊朗協議仍懸而未決",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC",
+        "desc": "要求：荷姆茲立即開放+鈾銷毀。伊朗稱「與協議文本矛盾」。"
+      },
+      {
+        "title": "Trump在Truth Social發文：伊朗必須同意永不擁核+荷姆茲立即開放",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close/",
+        "source": "CBS News",
+        "desc": "週六晚仍未做決定。"
+      },
+      {
+        "title": "Trump分享伊朗和平協議草案給以色列和盟友",
+        "url": "https://www.theguardian.com/world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
+        "source": "The Guardian",
+        "desc": "雙方試圖防止新衝突破壞協議。"
+      },
+      {
+        "title": "Nvidia $65億光子投資：AI基礎設施下一代技術",
+        "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "source": "CNBC",
+        "desc": "光子取代銅線。"
+      },
+      {
+        "title": "油價-20%但伊朗協議仍有變數：下週為關鍵",
+        "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+        "source": "CNBC",
+        "desc": "WTI $86.89。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC $73K持續承壓：熱錢循環從加密→黃金→AI→記憶體",
+        "url": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
+        "source": "CoinDesk",
+        "desc": "BTC從$125K跌超40%。8天ETF流出$7.33億。"
+      },
+      {
+        "title": "伊朗協議未定：BTC等待方向性突破",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC",
+        "desc": "協議確認→風險偏好升→BTC漲；破裂→油漲→BTC跌。"
+      },
+      {
+        "title": "SpaceX持有18,712 BTC但市場不買帳",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-slips-to-74-958-as-banca-sella-wins-mica-license-spacex-holds-18-712-btc",
+        "source": "KuCoin",
+        "desc": "機構持倉無法阻止下跌。"
+      },
+      {
+        "title": "SpaceX加密代幣閃崩-45%教訓：預IPO投機風險",
+        "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
+        "source": "CoinDesk",
+        "desc": "流動性不足的DeFi風險。"
+      },
+      {
+        "title": "S&P新高但BTC $73K：股市與加密完全脫鉤持續",
+        "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-pinned-below-usd73-000-despite-potential-u-s-iran-deal-news",
+        "source": "CoinDesk",
+        "desc": "AI股吸走所有風險資金。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia $65億光子：數據傳輸技術革命對開發者的影響",
+        "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "source": "CNBC",
+        "desc": "未來AI基礎設施升級。"
+      },
+      {
+        "title": "GDC 2026：AI工具普及但整合仍是開發者挑戰",
+        "url": "https://www.gamesindustry.biz/archive/news",
+        "source": "GamesIndustry.biz",
+        "desc": "基礎設施問題待解。"
+      },
+      {
+        "title": "GTA 6零生成式AI：Rockstar的人工創作堅持",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "AI用於工具不用於創意。"
+      },
+      {
+        "title": "Nvidia GTC Taipei：開發者工具最新進展",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+        "source": "Nvidia Blog",
+        "desc": "Computex期間。"
+      }
+    ],
+    "art": [
+      {
+        "title": "GTA 6零AI人工創作：$10-15億的視覺承諾",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "史上最貴娛樂產品。"
+      },
+      {
+        "title": "Nvidia光子技術視覺化",
+        "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "source": "CNBC",
+        "desc": "光取代電的未來。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia光子架構設計",
+        "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "source": "CNBC",
+        "desc": "AI基礎設施新範式。"
+      },
+      {
+        "title": "GDC AI工具在遊戲設計中的角色",
+        "url": "https://www.gamesindustry.biz/archive/news",
+        "source": "GamesIndustry.biz",
+        "desc": "工具vs創意界線。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Trump伊朗協議未定：要求荷姆茲立即開放+鈾銷毀",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC",
+        "desc": "週五會議無最終決定。下週為關鍵。"
+      },
+      {
+        "title": "油價-20%但協議仍有變數：市場下週面臨方向選擇",
+        "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+        "source": "CNBC",
+        "desc": "WTI $86.89。確認→續跌；破裂→反彈。"
+      },
+      {
+        "title": "GTA 6開發$10-15億：11/19發售，史上最貴娛樂產品",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "零生成式AI堅持。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Trump伊朗協議未做最終決定：下週為全球市場關鍵",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC",
+        "desc": "確認→油續跌+股漲；破裂→油反彈+股跌。"
+      },
+      {
+        "title": "油價從高點-20%（WTI $86.89）：但協議仍有變數",
+        "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+        "source": "CNBC",
+        "desc": "荷姆茲重開是關鍵。"
+      },
+      {
+        "title": "本週回顧：S&P/Nasdaq續創新高、MSCI台灣生效、油價暴跌",
+        "url": "https://www.reuters.com/business/wall-st-futures-dip-escalating-mideast-tensions-2026-05-28/",
+        "source": "Reuters",
+        "desc": "台股44,257新高+全球第5大。"
+      },
+      {
+        "title": "BTC $73K持續承壓：從$125K跌超40%，熱錢轉AI",
+        "url": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
+        "source": "CoinDesk",
+        "desc": "8天ETF流出$7.33億。"
+      },
+      {
+        "title": "印度因MSCI資金流出暴跌：台灣/韓國受惠",
+        "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-29-may-us-iran-war-oil-prices-11562089",
+        "source": "NDTV",
+        "desc": "Sensex -1000點。"
+      },
+      {
+        "title": "下週關注：Trump伊朗最終決定、Computex/GTC Taipei、Fed動向",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close/",
+        "source": "CBS News",
+        "desc": "三重催化劑。"
+      }
+    ],
+    "summaries": {
+      "ai": "Nvidia $65億光子。GTC Taipei。GDC AI趨勢。油價-20%利好AI。RTX 50延期。SpaceX 18,712 BTC。",
+      "gaming": "🎮GTA 6零AI（$10-15億）11/19。GDC AI使用率升。Nvidia砍遊戲GPU。FH6 Season 1。Fable秋季。",
+      "tech": "⚠️Trump伊朗協議未定！要求荷姆茲+鈾銷毀。伊朗反駁。Nvidia光子。油價-20%但有變數。",
+      "crypto": "⚠️BTC $73K承壓（-40%從高點）。熱錢轉AI。伊朗未定。SpaceX教訓。股市脫鉤。",
+      "dev": "Nvidia光子。GDC AI工具。GTA 6零AI。GTC Taipei。",
+      "finance": "⚠️Trump伊朗未定！下週關鍵。油價-20%。S&P新高。BTC $73K。印度流出。Computex/GTC。",
+      "art": "GTA 6零AI視覺、光子美學。",
+      "design": "光子架構、GDC AI工具。",
+      "business": "Trump伊朗未定。油價-20%有變數。GTA 6 $10-15億。"
+    }
+  }
+}
