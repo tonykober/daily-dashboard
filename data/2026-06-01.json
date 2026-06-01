@@ -1,0 +1,326 @@
+{
+  "date": "2026-06-01",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-01",
+      "updated_at": "2026-06-01 08:30",
+      "sparkline": [
+        43525,
+        44257,
+        44257,
+        44257,
+        44300,
+        44300,
+        44300
+      ],
+      "sparkline_dates": [
+        "5/26",
+        "5/28",
+        "5/29",
+        "5/29收",
+        "6/1E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "44,257",
+        "change": 731,
+        "changePercent": "+1.68%(上週四)",
+        "volume": "預估1.5兆",
+        "futures": "44,300 (+0.1%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 0.3
+        },
+        {
+          "name": "AI伺服器",
+          "change": 0.5
+        },
+        {
+          "name": "記憶體",
+          "change": -0.5
+        },
+        {
+          "name": "金融保險",
+          "change": 0.2
+        },
+        {
+          "name": "航運",
+          "change": -0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0.1
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.1
+        },
+        {
+          "name": "石化/塑膠",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "平 整理",
+          "note": "美股週五混合收盤（S&P -0.04%、道瓊+0.4%）。Trump伊朗協議仍未最終決定但發文稱將移除水雷+解除封鎖。Computex/GTC Taipei本週登場。期貨+0.1%持平",
+          "nav": null,
+          "pb": 11.5,
+          "premium": null,
+          "pe": 36,
+          "quarterLine": 20,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "平 持平",
+          "note": "MSCI已生效，被動買盤效應減弱。期貨持平",
+          "nav": 215,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "高息持穩",
+          "nav": 43.5,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "高息防禦",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "平 穩定",
+          "note": "月配息",
+          "nav": 28,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "平 穩定",
+          "note": "價值型",
+          "nav": 9.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "平 持平",
+          "note": "同0050",
+          "nav": 110,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "平 整理",
+          "note": "Computex/GTC本週可能有利多消息",
+          "nav": 35,
+          "pb": null,
+          "premium": 0.8,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "平 整理",
+          "note": "等Computex消息",
+          "nav": 18,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "平 穩定",
+          "note": "主動型",
+          "nav": 15.5,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平 穩定",
+          "note": "主動成長型",
+          "nav": 31,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "平 持平",
+          "note": "殖利率持穩，等伊朗最終決定",
+          "nav": null,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "平 持平",
+          "note": "不配息複利型，跟隨大盤",
+          "nav": 61,
+          "pb": null,
+          "premium": 0.3,
+          "pe": 22.5,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "平 穩定",
+          "note": "科技+配息",
+          "nav": 24,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "平 持平",
+          "note": "MSCI效應減弱"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 穩定",
+          "note": "高息"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 穩定",
+          "note": "防禦"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "平 穩定",
+          "note": "等Computex"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "平 穩定",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "平 持平",
+          "note": "跟隨大盤"
+        }
+      ],
+      "institutional": {
+        "外資": 50,
+        "投信": 10,
+        "自營商": 5
+      },
+      "sentiment": {
+        "score": 65,
+        "label": "偏多 — MSCI已生效+伊朗協議方向明確，但短線過熱後整理",
+        "history": [
+          72,
+          85,
+          78,
+          72,
+          70,
+          75,
+          65
+        ]
+      },
+      "international": [
+        {
+          "name": "S&P 500(週五)",
+          "change": -0.04
+        },
+        {
+          "name": "道瓊(週五)",
+          "change": 0.4
+        },
+        {
+          "name": "Nasdaq(週五)",
+          "change": -0.09
+        },
+        {
+          "name": "WTI原油",
+          "change": -1.2
+        },
+        {
+          "name": "Brent原油",
+          "change": -0.6
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.02
+        }
+      ],
+      "buffett_indicator": {
+        "value": 208,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "Trump發文：伊朗將移除荷姆茲水雷+美國解除封鎖，但仍未最終簽署",
+        "美股週五混合收盤：道瓊+0.4%、S&P -0.04%、Nasdaq -0.09%",
+        "油價續跌：WTI $88.90、Brent $93.71（從高點-20%）",
+        "本週Computex/GTC Taipei登場：Jensen Huang台北演講",
+        "MSCI台灣權重上調已生效（上週五），被動買盤效應減弱",
+        "台股上週收44,257（歷史新高區），本週進入整理期",
+        "消費者信心調查：股市投資信心3年低（過熱擔憂）"
+      ],
+      "summary": "台股上週創44,257新高後進入整理期。美股週五混合，伊朗協議方向明確但未最終簽署。MSCI已生效，被動買盤效應減弱。本週焦點：Computex/GTC Taipei（Jensen Huang演講）+Trump伊朗最終決定。建議：持有觀望，等Computex消息和伊朗結果。短線過熱後整理屬正常，不追高也不恐慌。",
+      "searched": []
+    }
+  }
+}
