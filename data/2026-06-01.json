@@ -1,17 +1,271 @@
 {
   "date": "2026-06-01",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "🔥 今日11AM：Jensen Huang Computex/GTC Taipei Keynote — N1X筆電晶片首發",
+        "url": "https://au.pcmag.com/processors/117952/how-to-watch-nvidia-ceo-jensen-huang-computex-2026-keynote",
+        "source": "PCMag",
+        "desc": "Nvidia首款筆電SoC，RTX 5070級GPU+CUDA+Windows ARM。史上首次。"
+      },
+      {
+        "title": "Nvidia宣布每年在台灣投資$1500億：稱台灣為「AI革命震央」",
+        "url": "https://thenextweb.com/news/nvidia-huang-taiwan-epicentre-150bn-spend",
+        "source": "The Next Web",
+        "desc": "Jensen Huang提前抵台一週，強調台灣在AI基礎設施的核心地位。"
+      },
+      {
+        "title": "Nvidia N1X確認：首款ARM筆電晶片，RTX 5070級GPU+完整CUDA",
+        "url": "https://www.techtimes.com/articles/317428/20260530/nvidia-arm-laptop-chip-n1x-confirmed-computex-cuda-rtx-5070-gpu-onboard.htm",
+        "source": "Tech Times",
+        "desc": "挑戰Apple M系列和Qualcomm Snapdragon。"
+      },
+      {
+        "title": "Computex 2026：從PC展變身亞洲最大AI技術展",
+        "url": "https://en.sedaily.com/news/2026/05/31/jensen-huang-chey-tae-won-and-ai-heavyweights-converge-on",
+        "source": "Seoul Economic Daily",
+        "desc": "Jensen Huang+崔泰源+AI重量級人物齊聚台灣。"
+      },
+      {
+        "title": "Nvidia $65億光子投資：解決AI數據傳輸瓶頸",
+        "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "source": "CNBC",
+        "desc": "光子比銅線更高效。"
+      },
+      {
+        "title": "油價從高點-20%：AI數據中心能源成本大幅下降",
+        "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+        "source": "CNBC",
+        "desc": "WTI $88.90利好AI營運。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Nvidia N1X筆電晶片：RTX 5070級GPU進入筆電，遊戲體驗革命",
+        "url": "https://www.techtimes.com/articles/317428/20260530/nvidia-arm-laptop-chip-n1x-confirmed-computex-cuda-rtx-5070-gpu-onboard.htm",
+        "source": "Tech Times",
+        "desc": "Windows ARM+CUDA+RTX。"
+      },
+      {
+        "title": "Nvidia砍遊戲GPU產能優先AI：RTX 50 Super延期",
+        "url": "https://www.techbuzz.ai/articles/nvidia-cuts-gaming-gpu-production-to-prioritize-ai-chips",
+        "source": "TechBuzz",
+        "desc": "但N1X可能補償筆電遊戲需求。"
+      },
+      {
+        "title": "GTA 6確認11/19：零生成式AI，$10-15億開發",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "史上最貴娛樂產品。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車。"
+      },
+      {
+        "title": "Computex 2026本週：遊戲硬體新品預期",
+        "url": "https://ces.einnews.com/article/916265984/fDcmbm0DF-2wyDP7",
+        "source": "EIN News",
+        "desc": "N1X+Arc G3+Snapdragon C。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔥 Computex 2026今日開幕：Jensen Huang Keynote 11AM台北",
+        "url": "https://au.pcmag.com/processors/117952/how-to-watch-nvidia-ceo-jensen-huang-computex-2026-keynote",
+        "source": "PCMag",
+        "desc": "N1X筆電晶片+AI突破+$1500億台灣投資。"
+      },
+      {
+        "title": "Nvidia N1X：首款ARM筆電SoC，挑戰Apple M系列",
+        "url": "https://www.techtimes.com/articles/317428/20260530/nvidia-arm-laptop-chip-n1x-confirmed-computex-cuda-rtx-5070-gpu-onboard.htm",
+        "source": "Tech Times",
+        "desc": "RTX 5070級+CUDA+Windows ARM。"
+      },
+      {
+        "title": "Jensen Huang：Nvidia每年在台灣投資$1500億",
+        "url": "https://thenextweb.com/news/nvidia-huang-taiwan-epicentre-150bn-spend",
+        "source": "The Next Web",
+        "desc": "台灣=AI革命震央。"
+      },
+      {
+        "title": "Trump伊朗協議仍未最終決定：要求荷姆茲+鈾銷毀",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC",
+        "desc": "下週為關鍵。"
+      },
+      {
+        "title": "Computex本週：N1X+Intel Arc G3+Snapdragon C",
+        "url": "https://ces.einnews.com/article/916265984/fDcmbm0DF-2wyDP7",
+        "source": "EIN News",
+        "desc": "三大晶片商同台競技。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC跌破$73K後$1B清算：美國空襲伊朗觸發拋售",
+        "url": "https://coindesk.com/markets/2026/05/28/bitcoin-drops-below-usd73-000-as-us-strikes-on-iran-spark-usd1-billion-liquidations",
+        "source": "CoinDesk",
+        "desc": "93%為多頭清算。"
+      },
+      {
+        "title": "BTC本週-5~7%：全球股市創新高但加密持續下跌",
+        "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-ether-little-changed-despite-record-stocks-falling-oil-and-easing-war-fears",
+        "source": "CoinDesk",
+        "desc": "Brent最差月份自2020年3月。"
+      },
+      {
+        "title": "BTC如何定價Trump荷姆茲重開聲明",
+        "url": "https://cryptonews.net/news/bitcoin/32940993/",
+        "source": "CryptoNews",
+        "desc": "中東原油出口從18.3mb/d降至8.8mb/d。"
+      },
+      {
+        "title": "BTC跌至$73K：傳統市場漲但加密完全脫鉤",
+        "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-pinned-below-usd73-000-despite-potential-u-s-iran-deal-news",
+        "source": "CoinDesk",
+        "desc": "60天MOU未能提振加密。"
+      },
+      {
+        "title": "BTC回升$77K後再跌：ETF連續流出+伊朗不確定性",
+        "url": "https://www.fxleaders.com/news/2026/05/25/bitcoin-reclaims-77k-as-iran-deal-hopes-etf-outflows-and-bond-fears-collide/",
+        "source": "FX Leaders",
+        "desc": "衍生品倉位激進但現貨需求弱。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia N1X：首款ARM筆電SoC對開發者的影響",
+        "url": "https://www.techtimes.com/articles/317428/20260530/nvidia-arm-laptop-chip-n1x-confirmed-computex-cuda-rtx-5070-gpu-onboard.htm",
+        "source": "Tech Times",
+        "desc": "CUDA+ARM+Windows=新開發平台。"
+      },
+      {
+        "title": "Computex 2026開發者場次：AI工具+硬體新品",
+        "url": "https://ces.einnews.com/article/916265984/fDcmbm0DF-2wyDP7",
+        "source": "EIN News",
+        "desc": "N1X+Arc G3+Snapdragon C。"
+      },
+      {
+        "title": "Nvidia $65億光子投資：開發者基礎設施升級",
+        "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
+        "source": "CNBC",
+        "desc": "數據傳輸革命。"
+      },
+      {
+        "title": "GDC 2026：AI工具普及但整合仍是挑戰",
+        "url": "https://www.gamesindustry.biz/archive/news",
+        "source": "GamesIndustry.biz",
+        "desc": "基礎設施問題。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Nvidia N1X筆電晶片：RTX 5070級視覺進入筆電",
+        "url": "https://www.techtimes.com/articles/317428/20260530/nvidia-arm-laptop-chip-n1x-confirmed-computex-cuda-rtx-5070-gpu-onboard.htm",
+        "source": "Tech Times",
+        "desc": "行動創作者工具革命。"
+      },
+      {
+        "title": "Computex 2026展場設計：AI時代的科技展覽",
+        "url": "https://en.sedaily.com/news/2026/05/31/jensen-huang-chey-tae-won-and-ai-heavyweights-converge-on",
+        "source": "Seoul Economic Daily",
+        "desc": "從PC展到AI展的轉型。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia N1X SoC架構設計：ARM+CUDA+RTX整合",
+        "url": "https://www.techtimes.com/articles/317428/20260530/nvidia-arm-laptop-chip-n1x-confirmed-computex-cuda-rtx-5070-gpu-onboard.htm",
+        "source": "Tech Times",
+        "desc": "挑戰Apple M系列的設計哲學。"
+      },
+      {
+        "title": "Computex 2026：AI硬體設計趨勢",
+        "url": "https://ces.einnews.com/article/916265984/fDcmbm0DF-2wyDP7",
+        "source": "EIN News",
+        "desc": "三大晶片商設計競爭。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia每年在台灣投資$1500億：台灣=AI革命震央",
+        "url": "https://thenextweb.com/news/nvidia-huang-taiwan-epicentre-150bn-spend",
+        "source": "The Next Web",
+        "desc": "Jensen Huang提前抵台強調。"
+      },
+      {
+        "title": "Computex 2026：亞洲最大AI技術展今日開幕",
+        "url": "https://en.sedaily.com/news/2026/05/31/jensen-huang-chey-tae-won-and-ai-heavyweights-converge-on",
+        "source": "Seoul Economic Daily",
+        "desc": "全球AI重量級人物齊聚。"
+      },
+      {
+        "title": "油價-20%重塑全球能源成本：中東出口從18.3降至8.8 mb/d",
+        "url": "https://cryptonews.net/news/bitcoin/32940993/",
+        "source": "CryptoNews",
+        "desc": "荷姆茲重開將進一步壓低油價。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股週五混合收盤：S&P 7,516、道瓊50,663、Nasdaq -0.09%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/oil-falls-stocks-hit-records-112911900.html",
+        "source": "Yahoo Finance",
+        "desc": "伊朗協議方向明確但未簽署。"
+      },
+      {
+        "title": "油價續跌：WTI $88.90、Brent $93.71（從高點-20%）",
+        "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html",
+        "source": "CNBC",
+        "desc": "Brent最差月份自2020年3月。"
+      },
+      {
+        "title": "BTC本週-5~7%：$1B清算+ETF連續流出",
+        "url": "https://coindesk.com/markets/2026/05/28/bitcoin-drops-below-usd73-000-as-us-strikes-on-iran-spark-usd1-billion-liquidations",
+        "source": "CoinDesk",
+        "desc": "與股市完全脫鉤。"
+      },
+      {
+        "title": "Nvidia $1500億/年台灣投資：台股長期利多",
+        "url": "https://thenextweb.com/news/nvidia-huang-taiwan-epicentre-150bn-spend",
+        "source": "The Next Web",
+        "desc": "AI供應鏈核心地位確認。"
+      },
+      {
+        "title": "Computex本週：N1X+新品可能推動半導體股",
+        "url": "https://au.pcmag.com/processors/117952/how-to-watch-nvidia-ceo-jensen-huang-computex-2026-keynote",
+        "source": "PCMag",
+        "desc": "今日11AM keynote。"
+      },
+      {
+        "title": "Trump伊朗最終決定待定：下週為全球市場關鍵",
+        "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+        "source": "CNBC",
+        "desc": "確認→油續跌；破裂→油反彈。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Jensen Huang Computex 2026 Keynote直播（今日11AM台北）",
+        "url": "https://www.tomshardware.com/tech-industry/nvidia-keynote-computex-2026-gtc-taipei-where-to-watch",
+        "source": "Tom's Hardware",
+        "desc": "N1X+AI突破+下一代技術。"
+      }
+    ],
+    "summaries": {
+      "ai": "🔥今日11AM Jensen Huang Computex Keynote！N1X筆電晶片首發。$1500億/年台灣投資。$65億光子。油價-20%利好AI。",
+      "gaming": "🎮N1X=RTX 5070級筆電遊戲革命！Nvidia砍桌機GPU。GTA 6零AI。FH6 Season 1。Computex硬體。",
+      "tech": "🔥Computex今日開幕！N1X+$1500億台灣。Trump伊朗未定。Intel Arc G3+Snapdragon C同台。",
+      "crypto": "⚠️BTC $73K：$1B清算+ETF流出。本週-5~7%。與股市完全脫鉤。荷姆茲定價。",
+      "dev": "N1X=CUDA+ARM+Windows新平台。Computex開發者。$65億光子。GDC AI工具。",
+      "finance": "美股混合。油價-20%。BTC -5~7%。Nvidia $1500億台灣。Computex今日。Trump伊朗待定。",
+      "art": "N1X視覺革命、Computex展場設計。",
+      "design": "N1X SoC架構、AI硬體設計趨勢。",
+      "business": "Nvidia $1500億/年台灣。Computex開幕。油價-20%重塑能源。"
+    },
     "stock_briefing": {
       "date": "2026-06-01",
       "updated_at": "2026-06-01 08:30",
