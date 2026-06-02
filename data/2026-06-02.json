@@ -1,17 +1,271 @@
 {
   "date": "2026-06-02",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "Nvidia發布RTX Spark（N1X）：首款ARM PC處理器，「重新發明PC」",
+        "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+        "source": "CNBC",
+        "desc": "與Microsoft合作，秋季上市。Dell/HP/ASUS/Lenovo/MSI首批。挑戰Apple/Intel/Qualcomm。"
+      },
+      {
+        "title": "Jensen Huang Computex Keynote：「AI現在是利潤生成器、GDP生成器」",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+        "source": "Nvidia Blog",
+        "desc": "70+台灣觀看派對。AI不會取代軟體工程師，會提升需求。"
+      },
+      {
+        "title": "Jim Cramer：Jensen Huang Keynote揭示AI熱潮更多贏家",
+        "url": "https://www.cnbc.com/2026/06/01/jim-cramer-jensen-huang-computex-keynote-revealed-winners-ai-boom.html",
+        "source": "CNBC",
+        "desc": "「Compute is profit」是核心訊息。"
+      },
+      {
+        "title": "Nvidia Computex三大重點：RTX Spark、DSX AI工廠劇本、Vera Rubin量產",
+        "url": "https://africa.businessinsider.com/news/compute-is-profit-3-big-takeaways-from-jensen-huangs-keynote-in-taiwan/2r8qjfw",
+        "source": "Business Insider",
+        "desc": "PC+數據中心+下一代架構。"
+      },
+      {
+        "title": "Nvidia +6%：RTX Spark推動PC產業鏈全面上漲",
+        "url": "https://www.cnbc.com/2026/05/31/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Dell +10%、HP +8%、Intel -4%（被取代）。"
+      },
+      {
+        "title": "TSMC創新高：Nvidia承諾$1500億/年台灣投資，代工地位確認",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-hits-peak-nvidia-183026953.html",
+        "source": "Yahoo Finance",
+        "desc": "ADR +4.8%。長期工廠利用率和定價權確認。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "RTX Spark筆電：RTX 5070級GPU進入ARM筆電，遊戲體驗革命",
+        "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+        "source": "CNBC",
+        "desc": "秋季上市，CUDA+Windows ARM。"
+      },
+      {
+        "title": "Intel Arc G3遊戲掌機晶片：MSI Claw 8 EX AI+",
+        "url": "https://www.tomsguide.com/news/live/computex-2026",
+        "source": "Tom's Guide",
+        "desc": "Computex Day 1：Intel反擊AMD。"
+      },
+      {
+        "title": "Computex 2026 Day 1：PC遊戲硬體全面革新",
+        "url": "https://www.tomsguide.com/news/live/computex-2026",
+        "source": "Tom's Guide",
+        "desc": "RTX Spark+Arc G3+Snapdragon C。"
+      },
+      {
+        "title": "GTA 6確認11/19：$10-15億零生成式AI",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "史上最貴娛樂產品。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nvidia RTX Spark重新定義PC：ARM+CUDA挑戰Intel/Apple/Qualcomm",
+        "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+        "source": "CNBC",
+        "desc": "Intel -4%（被取代危機）。Dell +10%、HP +8%。"
+      },
+      {
+        "title": "Computex 2026 Day 1：三大晶片商全面競爭",
+        "url": "https://www.tomsguide.com/news/live/computex-2026",
+        "source": "Tom's Guide",
+        "desc": "Nvidia RTX Spark vs Intel Arc G3 vs Qualcomm。"
+      },
+      {
+        "title": "TSMC創新高：Nvidia $1500億/年投資確認代工核心地位",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-hits-peak-nvidia-183026953.html",
+        "source": "Yahoo Finance",
+        "desc": "股價$438→$443。"
+      },
+      {
+        "title": "Jensen Huang：「Compute is profit」— AI是利潤和GDP生成器",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+        "source": "Nvidia Blog",
+        "desc": "70+台灣觀看派對。"
+      },
+      {
+        "title": "Strategy（MicroStrategy）首次出售BTC：2022年以來首次",
+        "url": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
+        "source": "CNBC",
+        "desc": "$250萬BTC出售，股價-5.85%。「永不賣」策略終結。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "⚠️ BTC跌至$71.4K：Strategy首次出售BTC+ETF連續10天流出（史上最長）",
+        "url": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
+        "source": "CNBC",
+        "desc": "Michael Saylor「永不賣」策略終結。BTC從$126K跌超42%。"
+      },
+      {
+        "title": "6月開局紅盤：美伊交火+和談失敗+BTC -2%",
+        "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+        "source": "CoinDesk",
+        "desc": "CoinDesk 20指數-2%。但期貨顯示風險偏好仍在。"
+      },
+      {
+        "title": "BTC ETF連續10天淨流出（史上最長紀錄）",
+        "url": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
+        "source": "CNBC",
+        "desc": "機構持續撤出。"
+      },
+      {
+        "title": "BTC $73.6K：恐懼指數29，市場極度恐慌",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-june-1-2026",
+        "source": "KuCoin",
+        "desc": "ETH $2,007。S&P卻創新高。"
+      },
+      {
+        "title": "Michael Saylor BTC出售引發市場恐慌：策略轉向「提升每股BTC」",
+        "url": "https://www.coindesk.com/markets/2026/06/01/live-markets-bitcoin-retreats-under-usd72-000-as-strategy-unloads-btc-for-first-time-in-four-years",
+        "source": "CoinDesk",
+        "desc": "從「永不賣」到「主動管理資產負債表」。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia RTX Spark SDK：CUDA+ARM+Windows開發新平台",
+        "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+        "source": "CNBC",
+        "desc": "開發者可在筆電上執行AI Agent。"
+      },
+      {
+        "title": "Nvidia DSX：AI工廠劇本（Data Center Scale eXtension）",
+        "url": "https://africa.businessinsider.com/news/compute-is-profit-3-big-takeaways-from-jensen-huangs-keynote-in-taiwan/2r8qjfw",
+        "source": "Business Insider",
+        "desc": "從概念到量產的標準化流程。"
+      },
+      {
+        "title": "Jensen Huang：AI不會取代軟體工程師，會提升需求",
+        "url": "https://africa.businessinsider.com/news/compute-is-profit-3-big-takeaways-from-jensen-huangs-keynote-in-taiwan/2r8qjfw",
+        "source": "Business Insider",
+        "desc": "「Compute is profit」哲學。"
+      },
+      {
+        "title": "Intel Arc G3 vs Nvidia RTX Spark：開發者平台競爭",
+        "url": "https://www.tomsguide.com/news/live/computex-2026",
+        "source": "Tom's Guide",
+        "desc": "Computex Day 1開發者選擇。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Computex 2026展場：AI時代的科技展覽設計",
+        "url": "https://www.tomsguide.com/news/live/computex-2026",
+        "source": "Tom's Guide",
+        "desc": "三大晶片商全面競爭。"
+      },
+      {
+        "title": "RTX Spark筆電設計：Dell XPS 13 vs MacBook Neo",
+        "url": "https://www.tomsguide.com/news/live/computex-2026",
+        "source": "Tom's Guide",
+        "desc": "工業設計對決。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia RTX Spark SoC架構：ARM+CUDA+RTX整合設計",
+        "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+        "source": "CNBC",
+        "desc": "挑戰Apple M系列設計哲學。"
+      },
+      {
+        "title": "DSX AI工廠標準化設計流程",
+        "url": "https://africa.businessinsider.com/news/compute-is-profit-3-big-takeaways-from-jensen-huangs-keynote-in-taiwan/2r8qjfw",
+        "source": "Business Insider",
+        "desc": "數據中心建設劇本。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia +6%重新定義PC產業：Dell +10%、HP +8%、Intel -4%",
+        "url": "https://www.cnbc.com/2026/05/31/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "RTX Spark挑戰30年Intel霸權。"
+      },
+      {
+        "title": "TSMC創新高：Nvidia $1500億/年確認台灣代工核心地位",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-hits-peak-nvidia-183026953.html",
+        "source": "Yahoo Finance",
+        "desc": "全球AI供應鏈重心。"
+      },
+      {
+        "title": "Strategy出售BTC（2022年以來首次）：「永不賣」策略終結",
+        "url": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
+        "source": "CNBC",
+        "desc": "轉向主動管理。股價-5.85%。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Nvidia +6%領漲美股：RTX Spark推動PC產業鏈重塑",
+        "url": "https://www.cnbc.com/2026/05/31/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Dell +10%、HP +8%、Intel -4%。"
+      },
+      {
+        "title": "TSMC創新高$443：Nvidia $1500億/年台灣投資",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-hits-peak-nvidia-183026953.html",
+        "source": "Yahoo Finance",
+        "desc": "台股長期利多持續。"
+      },
+      {
+        "title": "台股昨日創歷史新高45,338（+1.35%）：5月漲5.8%",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+        "source": "Nvidia Blog",
+        "desc": "美股同步創高。"
+      },
+      {
+        "title": "BTC暴跌至$71.4K：Strategy出售+ETF連10天流出",
+        "url": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
+        "source": "CNBC",
+        "desc": "從$126K跌超42%。恐懼指數29。"
+      },
+      {
+        "title": "美伊交火仍持續：和談方向明確但執行困難",
+        "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+        "source": "CoinDesk",
+        "desc": "油價波動持續。"
+      },
+      {
+        "title": "Computex效應：半導體+PC股全面上漲，AI產業鏈受惠",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rise-nvidia-113309179.html",
+        "source": "Yahoo Finance",
+        "desc": "Nvidia生態系擴大。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Jensen Huang Computex 2026 Keynote完整回顧",
+        "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+        "source": "Nvidia Blog",
+        "desc": "RTX Spark+DSX+Vera Rubin。"
+      }
+    ],
+    "summaries": {
+      "ai": "🔥Nvidia RTX Spark（N1X）重新發明PC！ARM+CUDA挑戰Intel/Apple。Jensen Huang：Compute is profit。TSMC新高。$1500億/年台灣。Vera Rubin量產。",
+      "gaming": "🎮RTX Spark=筆電遊戲革命！Intel Arc G3掌機。Computex Day 1。GTA 6零AI。FH6 Season 1。",
+      "tech": "Nvidia +6%重塑PC產業（Dell +10%、Intel -4%）。TSMC新高。Computex三大晶片商。Strategy出售BTC。",
+      "crypto": "⚠️BTC $71.4K！Strategy首次出售（永不賣終結）。ETF連10天流出（史上最長）。恐懼29。從$126K跌42%。",
+      "dev": "RTX Spark SDK。DSX AI工廠。Jensen：AI不取代工程師。Arc G3 vs RTX Spark。",
+      "finance": "Nvidia +6%。TSMC新高。台股45,338！BTC $71.4K暴跌。Strategy出售。Computex效應。美伊持續。",
+      "art": "Computex展場、RTX Spark vs MacBook設計。",
+      "design": "RTX Spark SoC架構、DSX AI工廠流程。",
+      "business": "Nvidia重塑PC（Intel -4%）。TSMC核心確認。Strategy「永不賣」終結。"
+    },
     "stock_briefing": {
       "date": "2026-06-02",
       "updated_at": "2026-06-02 07:59",
