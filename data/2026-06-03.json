@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-03",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-03",
+      "updated_at": "2026-06-03 08:30",
+      "sparkline": [
+        44257,
+        45338,
+        45338,
+        45338,
+        45800,
+        45800,
+        45800
+      ],
+      "sparkline_dates": [
+        "5/28",
+        "6/1",
+        "6/1收",
+        "6/2",
+        "6/3E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,338",
+        "change": 605,
+        "changePercent": "+1.35%(昨)",
+        "volume": "預估2.0兆",
+        "futures": "45,800 (+1.0%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 2.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 3
+        },
+        {
+          "name": "記憶體",
+          "change": 1.5
+        },
+        {
+          "name": "PCB",
+          "change": 1
+        },
+        {
+          "name": "金融",
+          "change": 0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.5
+        },
+        {
+          "name": "Intel/PC相關",
+          "change": -2
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 強勢",
+          "note": "Nvidia +6.3%（$232）+Vera Rubin量產確認+RTX Spark秋季上市。台積電為唯一代工商，直接受惠。道瓊51,307+S&P 7,609雙創新高",
+          "nav": null,
+          "pb": 12.5,
+          "premium": null,
+          "pe": 37,
+          "quarterLine": 20.5,
+          "suggestion": "持有（勿追高）"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 續漲",
+          "note": "美股續創新高+Computex效應帶動",
+          "nav": 228,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩升",
+          "note": "大盤強勢帶動",
+          "nav": 45,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩升",
+          "note": "高息跟漲",
+          "nav": 26.5,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 穩升",
+          "note": "月配息+漲價",
+          "nav": 29,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 穩升",
+          "note": "價值型跟漲",
+          "nav": 10.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 續漲",
+          "note": "同0050",
+          "nav": 117,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 強勢",
+          "note": "Nvidia +6%+Vera Rubin+RTX Spark全面利多半導體",
+          "nav": 38,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有（勿追高）"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 強勢",
+          "note": "半導體族群持續領漲",
+          "nav": 19.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 11.5,
+          "suggestion": "持有（勿追高）"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 強勢",
+          "note": "主動型表現突出",
+          "nav": 17,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 穩升",
+          "note": "主動成長型",
+          "nav": 33.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "平 持平",
+          "note": "殖利率持穩",
+          "nav": null,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 續漲",
+          "note": "不配息複利型，台積電佔42.5%，Computex效應",
+          "nav": 64,
+          "pb": null,
+          "premium": 0,
+          "pe": 23.5,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強勢",
+          "note": "科技+配息，Computex帶動",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 續漲",
+          "note": "Computex效應"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩升",
+          "note": "大盤帶動"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩升",
+          "note": "高息跟漲"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 強勢",
+          "note": "半導體帶動"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 穩升",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 續漲",
+          "note": "台積電效應"
+        }
+      ],
+      "institutional": {
+        "外資": 250,
+        "投信": 30,
+        "自營商": 40
+      },
+      "sentiment": {
+        "score": 78,
+        "label": "貪婪 — Nvidia +6%+Computex+美股新高，但巴菲特210%需警惕",
+        "history": [
+          55,
+          62,
+          68,
+          70,
+          72,
+          72,
+          78
+        ]
+      },
+      "international": [
+        {
+          "name": "S&P 500",
+          "change": 0.13
+        },
+        {
+          "name": "道瓊",
+          "change": 0.45
+        },
+        {
+          "name": "Nvidia",
+          "change": 6.3
+        },
+        {
+          "name": "Intel",
+          "change": -4.7
+        },
+        {
+          "name": "Qualcomm",
+          "change": -8
+        },
+        {
+          "name": "AMD",
+          "change": -3
+        }
+      ],
+      "buffett_indicator": {
+        "value": 212,
+        "label": "極度高估"
+      },
+      "events": [
+        "Nvidia +6.3%至$232：RTX Spark+Vera Rubin量產雙重利多",
+        "S&P首次收在7,600以上（7,609）、道瓊51,307新高",
+        "Intel -4.7%、Qualcomm -8%、AMD -3%（被Nvidia PC晶片衝擊）",
+        "Vera Rubin進入全量產：OpenAI/Anthropic/xAI/Dell/Oracle為首日客戶",
+        "Computex 2026持續：更多AI硬體發表中",
+        "Jensen Huang：Nvidia要「擁有」AI堆疊每一層",
+        "⚠️ S&P期貨早盤-0.4%（伊朗風險）",
+        "⚠️ 巴菲特指數212%+情緒78貪婪"
+      ],
+      "summary": "Nvidia +6.3%推動美股續創新高（S&P 7,609首次破7,600、道瓊51,307）！RTX Spark+Vera Rubin量產確認台積電代工核心地位。但Intel/Qualcomm/AMD全面下跌（PC霸權被挑戰）。台股預期續漲（期貨+1.0%），Computex效應持續。但注意：巴菲特212%+情緒78+S&P期貨早盤-0.4%（伊朗風險），短線過熱風險持續。建議：持有享受Computex紅利，但不追高。台積電離季線+20.5%已過熱。",
+      "searched": []
+    }
+  }
+}
