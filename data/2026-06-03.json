@@ -1,17 +1,271 @@
 {
   "date": "2026-06-03",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "Nvidia RTX Spark要「擁有」AI堆疊每一層：CEO的PC霸權野心",
+        "url": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html",
+        "source": "CNBC",
+        "desc": "從數據中心到PC到邊緣，全面掌控。Intel/AMD/Qualcomm全線下跌。"
+      },
+      {
+        "title": "Nvidia RTX Spark Superchip：將Windows 11變成Agent式AI作業系統",
+        "url": "https://www.tomshardware.com/tech-industry/computex-2026-day-zero-wrap-up-nvidia-launches-rtx-spark-superchip-assault-on-laptop-and-desktop-markets-intel-readies-xeon-6",
+        "source": "Tom's Hardware",
+        "desc": "ARM+Blackwell GPU+CUDA。秋季上市。"
+      },
+      {
+        "title": "Computex 2026全部新聞和公告匯總",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "RTX Spark+Intel Arc G3+更多。"
+      },
+      {
+        "title": "Intel Computex Keynote：CEO Lip-Bu Tan發表「矽上的智慧世界」",
+        "url": "https://newsroom.intel.com/artificial-intelligence/computex-2026-an-intelligent-world-built-on-silicon",
+        "source": "Intel",
+        "desc": "Xeon 6+、x86生態防禦。"
+      },
+      {
+        "title": "Jim Cramer：Jensen Huang Keynote揭示AI熱潮更多贏家",
+        "url": "https://www.cnbc.com/2026/06/01/jim-cramer-jensen-huang-computex-keynote-revealed-winners-ai-boom.html",
+        "source": "CNBC",
+        "desc": "「Compute is profit」核心訊息。"
+      },
+      {
+        "title": "Nvidia最佳交易日（數月來）：RTX Spark推動+6.3%",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
+        "source": "Forbes",
+        "desc": "Dell +10%、HP +8%跟漲。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Intel Arc G3/G3 Extreme掌機晶片：Acer Predator Atlas 8",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "專為掌機設計的客製化晶片。"
+      },
+      {
+        "title": "RTX Spark筆電實機體驗：MSI首批裝置",
+        "url": "https://www.tomsguide.com/news/live/computex-2026-live",
+        "source": "Tom's Guide",
+        "desc": "RTX 5070級筆電遊戲實測。"
+      },
+      {
+        "title": "Computex 2026 Day 2：遊戲硬體全面競爭",
+        "url": "https://www.pcmag.com/news/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+        "source": "PCMag",
+        "desc": "6/2-6/5展場開放。"
+      },
+      {
+        "title": "GTA 6確認11/19：$10-15億零生成式AI",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "史上最貴娛樂產品。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週新車。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Computex 2026：Nvidia vs Intel vs AMD vs Qualcomm全面競爭",
+        "url": "https://www.pcmag.com/news/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+        "source": "PCMag",
+        "desc": "RTX Spark vs Arc G3 vs x86防禦。"
+      },
+      {
+        "title": "Intel回應RTX Spark：「健康的偏執」但警告ARM相容性問題",
+        "url": "https://www.tomshardware.com/news/live/computex-2026-",
+        "source": "Tom's Hardware",
+        "desc": "DRM和軟體相容仍是x86優勢。"
+      },
+      {
+        "title": "Dell XPS 13 vs MacBook Neo：RTX Spark筆電設計對決",
+        "url": "https://www.tomsguide.com/news/live/computex-2026-live",
+        "source": "Tom's Guide",
+        "desc": "實機體驗首曝。"
+      },
+      {
+        "title": "S&P 7,609首次破7,600！道瓊51,307新高",
+        "url": "https://www.cnbc.com/2026/06/01/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Nvidia推動科技股續漲。"
+      },
+      {
+        "title": "BTC暴跌破$70K至$67.2K：Strategy出售效應持續",
+        "url": "https://247wallst.com/investing/2026/06/02/strategy-crashes-10-coinbase-falls-6-as-bitcoin-breaks-70000-floor-in-day-two-selloff/",
+        "source": "24/7 Wall St",
+        "desc": "MSTR -10%、COIN -6%。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "⚠️ BTC暴跌破$70K至$67.2K！Strategy -10%、Coinbase -6%",
+        "url": "https://247wallst.com/investing/2026/06/02/strategy-crashes-10-coinbase-falls-6-as-bitcoin-breaks-70000-floor-in-day-two-selloff/",
+        "source": "24/7 Wall St",
+        "desc": "Day-2拋售持續。Polymarket保證金call機率僅5%。"
+      },
+      {
+        "title": "Strategy出售32 BTC後BTC跌破$70K：「永不賣」的終結",
+        "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-slide-to-usd70-000-as-stocks-pause-and-strategy-s-btc-sale-weighs-on-crypto",
+        "source": "CoinDesk",
+        "desc": "僅佔持倉0.004%但象徵意義巨大。"
+      },
+      {
+        "title": "Michael Saylor：「STRC將成為世界最佳信用工具」",
+        "url": "https://coindesk.com/markets/2026/06/01/michael-saylor-breaks-silence-after-strategy-sells-usd2-5-million-in-bitcoin",
+        "source": "CoinDesk",
+        "desc": "從HODL轉向積極管理。"
+      },
+      {
+        "title": "專家警告：BTC有MicroStrategy問題，太依賴單一企業買家",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/experts-warn-bitcoin-microstrategy-problem-210650023.html",
+        "source": "Yahoo Finance",
+        "desc": "BTC和MSTR同步暴跌。"
+      },
+      {
+        "title": "Fundstrat Tom Lee稱「經典市場底部」但Day-2續跌打臉",
+        "url": "https://247wallst.com/investing/2026/06/02/strategy-crashes-10-coinbase-falls-6-as-bitcoin-breaks-70000-floor-in-day-two-selloff/",
+        "source": "24/7 Wall St",
+        "desc": "「Rage quitting」vs真正崩盤。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia RTX Spark SDK：Agent式AI在筆電上的開發平台",
+        "url": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html",
+        "source": "CNBC",
+        "desc": "Windows 11→Agent OS。"
+      },
+      {
+        "title": "Intel Computex：Xeon 6+、x86生態防禦、DRM相容優勢",
+        "url": "https://newsroom.intel.com/artificial-intelligence/computex-2026-an-intelligent-world-built-on-silicon",
+        "source": "Intel",
+        "desc": "開發者平台選擇。"
+      },
+      {
+        "title": "Intel Arc G3掌機開發：專為手持裝置的客製化晶片",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "遊戲掌機開發生態。"
+      },
+      {
+        "title": "Computex開發者日：AI工具+硬體平台+SDK更新",
+        "url": "https://www.pcmag.com/news/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+        "source": "PCMag",
+        "desc": "6/2-6/5。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Dell XPS 13 vs MacBook Neo：AI筆電工業設計",
+        "url": "https://www.tomsguide.com/news/live/computex-2026-live",
+        "source": "Tom's Guide",
+        "desc": "RTX Spark實機。"
+      },
+      {
+        "title": "Computex 2026展場設計",
+        "url": "https://www.pcmag.com/news/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+        "source": "PCMag",
+        "desc": "台北南港展覽館。"
+      }
+    ],
+    "design": [
+      {
+        "title": "RTX Spark vs x86：PC架構設計哲學之爭",
+        "url": "https://www.tomshardware.com/news/live/computex-2026-",
+        "source": "Tom's Hardware",
+        "desc": "ARM相容性 vs 效能。"
+      },
+      {
+        "title": "Intel Arc G3掌機晶片設計",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "專為手持裝置最佳化。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia要擁有AI堆疊每一層：從晶片到作業系統到應用",
+        "url": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html",
+        "source": "CNBC",
+        "desc": "Intel/AMD/Qualcomm全線受威脅。"
+      },
+      {
+        "title": "Strategy出售BTC引發加密市場崩盤：MSTR -10%、COIN -6%",
+        "url": "https://247wallst.com/investing/2026/06/02/strategy-crashes-10-coinbase-falls-6-as-bitcoin-breaks-70000-floor-in-day-two-selloff/",
+        "source": "24/7 Wall St",
+        "desc": "BTC破$70K。「永不賣」承諾終結的商業影響。"
+      },
+      {
+        "title": "Computex 2026：PC產業$2000億市場重新洗牌",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
+        "source": "Forbes",
+        "desc": "Nvidia進入30年Intel獨佔領域。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "S&P 7,609+道瓊51,307：美股續創新高（Nvidia +6.3%推動）",
+        "url": "https://www.cnbc.com/2026/06/01/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P首次收在7,600以上。"
+      },
+      {
+        "title": "⚠️ BTC暴跌破$70K至$67.2K：Strategy -10%、Coinbase -6%",
+        "url": "https://247wallst.com/investing/2026/06/02/strategy-crashes-10-coinbase-falls-6-as-bitcoin-breaks-70000-floor-in-day-two-selloff/",
+        "source": "24/7 Wall St",
+        "desc": "從$126K跌超46%。恐慌持續。"
+      },
+      {
+        "title": "Nvidia +6.3%至$232：RTX Spark+Vera Rubin雙重利多",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
+        "source": "Forbes",
+        "desc": "數月來最佳交易日。"
+      },
+      {
+        "title": "Intel -4.7%、Qualcomm -8%、AMD -3%：被Nvidia PC晶片衝擊",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-jumps-pc-push-174043570.html",
+        "source": "Yahoo Finance",
+        "desc": "PC產業霸權洗牌。"
+      },
+      {
+        "title": "台股期貨+1.0%至45,800：Computex+Nvidia效應",
+        "url": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html",
+        "source": "CNBC",
+        "desc": "台積電為唯一代工商。"
+      },
+      {
+        "title": "Strategy僅出售0.004%持倉但象徵意義巨大",
+        "url": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
+        "source": "CNBC",
+        "desc": "32 BTC/$250萬。STRC優先股策略。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Computex 2026完整回顧：RTX Spark+Arc G3+所有公告",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "The Verge匯總。"
+      }
+    ],
+    "summaries": {
+      "ai": "Nvidia要擁有AI每一層！RTX Spark Agent OS。Intel Keynote防禦。Computex全公告匯總。Cramer看多。+6.3%最佳日。",
+      "gaming": "🎮Intel Arc G3掌機晶片！RTX Spark筆電實測。Computex Day 2。GTA 6。FH6 Season 1。",
+      "tech": "Computex全面競爭：Nvidia vs Intel vs AMD。Dell vs MacBook。S&P 7,609新高。BTC破$70K！",
+      "crypto": "⚠️⚠️BTC暴跌破$70K至$67.2K！Strategy -10%。Coinbase -6%。「永不賣」終結。Tom Lee打臉。",
+      "dev": "RTX Spark SDK Agent OS。Intel Xeon 6+。Arc G3掌機。Computex開發者日。",
+      "finance": "S&P 7,609+道瓊51,307新高！但BTC破$70K（-46%從高點）。Nvidia +6.3%。Intel/QCOM/AMD暴跌。台股期貨+1%。",
+      "art": "Dell XPS 13 vs MacBook、Computex展場。",
+      "design": "RTX Spark vs x86架構、Arc G3掌機。",
+      "business": "Nvidia擁有AI每一層。Strategy終結承諾。PC $2000億洗牌。"
+    },
     "stock_briefing": {
       "date": "2026-06-03",
       "updated_at": "2026-06-03 08:30",
