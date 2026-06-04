@@ -1,0 +1,326 @@
+{
+  "date": "2026-06-04",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-04",
+      "updated_at": "2026-06-04 08:30",
+      "sparkline": [
+        45338,
+        45338,
+        45800,
+        45800,
+        45200,
+        45200,
+        45200
+      ],
+      "sparkline_dates": [
+        "6/1",
+        "6/2",
+        "6/2高",
+        "6/3",
+        "6/4E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,338",
+        "change": 605,
+        "changePercent": "+1.35%(週一)",
+        "volume": "預估1.8兆",
+        "futures": "45,200 (-0.3%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -1
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -0.8
+        },
+        {
+          "name": "記憶體",
+          "change": -1.5
+        },
+        {
+          "name": "金融",
+          "change": -0.5
+        },
+        {
+          "name": "傳產",
+          "change": -0.3
+        },
+        {
+          "name": "石化",
+          "change": 0.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": -0.3
+        },
+        {
+          "name": "航運",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 回檔",
+          "note": "美股週三大跌（道瓊-620、S&P -0.74%）。殖利率+油價雙升壓制科技股。伊朗談判不確定性。Computex利多已消化",
+          "nav": null,
+          "pb": 12.5,
+          "premium": null,
+          "pe": 37,
+          "quarterLine": 20.5,
+          "suggestion": "持有（勿追高）"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 回檔",
+          "note": "美股回落帶動，期貨-0.3%",
+          "nav": 228,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 小跌",
+          "note": "大盤回落但高息相對抗跌",
+          "nav": 45,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 小跌",
+          "note": "高息防禦",
+          "nav": 26.5,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "跌 小跌",
+          "note": "月配息支撐",
+          "nav": 29,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "跌 小跌",
+          "note": "價值型抗跌",
+          "nav": 10.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 回檔",
+          "note": "同0050",
+          "nav": 117,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 回檔",
+          "note": "科技股回落，半導體跟跌",
+          "nav": 38,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 回檔",
+          "note": "半導體族群回檔",
+          "nav": 19.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 11.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "跌 小跌",
+          "note": "主動型跟隨回檔",
+          "nav": 17,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "跌 小跌",
+          "note": "主動成長型",
+          "nav": 33.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "跌 殖利率升",
+          "note": "殖利率再度上升壓制債券",
+          "nav": null,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 回檔",
+          "note": "不配息複利型，跟隨大盤回檔",
+          "nav": 64,
+          "pb": null,
+          "premium": 0,
+          "pe": 23.5,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "跌 回檔",
+          "note": "科技回落帶動",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 回檔",
+          "note": "期貨-0.3%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 小跌",
+          "note": "相對抗跌"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 小跌",
+          "note": "高息防禦"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 回檔",
+          "note": "科技回落"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "跌 小跌",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 回檔",
+          "note": "跟隨大盤"
+        }
+      ],
+      "institutional": {
+        "外資": -150,
+        "投信": -10,
+        "自營商": -20
+      },
+      "sentiment": {
+        "score": 62,
+        "label": "偏多→中性 — 美股回落+殖利率升+伊朗不確定，Computex利多已消化",
+        "history": [
+          62,
+          68,
+          70,
+          72,
+          72,
+          78,
+          62
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週三)",
+          "change": -1.21
+        },
+        {
+          "name": "S&P 500(週三)",
+          "change": -0.74
+        },
+        {
+          "name": "Nasdaq(週三)",
+          "change": -0.89
+        },
+        {
+          "name": "WTI原油",
+          "change": 2
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": 0.08
+        },
+        {
+          "name": "BTC",
+          "change": -5
+        }
+      ],
+      "buffett_indicator": {
+        "value": 210,
+        "label": "極度高估"
+      },
+      "events": [
+        "美股週三大跌：道瓊-620（-1.21%）、S&P -0.74%、Nasdaq -0.89%",
+        "殖利率上升+油價反彈壓制科技股",
+        "美伊談判不確定性持續：地緣風險重新升溫",
+        "Computex利多已大部分消化（Nvidia +6%後回落）",
+        "BTC暴跌破$67K：Strategy出售效應+ETF連續流出",
+        "台股期貨-0.3%至45,200：預期今日小幅回檔",
+        "⚠️ 巴菲特指數210%+新高後正常整理"
+      ],
+      "summary": "美股週三大跌（道瓊-620）結束連漲。殖利率+油價雙升+伊朗不確定性壓制。Computex利多已消化。台股預期小幅回檔（期貨-0.3%），屬新高後正常整理。建議：不恐慌，這是健康回檔。持有不動。高息ETF相對抗跌。如果有現金，等回檔到季線附近再考慮加碼。",
+      "searched": []
+    }
+  }
+}
