@@ -1,0 +1,576 @@
+{
+  "date": "2026-06-05",
+  "categories": {
+    "stock_briefing": {
+      "date": "2026-06-05",
+      "updated_at": "2026-06-05 09:00",
+      "sparkline": [
+        45338,
+        45800,
+        45200,
+        45200,
+        45500,
+        45500,
+        45500
+      ],
+      "sparkline_dates": [
+        "6/1",
+        "6/2",
+        "6/3",
+        "6/4",
+        "6/5E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,200",
+        "change": -138,
+        "changePercent": "-0.3%(昨估)",
+        "volume": "預估1.8兆",
+        "futures": "45,500 (+0.7%)"
+      },
+      "sectors": [
+        {
+          "name": "金融",
+          "change": 1.5
+        },
+        {
+          "name": "傳產",
+          "change": 1
+        },
+        {
+          "name": "航運",
+          "change": 1.2
+        },
+        {
+          "name": "石化",
+          "change": 0.8
+        },
+        {
+          "name": "半導體",
+          "change": -0.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "平 整理",
+          "note": "美股週四大反彈（道瓊+875創新高51,561）！但科技股弱（Nasdaq -0.09%）。投資人從科技輪動至金融/傳產。Israel-Lebanon停火。油價回落",
+          "nav": null,
+          "pb": 12.5,
+          "premium": null,
+          "pe": 37,
+          "quarterLine": 20.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "期貨+0.7%。道瓊創新高帶動多頭信心",
+          "nav": 228,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩升",
+          "note": "板塊輪動有利高息標的",
+          "nav": 45,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩升",
+          "note": "金融/傳產輪動受惠",
+          "nav": 26.5,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 穩升",
+          "note": "月配息+輪動",
+          "nav": 29,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 穩升",
+          "note": "價值型在輪動中受惠",
+          "nav": 10.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 反彈",
+          "note": "同0050",
+          "nav": 117,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 弱勢",
+          "note": "科技輪動壓力，Nasdaq -0.09%",
+          "nav": 38,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 弱勢",
+          "note": "半導體短線輪動壓力",
+          "nav": 19.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 11.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨大盤",
+          "nav": 17,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動成長型",
+          "nav": 33.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 殖利率跌",
+          "note": "油價回落→殖利率下降→債券反彈",
+          "nav": null,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 反彈",
+          "note": "不配息複利型，跟隨大盤",
+          "nav": 64,
+          "pb": null,
+          "premium": 0,
+          "pe": 23.5,
+          "quarterLine": 8.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "平 整理",
+          "note": "科技弱但配息支撐",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 反彈",
+          "note": "期貨+0.7%"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 穩升",
+          "note": "輪動受惠"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 穩升",
+          "note": "金融輪動"
+        },
+        {
+          "name": "00929",
+          "trend": "平 整理",
+          "note": "科技弱"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 穩升",
+          "note": "月配息"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 反彈",
+          "note": "大盤"
+        }
+      ],
+      "institutional": {
+        "外資": 100,
+        "投信": 20,
+        "自營商": 15
+      },
+      "sentiment": {
+        "score": 58,
+        "label": "中性 — 道瓊新高但科技輪動+伊朗仍不穩。板塊輪動健康",
+        "history": [
+          68,
+          70,
+          72,
+          78,
+          62,
+          58,
+          58
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週四)",
+          "change": 1.73
+        },
+        {
+          "name": "S&P 500",
+          "change": 0.41
+        },
+        {
+          "name": "Nasdaq",
+          "change": -0.09
+        },
+        {
+          "name": "WTI原油",
+          "change": -2.5
+        },
+        {
+          "name": "BTC",
+          "change": -4.8
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.06
+        }
+      ],
+      "buffett_indicator": {
+        "value": 210,
+        "label": "極度高估"
+      },
+      "events": [
+        "道瓊+875創新高51,561！投資人從科技輪動至金融/傳產/小型股",
+        "Nasdaq -0.09%：科技股暫時失寵",
+        "Israel-Lebanon達成停火協議",
+        "油價回落（停火消息+輪動）",
+        "BTC暴跌至$61.6K（50%+從ATH）：$1.6B清算",
+        "Computex 2026最後一天（6/5）",
+        "台股期貨+0.7%至45,500"
+      ],
+      "summary": "道瓊+875創新高51,561！但科技股弱（Nasdaq -0.09%）。投資人從科技輪動至金融/傳產/小型股——這對高息ETF是好消息。Israel-Lebanon停火+油價回落。BTC持續暴跌至$61.6K。台股期貨+0.7%預期反彈。建議：板塊輪動是健康現象，高息ETF受惠。半導體短線弱勢但中長期不變。持有不動。",
+      "searched": []
+    },
+    "ai": [
+      {
+        "title": "Computex 2026最後一天（6/5）：PC產業格局已被重塑",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "RTX Spark+Arc G3改變了一切。"
+      },
+      {
+        "title": "Nvidia RTX Spark追求$2000億CPU市場：威脅48年x86霸權",
+        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "source": "TechCrunch",
+        "desc": "1 petaflop Agent PC。"
+      },
+      {
+        "title": "道瓊+875：投資人從AI科技輪動至價值股",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "銀行/小型股/傳產領漲，AI股暫歇。"
+      },
+      {
+        "title": "Intel Computex反擊：x86相容性+DRM仍是優勢",
+        "url": "https://newsroom.intel.com/artificial-intelligence/computex-2026-an-intelligent-world-built-on-silicon",
+        "source": "Intel",
+        "desc": "CEO Lip-Bu Tan的防禦策略。"
+      },
+      {
+        "title": "全球AI投資輪動：從純AI到AI基礎設施（能源/光子/製造）",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價跌+殖利率跌利好AI營運成本。"
+      },
+      {
+        "title": "Israel-Lebanon停火：中東局勢部分緩解",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-stock-markets-sense-a-shift.html",
+        "source": "CNBC",
+        "desc": "但美伊仍不穩定。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Computex 2026完整回顧",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "所有公告匯總。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Computex 2026最後一天：遊戲硬體總結",
+        "url": "https://www.pcmag.com/news/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+        "source": "PCMag",
+        "desc": "RTX Spark筆電+Arc G3掌機+Cherry 8K。"
+      },
+      {
+        "title": "Intel Arc G3/G3 Extreme掌機：MSI Claw 8+Acer Predator",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "專為掌機設計的遊戲晶片。"
+      },
+      {
+        "title": "RTX Spark筆電遊戲實測：RTX 5070級效能",
+        "url": "https://www.tomsguide.com/news/live/computex-2026-live",
+        "source": "Tom's Guide",
+        "desc": "MSI首批裝置實機。"
+      },
+      {
+        "title": "GTA 6確認11/19：零生成式AI",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "$10-15億。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "道瓊+875創新高51,561：投資人大輪動離開科技",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "金融/小型股/傳產領漲。Nasdaq -0.09%。"
+      },
+      {
+        "title": "Israel-Lebanon達成停火：中東局勢部分緩解",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-stock-markets-sense-a-shift.html",
+        "source": "CNBC",
+        "desc": "油價回落但美伊仍不穩。"
+      },
+      {
+        "title": "BTC暴跌至$61.6K（-50%從ATH）：$1.6B清算",
+        "url": "https://crypto.news/bitcoin-price-slides-below-63k-as-iran-tensions-shake-crypto-markets/",
+        "source": "Crypto News",
+        "desc": "史上最大ETF流出+Strategy出售+伊朗。"
+      },
+      {
+        "title": "Computex 2026最後一天：6/5展場最後開放",
+        "url": "https://www.pcmag.com/news/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+        "source": "PCMag",
+        "desc": "下午3:30閉幕。"
+      },
+      {
+        "title": "油價回落+殖利率下降：通膨壓力暫時緩解",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "停火消息推動。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "⚠️ BTC暴跌至$61.6K！50%+從$126K ATH，$1.6B單日清算",
+        "url": "https://crypto.news/bitcoin-price-slides-below-63k-as-iran-tensions-shake-crypto-markets/",
+        "source": "Crypto News",
+        "desc": "伊朗攻擊+Strategy出售+ETF流出三重打擊。"
+      },
+      {
+        "title": "BTC跌破$62K：三天拋售抹去數月漲幅",
+        "url": "https://bitcoin.einnews.com/article/917359015/aG5NsBzCMMaoiLpu",
+        "source": "EIN News",
+        "desc": "槓桿達到10月崩盤前水準。"
+      },
+      {
+        "title": "伊朗攻擊科威特+巴林：加密市場$700M-$1B地緣政治沖洗",
+        "url": "https://www.ainvest.com/news/iran-strikes-kuwait-bahrain-crypto-loses-700m-1b-geopolitical-flush-2606/",
+        "source": "AInvest",
+        "desc": "強制平倉比導彈更重要。"
+      },
+      {
+        "title": "Bloomberg：BTC跌至伊朗衝突前低點",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends",
+        "source": "Bloomberg",
+        "desc": "抹去整個伊朗衝突期間漲幅。"
+      },
+      {
+        "title": "99Bitcoins：BTC觸及$61K，日清算$1.63B（84%多頭）",
+        "url": "https://99bitcoins.com/?p=348537",
+        "source": "99Bitcoins",
+        "desc": "6月持續看空趨勢。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Computex 2026開發者總結：RTX Spark+Arc G3+新平台",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "開發者新選擇。"
+      },
+      {
+        "title": "RTX Spark SDK：1 petaflop Agent PC開發平台",
+        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "source": "TechCrunch",
+        "desc": "本地AI Agent開發。"
+      },
+      {
+        "title": "Intel x86 vs ARM：開發者相容性考量",
+        "url": "https://www.tomshardware.com/news/live/computex-2026-",
+        "source": "Tom's Hardware",
+        "desc": "DRM+軟體生態。"
+      },
+      {
+        "title": "BTC $400B市值蒸發：DeFi清算機制的技術教訓",
+        "url": "https://crypto.news/bitcoin-price-slides-below-63k-as-iran-tensions-shake-crypto-markets/",
+        "source": "Crypto News",
+        "desc": "槓桿風險管理。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Computex 2026展場設計總結",
+        "url": "https://www.pcmag.com/news/computex-2026-live-dont-miss-a-reveal-from-nvidia-microsoft-intel-more",
+        "source": "PCMag",
+        "desc": "最後一天。"
+      },
+      {
+        "title": "RTX Spark筆電工業設計",
+        "url": "https://www.tomsguide.com/news/live/computex-2026-live",
+        "source": "Tom's Guide",
+        "desc": "Dell/MSI實機。"
+      }
+    ],
+    "design": [
+      {
+        "title": "板塊輪動的投資設計：從成長到價值",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "金融/傳產接棒。"
+      },
+      {
+        "title": "Computex硬體設計趨勢總結",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "ARM筆電+掌機。"
+      }
+    ],
+    "business": [
+      {
+        "title": "道瓊+875創新高51,561：板塊大輪動從科技到價值",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "銀行/小型股/傳產領漲。"
+      },
+      {
+        "title": "Israel-Lebanon停火：中東局勢部分緩解",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-stock-markets-sense-a-shift.html",
+        "source": "CNBC",
+        "desc": "但美伊仍不穩。"
+      },
+      {
+        "title": "BTC市值蒸發$400B+：加密產業面臨信心危機",
+        "url": "https://crypto.news/bitcoin-price-slides-below-63k-as-iran-tensions-shake-crypto-markets/",
+        "source": "Crypto News",
+        "desc": "ETF連續流出+Strategy出售。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "道瓊+875創新高51,561！板塊輪動：金融/傳產/小型股領漲",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Nasdaq -0.09%科技暫歇。"
+      },
+      {
+        "title": "BTC暴跌至$61.6K：50%+從ATH，$400B市值蒸發",
+        "url": "https://crypto.news/bitcoin-price-slides-below-63k-as-iran-tensions-shake-crypto-markets/",
+        "source": "Crypto News",
+        "desc": "伊朗+Strategy+ETF三重打擊。"
+      },
+      {
+        "title": "Israel-Lebanon停火+油價回落+殖利率下降",
+        "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-stock-markets-sense-a-shift.html",
+        "source": "CNBC",
+        "desc": "通膨壓力部分緩解。"
+      },
+      {
+        "title": "台股期貨+0.7%至45,500：道瓊新高+輪動有利高息",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "預期反彈。"
+      },
+      {
+        "title": "Computex最後一天：PC產業格局已定，等待秋季上市",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "RTX Spark秋季。"
+      },
+      {
+        "title": "伊朗攻擊科威特+巴林：中東局勢仍不穩定",
+        "url": "https://www.ainvest.com/news/iran-strikes-kuwait-bahrain-crypto-loses-700m-1b-geopolitical-flush-2606/",
+        "source": "AInvest",
+        "desc": "停火部分+衝突持續。"
+      }
+    ],
+    "summaries": {
+      "ai": "Computex最後一天。Nvidia $2000億CPU。道瓊+875輪動。Intel防禦。AI投資輪動至基礎設施。Israel-Lebanon停火。",
+      "gaming": "🎮Computex總結：RTX Spark筆電+Arc G3掌機+Cherry 8K。GTA 6 11/19。FH6 Season 1。",
+      "tech": "道瓊+875新高（輪動）！Israel-Lebanon停火。BTC $61.6K。Computex最後天。油價回落。",
+      "crypto": "⚠️⚠️BTC $61.6K（-50%從ATH）！$1.6B清算。伊朗攻擊。$400B市值蒸發。ETF連續流出。",
+      "dev": "Computex開發者總結。RTX Spark SDK。Intel x86。BTC清算機制教訓。",
+      "finance": "道瓊+875新高51,561！板塊輪動。BTC $61.6K。Israel停火。油價跌。台股+0.7%。Computex收官。",
+      "art": "Computex展場總結、RTX Spark設計。",
+      "design": "板塊輪動投資設計、Computex硬體趨勢。",
+      "business": "道瓊輪動新高。Israel停火。BTC $400B蒸發。"
+    }
+  }
+}
