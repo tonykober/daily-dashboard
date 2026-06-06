@@ -1,0 +1,270 @@
+{
+  "date": "2026-06-06",
+  "categories": {
+    "ai": [
+      {
+        "title": "Jensen Huang Computex 2026 Keynote完整回顧：Nvidia要成為每個AI企業的基礎設施層",
+        "url": "https://greyjournal.net/hustle/grow/jensen-huang-computex-2026-founders/",
+        "source": "Grey Journal",
+        "desc": "$215.9B營收。改變你建設AI的成本和方式。本地AI成為真正選項。"
+      },
+      {
+        "title": "RTX Spark完整規格：Blackwell GPU+Grace CPU 20核+128GB統一記憶體+1 petaflop",
+        "url": "https://www.duckittech.com/news/computex-2026-update-local-ai-pcs-gaming-handhelds-and-next-generation-hardware-take-over-taipei",
+        "source": "Duck-IT Tech",
+        "desc": "不只是更快，是AI Agent的本地執行平台。"
+      },
+      {
+        "title": "DLSS 4.5 Ray Reconstruction公布+1000+ RTX遊戲/應用",
+        "url": "https://www.nvidia.com/en-in/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/",
+        "source": "Nvidia",
+        "desc": "Computex遊戲技術更新。"
+      },
+      {
+        "title": "RTX Spark定價曝光：N1 $2000-2500、N1X $2500-2900",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "高端定位，不便宜。"
+      },
+      {
+        "title": "美股週五暴跌（worst since 10月）：就業數據太強→Fed升息預期",
+        "url": "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/",
+        "source": "Reuters",
+        "desc": "Nasdaq暴跌，科技股全面賣壓。"
+      },
+      {
+        "title": "Computex 2026最佳筆電回顧：RTX Spark+AI主導",
+        "url": "https://www.pcmag.com/news/the-best-laptops-of-computex-2026",
+        "source": "PCMag",
+        "desc": "Dell XPS 13、MSI van Gogh Edition等。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Nvidia Computex 2026 GeForce公告匯總",
+        "url": "https://www.nvidia.com/en-in/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/",
+        "source": "Nvidia",
+        "desc": "RTX Spark+DLSS 4.5。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "RTX Spark遊戲實測：RTX 5070筆電級效能+DLSS 4.5",
+        "url": "https://www.digitalfoundry.net/news/2026/06/nvidia-reveals-rtx-spark-n1n1x-superchip-at-computex-with-gaming-performance-equivalent-to-rtx-5070-laptop",
+        "source": "Digital Foundry",
+        "desc": "FH6和007 First Light在keynote展示。"
+      },
+      {
+        "title": "Nvidia Computex展示RTX Spark跑Forza Horizon 6和007 First Light",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
+        "source": "Forbes",
+        "desc": "筆電+Mac Mini大小桌機。"
+      },
+      {
+        "title": "DLSS 4.5 Ray Reconstruction：1000+ RTX遊戲支援",
+        "url": "https://www.gamingonlinux.com/2026/06/nvidia-rtx-spark-superchip-and-dlss-4-5-ray-reconstruction-announced/",
+        "source": "Gaming on Linux",
+        "desc": "光追品質再升級。"
+      },
+      {
+        "title": "Intel Arc G3掌機+AMD EXPO ULL+ROG Edition 20",
+        "url": "https://www.duckittech.com/news/computex-2026-update-local-ai-pcs-gaming-handhelds-and-next-generation-hardware-take-over-taipei",
+        "source": "Duck-IT Tech",
+        "desc": "Computex遊戲硬體總結。"
+      },
+      {
+        "title": "IGN：Nvidia宣稱「重新發明PC」",
+        "url": "https://www.ign.com/articles/nvidia-announces-the-rtx-spark-claims-to-reinvent-the-pc",
+        "source": "IGN",
+        "desc": "所有主流筆電廠商參與。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "⚠️ 美股週五暴跌！就業172K（翻倍預期）→Fed升息完全定價",
+        "url": "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/",
+        "source": "Reuters",
+        "desc": "worst day since 10月。Nasdaq暴跌。"
+      },
+      {
+        "title": "Nasdaq暴跌+晶片股全面賣壓：Coinbase -7%、Strategy -6.9%",
+        "url": "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/",
+        "source": "Reuters",
+        "desc": "科技輪動+升息恐慌。"
+      },
+      {
+        "title": "RTX Spark定價$2000-2900：高端但改變PC格局",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "秋季上市。"
+      },
+      {
+        "title": "Computex 2026完整回顧：RTX Spark+Arc G3+DLSS 4.5",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "PC產業格局已被重塑。"
+      },
+      {
+        "title": "就業數據172K翻倍預期：Fed年內升息一碼完全定價",
+        "url": "https://www.fool.com/investing/2026/06/05/market-indexes-tumble-at-midday-as-treasury-yields/",
+        "source": "Motley Fool",
+        "desc": "失業率4.3%。經濟太強→升息。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "⚠️⚠️⚠️ BTC暴跌至$59.7K！週跌18%（FTX以來最大）",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "ETH -12%至$1,559。就業數據→升息→風險崩跌。"
+      },
+      {
+        "title": "BTC跌破$60K：$400B+市值蒸發，FTX級週跌幅",
+        "url": "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/",
+        "source": "Reuters",
+        "desc": "Coinbase -7%、Strategy -6.9%。"
+      },
+      {
+        "title": "就業數據172K→Fed升息定價：加密市場崩潰",
+        "url": "https://www.fool.com/investing/2026/06/05/market-indexes-tumble-at-midday-as-treasury-yields/",
+        "source": "Motley Fool",
+        "desc": "從$126K跌超52%。"
+      },
+      {
+        "title": "BTC $59.7K：週跌18%為FTX崩盤以來最大",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "ETH同步暴跌。"
+      },
+      {
+        "title": "加密市場恐慌：升息+伊朗+Strategy出售+ETF連續流出",
+        "url": "https://yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-jobs-report-fuels-fed-hike-bets-chip-stocks-sell-off-230134285.html",
+        "source": "Yahoo Finance",
+        "desc": "多重利空同時襲來。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "RTX Spark開發者平台：CUDA+RTX+DLSS+TensorRT+OptiX+Reflex+G-SYNC整合",
+        "url": "https://www.nvidia.com/en-in/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/",
+        "source": "Nvidia",
+        "desc": "30年技術整合在一個SoC。"
+      },
+      {
+        "title": "RTX Spark=AI Agent本地執行平台：改變雲端依賴",
+        "url": "https://the-gadgeteer.com/2026/06/01/nvidia-rtx-spark-ai-pc/",
+        "source": "The Gadgeteer",
+        "desc": "「完成工作而非描述工作」的AI PC。"
+      },
+      {
+        "title": "DLSS 4.5 Ray Reconstruction：遊戲開發者工具更新",
+        "url": "https://www.gamingonlinux.com/2026/06/nvidia-rtx-spark-superchip-and-dlss-4-5-ray-reconstruction-announced/",
+        "source": "Gaming on Linux",
+        "desc": "光追品質提升。"
+      },
+      {
+        "title": "Fed升息預期對科技新創的影響：融資成本上升",
+        "url": "https://www.fool.com/investing/2026/06/05/market-indexes-tumble-at-midday-as-treasury-yields/",
+        "source": "Motley Fool",
+        "desc": "就業太強→利率上升→估值壓力。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Computex 2026最佳筆電設計：Dell XPS 13+MSI van Gogh Edition",
+        "url": "https://www.pcmag.com/news/the-best-laptops-of-computex-2026",
+        "source": "PCMag",
+        "desc": "RTX Spark+AI主導。"
+      },
+      {
+        "title": "RTX Spark Mac Mini大小桌機設計",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
+        "source": "Forbes",
+        "desc": "小型化AI桌機。"
+      }
+    ],
+    "design": [
+      {
+        "title": "RTX Spark完整架構：Blackwell+Grace+128GB統一記憶體",
+        "url": "https://www.duckittech.com/news/computex-2026-update-local-ai-pcs-gaming-handhelds-and-next-generation-hardware-take-over-taipei",
+        "source": "Duck-IT Tech",
+        "desc": "SoC設計哲學。"
+      },
+      {
+        "title": "DLSS 4.5光追重建技術設計",
+        "url": "https://www.nvidia.com/en-in/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/",
+        "source": "Nvidia",
+        "desc": "AI驅動的渲染管線。"
+      }
+    ],
+    "business": [
+      {
+        "title": "⚠️ 美股worst day since 10月！就業172K翻倍→Fed升息定價",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/05/stocks-slip-on-wall-street-big-tech-falls/",
+        "source": "BNN Bloomberg",
+        "desc": "Big Tech重挫。科技輪動加劇。"
+      },
+      {
+        "title": "RTX Spark定價$2000-2900：高端AI PC市場成形",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "Nvidia進入$2000億PC市場。"
+      },
+      {
+        "title": "BTC週跌18%（FTX級）：加密產業面臨升息+地緣雙重危機",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "從$126K跌超52%。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "⚠️ 美股週五暴跌！就業172K翻倍→年內升息完全定價",
+        "url": "https://yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-jobs-report-fuels-fed-hike-bets-chip-stocks-sell-off-230134285.html",
+        "source": "Yahoo Finance",
+        "desc": "Nasdaq暴跌。晶片股全面賣壓。worst since 10月。"
+      },
+      {
+        "title": "BTC $59.7K！週跌18%（FTX以來最大）、ETH $1,559（-12%）",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "從$126K跌超52%。"
+      },
+      {
+        "title": "就業172K（翻倍預期）：失業率4.3%，經濟太強→升息",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "Fed年內升息一碼完全定價。"
+      },
+      {
+        "title": "油價週漲（伊朗不穩）：能源通膨壓力持續",
+        "url": "https://yahoo.com/markets/stocks/articles/stocks-drop-ai-rally-pauses-013941709.html",
+        "source": "Yahoo Finance",
+        "desc": "中東風險未解。"
+      },
+      {
+        "title": "科技→價值輪動加劇：週五晶片股全面暴跌",
+        "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-drop-up-to-1-as-investors-rotate-out-of-chip-stocks-11780659075369.html",
+        "source": "LiveMint",
+        "desc": "投資人撤離AI/半導體。"
+      },
+      {
+        "title": "下週關注：Fed反應+伊朗局勢+BTC是否觸底",
+        "url": "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/",
+        "source": "Reuters",
+        "desc": "市場重新定價中。"
+      }
+    ],
+    "summaries": {
+      "ai": "Computex完整回顧：RTX Spark（$2000-2900）+DLSS 4.5。但美股暴跌（worst since 10月）！就業太強→升息。Nvidia要當AI基礎設施層。",
+      "gaming": "🎮RTX Spark跑FH6+007 First Light。DLSS 4.5+1000遊戲。Digital Foundry：RTX 5070級。Arc G3。",
+      "tech": "⚠️美股暴跌！就業172K翻倍→Fed升息。Nasdaq暴跌+晶片全面賣壓。RTX Spark $2000-2900。Computex回顧。",
+      "crypto": "⚠️⚠️⚠️BTC $59.7K！週跌18%（FTX級）！ETH $1,559（-12%）。升息+伊朗+Strategy。從$126K跌52%。",
+      "dev": "RTX Spark=30年技術整合SoC。DLSS 4.5。AI Agent本地平台。升息影響新創融資。",
+      "finance": "⚠️美股worst since 10月！就業172K→升息。BTC $59.7K（-18%週跌）。油價週漲。科技輪動暴跌。下週Fed關鍵。",
+      "art": "Computex最佳筆電、RTX Spark桌機設計。",
+      "design": "RTX Spark架構、DLSS 4.5光追。",
+      "business": "美股暴跌。RTX Spark $2000-2900。BTC FTX級週跌。"
+    }
+  }
+}
