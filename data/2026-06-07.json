@@ -1,0 +1,270 @@
+{
+  "date": "2026-06-07",
+  "categories": {
+    "ai": [
+      {
+        "title": "$2兆市值蒸發！週五晶片股暴跌，AI投資面臨升息壓力",
+        "url": "https://www.financialexpress.com/market/global-markets-why-did-the-us-stock-market-crash-today-2-trillion-wiped-out-after-strong-job-datanbspnbsp-4260617/",
+        "source": "Financial Express",
+        "desc": "就業172K→Fed升息→科技估值全面承壓。"
+      },
+      {
+        "title": "RTX Spark定價$2000-2900：Computex回顧中的高端AI PC",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "秋季上市。1 petaflop本地AI。"
+      },
+      {
+        "title": "Jensen Huang Computex回顧：Nvidia要成為每個AI企業的基礎設施層",
+        "url": "https://greyjournal.net/hustle/grow/jensen-huang-computex-2026-founders/",
+        "source": "Grey Journal",
+        "desc": "$215.9B營收。改變建設AI的方式。"
+      },
+      {
+        "title": "Seeking Alpha：六月股市可能崩盤（SPY分析）",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june",
+        "source": "Seeking Alpha",
+        "desc": "伊朗戰爭通膨衝擊+Fed六月官方鷹派轉向可能戳破泡沫。"
+      },
+      {
+        "title": "Fed升息完全定價：降息希望已被就業數據徹底摧毀",
+        "url": "https://coinedition.com/blowout-jobs-report-shakes-rate-cut-expectations-btc-crashes-below-60k/",
+        "source": "Coin Edition",
+        "desc": "12月前25bp升息。部分分析師預期2-3次。"
+      },
+      {
+        "title": "DLSS 4.5 Ray Reconstruction+1000+ RTX遊戲：技術持續進步但估值承壓",
+        "url": "https://www.nvidia.com/en-in/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/",
+        "source": "Nvidia",
+        "desc": "AI技術好但市場不買帳。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "CNN：市場拋售加速，投資人升息恐慌",
+        "url": "https://www.kxly.com/news/money/market-sell-off-accelerates-as-traders-raise-odds-for-fed-rate-hikes/article_82743497-8e57-5ad3-b5ae-1095a3098e83.html",
+        "source": "CNN/KXLY",
+        "desc": "股票+債券+BTC+黃金全跌。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "RTX Spark遊戲實測回顧：RTX 5070級筆電效能+DLSS 4.5",
+        "url": "https://www.digitalfoundry.net/news/2026/06/nvidia-reveals-rtx-spark-n1n1x-superchip-at-computex-with-gaming-performance-equivalent-to-rtx-5070-laptop",
+        "source": "Digital Foundry",
+        "desc": "FH6+007展示。"
+      },
+      {
+        "title": "Computex 2026遊戲硬體總結：RTX Spark+Arc G3+DLSS 4.5",
+        "url": "https://www.duckittech.com/news/computex-2026-update-local-ai-pcs-gaming-handhelds-and-next-generation-hardware-take-over-taipei",
+        "source": "Duck-IT Tech",
+        "desc": "掌機+筆電+桌機全面更新。"
+      },
+      {
+        "title": "IGN：Nvidia宣稱「重新發明PC」— 遊戲體驗革命",
+        "url": "https://www.ign.com/articles/nvidia-announces-the-rtx-spark-claims-to-reinvent-the-pc",
+        "source": "IGN",
+        "desc": "所有主流廠商參與。"
+      },
+      {
+        "title": "GTA 6確認11/19：零生成式AI，$10-15億開發",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "史上最貴。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "$2兆蒸發！美股worst since 10月，就業172K→升息定價",
+        "url": "https://www.financialexpress.com/market/global-markets-why-did-the-us-stock-market-crash-today-2-trillion-wiped-out-after-strong-job-datanbspnbsp-4260617/",
+        "source": "Financial Express",
+        "desc": "Nasdaq暴跌+晶片全面賣壓。"
+      },
+      {
+        "title": "CNN：全面拋售 — 股票+債券+BTC+黃金同時下跌",
+        "url": "https://www.kxly.com/news/money/market-sell-off-accelerates-as-traders-raise-odds-for-fed-rate-hikes/article_82743497-8e57-5ad3-b5ae-1095a3098e83.html",
+        "source": "CNN",
+        "desc": "幾乎無避風港。"
+      },
+      {
+        "title": "伊朗戰爭+軍事衝突持續：Brent接近$100→通膨壓力",
+        "url": "https://www.thearmchairtrader.com/global-economic-news/market-outlook-central-bank-interest-rate-decisions-loom/",
+        "source": "Armchair Trader",
+        "desc": "美伊雙方軍事打擊。"
+      },
+      {
+        "title": "下週全球央行利率決議密集",
+        "url": "https://www.thearmchairtrader.com/global-economic-news/market-outlook-central-bank-interest-rate-decisions-loom/",
+        "source": "Armchair Trader",
+        "desc": "Fed六月會議為焦點。"
+      },
+      {
+        "title": "Seeking Alpha：Fed六月官方鷹派轉向可能戳破泡沫",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june",
+        "source": "Seeking Alpha",
+        "desc": "伊朗通膨衝擊+升息=崩盤風險。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "⚠️ BTC $59.5K：週跌18%為FTX崩盤以來最大！$1.88B清算",
+        "url": "https://www.kucoin.com/news/flash/strong-us-jobs-report-shakes-rate-cut-outlook-bitcoin-falls-below-60k",
+        "source": "KuCoin",
+        "desc": "就業172K→升息→風險崩跌。"
+      },
+      {
+        "title": "Fed升息預期改變一切：12月前25bp，部分預期2-3次",
+        "url": "https://coinedition.com/blowout-jobs-report-shakes-rate-cut-expectations-btc-crashes-below-60k/",
+        "source": "Coin Edition",
+        "desc": "降息希望徹底摧毀。"
+      },
+      {
+        "title": "BTC從$126K跌超52%：加密市場面臨存亡危機",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "ETH -12%至$1,559。Coinbase -7%。"
+      },
+      {
+        "title": "全面拋售：股票+債券+BTC+黃金同時下跌",
+        "url": "https://www.kxly.com/news/money/market-sell-off-accelerates-as-traders-raise-odds-for-fed-rate-hikes/article_82743497-8e57-5ad3-b5ae-1095a3098e83.html",
+        "source": "CNN",
+        "desc": "無避風港。"
+      },
+      {
+        "title": "下週Fed六月會議：官方鷹派轉向可能進一步打壓加密",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june",
+        "source": "Seeking Alpha",
+        "desc": "升息確認=BTC更低。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "RTX Spark開發者平台回顧：CUDA+RTX+DLSS+TensorRT整合SoC",
+        "url": "https://www.nvidia.com/en-in/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/",
+        "source": "Nvidia",
+        "desc": "30年技術整合。秋季SDK。"
+      },
+      {
+        "title": "Fed升息對科技新創影響：融資成本上升+估值壓力",
+        "url": "https://www.fool.com/investing/2026/06/05/market-indexes-tumble-at-midday-as-treasury-yields/",
+        "source": "Motley Fool",
+        "desc": "就業太強→利率高→VC緊縮。"
+      },
+      {
+        "title": "DLSS 4.5開發者工具：光追品質提升",
+        "url": "https://www.gamingonlinux.com/2026/06/nvidia-rtx-spark-superchip-and-dlss-4-5-ray-reconstruction-announced/",
+        "source": "Gaming on Linux",
+        "desc": "遊戲開發者。"
+      },
+      {
+        "title": "Computex開發者總結：RTX Spark+Arc G3+新平台SDK",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "秋季上市前準備。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Computex 2026最佳筆電設計回顧",
+        "url": "https://www.pcmag.com/news/the-best-laptops-of-computex-2026",
+        "source": "PCMag",
+        "desc": "Dell XPS 13+MSI van Gogh。"
+      },
+      {
+        "title": "RTX Spark Mac Mini桌機設計",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
+        "source": "Forbes",
+        "desc": "小型化AI桌機美學。"
+      }
+    ],
+    "design": [
+      {
+        "title": "RTX Spark SoC架構設計哲學",
+        "url": "https://www.duckittech.com/news/computex-2026-update-local-ai-pcs-gaming-handhelds-and-next-generation-hardware-take-over-taipei",
+        "source": "Duck-IT Tech",
+        "desc": "Blackwell+Grace+128GB。"
+      },
+      {
+        "title": "Intel Arc G3掌機晶片設計",
+        "url": "https://www.theverge.com/tech/940844/computex-2026",
+        "source": "The Verge",
+        "desc": "專為手持裝置。"
+      }
+    ],
+    "business": [
+      {
+        "title": "$2兆市值蒸發！美股worst since 10月，科技泡沫警告升級",
+        "url": "https://www.financialexpress.com/market/global-markets-why-did-the-us-stock-market-crash-today-2-trillion-wiped-out-after-strong-job-datanbspnbsp-4260617/",
+        "source": "Financial Express",
+        "desc": "就業太強→升息→估值重估。"
+      },
+      {
+        "title": "下週央行決議密集：Fed六月會議為全球市場關鍵",
+        "url": "https://www.thearmchairtrader.com/global-economic-news/market-outlook-central-bank-interest-rate-decisions-loom/",
+        "source": "Armchair Trader",
+        "desc": "鷹派轉向風險。"
+      },
+      {
+        "title": "伊朗戰爭+油價反彈+升息：三重壓力下的企業獲利前景",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june",
+        "source": "Seeking Alpha",
+        "desc": "六月崩盤風險。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "$2兆蒸發+全面拋售：股票/債券/BTC/黃金同時下跌",
+        "url": "https://www.kxly.com/news/money/market-sell-off-accelerates-as-traders-raise-odds-for-fed-rate-hikes/article_82743497-8e57-5ad3-b5ae-1095a3098e83.html",
+        "source": "CNN",
+        "desc": "幾乎無避風港。worst since 10月。"
+      },
+      {
+        "title": "就業172K翻倍→Fed 12月前升息25bp完全定價",
+        "url": "https://coinedition.com/blowout-jobs-report-shakes-rate-cut-expectations-btc-crashes-below-60k/",
+        "source": "Coin Edition",
+        "desc": "部分預期2-3次。降息希望已死。"
+      },
+      {
+        "title": "BTC $59.5K（週跌18% FTX級）：加密市場崩潰",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "從$126K跌超52%。$1.88B清算。"
+      },
+      {
+        "title": "油價週漲（伊朗軍事衝突持續）：Brent接近$100",
+        "url": "https://www.thearmchairtrader.com/global-economic-news/market-outlook-central-bank-interest-rate-decisions-loom/",
+        "source": "Armchair Trader",
+        "desc": "通膨壓力不減。"
+      },
+      {
+        "title": "下週關鍵：Fed六月會議+伊朗局勢+台股開低預期",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june",
+        "source": "Seeking Alpha",
+        "desc": "六月崩盤風險。鷹派轉向。"
+      },
+      {
+        "title": "Seeking Alpha警告：Fed鷹派轉向+伊朗通膨=六月崩盤",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june",
+        "source": "Seeking Alpha",
+        "desc": "SPY分析文章引發關注。"
+      }
+    ],
+    "summaries": {
+      "ai": "$2兆蒸發！AI投資面臨升息壓力。RTX Spark $2000-2900。Seeking Alpha：六月崩盤風險。DLSS 4.5。",
+      "gaming": "RTX Spark遊戲回顧（RTX 5070級）。DLSS 4.5。Arc G3。GTA 6。FH6 Season 1。",
+      "tech": "⚠️$2兆蒸發！全面拋售（股+債+BTC+金）。升息定價。伊朗持續。下週央行決議。六月崩盤風險。",
+      "crypto": "⚠️⚠️⚠️BTC $59.5K（-18%週跌FTX級）！升息定價。全面拋售。下週Fed可能更慘。從$126K跌52%。",
+      "dev": "RTX Spark SDK回顧。升息對新創影響。DLSS 4.5。Computex總結。",
+      "finance": "⚠️$2兆蒸發+全面拋售！就業172K→升息。BTC $59.5K。油價漲。下週Fed六月會議關鍵。六月崩盤警告。",
+      "art": "Computex筆電、RTX Spark桌機。",
+      "design": "RTX Spark SoC、Arc G3。",
+      "business": "$2兆蒸發。下週央行。伊朗+升息+油價三重壓力。"
+    }
+  }
+}
