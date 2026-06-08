@@ -1,17 +1,271 @@
 {
   "date": "2026-06-08",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "AI泡沫恐慌！$2兆蒸發後亞洲科技股崩跌",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-markets-brace-selling-tech-234406406.html",
+        "source": "Yahoo Finance",
+        "desc": "AI九週連漲終結。升息+地緣政治+估值過高三重打擊。"
+      },
+      {
+        "title": "Nasdaq暴跌1100點（-3.6%）：AI/晶片股最大跌幅",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms",
+        "source": "Economic Times",
+        "desc": "就業172K→升息→AI估值全面承壓。"
+      },
+      {
+        "title": "AI投資面臨升息壓力：融資成本上升衝擊擴張計畫",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Fed 12月升息定價80%+。"
+      },
+      {
+        "title": "RTX Spark秋季上市可能面臨市場環境惡化",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "$2000-2900定價在經濟放緩中更具挑戰。"
+      },
+      {
+        "title": "Broadcom前景令人失望：AI需求確認但估值過高",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
+        "source": "Yahoo Finance",
+        "desc": "週四財報後拖累晶片股。"
+      },
+      {
+        "title": "Seeking Alpha：Fed六月鷹派轉向可能戳破AI泡沫",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june",
+        "source": "Seeking Alpha",
+        "desc": "伊朗通膨+升息=崩盤風險。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "遊戲股跟隨科技暴跌：GPU/晶片板塊全面賣壓",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms",
+        "source": "Economic Times",
+        "desc": "Nvidia/AMD/Intel全面下跌。"
+      },
+      {
+        "title": "RTX Spark $2000-2900定價在經濟惡化中更具挑戰",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "高端AI PC需求可能減弱。"
+      },
+      {
+        "title": "GTA 6 11/19面臨消費者支出壓力環境",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "$10-15億能否回本？"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      },
+      {
+        "title": "遊戲硬體市場：升息環境下消費者可能延遲升級",
+        "url": "https://www.financialexpress.com/market/global-markets-why-did-the-us-stock-market-crash-today-2-trillion-wiped-out-after-strong-job-datanbspnbsp-4260617/",
+        "source": "Financial Express",
+        "desc": "經濟壓力影響。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🚨 亞洲崩跌！韓國-8.4%、日經-3.4%、台股期貨-3.8%",
+        "url": "https://www.livemint.com/market/asia-markets-tumble-as-tech-rout-deepens-11780878255056.html",
+        "source": "LiveMint",
+        "desc": "AI拋售+以色列/伊朗升級。"
+      },
+      {
+        "title": "以色列攻擊貝魯特！伊朗報復威脅→停火可能崩潰",
+        "url": "https://axios.com/2026/06/07/israel-strikes-lebanon-beirut-iran-response-trump",
+        "source": "Axios",
+        "desc": "美國「支持以色列自衛」但伊朗威脅反擊。"
+      },
+      {
+        "title": "伊朗向以色列發射飛彈！中東全面升級",
+        "url": "https://www.straitstimes.com/business/companies-markets/asia-markets-tumble-as-tech-rout-deepens-iran-attacks-israel",
+        "source": "Straits Times",
+        "desc": "停火協議瀕臨破裂。油價暴漲。"
+      },
+      {
+        "title": "美股期貨週日下跌：新攻擊威脅停火",
+        "url": "https://www.morningstar.com/news/marketwatch/2026060725/us-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran",
+        "source": "Morningstar",
+        "desc": "油價飆升+美元走強。"
+      },
+      {
+        "title": "Trump稱Netanyahu「沒有選擇」必須接受美伊協議",
+        "url": "https://www.timesofisrael.com/liveblog-june-7-2026/",
+        "source": "Times of Israel",
+        "desc": "「我說了算」。地緣博弈加劇。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "⚠️ BTC $59.5K：週跌18%為FTX以來最大！ETH $1,559（-12%）",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "全面拋售中加密最慘。"
+      },
+      {
+        "title": "Coinbase -7%、Strategy -6.9%：加密股跟隨崩跌",
+        "url": "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/",
+        "source": "Reuters",
+        "desc": "從$126K跌超52%。"
+      },
+      {
+        "title": "伊朗攻擊以色列→油價飆升→通膨惡化→升息確認→加密崩跌",
+        "url": "https://www.straitstimes.com/business/companies-markets/asia-markets-tumble-as-tech-rout-deepens-iran-attacks-israel",
+        "source": "Straits Times",
+        "desc": "連鎖反應。"
+      },
+      {
+        "title": "Fed升息完全定價：加密市場面臨更長冬天",
+        "url": "https://coinedition.com/blowout-jobs-report-shakes-rate-cut-expectations-btc-crashes-below-60k/",
+        "source": "Coin Edition",
+        "desc": "12月前升息。2027年可能再升。"
+      },
+      {
+        "title": "全面拋售無避風港：股票+債券+BTC+黃金同時下跌",
+        "url": "https://www.kxly.com/news/money/market-sell-off-accelerates-as-traders-raise-odds-for-fed-rate-hikes/article_82743497-8e57-5ad3-b5ae-1095a3098e83.html",
+        "source": "CNN",
+        "desc": "幾乎無處可藏。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "AI/科技新創面臨升息壓力：融資環境惡化",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Fed升息→VC緊縮→估值壓力。"
+      },
+      {
+        "title": "RTX Spark SDK秋季面臨市場環境挑戰",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "開發者硬體投資可能延遲。"
+      },
+      {
+        "title": "晶片股全面暴跌：開發者工具生態面臨不確定性",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms",
+        "source": "Economic Times",
+        "desc": "Nvidia/AMD/Intel/Broadcom全跌。"
+      },
+      {
+        "title": "地緣政治風險對全球供應鏈的影響",
+        "url": "https://axios.com/2026/06/07/israel-strikes-lebanon-beirut-iran-response-trump",
+        "source": "Axios",
+        "desc": "中東衝突可能影響晶片供應。"
+      }
+    ],
+    "art": [
+      {
+        "title": "全球市場恐慌的數據視覺化",
+        "url": "https://www.livemint.com/market/asia-markets-tumble-as-tech-rout-deepens-11780878255056.html",
+        "source": "LiveMint",
+        "desc": "亞洲地圖全紅。"
+      },
+      {
+        "title": "貝魯特空襲影像",
+        "url": "https://www.jpost.com/middle-east/article-898615",
+        "source": "JPost",
+        "desc": "以色列打擊真主黨。"
+      }
+    ],
+    "design": [
+      {
+        "title": "恐慌指標設計：VIX+Fear Index+市場寬度",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "量化恐慌。"
+      },
+      {
+        "title": "避險資產設計失效：全面拋售",
+        "url": "https://www.kxly.com/news/money/market-sell-off-accelerates-as-traders-raise-odds-for-fed-rate-hikes/article_82743497-8e57-5ad3-b5ae-1095a3098e83.html",
+        "source": "CNN",
+        "desc": "傳統避險無效。"
+      }
+    ],
+    "business": [
+      {
+        "title": "🚨 全球市場崩跌：$2兆蒸發+亞洲-3~8%+中東升級",
+        "url": "https://www.financialexpress.com/market/global-markets-why-did-the-us-stock-market-crash-today-2-trillion-wiped-out-after-strong-job-datanbspnbsp-4260617/",
+        "source": "Financial Express",
+        "desc": "2026年最大單日跌幅。"
+      },
+      {
+        "title": "以色列攻擊貝魯特→伊朗威脅報復：停火崩潰風險",
+        "url": "https://axios.com/2026/06/07/israel-strikes-lebanon-beirut-iran-response-trump",
+        "source": "Axios",
+        "desc": "美國支持以色列但擔憂升級。"
+      },
+      {
+        "title": "Fed升息定價改變全球資金流向",
+        "url": "https://coinedition.com/blowout-jobs-report-shakes-rate-cut-expectations-btc-crashes-below-60k/",
+        "source": "Coin Edition",
+        "desc": "新興市場+科技+加密全面承壓。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🚨 亞洲崩跌！韓國Kospi -8.4%、日經-3.4%、台股期貨-3.8%",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "以色列/伊朗升級+美股$2兆蒸發餘震。"
+      },
+      {
+        "title": "以色列攻擊貝魯特+伊朗發射飛彈：停火崩潰風險",
+        "url": "https://www.straitstimes.com/business/companies-markets/asia-markets-tumble-as-tech-rout-deepens-iran-attacks-israel",
+        "source": "Straits Times",
+        "desc": "油價飆升+美元走強。"
+      },
+      {
+        "title": "BTC $59.5K（週跌18% FTX級）+ETH $1,559（-12%）",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/",
+        "source": "Reuters",
+        "desc": "加密最慘。"
+      },
+      {
+        "title": "就業172K→Fed 12月升息定價80%+：降息希望已死",
+        "url": "https://sg.finance.yahoo.com/news/us-stock-futures-drop-tech-142433324.html",
+        "source": "Yahoo Finance",
+        "desc": "部分預期2-3次升息。"
+      },
+      {
+        "title": "美股期貨續跌：新攻擊+油價飆升+避險需求",
+        "url": "https://www.morningstar.com/news/marketwatch/2026060725/us-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran",
+        "source": "Morningstar",
+        "desc": "週一預期繼續下跌。"
+      },
+      {
+        "title": "全面拋售無避風港：股票+債券+BTC+黃金同時下跌",
+        "url": "https://www.kxly.com/news/money/market-sell-off-accelerates-as-traders-raise-odds-for-fed-rate-hikes/article_82743497-8e57-5ad3-b5ae-1095a3098e83.html",
+        "source": "CNN",
+        "desc": "幾乎無處可藏。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "亞洲市場崩跌直播：韓國-8.4%、日經-3.4%",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "科技拋售即時追蹤。"
+      }
+    ],
+    "summaries": {
+      "ai": "AI泡沫恐慌！$2兆蒸發。Nasdaq -1100。升息壓制AI估值。RTX Spark面臨市場惡化。Broadcom失望。六月崩盤警告。",
+      "gaming": "遊戲股跟隨科技暴跌。RTX Spark定價挑戰。GTA 6消費壓力。FH6。升息衝擊消費。",
+      "tech": "🚨亞洲崩跌！韓國-8.4%。以色列打貝魯特。伊朗射飛彈。期貨-3.8%。Trump vs Netanyahu。",
+      "crypto": "⚠️BTC $59.5K FTX級！-18%。全面拋售。升息確認。伊朗升級。Coinbase -7%。無避風港。",
+      "dev": "升息壓制新創。RTX Spark SDK挑戰。晶片全跌。地緣影響供應鏈。",
+      "finance": "🚨全球崩跌！韓國-8.4%。以色列/伊朗升級。BTC $59.5K。升息定價。全面拋售無避風港。",
+      "art": "全球恐慌視覺化、貝魯特影像。",
+      "design": "恐慌指標、避險失效。",
+      "business": "$2兆蒸發。以色列/伊朗停火崩潰。升息改變資金流。"
+    },
     "stock_briefing": {
       "date": "2026-06-08",
       "updated_at": "2026-06-08 08:30",
