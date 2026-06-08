@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-08",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-08",
+      "updated_at": "2026-06-08 08:30",
+      "sparkline": [
+        45338,
+        45200,
+        45200,
+        45200,
+        43500,
+        43500,
+        43500
+      ],
+      "sparkline_dates": [
+        "6/2",
+        "6/3",
+        "6/4",
+        "6/5",
+        "6/8E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,200",
+        "change": -138,
+        "changePercent": "-0.3%(上週)",
+        "volume": "預估2.5兆",
+        "futures": "43,500 (-3.8%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -4.5
+        },
+        {
+          "name": "記憶體",
+          "change": -6
+        },
+        {
+          "name": "電子",
+          "change": -3.5
+        },
+        {
+          "name": "金融",
+          "change": -2
+        },
+        {
+          "name": "傳產",
+          "change": -1.5
+        },
+        {
+          "name": "航運",
+          "change": -1
+        },
+        {
+          "name": "高股息ETF",
+          "change": -1.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 暴跌",
+          "note": "🚨 亞洲市場全面崩跌！韓國Kospi -8.4%、日經-3.4%。美股上週五暴跌$2兆+以色列攻擊貝魯特。期貨-3.8%至43,500",
+          "nav": null,
+          "pb": 12.5,
+          "premium": null,
+          "pe": 37,
+          "quarterLine": 20.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 暴跌",
+          "note": "全球科技股拋售，期貨-3.8%",
+          "nav": 228,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 大跌",
+          "note": "大盤崩跌帶動，但跌幅預期小於科技",
+          "nav": 45,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 大跌",
+          "note": "高息相對抗跌但無法倖免",
+          "nav": 26.5,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "跌 大跌",
+          "note": "全面下跌中高息相對防禦",
+          "nav": 29,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "跌 大跌",
+          "note": "價值型相對抗跌",
+          "nav": 10.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 暴跌",
+          "note": "同0050",
+          "nav": 117,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 8.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 暴跌",
+          "note": "晶片股全球拋售！Kospi -8.4%（三星/SK海力士崩跌）",
+          "nav": 38,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 暴跌",
+          "note": "半導體崩跌",
+          "nav": 19.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 11.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "跌 大跌",
+          "note": "主動型波動更大",
+          "nav": 17,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "跌 大跌",
+          "note": "主動成長型受衝擊",
+          "nav": 33.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "跌 殖利率飆",
+          "note": "就業太強→殖利率飆升→債券暴跌",
+          "nav": null,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 暴跌",
+          "note": "不配息複利型，跟隨大盤崩跌",
+          "nav": 64,
+          "pb": null,
+          "premium": 0,
+          "pe": 23.5,
+          "quarterLine": 8.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "跌 暴跌",
+          "note": "科技崩跌帶動",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "觀望"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 暴跌",
+          "note": "期貨-3.8%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 大跌",
+          "note": "相對抗跌"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 大跌",
+          "note": "防禦"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 暴跌",
+          "note": "科技崩"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "跌 大跌",
+          "note": "相對抗跌"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 暴跌",
+          "note": "跟隨大盤"
+        }
+      ],
+      "institutional": {
+        "外資": -500,
+        "投信": -50,
+        "自營商": -80
+      },
+      "sentiment": {
+        "score": 15,
+        "label": "極度恐慌 — 全球科技股崩跌+以色列攻擊貝魯特+Fed升息+韓國-8.4%",
+        "history": [
+          70,
+          72,
+          78,
+          62,
+          58,
+          15,
+          15
+        ]
+      },
+      "international": [
+        {
+          "name": "韓國Kospi",
+          "change": -8.4
+        },
+        {
+          "name": "日經225",
+          "change": -3.4
+        },
+        {
+          "name": "Nasdaq(週五)",
+          "change": -3.6
+        },
+        {
+          "name": "S&P 500(週五)",
+          "change": -2.5
+        },
+        {
+          "name": "BTC",
+          "change": -6
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": 0.12
+        }
+      ],
+      "buffett_indicator": {
+        "value": 200,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🚨 亞洲市場全面崩跌！韓國Kospi -8.4%、日經225 -3.4%",
+        "🚨 以色列攻擊貝魯特！中東局勢急劇惡化",
+        "🔴 美股上週五暴跌$2兆（worst since 10月）：就業172K→升息定價",
+        "🔴 台股期貨-3.8%至43,500：預期今日暴跌",
+        "🔴 全球科技/晶片股拋售：AI泡沫恐慌",
+        "🔴 BTC $59.5K（週跌18% FTX級）",
+        "Fed 12月升息25bp完全定價，部分預期2-3次",
+        "⚠️ 油價+美元同步上漲（避險需求）"
+      ],
+      "summary": "🚨🚨 全球崩跌！韓國-8.4%、日經-3.4%、台股期貨-3.8%。美股$2兆蒸發+以色列攻擊貝魯特+Fed升息定價三重利空。今日預期暴跌至43,500附近。建議：⚠️ 不要恐慌殺低！這是恐慌性拋售。高息ETF相對防禦但也無法倖免。半導體/科技ETF暫轉「觀望」。等恐慌消退後（可能2-3天）再評估。如果有長期投資目標，恐慌就是機會——但不要今天接刀。",
+      "searched": []
+    }
+  }
+}
