@@ -1,0 +1,319 @@
+{
+  "date": "2026-06-09",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-09",
+      "updated_at": "2026-06-09 08:30",
+      "sparkline": [
+        45200,
+        45200,
+        43500,
+        43500,
+        43800,
+        43800,
+        43800
+      ],
+      "sparkline_dates": [
+        "6/5",
+        "6/5收",
+        "6/8",
+        "6/8低",
+        "6/9E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "43,500",
+        "change": -1700,
+        "changePercent": "-3.8%(昨估)",
+        "volume": "預估2.0兆",
+        "futures": "43,800 (+0.7%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 2
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 1.5
+        },
+        {
+          "name": "記憶體",
+          "change": 3
+        },
+        {
+          "name": "金融",
+          "change": 0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 反彈",
+          "note": "美股週一晶片股反彈！S&P收高。伊朗停止攻擊以色列。韓國Kospi今日+4%反彈。恐慌性拋售後技術反彈。但CPI數據本週公布",
+          "nav": null,
+          "pb": 11.8,
+          "premium": null,
+          "pe": 35,
+          "quarterLine": 15,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "期貨+0.7%。昨日恐慌後反彈",
+          "nav": 220,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 反彈",
+          "note": "恐慌後回穩，高息防禦",
+          "nav": 43.5,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 反彈",
+          "note": "高息在暴跌後反彈",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 反彈",
+          "note": "月配息支撐",
+          "nav": 28,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 反彈",
+          "note": "價值型反彈",
+          "nav": 9.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 反彈",
+          "note": "同0050",
+          "nav": 112,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 強彈",
+          "note": "美股晶片股反彈領漲！韓國+4%",
+          "nav": 35,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 強彈",
+          "note": "半導體反彈",
+          "nav": 18,
+          "pb": null,
+          "premium": -0.3,
+          "pe": null,
+          "quarterLine": 7.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨反彈",
+          "nav": 16,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動成長型反彈",
+          "nav": 32,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 反彈",
+          "note": "伊朗停火→殖利率回落→債券反彈",
+          "nav": null,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": -3,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 反彈",
+          "note": "不配息複利型，跟隨大盤反彈",
+          "nav": 60,
+          "pb": null,
+          "premium": -0.3,
+          "pe": 21.5,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強彈",
+          "note": "科技反彈+配息支撐",
+          "nav": 24,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "觀望"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "期貨+0.7%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 反彈",
+          "note": "高息防禦"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 反彈",
+          "note": "恐慌後回穩"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "漲 強彈",
+          "note": "晶片反彈"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "漲 反彈",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 反彈",
+          "note": "跟隨大盤"
+        }
+      ],
+      "institutional": {
+        "外資": -200,
+        "投信": 20,
+        "自營商": 10
+      },
+      "sentiment": {
+        "score": 25,
+        "label": "恐慌→反彈 — 伊朗停火+美股晶片反彈+韓國+4%，但仍在恐慌區",
+        "history": [
+          72,
+          78,
+          62,
+          58,
+          15,
+          15,
+          25
+        ]
+      },
+      "international": [
+        {
+          "name": "S&P 500(週一)",
+          "change": 0.3
+        },
+        {
+          "name": "Nasdaq(週一反彈)",
+          "change": 1.2
+        },
+        {
+          "name": "道瓊(週一)",
+          "change": -1.4
+        },
+        {
+          "name": "韓國Kospi(今)",
+          "change": 4
+        },
+        {
+          "name": "日經225(今)",
+          "change": 1
+        },
+        {
+          "name": "伊朗停火",
+          "change": 0
+        }
+      ],
+      "buffett_indicator": {
+        "value": 195,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🟢 美股週一晶片股反彈！S&P收高。Nasdaq技術反彈+1.2%",
+        "🟢 伊朗停止攻擊以色列！中東局勢暫時緩和",
+        "🟢 韓國Kospi今日+4%反彈（昨日-8.4%觸發熔斷後）",
+        "🟢 台股期貨+0.7%至43,800：預期技術反彈",
+        "⚠️ 道瓊-1.4%（金融/傳產續弱）",
+        "⚠️ 本週CPI通膨數據將公布：可能決定Fed動向",
+        "⚠️ 韓國昨日觸發熔斷，全球市場仍脆弱",
+        "南韓-8.4%→今+4%：典型恐慌拋售後死貓跳或真實反彈？"
+      ],
+      "summary": "恐慌拋售後技術反彈！美股週一晶片股反彈（S&P收高），伊朗停止攻擊以色列。韓國今日+4%。台股期貨+0.7%預期反彈。但注意：這可能是死貓跳。道瓊仍跌-1.4%。本週CPI數據可能再次衝擊。建議：今日反彈不追。如果昨天沒賣就繼續持有。高息ETF維持「持有」。半導體暫維持「觀望」，等CPI結果和市場穩定2-3天再升級。",
+      "searched": []
+    }
+  }
+}
