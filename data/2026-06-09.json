@@ -1,17 +1,271 @@
 {
   "date": "2026-06-09",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "晶片股強力反彈！Micron +9%、半導體ETF +5%，投資人視上週為修正非崩盤",
+        "url": "https://cryptorank.io/news/feed/bd1ac-stock-market-today-s-and-p-500-nasdaq-rally-as-chip-stocks-rebound",
+        "source": "CryptoRank",
+        "desc": "S&P +0.9%、Nasdaq +1.4%。AI拋售被視為買入機會。"
+      },
+      {
+        "title": "CNBC：「偉大的科技撤退」— Nasdaq最大跌幅自2025年4月",
+        "url": "https://www.cnbc.com/2026/06/08/cnbc-daily-open-the-great-tech-retreat.html",
+        "source": "CNBC",
+        "desc": "但週一即反彈，顯示AI信仰仍強。"
+      },
+      {
+        "title": "韓國觸發熔斷後+4%反彈：AI拋售為短期修正",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "三星/SK海力士暴跌後反彈。"
+      },
+      {
+        "title": "本週催化劑：CPI通膨+SpaceX IPO預期",
+        "url": "https://cryptorank.io/news/feed/ef5be-dow-slips-80-points-as-chip-stocks-rebound-ceasefire-hopes-lift-markets",
+        "source": "CryptoRank",
+        "desc": "通膨數據+史上最大IPO。"
+      },
+      {
+        "title": "SoftBank -6%：亞洲科技股週一仍承壓但午後回穩",
+        "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
+        "source": "CNBC",
+        "desc": "AI投資信心受考驗但未崩潰。"
+      },
+      {
+        "title": "伊朗停止攻擊以色列+Trump稱協議「幾乎完成」",
+        "url": "https://cryptonews.com/news/bitcoin-surges-64k-trump-iran-deal/",
+        "source": "CryptoNews",
+        "desc": "地緣風險暫時緩和。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "遊戲/GPU股跟隨晶片反彈",
+        "url": "https://cryptorank.io/news/feed/bd1ac-stock-market-today-s-and-p-500-nasdaq-rally-as-chip-stocks-rebound",
+        "source": "CryptoRank",
+        "desc": "半導體ETF +5%。"
+      },
+      {
+        "title": "RTX Spark秋季上市：市場環境波動但AI PC需求確認",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "$2000-2900。"
+      },
+      {
+        "title": "GTA 6確認11/19",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "零生成式AI。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      },
+      {
+        "title": "韓國遊戲公司隨Kospi暴跌後反彈+4%",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "NCsoft/Nexon等跟隨市場。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "美股週一反彈：S&P +0.9%、Nasdaq +1.4%、Micron +9%",
+        "url": "https://cryptorank.io/news/feed/bd1ac-stock-market-today-s-and-p-500-nasdaq-rally-as-chip-stocks-rebound",
+        "source": "CryptoRank",
+        "desc": "晶片股領漲反彈。"
+      },
+      {
+        "title": "伊朗停止攻擊以色列+Trump稱協議「幾乎完成」",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "中東暫時緩和。"
+      },
+      {
+        "title": "韓國Kospi觸發熔斷後今日+4%反彈",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "日經+1%。亞洲回穩中。"
+      },
+      {
+        "title": "本週焦點：CPI通膨數據+SpaceX IPO",
+        "url": "https://cryptorank.io/news/feed/ef5be-dow-slips-80-points-as-chip-stocks-rebound-ceasefire-hopes-lift-markets",
+        "source": "CryptoRank",
+        "desc": "雙重催化劑。"
+      },
+      {
+        "title": "道瓊-1.4%：金融/傳產仍弱，科技獨強反彈",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-jun-8-090800440.html",
+        "source": "Yahoo Finance",
+        "desc": "板塊分化持續。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC反彈至$64K（+5%）！Trump稱伊朗協議「幾乎完成」",
+        "url": "https://cryptonews.com/news/bitcoin-surges-64k-trump-iran-deal/",
+        "source": "CryptoNews",
+        "desc": "單日最大反彈數週。Netanyahu「沒有選擇」。"
+      },
+      {
+        "title": "BTC $64K後回落$62.5K：反彈持續性存疑",
+        "url": "https://news.bitcoin.com/bitcoin-surges-64k-trump-netanyahu-iran-deal/",
+        "source": "Bitcoin.com",
+        "desc": "5%彈升後數小時回落。"
+      },
+      {
+        "title": "$320M空頭清算：經典軋空推動價格反彈",
+        "url": "https://coinmarketcap.com/top-stories/6a26bdeff48ad926ae5085ce/",
+        "source": "CoinMarketCap",
+        "desc": "15分鐘內$320M空頭爆倉。"
+      },
+      {
+        "title": "BTC回到$63K：清算從$1-2B/天降至$630M",
+        "url": "https://99bitcoins.com/news/bitcoin-btc/crypto-news-today-june-8-btc-back-above-63k-as-the-war-between-justin-sun-war-and-trump-continues/",
+        "source": "99Bitcoins",
+        "desc": "恐慌減退但仍脆弱。"
+      },
+      {
+        "title": "本週催化劑：CPI+SpaceX IPO可能帶動風險偏好",
+        "url": "https://cryptorank.io/news/feed/ef5be-dow-slips-80-points-as-chip-stocks-rebound-ceasefire-hopes-lift-markets",
+        "source": "CryptoRank",
+        "desc": "通膨低→反彈；高→再跌。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "晶片股反彈：開發者硬體投資信心回穩",
+        "url": "https://cryptorank.io/news/feed/bd1ac-stock-market-today-s-and-p-500-nasdaq-rally-as-chip-stocks-rebound",
+        "source": "CryptoRank",
+        "desc": "Micron +9%。"
+      },
+      {
+        "title": "本週SpaceX IPO：開發者基礎設施投資",
+        "url": "https://cryptorank.io/news/feed/ef5be-dow-slips-80-points-as-chip-stocks-rebound-ceasefire-hopes-lift-markets",
+        "source": "CryptoRank",
+        "desc": "Starlink+AI算力。"
+      },
+      {
+        "title": "CPI數據對科技融資環境的影響",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "通膨決定利率方向。"
+      },
+      {
+        "title": "韓國科技生態恢復：觸發熔斷後反彈",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "三星/SK海力士回穩。"
+      }
+    ],
+    "art": [
+      {
+        "title": "全球市場恐慌→反彈的數據視覺化",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "韓國-8%→+4%。"
+      },
+      {
+        "title": "中東衝突影像：以色列/伊朗交火",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "貝魯特空襲。"
+      }
+    ],
+    "design": [
+      {
+        "title": "市場恐慌指標設計：熔斷機制",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "韓國觸發。"
+      },
+      {
+        "title": "BTC清算瀑布機制",
+        "url": "https://coinmarketcap.com/top-stories/6a26bdeff48ad926ae5085ce/",
+        "source": "CoinMarketCap",
+        "desc": "$320M 15分鐘清算。"
+      }
+    ],
+    "business": [
+      {
+        "title": "晶片股反彈：投資人視上週為修正非崩盤",
+        "url": "https://cryptorank.io/news/feed/bd1ac-stock-market-today-s-and-p-500-nasdaq-rally-as-chip-stocks-rebound",
+        "source": "CryptoRank",
+        "desc": "Micron +9%、半導體ETF +5%。"
+      },
+      {
+        "title": "Trump稱伊朗協議「幾乎完成」：地緣風險暫時降溫",
+        "url": "https://cryptonews.com/news/bitcoin-surges-64k-trump-iran-deal/",
+        "source": "CryptoNews",
+        "desc": "Netanyahu「沒有選擇」。"
+      },
+      {
+        "title": "本週SpaceX IPO+CPI：雙重催化劑",
+        "url": "https://cryptorank.io/news/feed/ef5be-dow-slips-80-points-as-chip-stocks-rebound-ceasefire-hopes-lift-markets",
+        "source": "CryptoRank",
+        "desc": "史上最大IPO+通膨數據。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股週一反彈：S&P +0.9%、Nasdaq +1.4%（晶片領漲）",
+        "url": "https://cryptorank.io/news/feed/bd1ac-stock-market-today-s-and-p-500-nasdaq-rally-as-chip-stocks-rebound",
+        "source": "CryptoRank",
+        "desc": "Micron +9%。投資人買入修正。"
+      },
+      {
+        "title": "伊朗停止攻擊+Trump稱協議「幾乎完成」",
+        "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "中東暫時緩和。"
+      },
+      {
+        "title": "BTC反彈至$64K（+5%）後回落$62.5K",
+        "url": "https://cryptonews.com/news/bitcoin-surges-64k-trump-iran-deal/",
+        "source": "CryptoNews",
+        "desc": "$320M空頭清算推動。"
+      },
+      {
+        "title": "韓國Kospi +4%反彈（昨-8.4%觸發熔斷後）",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "亞洲回穩。"
+      },
+      {
+        "title": "本週焦點：CPI通膨+SpaceX IPO+Fed動向",
+        "url": "https://cryptorank.io/news/feed/ef5be-dow-slips-80-points-as-chip-stocks-rebound-ceasefire-hopes-lift-markets",
+        "source": "CryptoRank",
+        "desc": "通膨決定一切。"
+      },
+      {
+        "title": "道瓊-1.4%：金融/傳產弱、科技獨強，市場分化",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-jun-8-090800440.html",
+        "source": "Yahoo Finance",
+        "desc": "非科技股仍承壓。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "晶片股反彈分析：修正vs崩盤",
+        "url": "https://cryptorank.io/news/feed/bd1ac-stock-market-today-s-and-p-500-nasdaq-rally-as-chip-stocks-rebound",
+        "source": "CryptoRank",
+        "desc": "Micron +9%領漲。"
+      }
+    ],
+    "summaries": {
+      "ai": "晶片強力反彈！Micron +9%、半導體ETF +5%。「偉大科技撤退」但週一即彈。伊朗停火。本週CPI+SpaceX IPO。",
+      "gaming": "遊戲/GPU股跟隨反彈。RTX Spark秋季。GTA 6。韓國遊戲公司+4%。FH6 Season 1。",
+      "tech": "美股反彈（S&P +0.9%、Nasdaq +1.4%）。伊朗停火。韓國+4%。本週CPI+SpaceX。道瓊-1.4%分化。",
+      "crypto": "BTC +5%至$64K（Trump稱協議完成）！但回落$62.5K。$320M空頭清算。恐慌減退。本週CPI關鍵。",
+      "dev": "晶片反彈利好。SpaceX IPO本週。CPI影響融資。韓國恢復。",
+      "finance": "美股反彈！伊朗停火。BTC +5%→$62.5K。韓國+4%。本週CPI+SpaceX IPO。道瓊-1.4%分化。",
+      "art": "恐慌→反彈視覺化、中東衝突。",
+      "design": "熔斷機制、清算瀑布。",
+      "business": "晶片反彈（修正非崩盤）。Trump伊朗完成。SpaceX+CPI本週。"
+    },
     "stock_briefing": {
       "date": "2026-06-09",
       "updated_at": "2026-06-09 08:30",
