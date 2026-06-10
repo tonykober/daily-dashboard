@@ -1,17 +1,271 @@
 {
   "date": "2026-06-10",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "AI拋售加深！$1兆科技股半天內被拋售（後部分回購）",
+        "url": "https://fortune.com/2026/06/09/nasdaq-100-sp-ai-trade-semiconductors-spacex-ipo/",
+        "source": "Fortune",
+        "desc": "最高Beta股（Strategy/AppLovin/Lumentum）被瘋狂拋售。"
+      },
+      {
+        "title": "BlackRock警告：能源衝擊+通膨錨已消失，投資組合須重建",
+        "url": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+        "source": "CoinDesk",
+        "desc": "荷姆茲持續關閉→美國石油庫存近40年低點。"
+      },
+      {
+        "title": "Fortune：AI拋售一年最慘成為週一買入機會？部分分析師不同意",
+        "url": "https://fortune.com/2026/06/08/ai-rally-chipmakers-treasury-yields-spacex-ipo/",
+        "source": "Fortune",
+        "desc": "華爾街分化：買入修正 vs 真正重新定價。"
+      },
+      {
+        "title": "半導體ETF盤中-8.6%：AI投資面臨升息+地緣雙重壓力",
+        "url": "https://www.fool.com/investing/2026/06/09/market-indexes-retreat-tuesday-as-the-tech-sell-of/",
+        "source": "Motley Fool",
+        "desc": "週一反彈持續一天即再崩。"
+      },
+      {
+        "title": "SpaceX IPO 6/12（$1.75兆）：Goldman預測AI營收2030年$3220億",
+        "url": "https://moneycheck.com/crypto-markets-brace-as-cpi-spacex-ipo-and-clarity-act-hit-same-week/",
+        "source": "MoneyCheck",
+        "desc": "史上最大IPO本週四。可能吸走科技資金。"
+      },
+      {
+        "title": "Applied Digital +11%：210MW AI工廠租賃合約",
+        "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
+        "source": "CoinDesk",
+        "desc": "AI基礎設施需求仍在。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "遊戲GPU股續跌：半導體ETF -8.6%盤中暴跌",
+        "url": "https://www.fool.com/investing/2026/06/09/market-indexes-retreat-tuesday-as-the-tech-sell-of/",
+        "source": "Motley Fool",
+        "desc": "Nvidia/AMD/Intel全跌。"
+      },
+      {
+        "title": "RTX Spark秋季上市面臨更嚴峻市場環境",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "$2000-2900在升息中更具挑戰。"
+      },
+      {
+        "title": "GTA 6確認11/19",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "零生成式AI。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      },
+      {
+        "title": "遊戲消費在升息環境下可能受壓",
+        "url": "https://fortune.com/2026/06/09/nasdaq-100-sp-ai-trade-semiconductors-spacex-ipo/",
+        "source": "Fortune",
+        "desc": "消費者轉向必需品。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔴 伊朗擊落美軍直升機！Trump誓言回應",
+        "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-fall-as-tech-selling-resumes-trump-vows-to-react-to-downed-us-helicopter",
+        "source": "Straits Times",
+        "desc": "中東全面升級風險大增。"
+      },
+      {
+        "title": "半導體ETF盤中-8.6%：週一反彈僅一天即再崩",
+        "url": "https://www.fool.com/investing/2026/06/09/market-indexes-retreat-tuesday-as-the-tech-sell-of/",
+        "source": "Motley Fool",
+        "desc": "AI拋售加深確認。"
+      },
+      {
+        "title": "SpaceX IPO本週四（6/12）：$1.75兆估值可能吸走科技資金",
+        "url": "https://invezz.com/news/2026/06/09/dow-gains-as-nasdaq-slides-on-chip-selloff-spacex-ipo-concerns/",
+        "source": "Invezz",
+        "desc": "過度興奮風險。"
+      },
+      {
+        "title": "今日CPI通膨公布：預期4.2%（3年新高）",
+        "url": "https://www.barchart.com/story/news/2353350/stocks-set-to-open-higher-despite-israel-iran-escalation-u-s-inflation-data-and-spacex-ipo-awaited",
+        "source": "Barchart",
+        "desc": "升息機率72%。"
+      },
+      {
+        "title": "BlackRock：「穩定通膨錨已消失」— 投資策略需重建",
+        "url": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+        "source": "CoinDesk",
+        "desc": "能源衝擊+石油庫存40年低。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC跌至$60.7K：伊朗擊落美軍直升機後續跌",
+        "url": "https://news.bitcoin.com/wall-street-slides-hard-and-bitcoin-tanks-after-iran-shoots-down-us-military-helicopter/",
+        "source": "Bitcoin.com",
+        "desc": "從$126K跌超52%。"
+      },
+      {
+        "title": "部分交易者視SpaceX IPO為「下一個催化劑」",
+        "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
+        "source": "CoinDesk",
+        "desc": "6/12 IPO可能帶動風險偏好。"
+      },
+      {
+        "title": "BlackRock：能源衝擊可能加深加密熊壓",
+        "url": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+        "source": "CoinDesk",
+        "desc": "升息更久+荷姆茲關閉=更長熊市。"
+      },
+      {
+        "title": "加密市場面臨CPI+SpaceX+CLARITY法案同週衝擊",
+        "url": "https://moneycheck.com/crypto-markets-brace-as-cpi-spacex-ipo-and-clarity-act-hit-same-week/",
+        "source": "MoneyCheck",
+        "desc": "多重事件同時發生。"
+      },
+      {
+        "title": "BTC $62.6K：恐慌持續但SpaceX IPO可能是轉折",
+        "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
+        "source": "CoinDesk",
+        "desc": "$60K支撐測試中。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Applied Digital +11%：AI工廠210MW租賃（需求仍在）",
+        "url": "https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound",
+        "source": "CoinDesk",
+        "desc": "拋售中仍有AI基礎設施投資。"
+      },
+      {
+        "title": "SpaceX IPO 6/12：開發者Starlink+AI算力平台",
+        "url": "https://moneycheck.com/crypto-markets-brace-as-cpi-spacex-ipo-and-clarity-act-hit-same-week/",
+        "source": "MoneyCheck",
+        "desc": "Goldman預測2030年AI營收$3220億。"
+      },
+      {
+        "title": "半導體開發者工具生態面臨不確定性",
+        "url": "https://www.fool.com/investing/2026/06/09/market-indexes-retreat-tuesday-as-the-tech-sell-of/",
+        "source": "Motley Fool",
+        "desc": "晶片股全面暴跌。"
+      },
+      {
+        "title": "CPI 4.2%對開發者融資環境的影響",
+        "url": "https://www.barchart.com/story/news/2353350/stocks-set-to-open-higher-despite-israel-iran-escalation-u-s-inflation-data-and-spacex-ipo-awaited",
+        "source": "Barchart",
+        "desc": "升息→融資成本升。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Fortune視覺化：$1兆科技拋售→花生醬輪動",
+        "url": "https://fortune.com/2026/06/09/nasdaq-100-sp-ai-trade-semiconductors-spacex-ipo/",
+        "source": "Fortune",
+        "desc": "防禦股接棒。"
+      },
+      {
+        "title": "中東衝突影像：美軍直升機被擊落",
+        "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-fall-as-tech-selling-resumes-trump-vows-to-react-to-downed-us-helicopter",
+        "source": "Straits Times",
+        "desc": "伊朗升級。"
+      }
+    ],
+    "design": [
+      {
+        "title": "市場恐慌下的資產配置設計",
+        "url": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+        "source": "CoinDesk",
+        "desc": "BlackRock重建策略。"
+      },
+      {
+        "title": "SpaceX IPO定價設計：$1.75兆",
+        "url": "https://moneycheck.com/crypto-markets-brace-as-cpi-spacex-ipo-and-clarity-act-hit-same-week/",
+        "source": "MoneyCheck",
+        "desc": "史上最大IPO結構。"
+      }
+    ],
+    "business": [
+      {
+        "title": "伊朗擊落美軍直升機！中東全面升級風險",
+        "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-fall-as-tech-selling-resumes-trump-vows-to-react-to-downed-us-helicopter",
+        "source": "Straits Times",
+        "desc": "Trump誓言回應。停火崩潰。"
+      },
+      {
+        "title": "SpaceX IPO 6/12（$1.75兆）：史上最大IPO本週",
+        "url": "https://invezz.com/news/2026/06/09/dow-gains-as-nasdaq-slides-on-chip-selloff-spacex-ipo-concerns/",
+        "source": "Invezz",
+        "desc": "可能吸走科技資金。"
+      },
+      {
+        "title": "BlackRock：穩定通膨錨已消失，投資策略需重建",
+        "url": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+        "source": "CoinDesk",
+        "desc": "全球最大資產管理公司發出警告。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Nasdaq -0.97%：週一反彈失敗，AI拋售加深",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "半導體ETF盤中-8.6%。"
+      },
+      {
+        "title": "伊朗擊落美軍直升機+Trump誓言回應：中東全面升級",
+        "url": "https://news.bitcoin.com/wall-street-slides-hard-and-bitcoin-tanks-after-iran-shoots-down-us-military-helicopter/",
+        "source": "Bitcoin.com",
+        "desc": "油價飆升風險。"
+      },
+      {
+        "title": "今日CPI公布：預期4.2%（3年新高）→升息機率72%",
+        "url": "https://www.barchart.com/story/news/2353350/stocks-set-to-open-higher-despite-israel-iran-escalation-u-s-inflation-data-and-spacex-ipo-awaited",
+        "source": "Barchart",
+        "desc": "決定Fed方向。"
+      },
+      {
+        "title": "SpaceX IPO 6/12：$1.75兆可能吸走科技資金",
+        "url": "https://invezz.com/news/2026/06/09/dow-gains-as-nasdaq-slides-on-chip-selloff-spacex-ipo-concerns/",
+        "source": "Invezz",
+        "desc": "已大幅超額認購。"
+      },
+      {
+        "title": "BTC $60.7K：持續承壓，$60K支撐關鍵",
+        "url": "https://news.bitcoin.com/wall-street-slides-hard-and-bitcoin-tanks-after-iran-shoots-down-us-military-helicopter/",
+        "source": "Bitcoin.com",
+        "desc": "從$126K跌52%。"
+      },
+      {
+        "title": "台股期貨-1.8%至43,000：反彈失敗確認下跌",
+        "url": "https://www.cnbc.com/2026/06/09/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "等CPI結果。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Fortune：華爾街半天拋售$1兆然後回購花生醬和油漆",
+        "url": "https://fortune.com/2026/06/09/nasdaq-100-sp-ai-trade-semiconductors-spacex-ipo/",
+        "source": "Fortune",
+        "desc": "輪動到防禦股。"
+      }
+    ],
+    "summaries": {
+      "ai": "$1兆科技股半天拋售！AI拋售加深。BlackRock警告能源衝擊。SpaceX IPO 6/12。Applied Digital +11%。反彈失敗。",
+      "gaming": "GPU股續跌。RTX Spark挑戰。GTA 6。FH6。升息壓消費。",
+      "tech": "🔴伊朗擊落美軍直升機！半導體-8.6%。SpaceX IPO 6/12。今日CPI。BlackRock警告。",
+      "crypto": "BTC $60.7K續跌。SpaceX IPO可能是催化劑。BlackRock能源衝擊。CPI+CLARITY同週。$60K支撐。",
+      "dev": "Applied Digital +11%（AI需求在）。SpaceX IPO。半導體不確定。CPI影響融資。",
+      "finance": "Nasdaq -0.97%反彈失敗！伊朗擊落直升機。今日CPI。SpaceX IPO 6/12。BTC $60.7K。期貨-1.8%。",
+      "art": "$1兆拋售視覺化、美軍直升機。",
+      "design": "BlackRock資產配置、SpaceX IPO。",
+      "business": "伊朗升級。SpaceX $1.75兆IPO本週。BlackRock通膨錨消失。"
+    },
     "stock_briefing": {
       "date": "2026-06-10",
       "updated_at": "2026-06-10 08:30",
