@@ -1,17 +1,271 @@
 {
   "date": "2026-06-11",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "$2.1兆三小時蒸發！美軍直升機被擊落+SpaceX IPO吸走資金",
+        "url": "https://coinpedia.org/news/why-did-the-us-stock-market-crash-2-trillion-in-just-3-hours-today/amp/",
+        "source": "CoinPedia",
+        "desc": "S&P從+1.5%→暴跌，240點反轉。機構先於消息出場。"
+      },
+      {
+        "title": "Fortune：Nasdaq像V字 — 盤中-4%、收盤僅-1%（機構操作）",
+        "url": "https://fortune.com/2026/06/09/nasdaq-100-sp-ai-trade-semiconductors-spacex-ipo/",
+        "source": "Fortune",
+        "desc": "防禦股（花生醬/油漆）接棒。"
+      },
+      {
+        "title": "Motley Fool：SpaceX IPO正在「吸走」BTC資金",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "BTC本月-20%，與SpaceX $75B募資時間重疊。"
+      },
+      {
+        "title": "CPI 4.2%確認：headline +0.5%、core +0.2%（年率2.9%）",
+        "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html",
+        "source": "CNBC",
+        "desc": "3年新高。升息鎖定。"
+      },
+      {
+        "title": "Grey Journal：「市場為SpaceX騰空間」— 拋售的真正原因",
+        "url": "https://greyjournal.net/news/spacex-ipo-stock-market-selloff-50-billion/",
+        "source": "Grey Journal",
+        "desc": "史上最大IPO需要$75B新資金流入。"
+      },
+      {
+        "title": "Applied Digital +11%後Micron從+4.2%→-7.6%：AI股極度波動",
+        "url": "https://fortune.com/2026/06/09/nasdaq-selloff-sp-500-spacex-ipo-inflation/",
+        "source": "Fortune",
+        "desc": "Mystery selloff加劇本週壓力。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "遊戲GPU/晶片股本週跌超10%",
+        "url": "https://fortune.com/2026/06/09/nasdaq-selloff-sp-500-spacex-ipo-inflation/",
+        "source": "Fortune",
+        "desc": "QQQ -5%本週。"
+      },
+      {
+        "title": "RTX Spark秋季上市面臨極度不確定環境",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "$2000-2900在升息中。"
+      },
+      {
+        "title": "GTA 6確認11/19",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "零生成式AI。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "穩定更新。"
+      },
+      {
+        "title": "遊戲消費受升息+通膨雙重壓力",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-hot-inflation-and-war-escalation-fears-pressure-stocks-at-midday/",
+        "source": "Motley Fool",
+        "desc": "CPI 4.2%壓消費。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔴 道瓊-953！CPI 4.2%+Trump擴大伊朗攻擊+晶片崩盤持續",
+        "url": "https://www.cnbc.com/2026/06/09/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "本週SPY -3%、QQQ -5%。"
+      },
+      {
+        "title": "SpaceX IPO明日定價$135/股，6/12上市Nasdaq（SPCX）",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "$75B募資、$1.77兆估值。30%零售配額。"
+      },
+      {
+        "title": "Sen. Warren呼籲SEC延遲SpaceX IPO：估值和治理疑慮",
+        "url": "https://www.cnbc.com/2026/06/10/spacex-elizabeth-warren-elon-musk-sec-ipo.html",
+        "source": "CNBC",
+        "desc": "Take-it-or-leave-it $135定價不常見。"
+      },
+      {
+        "title": "CPI 4.2%確認3年新高：Fed升息鎖定",
+        "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html",
+        "source": "CNBC",
+        "desc": "core 2.9%。10年期殖利率可能破4.67%。"
+      },
+      {
+        "title": "加密交易所提供代幣化SpaceX曝險：Kraken/Bybit/Coinbase",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "非美國用戶可交易合成SpaceX。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "SpaceX IPO正在「吸走」BTC資金：本月-20%",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "$75B募資+零售30%配額排擠加密資金。"
+      },
+      {
+        "title": "BTC面臨CPI+伊朗+SpaceX三重壓力",
+        "url": "https://cryptonews.com/news/crypto-news-today-btc-usd-trump-iran-proportional-strike-cpi-spacex-ipo/",
+        "source": "CryptoNews",
+        "desc": "Trump「比例回擊」伊朗但暗示數天內達成協議。"
+      },
+      {
+        "title": "加密交易所提供代幣化SpaceX：Kraken/Bybit/Coinbase International",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "IPO $135/股。非美國用戶可交易。"
+      },
+      {
+        "title": "BTC跌超50%從$126K ATH：市場進入深度熊市",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "2024年9月以來首次破$60K。"
+      },
+      {
+        "title": "明日SpaceX上市可能是加密轉折：資金吸收完成後回流？",
+        "url": "https://coinpedia.org/news/why-did-the-us-stock-market-crash-2-trillion-in-just-3-hours-today/amp/",
+        "source": "CoinPedia",
+        "desc": "IPO完成→壓力釋放。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "SpaceX IPO $135/股明日Nasdaq：開發者Starlink+AI平台",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "Goldman預測AI營收2030年$3220億。"
+      },
+      {
+        "title": "CPI 4.2%對科技融資影響：升息鎖定→VC更緊縮",
+        "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html",
+        "source": "CNBC",
+        "desc": "新創面臨更高融資成本。"
+      },
+      {
+        "title": "加密代幣化SpaceX：Ondo Finance等DeFi方案",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "RWA代幣化IPO曝險。"
+      },
+      {
+        "title": "晶片開發者工具生態面臨資金壓力",
+        "url": "https://fortune.com/2026/06/09/nasdaq-selloff-sp-500-spacex-ipo-inflation/",
+        "source": "Fortune",
+        "desc": "QQQ -5%本週。"
+      }
+    ],
+    "art": [
+      {
+        "title": "SpaceX IPO視覺：$1.77兆Starship夢想",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "明日上市。"
+      },
+      {
+        "title": "$2兆蒸發的數據視覺化",
+        "url": "https://coinpedia.org/news/why-did-the-us-stock-market-crash-2-trillion-in-just-3-hours-today/amp/",
+        "source": "CoinPedia",
+        "desc": "3小時崩盤。"
+      }
+    ],
+    "design": [
+      {
+        "title": "SpaceX IPO定價結構：$135 take-it-or-leave-it",
+        "url": "https://www.cnbc.com/2026/06/10/spacex-elizabeth-warren-elon-musk-sec-ipo.html",
+        "source": "CNBC",
+        "desc": "非傳統定價方式。"
+      },
+      {
+        "title": "市場恐慌中的資產配置重建",
+        "url": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
+        "source": "CoinDesk",
+        "desc": "BlackRock策略。"
+      }
+    ],
+    "business": [
+      {
+        "title": "SpaceX明日上市：$135/股、$75B募資、$1.77兆估值",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "史上最大IPO。30%零售。Warren反對。"
+      },
+      {
+        "title": "$2.1兆3小時蒸發：直升機+SpaceX吸資金雙因",
+        "url": "https://coinpedia.org/news/why-did-the-us-stock-market-crash-2-trillion-in-just-3-hours-today/amp/",
+        "source": "CoinPedia",
+        "desc": "機構先於消息出場。"
+      },
+      {
+        "title": "CPI 4.2%鎖定Fed升息：企業獲利壓力加劇",
+        "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html",
+        "source": "CNBC",
+        "desc": "融資成本上升+消費減弱。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "道瓊-953！CPI 4.2%+Trump擴大伊朗攻擊",
+        "url": "https://www.cnbc.com/2026/06/09/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P -1.62%、Nasdaq -1.98%。"
+      },
+      {
+        "title": "SpaceX明日上市Nasdaq（SPCX）$135/股：史上最大IPO",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "$75B募資。Warren反對。"
+      },
+      {
+        "title": "CPI 4.2%確認3年新高：升息完全鎖定",
+        "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html",
+        "source": "CNBC",
+        "desc": "headline +0.5%、core 2.9%。"
+      },
+      {
+        "title": "SpaceX IPO吸走BTC資金：加密本月-20%",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "$75B募資排擠風險資產。"
+      },
+      {
+        "title": "本週SPY -3%、QQQ -5%：全面修正模式",
+        "url": "https://247wallst.com/investing/2026/06/10/wall-street-is-braced-for-massive-inflation-numbers-wednesday-morning-heres-what-numbers-could-cause-stocks-to-sink-or-soar/",
+        "source": "24/7 Wall St",
+        "desc": "尚未見底。"
+      },
+      {
+        "title": "台股期貨-2.3%至42,000：反彈失敗確認下跌",
+        "url": "https://www.cnbc.com/2026/06/09/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "等SpaceX IPO後觀察。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "CoinPedia：為何$2兆在3小時內蒸發",
+        "url": "https://coinpedia.org/news/why-did-the-us-stock-market-crash-2-trillion-in-just-3-hours-today/amp/",
+        "source": "CoinPedia",
+        "desc": "直升機+SpaceX雙因。"
+      }
+    ],
+    "summaries": {
+      "ai": "$2.1兆3小時蒸發（直升機+SpaceX吸資金）！CPI 4.2%。Nasdaq V字（-4%→-1%）。SpaceX吸走BTC。AI股極度波動。",
+      "gaming": "GPU/晶片-10%本週。RTX Spark挑戰。GTA 6。FH6。升息壓消費。",
+      "tech": "🔴道瓊-953！CPI 4.2%。SpaceX明日$135上市。Warren反對。Trump擴大伊朗。代幣化SpaceX。",
+      "crypto": "SpaceX吸走BTC資金（本月-20%）！明日IPO可能是轉折。CPI+伊朗+SpaceX三重壓。代幣化曝險。",
+      "dev": "SpaceX IPO $135。CPI影響融資。代幣化SpaceX DeFi。晶片工具壓力。",
+      "finance": "🚨道瓊-953！CPI 4.2%。SpaceX明日$135上市（$75B）。SPY -3%/QQQ -5%。SpaceX吸走BTC。期貨-2.3%。",
+      "art": "SpaceX IPO視覺、$2兆蒸發。",
+      "design": "SpaceX定價結構、BlackRock配置。",
+      "business": "SpaceX明日$1.77兆上市。$2.1兆蒸發。CPI升息鎖定。"
+    },
     "stock_briefing": {
       "date": "2026-06-11",
       "updated_at": "2026-06-11 08:30",
