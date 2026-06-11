@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-11",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-11",
+      "updated_at": "2026-06-11 08:30",
+      "sparkline": [
+        45200,
+        43500,
+        43800,
+        43000,
+        42000,
+        42000,
+        42000
+      ],
+      "sparkline_dates": [
+        "6/5",
+        "6/8",
+        "6/9",
+        "6/10",
+        "6/11E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "43,000",
+        "change": -800,
+        "changePercent": "-1.8%(昨估)",
+        "volume": "預估2.5兆",
+        "futures": "42,000 (-2.3%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -4.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -4
+        },
+        {
+          "name": "記憶體",
+          "change": -5.5
+        },
+        {
+          "name": "電子",
+          "change": -3
+        },
+        {
+          "name": "金融",
+          "change": -1.5
+        },
+        {
+          "name": "傳產",
+          "change": -1
+        },
+        {
+          "name": "航運",
+          "change": 1
+        },
+        {
+          "name": "高股息ETF",
+          "change": -1.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 暴跌",
+          "note": "🚨 美股週三再暴跌！道瓊-953（-1.87%）、Nasdaq -1.98%。CPI確認4.2%（3年高）。Trump威脅更多伊朗攻擊。美國對伊朗發動額外打擊。本週SPY -3%、QQQ -5%",
+          "nav": null,
+          "pb": 11,
+          "premium": null,
+          "pe": 32,
+          "quarterLine": 8,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 暴跌",
+          "note": "期貨-2.3%至42,000。多重利空持續",
+          "nav": 210,
+          "pb": null,
+          "premium": -1,
+          "pe": null,
+          "quarterLine": 0,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 大跌",
+          "note": "大盤崩跌中高息也無法倖免",
+          "nav": 42,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": 0,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 大跌",
+          "note": "全面下跌中相對跌少",
+          "nav": 24,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": 0.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "跌 大跌",
+          "note": "月配息支撐但無法逆勢",
+          "nav": 27,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": 0,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "跌 大跌",
+          "note": "價值型也承壓",
+          "nav": 9.2,
+          "pb": null,
+          "premium": -0.3,
+          "pe": null,
+          "quarterLine": -0.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 暴跌",
+          "note": "同0050",
+          "nav": 108,
+          "pb": null,
+          "premium": -1,
+          "pe": null,
+          "quarterLine": 0,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 崩跌",
+          "note": "半導體持續崩跌！本週全球晶片股跌超10%",
+          "nav": 30,
+          "pb": null,
+          "premium": -2,
+          "pe": null,
+          "quarterLine": 0,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 崩跌",
+          "note": "半導體崩盤持續",
+          "nav": 16,
+          "pb": null,
+          "premium": -1,
+          "pe": null,
+          "quarterLine": -1,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "跌 大跌",
+          "note": "主動型波動大",
+          "nav": 14,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": 0,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "跌 大跌",
+          "note": "主動成長型受衝擊",
+          "nav": 30,
+          "pb": null,
+          "premium": -0.3,
+          "pe": null,
+          "quarterLine": 0,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "跌 崩跌",
+          "note": "CPI 4.2%確認→升息鎖定→殖利率飆升→債券崩跌",
+          "nav": null,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": -6,
+          "suggestion": "減碼"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 暴跌",
+          "note": "不配息複利型，跟隨大盤崩跌",
+          "nav": 56,
+          "pb": null,
+          "premium": -1,
+          "pe": 20,
+          "quarterLine": 0,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "跌 崩跌",
+          "note": "科技崩跌帶動",
+          "nav": 22,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": -1,
+          "suggestion": "觀望"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 暴跌",
+          "note": "期貨-2.3%"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 大跌",
+          "note": "相對抗跌但也跌"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 大跌",
+          "note": "防禦有限"
+        },
+        {
+          "name": "00929 復華台灣科技優息",
+          "trend": "跌 崩跌",
+          "note": "科技崩"
+        },
+        {
+          "name": "00919 群益台灣精選高息",
+          "trend": "跌 大跌",
+          "note": "月配息"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 暴跌",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": -500,
+        "投信": -50,
+        "自營商": -80
+      },
+      "sentiment": {
+        "score": 8,
+        "label": "極度恐慌 — CPI確認升息+Trump擴大伊朗攻擊+晶片崩盤+道瓊-953！本週SPY -3%/QQQ -5%",
+        "history": [
+          62,
+          58,
+          15,
+          15,
+          25,
+          12,
+          8
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週三)",
+          "change": -1.87
+        },
+        {
+          "name": "S&P 500",
+          "change": -1.62
+        },
+        {
+          "name": "Nasdaq",
+          "change": -1.98
+        },
+        {
+          "name": "CPI(年率)",
+          "change": 4.2
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": 0.1
+        },
+        {
+          "name": "WTI原油",
+          "change": 3
+        }
+      ],
+      "buffett_indicator": {
+        "value": 185,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🚨 道瓊-953（-1.87%）！S&P -1.62%、Nasdaq -1.98%",
+        "🔴 CPI確認4.2%（3年新高）：headline +0.5%、core +0.2%（年率2.9%）",
+        "🔴 Trump威脅更多伊朗攻擊+美國對伊朗發動額外打擊",
+        "🔴 本週SPY -3%、QQQ -5%：晶片拋售持續惡化",
+        "升息完全鎖定：10年期殖利率可能破4.67%",
+        "明日SpaceX IPO（$1.75兆）：可能進一步吸走資金",
+        "台股期貨-2.3%至42,000：預期今日暴跌",
+        "全球股市進入修正模式，尚未見底"
+      ],
+      "summary": "🚨🚨 持續暴跌！道瓊-953、CPI 4.2%確認升息、Trump擴大伊朗攻擊。本週SPY -3%/QQQ -5%。台股期貨-2.3%至42,000。00403A中信美債首次建議「減碼」（升息確認後債券持續承壓）。建議：繼續觀望不接刀。明日SpaceX IPO可能是轉折也可能吸走更多資金。高息ETF仍持有但不加碼。等市場給出明確止跌訊號（至少連續兩天收紅）再考慮行動。恐慌中保持冷靜。",
+      "searched": []
+    }
+  }
+}
