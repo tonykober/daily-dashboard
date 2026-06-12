@@ -1,0 +1,572 @@
+{
+  "date": "2026-06-12",
+  "categories": {
+    "stock_briefing": {
+      "date": "2026-06-12",
+      "updated_at": "2026-06-12 09:00",
+      "sparkline": [
+        43800,
+        43000,
+        42000,
+        42000,
+        43500,
+        43500,
+        43500
+      ],
+      "sparkline_dates": [
+        "6/9",
+        "6/10",
+        "6/11",
+        "6/11",
+        "6/12E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "42,000",
+        "change": -1000,
+        "changePercent": "-2.3%(昨估)",
+        "volume": "預估2.5兆",
+        "futures": "43,500 (+3.5%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 3.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 3
+        },
+        {
+          "name": "電子",
+          "change": 2.5
+        },
+        {
+          "name": "金融",
+          "change": 1.5
+        },
+        {
+          "name": "傳產",
+          "change": 1
+        },
+        {
+          "name": "高股息ETF",
+          "change": 1.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 強彈",
+          "note": "🚀 美股週四大反彈！道瓊+930、Nasdaq +2.54%、S&P +1.75%。Trump暗示美伊即將簽署和平協議。SpaceX今日上市！期貨+3.5%",
+          "nav": null,
+          "pb": 11.5,
+          "premium": null,
+          "pe": 34,
+          "quarterLine": 10,
+          "suggestion": "觀望→持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 強彈",
+          "note": "期貨+3.5%至43,500。大反彈",
+          "nav": 215,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 反彈",
+          "note": "全面反彈帶動",
+          "nav": 43,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 反彈",
+          "note": "風險偏好回升",
+          "nav": 25,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 反彈",
+          "note": "月配息+反彈",
+          "nav": 27.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 反彈",
+          "note": "跟隨大盤",
+          "nav": 9.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 0.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 強彈",
+          "note": "同0050",
+          "nav": 110,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 強彈",
+          "note": "晶片股反彈！Nasdaq +2.54%",
+          "nav": 32,
+          "pb": null,
+          "premium": -0.5,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "觀望→持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 強彈",
+          "note": "半導體反彈",
+          "nav": 17,
+          "pb": null,
+          "premium": -0.3,
+          "pe": null,
+          "quarterLine": 1.5,
+          "suggestion": "觀望→持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨",
+          "nav": 15,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動成長型",
+          "nav": 31,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 反彈",
+          "note": "伊朗和平→殖利率回落→債券反彈",
+          "nav": null,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": -5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 強彈",
+          "note": "不配息複利型，跟隨大盤強彈",
+          "nav": 58,
+          "pb": null,
+          "premium": -0.5,
+          "pe": 21,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強彈",
+          "note": "科技反彈+配息",
+          "nav": 23,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 0.5,
+          "suggestion": "觀望→持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 強彈",
+          "note": "期貨+3.5%"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 反彈",
+          "note": "全面反彈"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 反彈",
+          "note": "風險回升"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 強彈",
+          "note": "科技反彈"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 反彈",
+          "note": "月配息"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 強彈",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": 200,
+        "投信": 30,
+        "自營商": 40
+      },
+      "sentiment": {
+        "score": 35,
+        "label": "恐慌→反彈 — 道瓊+930！Trump伊朗和平+SpaceX IPO+晶片反彈。但仍在恐慌區需確認",
+        "history": [
+          58,
+          15,
+          25,
+          12,
+          8,
+          8,
+          35
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週四)",
+          "change": 1.86
+        },
+        {
+          "name": "S&P 500",
+          "change": 1.75
+        },
+        {
+          "name": "Nasdaq",
+          "change": 2.54
+        },
+        {
+          "name": "SpaceX IPO",
+          "change": 0
+        },
+        {
+          "name": "WTI原油",
+          "change": -2.5
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.05
+        }
+      ],
+      "buffett_indicator": {
+        "value": 190,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🟢 美股週四大反彈！道瓊+930（+1.86%）、Nasdaq +2.54%、S&P +1.75%",
+        "🟢 Trump暗示美伊即將簽署和平協議",
+        "🚀 SpaceX今日上市Nasdaq（SPCX）$135/股！史上最大IPO",
+        "🟢 晶片股強力反彈領漲",
+        "🟢 台股期貨+3.5%至43,500：預期今日強彈",
+        "⚠️ 仍需確認：是真反轉還是又一個死貓跳？",
+        "等SpaceX開盤表現+下週市場確認"
+      ],
+      "summary": "🚀 大反彈！道瓊+930、Nasdaq +2.54%！Trump暗示伊朗和平即將簽署+SpaceX今日上市$135。期貨+3.5%至43,500。半導體ETF可從「觀望」轉「觀望→持有」（反彈確認中）。但注意：本週已有一次假反彈（週一→週二再崩），需等SpaceX開盤表現和下週確認。建議：今日反彈可以「不再恐慌」，但仍不要大量追高。持有部位繼續。",
+      "searched": []
+    },
+    "ai": [
+      {
+        "title": "🚀 SpaceX今日上市Nasdaq（SPCX）$135/股：史上最大IPO！$75B募資",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musks-spacex-prices-record-75-192509385.html",
+        "source": "Yahoo Finance",
+        "desc": "$1.77兆估值。555.6M股。30%零售配額。"
+      },
+      {
+        "title": "美股週四大反彈：道瓊+930、Nasdaq +2.54%（晶片領漲）",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Trump暗示伊朗和平+SpaceX信心提振。"
+      },
+      {
+        "title": "SpaceX IPO投資者完整指南：上市前須知",
+        "url": "https://www.fool.com/investing/2026/06/11/the-spacex-ipo-is-tomorrow-heres-exactly-what-inve/",
+        "source": "Motley Fool",
+        "desc": "$135定價、30%零售、Starlink+AI營收。"
+      },
+      {
+        "title": "Kiplinger：SpaceX IPO即時更新和評論",
+        "url": "https://www.kiplinger.com/investing/live/spacex-ipo-spcx-stock-updates-and-commentary",
+        "source": "Kiplinger",
+        "desc": "今日全天追蹤。"
+      },
+      {
+        "title": "Business Insider：SpaceX IPO即時更新 — 史上最大公開發行",
+        "url": "https://www.businessinsider.com/spacex-ipo-live-updates-pricing-spcx-stock-2026-6",
+        "source": "Business Insider",
+        "desc": "555.6M股定價$135。"
+      },
+      {
+        "title": "CBS：如何購買SpaceX股票 — 史詩級IPO今日登場",
+        "url": "https://www.cbsnews.com/news/spacex-ipo-how-to-buy-stock/",
+        "source": "CBS News",
+        "desc": "SPCX在Nasdaq交易。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "SpaceX IPO今日上市直播追蹤",
+        "url": "https://www.kiplinger.com/investing/live/spacex-ipo-spcx-stock-updates-and-commentary",
+        "source": "Kiplinger",
+        "desc": "SPCX即時更新。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "晶片股反彈：Nasdaq +2.54%帶動GPU/遊戲股",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "本週暴跌後反彈。"
+      },
+      {
+        "title": "RTX Spark秋季上市：市場情緒改善有利",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "$2000-2900。"
+      },
+      {
+        "title": "GTA 6確認11/19",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "零生成式AI。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      },
+      {
+        "title": "遊戲硬體市場可能因反彈而回穩",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "消費者信心回升？"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🚀 SpaceX今日上市！SPCX $135/股、$1.77兆估值",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-sets-135-ipo-price-ahead-of-friday-nasdaq-debut-101955774.html",
+        "source": "Yahoo Finance",
+        "desc": "史上最大IPO。Nasdaq交易。"
+      },
+      {
+        "title": "美股道瓊+930大反彈：Trump暗示伊朗和平即將簽署",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P +1.75%、Nasdaq +2.54%。"
+      },
+      {
+        "title": "晶片股領漲反彈：本週暴跌後修復",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "半導體ETF反彈。"
+      },
+      {
+        "title": "SpaceX IPO 30%零售配額：3倍行業常規",
+        "url": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+        "source": "CNBC",
+        "desc": "零售投資者參與度史無前例。"
+      },
+      {
+        "title": "Trump伊朗和平暗示：油價回落+殖利率下降",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "地緣風險可能快速消退。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "SpaceX IPO完成定價→資金吸收壓力釋放→加密可能反彈？",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "IPO吸走BTC資金的壓力今日後消失。"
+      },
+      {
+        "title": "Trump暗示伊朗和平→風險偏好回升→BTC可能受惠",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "道瓊+930帶動全面風險偏好。"
+      },
+      {
+        "title": "美股+2.54%反彈：加密是否跟隨？",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "本月BTC -20%後觀察反彈。"
+      },
+      {
+        "title": "SpaceX代幣化曝險：Kraken/Bybit今日可能大漲",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "代幣化SPCX交易。"
+      },
+      {
+        "title": "BTC從$60K低點可能反彈：伊朗+SpaceX壓力同時釋放",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "雙重壓力消退。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "SpaceX SPCX今日上市：Starlink+AI算力開發者平台",
+        "url": "https://www.fool.com/investing/2026/06/11/the-spacex-ipo-is-tomorrow-heres-exactly-what-inve/",
+        "source": "Motley Fool",
+        "desc": "Goldman預測AI營收2030年$3220億。"
+      },
+      {
+        "title": "晶片股反彈：開發者硬體投資信心回穩",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "半導體ETF領漲。"
+      },
+      {
+        "title": "SpaceX 30%零售配額的技術實現",
+        "url": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+        "source": "CNBC",
+        "desc": "IPO配額系統。"
+      },
+      {
+        "title": "Trump伊朗和平：地緣風險降低利好全球供應鏈",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "荷姆茲重開在即。"
+      }
+    ],
+    "art": [
+      {
+        "title": "SpaceX SPCX上市視覺：$1.77兆太空夢想",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musks-spacex-prices-record-75-192509385.html",
+        "source": "Yahoo Finance",
+        "desc": "史上最大IPO。"
+      },
+      {
+        "title": "美股V字反彈數據視覺化",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "道瓊+930。"
+      }
+    ],
+    "design": [
+      {
+        "title": "SpaceX IPO定價設計：$135 take-it-or-leave-it",
+        "url": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+        "source": "CNBC",
+        "desc": "非傳統定價結構。"
+      },
+      {
+        "title": "市場情緒設計：從恐慌8→反彈35",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "V字反彈心理學。"
+      }
+    ],
+    "business": [
+      {
+        "title": "🚀 SpaceX今日上市：$135/股、$75B、$1.77兆 — 史上最大IPO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musks-spacex-prices-record-75-192509385.html",
+        "source": "Yahoo Finance",
+        "desc": "555.6M股。Musk身兼CEO/CTO/董事長。"
+      },
+      {
+        "title": "Trump暗示伊朗和平即將簽署：全球市場信心提振",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價回落+殖利率下降。"
+      },
+      {
+        "title": "道瓊+930反彈：晶片股領漲，本週暴跌後修復",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P +1.75%。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🚀 SpaceX今日上市Nasdaq（SPCX）$135/股！史上最大IPO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musks-spacex-prices-record-75-192509385.html",
+        "source": "Yahoo Finance",
+        "desc": "$75B募資、$1.77兆。30%零售。"
+      },
+      {
+        "title": "美股週四大反彈！道瓊+930、Nasdaq +2.54%、S&P +1.75%",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Trump伊朗和平+晶片反彈。"
+      },
+      {
+        "title": "台股期貨+3.5%至43,500：預期今日強彈",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "跟隨美股反彈。"
+      },
+      {
+        "title": "Trump暗示伊朗和平：油價回落+殖利率下降",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "地緣風險消退。"
+      },
+      {
+        "title": "SpaceX IPO完成→資金壓力釋放→加密/科技可能持續反彈",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "$75B吸收完成。"
+      },
+      {
+        "title": "本週回顧：從暴跌→大反彈。SPY週跌但週四挽回大部分",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "市場極度波動。"
+      }
+    ],
+    "summaries": {
+      "ai": "🚀SpaceX今日上市SPCX $135！史上最大IPO $75B。道瓊+930反彈。晶片領漲。Goldman AI營收$3220億。",
+      "gaming": "晶片反彈帶動GPU/遊戲股。RTX Spark秋季。GTA 6。FH6。市場回穩有利。",
+      "tech": "🚀SpaceX今日Nasdaq！道瓊+930。Trump伊朗和平。晶片反彈。30%零售配額。油價跌。",
+      "crypto": "SpaceX完成→資金壓力釋放！Trump和平→風險回升。BTC可能反彈。代幣化SPCX。",
+      "dev": "SpaceX SPCX上市。晶片反彈。30%零售技術。伊朗和平利好供應鏈。",
+      "finance": "🚀SpaceX今日$135上市！道瓊+930。期貨+3.5%。Trump伊朗和平。資金壓力釋放。本週V字。",
+      "art": "SpaceX上市視覺、V字反彈。",
+      "design": "SpaceX定價結構、情緒設計。",
+      "business": "SpaceX $1.77兆上市。Trump伊朗和平。道瓊+930。"
+    }
+  }
+}
