@@ -1,0 +1,270 @@
+{
+  "date": "2026-06-13",
+  "categories": {
+    "ai": [
+      {
+        "title": "🚀 SpaceX IPO首日收$161（+19%）！Elon Musk成為世界首位兆元富豪",
+        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+        "source": "TechCrunch",
+        "desc": "$2.1兆市值。盤中最高$176.52（+31%）。500M+股交易。"
+      },
+      {
+        "title": "SpaceX IPO重點：SPCX收$161、開盤$150、募資$75B",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "史上最大IPO完美執行。接近Facebook首日交易量。"
+      },
+      {
+        "title": "Fortune直播：SpaceX收$161.11，史上最大首日交易",
+        "url": "https://fortune.com/2026/06/12/spacex-ipo-trading-first-day-live-updates-elon-musk/",
+        "source": "Fortune",
+        "desc": "從El Segundo倉庫到$2.1兆。"
+      },
+      {
+        "title": "Musk對員工：「很難相信一家在倉庫裡開始的小公司現在做了史上最大IPO」",
+        "url": "https://www.latimes.com/business/story/2026-06-12/spacex-shares-rise-11-in-early-trading-during-historic-ipo",
+        "source": "LA Times",
+        "desc": "從2008年Falcon 1到2026年$2.1兆。"
+      },
+      {
+        "title": "SpaceX盤中一度$2.25兆市值（+30%）",
+        "url": "https://www.nbcnews.com/business/markets/spacex-ipo-stock-price-rcna349760",
+        "source": "NBC News",
+        "desc": "超越Apple成為全球最有價值公司之一。"
+      },
+      {
+        "title": "CBS：SpaceX IPO如何運作+如何買入",
+        "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/",
+        "source": "CBS News",
+        "desc": "$135→$161。19%首日漲幅。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "SpaceX IPO首日完整回顧：$135→$161",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "史上最大IPO。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "SpaceX成功上市後市場情緒改善：遊戲股受惠",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "風險偏好回升。"
+      },
+      {
+        "title": "RTX Spark秋季上市：市場環境改善",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "$2000-2900。"
+      },
+      {
+        "title": "GTA 6確認11/19：5個月倒數",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "零生成式AI。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      },
+      {
+        "title": "Nvidia GPU供應可能因SpaceX合約改善",
+        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+        "source": "TechCrunch",
+        "desc": "SpaceX AI+遊戲生態。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🚀 SpaceX首日收$161（+19%）：史上最大IPO完美執行",
+        "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/",
+        "source": "CBS News",
+        "desc": "$2.1兆市值。Musk首位兆元富豪。"
+      },
+      {
+        "title": "SpaceX從倉庫到$2.1兆：24年傳奇",
+        "url": "https://www.latimes.com/business/story/2026-06-12/spacex-shares-rise-11-in-early-trading-during-historic-ipo",
+        "source": "LA Times",
+        "desc": "2008年Falcon 1→2026年史上最大IPO。"
+      },
+      {
+        "title": "Guardian：SpaceX造就世界首位兆元富豪",
+        "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
+        "source": "The Guardian",
+        "desc": "$75B募資。$2.1兆收盤估值。"
+      },
+      {
+        "title": "500M+股首日交易：接近Facebook 2012年IPO紀錄",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "市場對SpaceX需求極強。"
+      },
+      {
+        "title": "Forbes即時更新：SpaceX開盤$150→+20%至$161",
+        "url": "https://www.forbes.com/sites/tylerroush/2026/06/12/spacex-opens-at-150-surging-17-after-largest-ipo-ever-live-updates/",
+        "source": "Forbes",
+        "desc": "盤中一度+31%至$176.52。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "SpaceX IPO完成→$75B資金吸收壓力釋放：加密可能反彈",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "IPO吸走BTC資金的壓力已結束。"
+      },
+      {
+        "title": "Musk成為兆元富豪：SpaceX持有18,712 BTC影響力更大",
+        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+        "source": "TechCrunch",
+        "desc": "世界最富有的加密持有者。"
+      },
+      {
+        "title": "SpaceX +19%首日：風險偏好回升利好BTC",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "IPO成功→市場信心→風險資產。"
+      },
+      {
+        "title": "BTC從$60K低點觀察反彈：SpaceX+伊朗壓力同時釋放",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "下週為關鍵確認。"
+      },
+      {
+        "title": "代幣化SpaceX（SPCX）在加密交易所交易活躍",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "Kraken/Bybit/Coinbase International。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "SpaceX SPCX上市成功：Starlink+AI算力平台現可公開投資",
+        "url": "https://www.fool.com/investing/2026/06/12/what-did-spacex-stock-close-at-after-its-first-day-of-trading/",
+        "source": "Motley Fool",
+        "desc": "Goldman AI營收2030年$3220億。"
+      },
+      {
+        "title": "SpaceX IPO 30%零售配額技術實現成功",
+        "url": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+        "source": "CNBC",
+        "desc": "行業新標竿。"
+      },
+      {
+        "title": "晶片股本週V字反彈後穩定：開發者信心回穩",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Nasdaq +2.54%週四。"
+      },
+      {
+        "title": "SpaceX公開後開發者可透過股票直接參與AI+太空生態",
+        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+        "source": "TechCrunch",
+        "desc": "Starlink API+算力。"
+      }
+    ],
+    "art": [
+      {
+        "title": "SpaceX首日：從El Segundo倉庫到$2.1兆的視覺敘事",
+        "url": "https://www.latimes.com/business/story/2026-06-12/spacex-shares-rise-11-in-early-trading-during-historic-ipo",
+        "source": "LA Times",
+        "desc": "24年太空夢想。"
+      },
+      {
+        "title": "SpaceX IPO首日交易數據視覺化",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "$135→$150→$176→$161。"
+      }
+    ],
+    "design": [
+      {
+        "title": "SpaceX IPO定價結構成功：$135 take-it-or-leave-it奏效",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "+19%首日。"
+      },
+      {
+        "title": "30%零售配額IPO設計：行業新標準？",
+        "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/",
+        "source": "CBS News",
+        "desc": "3倍行業常規。"
+      }
+    ],
+    "business": [
+      {
+        "title": "🚀 SpaceX $2.1兆！Elon Musk成為世界首位兆元富豪",
+        "url": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+        "source": "The Guardian",
+        "desc": "$161收盤+19%。史上最大IPO完美執行。"
+      },
+      {
+        "title": "SpaceX從2008年差點倒閉→2026年$2.1兆：24年傳奇",
+        "url": "https://www.latimes.com/business/story/2026-06-12/spacex-shares-rise-11-in-early-trading-during-historic-ipo",
+        "source": "LA Times",
+        "desc": "Falcon 1→Starlink→IPO。"
+      },
+      {
+        "title": "$75B募資+$2.1兆估值：科技IPO新時代",
+        "url": "https://fortune.com/2026/06/12/spacex-ipo-trading-first-day-live-updates-elon-musk/",
+        "source": "Fortune",
+        "desc": "30%零售+Take-it-or-leave-it定價。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🚀 SpaceX首日收$161（+19%）！$2.1兆估值、Musk兆元富豪",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "盤中$176.52（+31%）。500M+股交易。"
+      },
+      {
+        "title": "SpaceX $75B募資完成：市場資金壓力釋放",
+        "url": "https://www.fool.com/investing/2026/06/12/what-did-spacex-stock-close-at-after-its-first-day-of-trading/",
+        "source": "Motley Fool",
+        "desc": "下週科技/加密可能持續反彈。"
+      },
+      {
+        "title": "本週回顧：從暴跌→大反彈→SpaceX完美上市",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "道瓊-953→+930。極端波動週。"
+      },
+      {
+        "title": "SpaceX +19%帶動市場信心：下週展望偏多",
+        "url": "https://fortune.com/2026/06/12/spacex-ipo-trading-first-day-live-updates-elon-musk/",
+        "source": "Fortune",
+        "desc": "IPO成功+伊朗和平+晶片反彈。"
+      },
+      {
+        "title": "BTC觀察反彈：SpaceX+伊朗壓力同時釋放",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "$75B吸收完成後資金回流？"
+      },
+      {
+        "title": "下週關注：Fed會議+伊朗協議最終確認+SpaceX後續",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "source": "CNBC",
+        "desc": "三重催化劑。"
+      }
+    ],
+    "summaries": {
+      "ai": "🚀SpaceX收$161（+19%）！Musk成首位兆元富豪。$2.1兆。盤中$176（+31%）。500M股交易。史上最大IPO。",
+      "gaming": "SpaceX成功→市場情緒改善。RTX Spark秋季。GTA 6 11/19。FH6。GPU供應改善。",
+      "tech": "🚀SpaceX $2.1兆完美首日！24年傳奇。500M股。30%零售。Forbes/Guardian/CNBC全覆蓋。",
+      "crypto": "SpaceX完成→$75B壓力釋放！Musk兆元富豪（持18,712 BTC）。代幣化SPCX活躍。下週BTC反彈？",
+      "dev": "SpaceX公開=Starlink+AI可投資。30%零售成功。晶片V字。開發者信心。",
+      "finance": "🚀SpaceX $161（+19%）！本週V字（-953→+930→IPO）。資金壓力釋放。下週Fed+伊朗+SpaceX後續。",
+      "art": "SpaceX 24年視覺敘事、首日數據。",
+      "design": "SpaceX定價成功、30%零售標準。",
+      "business": "SpaceX $2.1兆！Musk兆元富豪。24年傳奇。$75B+30%零售。"
+    }
+  }
+}
