@@ -1,0 +1,577 @@
+{
+  "date": "2026-06-15",
+  "categories": {
+    "stock_briefing": {
+      "date": "2026-06-15",
+      "updated_at": "2026-06-15 07:49",
+      "sparkline": [
+        42000,
+        43500,
+        43500,
+        44000,
+        45000,
+        45000,
+        45000
+      ],
+      "sparkline_dates": [
+        "6/11",
+        "6/12",
+        "6/12收",
+        "6/13",
+        "6/15E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "44,000",
+        "change": 1000,
+        "changePercent": "+2.3%(估)",
+        "volume": "預估2.5兆",
+        "futures": "45,000 (+2.3%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 2.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 2
+        },
+        {
+          "name": "電子",
+          "change": 2
+        },
+        {
+          "name": "金融",
+          "change": 1.5
+        },
+        {
+          "name": "石化",
+          "change": -3
+        },
+        {
+          "name": "航運",
+          "change": 2
+        },
+        {
+          "name": "傳產",
+          "change": 1
+        },
+        {
+          "name": "高股息ETF",
+          "change": 1.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 大漲",
+          "note": "🔴 Trump週日宣布美伊戰爭結束協議達成！期貨暴漲。油價暴跌。荷姆茲海峽重開。新Fed主席Warsh本週首次會議。SpaceX上市後續$166+",
+          "nav": null,
+          "pb": 12,
+          "premium": null,
+          "pe": 35,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 大漲",
+          "note": "期貨+2.3%至45,000。伊朗和平確認！",
+          "nav": 220,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 跟漲",
+          "note": "風險偏好爆發帶動",
+          "nav": 44,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 跟漲",
+          "note": "全面反彈",
+          "nav": 26,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 跟漲",
+          "note": "月配息+大盤漲",
+          "nav": 28.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 跟漲",
+          "note": "價值型跟隨",
+          "nav": 10,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 大漲",
+          "note": "同0050",
+          "nav": 113,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 大漲",
+          "note": "伊朗和平+晶片反彈持續",
+          "nav": 34,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 大漲",
+          "note": "半導體反彈",
+          "nav": 18,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨",
+          "nav": 15.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動成長型",
+          "nav": 32,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 大漲",
+          "note": "伊朗和平→油價暴跌→殖利率下降→債券大漲！本週Fed會議",
+          "nav": null,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -3,
+          "suggestion": "觀望→持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 大漲",
+          "note": "不配息複利型，跟隨大盤",
+          "nav": 60,
+          "pb": null,
+          "premium": 0,
+          "pe": 21.5,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 大漲",
+          "note": "科技反彈+配息",
+          "nav": 24,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 大漲",
+          "note": "期貨+2.3%"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 跟漲",
+          "note": "全面反彈"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 跟漲",
+          "note": "風險回升"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 大漲",
+          "note": "科技反彈"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 跟漲",
+          "note": "月配息"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 大漲",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": 300,
+        "投信": 40,
+        "自營商": 50
+      },
+      "sentiment": {
+        "score": 55,
+        "label": "中性偏多 — 伊朗和平確認+SpaceX成功+Fed本週。從極度恐慌快速回升",
+        "history": [
+          15,
+          25,
+          12,
+          8,
+          8,
+          35,
+          55
+        ]
+      },
+      "international": [
+        {
+          "name": "S&P期貨(週日)",
+          "change": 0.65
+        },
+        {
+          "name": "Nasdaq期貨",
+          "change": 0.87
+        },
+        {
+          "name": "道瓊期貨",
+          "change": 0.5
+        },
+        {
+          "name": "WTI原油",
+          "change": -5
+        },
+        {
+          "name": "SpaceX(盤後)",
+          "change": 3.5
+        }
+      ],
+      "buffett_indicator": {
+        "value": 192,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴 Trump週日宣布：美伊戰爭結束協議已達成！",
+        "🟢 荷姆茲海峽將重開+美國解除封鎖+伊朗清除水雷",
+        "🟢 油價期貨暴跌（和平確認）",
+        "🟢 美股期貨週日夜盤跳漲（S&P +0.65%、Nasdaq +0.87%）",
+        "🟢 SpaceX盤後續漲至$166+",
+        "📌 本週Fed新主席Kevin Warsh首次會議（6/16-17）",
+        "台股期貨+2.3%至45,000",
+        "上週V字：道瓊-953→+930→SpaceX $161"
+      ],
+      "summary": "🎉 美伊戰爭結束！Trump週日確認協議達成。荷姆茲海峽重開+封鎖解除。油價暴跌。全球市場狂歡。台股期貨+2.3%至45,000。上週從恐慌8→反彈55，本週可能回到70+。本週另一焦點：新Fed主席Kevin Warsh首次會議（6/16-17）。SpaceX盤後$166+。建議：地緣風險消除是重大利多。半導體ETF全面升級回「持有」。00403A債券從「減碼/觀望」升級（殖利率將下降）。但仍注意Fed會議可能帶來波動。",
+      "searched": []
+    },
+    "ai": [
+      {
+        "title": "🔴 Trump宣布美伊戰爭結束！協議達成，荷姆茲海峽重開",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "週日夜期貨跳漲。軍事行動停止+封鎖解除+水雷清除。"
+      },
+      {
+        "title": "本週Fed新主席Kevin Warsh首次會議（6/16-17）",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/",
+        "source": "Investor's Business Daily",
+        "desc": "CPI 4.2%後的利率決策。"
+      },
+      {
+        "title": "SpaceX盤後續漲$166+：IPO後市場信心持續",
+        "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "source": "CNBC",
+        "desc": "投資人看好長期但估值疑慮仍在。"
+      },
+      {
+        "title": "全球市場「Risk-on」轉換：油價-3%、股市+0.5%（週五）",
+        "url": "https://www.interactivecrypto.com/global-markets-rally-equities-climb-oil-drops-3-on-us-iran-peace-hopes-and-spacex-ipo-jun-2026",
+        "source": "Interactive Crypto",
+        "desc": "SpaceX+伊朗雙重催化。"
+      },
+      {
+        "title": "CNBC本週三大關注：伊朗和平+Fed+SpaceX後續",
+        "url": "https://www.cnbc.com/2026/06/14/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+        "source": "CNBC",
+        "desc": "三重催化劑。"
+      },
+      {
+        "title": "上週回顧：從$2兆蒸發→道瓊+930→SpaceX $161的史詩級V字",
+        "url": "https://www.sharecafe.com.au/2026/06/14/middle-east-tensions-ipo-boom-fuel-market-volatility/",
+        "source": "ShareCafe",
+        "desc": "極端波動週。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Trump宣布美伊和平：市場反應即時追蹤",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "期貨跳漲。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "伊朗和平+SpaceX成功→遊戲股受惠",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "風險偏好全面回升。"
+      },
+      {
+        "title": "RTX Spark秋季上市環境大幅改善",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "地緣風險消除。"
+      },
+      {
+        "title": "GTA 6確認11/19",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "5個月倒數。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      },
+      {
+        "title": "消費者信心可能因和平+油價跌而回升",
+        "url": "https://www.interactivecrypto.com/global-markets-rally-equities-climb-oil-drops-3-on-us-iran-peace-hopes-and-spacex-ipo-jun-2026",
+        "source": "Interactive Crypto",
+        "desc": "利好遊戲消費。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔴 美伊戰爭結束！荷姆茲海峽重開+油價暴跌",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "全球能源供應恢復。通膨壓力大幅緩解。"
+      },
+      {
+        "title": "美股期貨週日夜盤跳漲：S&P +0.65%、Nasdaq +0.87%",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/",
+        "source": "Investor's Business Daily",
+        "desc": "伊朗和平+SpaceX。"
+      },
+      {
+        "title": "SpaceX盤後$166+：IPO完美首日後持續上漲",
+        "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "source": "CNBC",
+        "desc": "$2.1兆→可能$2.5兆。"
+      },
+      {
+        "title": "Fed新主席Kevin Warsh本週首次會議",
+        "url": "https://talkmarkets.com/article/the-week-ahead-spacex-ipo-fed-interest-rate-decision-and-us-iran-deal-explained-1781470334",
+        "source": "TalkMarkets",
+        "desc": "CPI 4.2%後的利率決策。"
+      },
+      {
+        "title": "油價暴跌預期：和平確認→荷姆茲重開→全球供應恢復",
+        "url": "https://www.foreignpolicyjournal.com/2026/06/13/djia-sp-500-surge-on-us-iran-interim-peace-deal-hopes-as-spacex-debuts-and-oil-prices-tumble/",
+        "source": "FPJ",
+        "desc": "WTI可能跌至$70-75。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "美伊和平確認→油跌→通膨緩→BTC可能反彈",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "地緣風險消除利好風險資產。"
+      },
+      {
+        "title": "SpaceX $75B吸收完成+伊朗壓力解除：雙重資金回流催化",
+        "url": "https://www.fool.com/investing/2026/06/09/spacex-ipo-stock-fueling-bitcoin-sell-off/",
+        "source": "Motley Fool",
+        "desc": "BTC可能從$60K反彈。"
+      },
+      {
+        "title": "本週Fed會議：如果不升息→BTC大漲；升息→續跌",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/",
+        "source": "Investor's Business Daily",
+        "desc": "Kevin Warsh首次決策。"
+      },
+      {
+        "title": "風險偏好全面回升：股市+加密可能同步上漲",
+        "url": "https://www.interactivecrypto.com/global-markets-rally-equities-climb-oil-drops-3-on-us-iran-peace-hopes-and-spacex-ipo-jun-2026",
+        "source": "Interactive Crypto",
+        "desc": "上週V字可能延續。"
+      },
+      {
+        "title": "代幣化SpaceX繼續活躍交易",
+        "url": "https://news.bitcoin.com/spacex-ipo-hits-nasdaq-june-12-at-135-retail-investors-face-long-odds-on-allocation-37856/",
+        "source": "Bitcoin.com",
+        "desc": "SPCX代幣化在加密交易所。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "SpaceX公開後Starlink API+AI算力平台開發機會",
+        "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "source": "CNBC",
+        "desc": "公開公司=更透明的開發者合作。"
+      },
+      {
+        "title": "伊朗和平→全球供應鏈恢復：晶片/硬體物流改善",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "荷姆茲重開利好全球貿易。"
+      },
+      {
+        "title": "Fed Warsh首次會議：利率方向影響科技融資",
+        "url": "https://talkmarkets.com/article/the-week-ahead-spacex-ipo-fed-interest-rate-decision-and-us-iran-deal-explained-1781470334",
+        "source": "TalkMarkets",
+        "desc": "升息or按兵不動？"
+      },
+      {
+        "title": "上週晶片V字反彈：開發者硬體投資信心回穩",
+        "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Nasdaq +2.54%週四。"
+      }
+    ],
+    "art": [
+      {
+        "title": "美伊和平：中東衝突結束的歷史時刻",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "2月開始的戰爭終於結束。"
+      },
+      {
+        "title": "SpaceX $2.1兆視覺敘事持續",
+        "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "source": "CNBC",
+        "desc": "盤後$166+。"
+      }
+    ],
+    "design": [
+      {
+        "title": "和平協議設計：荷姆茲重開+封鎖解除+水雷清除",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "多階段執行。"
+      },
+      {
+        "title": "Fed新主席首次會議：政策設計",
+        "url": "https://talkmarkets.com/article/the-week-ahead-spacex-ipo-fed-interest-rate-decision-and-us-iran-deal-explained-1781470334",
+        "source": "TalkMarkets",
+        "desc": "Kevin Warsh風格。"
+      }
+    ],
+    "business": [
+      {
+        "title": "🔴 美伊戰爭結束！Trump確認協議達成",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "荷姆茲重開→全球能源市場重塑。通膨壓力大幅緩解。"
+      },
+      {
+        "title": "SpaceX $2.1兆成功上市後續：盤後$166+",
+        "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "source": "CNBC",
+        "desc": "投資人看好但估值疑慮。"
+      },
+      {
+        "title": "本週Fed新主席首次會議：CPI 4.2%後的決策",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/",
+        "source": "Investor's Business Daily",
+        "desc": "Kevin Warsh首秀。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🔴 美伊戰爭結束！期貨跳漲、油價暴跌",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "荷姆茲重開。S&P期貨+0.65%。"
+      },
+      {
+        "title": "SpaceX盤後$166+：$2.1兆→可能$2.5兆",
+        "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "source": "CNBC",
+        "desc": "史上最大IPO持續上漲。"
+      },
+      {
+        "title": "Fed新主席Kevin Warsh本週首次會議（6/16-17）",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/",
+        "source": "Investor's Business Daily",
+        "desc": "CPI 4.2%後決策。"
+      },
+      {
+        "title": "台股期貨+2.3%至45,000：伊朗和平確認",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "預期大漲。"
+      },
+      {
+        "title": "上週V字回顧：SPY從-3%→反彈+SpaceX",
+        "url": "https://www.sharecafe.com.au/2026/06/14/middle-east-tensions-ipo-boom-fuel-market-volatility/",
+        "source": "ShareCafe",
+        "desc": "極端波動後穩定？"
+      },
+      {
+        "title": "油價暴跌預期：和平→WTI可能$70-75",
+        "url": "https://www.foreignpolicyjournal.com/2026/06/13/djia-sp-500-surge-on-us-iran-interim-peace-deal-hopes-as-spacex-debuts-and-oil-prices-tumble/",
+        "source": "FPJ",
+        "desc": "通膨大幅緩解。"
+      }
+    ],
+    "summaries": {
+      "ai": "🔴美伊戰爭結束！期貨跳漲。Fed新主席本週首會。SpaceX $166+。上週V字。三大關注。",
+      "gaming": "伊朗和平+SpaceX→遊戲股受惠。RTX Spark環境改善。GTA 6倒數。消費回升。",
+      "tech": "🔴美伊戰爭結束！荷姆茲重開。期貨+0.87%。SpaceX $166。Fed Warsh首會。油價暴跌。",
+      "crypto": "伊朗和平+SpaceX完成→雙重壓力釋放！BTC可能反彈。Fed本週關鍵。風險偏好回升。",
+      "dev": "SpaceX公開後Starlink機會。供應鏈恢復。Fed影響融資。晶片V字。",
+      "finance": "🔴美伊和平！期貨跳漲。SpaceX $166。Fed Warsh首會。台股+2.3%。油價暴跌。上週V字。",
+      "art": "美伊和平歷史時刻、SpaceX $2.1兆。",
+      "design": "和平協議結構、Fed新主席風格。",
+      "business": "美伊戰爭結束！SpaceX $2.1兆。Fed Warsh首會。"
+    }
+  }
+}
