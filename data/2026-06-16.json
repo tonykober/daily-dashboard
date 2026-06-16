@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-16",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-16",
+      "updated_at": "2026-06-16 08:30",
+      "sparkline": [
+        42000,
+        43500,
+        45000,
+        45000,
+        45500,
+        45500,
+        45500
+      ],
+      "sparkline_dates": [
+        "6/11",
+        "6/12",
+        "6/15",
+        "6/15",
+        "6/16E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,000",
+        "change": 1000,
+        "changePercent": "+2.3%(昨)",
+        "volume": "預估2.0兆",
+        "futures": "45,500 (+1.1%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 3
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 2.5
+        },
+        {
+          "name": "電子",
+          "change": 2
+        },
+        {
+          "name": "金融",
+          "change": 1.5
+        },
+        {
+          "name": "石化",
+          "change": -5
+        },
+        {
+          "name": "航運",
+          "change": 2
+        },
+        {
+          "name": "傳產",
+          "change": 1
+        },
+        {
+          "name": "高股息ETF",
+          "change": 1.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 續漲",
+          "note": "美伊和平確認！美股週一狂歡：道瓊51,671新高、Nasdaq +3.07%。油價-5%。債券大漲。今日Fed Warsh首次會議開始（6/16-17）",
+          "nav": null,
+          "pb": 12.5,
+          "premium": null,
+          "pe": 36,
+          "quarterLine": 15,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 續漲",
+          "note": "期貨+1.1%至45,500。和平確認後持續做多",
+          "nav": 225,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩升",
+          "note": "全面上漲",
+          "nav": 44.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩升",
+          "note": "風險偏好回升",
+          "nav": 26,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 穩升",
+          "note": "月配息+大盤漲",
+          "nav": 28.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 穩升",
+          "note": "價值型",
+          "nav": 10,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 續漲",
+          "note": "同0050",
+          "nav": 115,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 強勢",
+          "note": "Nasdaq +3.07%帶動半導體全面上漲",
+          "nav": 35,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 強勢",
+          "note": "半導體族群持續反彈",
+          "nav": 18.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型跟隨",
+          "nav": 16,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動成長型",
+          "nav": 32.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "漲 大漲",
+          "note": "伊朗和平→油價暴跌→通膨緩→殖利率下降→債券大漲！",
+          "nav": null,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 續漲",
+          "note": "不配息複利型，跟隨大盤",
+          "nav": 62,
+          "pb": null,
+          "premium": 0,
+          "pe": 22.5,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強勢",
+          "note": "科技+配息，Nasdaq +3%帶動",
+          "nav": 25,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 續漲",
+          "note": "期貨+1.1%"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 穩升",
+          "note": "全面漲"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 穩升",
+          "note": "風險回升"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 強勢",
+          "note": "Nasdaq +3%"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 穩升",
+          "note": "月配息"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 續漲",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": 350,
+        "投信": 40,
+        "自營商": 50
+      },
+      "sentiment": {
+        "score": 68,
+        "label": "偏多→貪婪 — 美伊和平確認+美股狂歡+油價跌。但Fed今日開會需注意",
+        "history": [
+          25,
+          12,
+          8,
+          8,
+          35,
+          55,
+          68
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週一)",
+          "change": 0.92
+        },
+        {
+          "name": "S&P 500",
+          "change": 1.65
+        },
+        {
+          "name": "Nasdaq",
+          "change": 3.07
+        },
+        {
+          "name": "WTI原油",
+          "change": -5
+        },
+        {
+          "name": "美10年期殖利率",
+          "change": -0.1
+        },
+        {
+          "name": "SpaceX SPCX",
+          "change": 3
+        }
+      ],
+      "buffett_indicator": {
+        "value": 197,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🟢 美股週一狂歡！道瓊+468新高51,671、Nasdaq +3.07%、S&P +1.65%",
+        "🟢 美伊MOU確認：停火+荷姆茲重開+封鎖解除",
+        "🟢 油價暴跌-5%：全球通膨壓力大幅緩解",
+        "🟢 債券大漲：殖利率下降（降息預期回升？）",
+        "🟢 SpaceX SPCX續漲：$166+",
+        "📌 今日Fed新主席Kevin Warsh首次會議開始（6/16-17）",
+        "⚠️ MOU尚未正式簽署，文本未公開，以色列非當事方",
+        "台股期貨+1.1%至45,500"
+      ],
+      "summary": "🎉 美伊和平確認後市場全面狂歡！道瓊新高、Nasdaq +3%、油價-5%、債券大漲。台股預期續漲。14檔全面「持有」。但今日Fed Warsh首次會議開始 — 如果暗示不升息→繼續大漲；如果確認升息→可能回檔。建議：享受和平紅利，但明日Fed決議前不過度加碼。",
+      "searched": []
+    }
+  }
+}
