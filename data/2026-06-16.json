@@ -1,17 +1,271 @@
 {
   "date": "2026-06-16",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "美伊和平協議已簽署！正式簽約6/19瑞士",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel/",
+        "source": "CBS News",
+        "desc": "60天停火+荷姆茲立即重開+伊朗$24B凍結資金釋放一半。"
+      },
+      {
+        "title": "SpaceX SPCX Day 2漲至$190（+40%從IPO）！",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "IPO後兩天+40%。Musk財富持續暴漲。"
+      },
+      {
+        "title": "全球股市因和平狂歡：道瓊51,671新高、Nasdaq +3.07%",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價-5%。債券大漲。風險偏好爆發。"
+      },
+      {
+        "title": "AP：初步協議結束數月戰爭，已電子簽署",
+        "url": "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20",
+        "source": "AP News",
+        "desc": "殺死數千人+推高全球物價。巴基斯坦斡旋。"
+      },
+      {
+        "title": "Fed Warsh今日首次會議：和平後可能不需升息？",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價暴跌→通膨可能快速下降→升息需要重估。"
+      },
+      {
+        "title": "投資人警告：協議尚未正式簽署，以色列非當事方",
+        "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-hormuz-markets.html",
+        "source": "CNBC",
+        "desc": "MOU文本未公開。需6/19確認。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "和平確認→消費者信心回升→遊戲消費環境改善",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價跌→物價降→可支配收入增。"
+      },
+      {
+        "title": "SpaceX $190帶動科技/遊戲情緒",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "IPO +40%兩天。"
+      },
+      {
+        "title": "GTA 6確認11/19：和平環境下消費者更願意花錢",
+        "url": "https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6",
+        "source": "GamesIndustry.biz",
+        "desc": "5個月倒數。"
+      },
+      {
+        "title": "Forza Horizon 6 Season 1持續",
+        "url": "https://www.purexbox.com/news/2026/05/forza-horizon-6-is-available-today-with-xbox-game-pass-and-heres-whats-coming-in-season-1",
+        "source": "Pure Xbox",
+        "desc": "每週更新。"
+      },
+      {
+        "title": "RTX Spark秋季上市：和平環境有利高端消費",
+        "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
+        "source": "PCWorld",
+        "desc": "$2000-2900。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔴 美伊協議已簽署！6/19瑞士正式簽約",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel/",
+        "source": "CBS News",
+        "desc": "電子簽署完成。停火+荷姆茲+$24B資金。"
+      },
+      {
+        "title": "SpaceX SPCX $190！IPO兩天+40%",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "Day 2 +18%。$2.5兆+估值。"
+      },
+      {
+        "title": "全球股市狂歡：道瓊51,671新高、油價-5%",
+        "url": "https://www.latimes.com/business/story/2026-06-15/stocks-leap-worldwide-oil-prices-drop-after-us-iran-reach-tentative-deal-on-their-war",
+        "source": "LA Times",
+        "desc": "全球風險偏好爆發。"
+      },
+      {
+        "title": "今日Fed Warsh首次會議：和平後升息還需要嗎？",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "油價跌→通膨降→可能不升？"
+      },
+      {
+        "title": "荷姆茲海峽重開：全球能源供應鏈恢復中",
+        "url": "https://channelnewsasia.com/asia/us-iran-peace-deal-shares-stocks-oil-6182951",
+        "source": "CNA",
+        "desc": "油價可能跌至$70。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC突破$66K！美伊和平觸發Risk-on反彈",
+        "url": "https://news.bitcoin.com/bitcoin-tops-66k-as-us-iran-deal-triggers-risk-on-rally-across-markets/",
+        "source": "Bitcoin.com",
+        "desc": "荷姆茲重開+停火確認。"
+      },
+      {
+        "title": "BTC $65K：伊朗和平+FOMC本週雙重催化",
+        "url": "https://crypto.com/en/market-updates/btc-65k-iran-peace-warsh-fomc",
+        "source": "Crypto.com",
+        "desc": "正式簽約6/19。Fed明日決議。"
+      },
+      {
+        "title": "加密市場謹慎樂觀：交易者質疑停火持久性",
+        "url": "https://www.coindesk.com/markets/2026/06/15/u-s-iran-deal-lifts-equities-sends-oil-lower-while-crypto-stays-wary",
+        "source": "CoinDesk",
+        "desc": "股市狂歡但加密僅溫和漲。"
+      },
+      {
+        "title": "The Street：伊朗和平推動BTC/XRP大漲",
+        "url": "https://www.thestreet.com/crypto/markets/traders-remain-cautious-despite-bitcoin-xrp-rally",
+        "source": "The Street",
+        "desc": "BTC突破$65K心理阻力。"
+      },
+      {
+        "title": "CoinDesk：BTC交易者不預期會突破$75K",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "Trump仍警告可能進一步打擊伊朗。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "SpaceX SPCX公開後API/平台開發機會擴大",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "$190股價=更多資源。"
+      },
+      {
+        "title": "荷姆茲重開→全球供應鏈恢復：晶片物流改善",
+        "url": "https://channelnewsasia.com/asia/us-iran-peace-deal-shares-stocks-oil-6182951",
+        "source": "CNA",
+        "desc": "能源成本降+物流恢復。"
+      },
+      {
+        "title": "Fed Warsh決議影響科技融資環境",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "不升息→融資寬鬆。"
+      },
+      {
+        "title": "油價暴跌對AI/雲端數據中心成本的影響",
+        "url": "https://www.barchart.com/story/news/2474936/stocks-rally-as-us-iran-peace-deal-sinks-oil-and-bond-yields",
+        "source": "Barchart",
+        "desc": "能源成本大幅下降。"
+      }
+    ],
+    "art": [
+      {
+        "title": "美伊和平簽署：結束數月戰爭的歷史時刻",
+        "url": "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20",
+        "source": "AP News",
+        "desc": "2月→6月。"
+      },
+      {
+        "title": "SpaceX $190：從$135到$190的視覺軌跡",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "兩天+40%。"
+      }
+    ],
+    "design": [
+      {
+        "title": "和平協議架構：60天停火+荷姆茲+$24B+核談判",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel/",
+        "source": "CBS News",
+        "desc": "多階段設計。"
+      },
+      {
+        "title": "Fed新主席首次決策的制度設計",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Kevin Warsh風格。"
+      }
+    ],
+    "business": [
+      {
+        "title": "美伊協議已簽署：$24B凍結資金一半釋放+荷姆茲重開",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel/",
+        "source": "CBS News",
+        "desc": "革命衛隊確認。6/19正式簽約。"
+      },
+      {
+        "title": "SpaceX SPCX $190（+40%兩天）：$2.5兆+估值",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "史上最大IPO持續狂歡。"
+      },
+      {
+        "title": "全球市場因和平重塑：油價跌→通膨降→利率降？",
+        "url": "https://channelnewsasia.com/asia/us-iran-peace-deal-shares-stocks-oil-6182951",
+        "source": "CNA",
+        "desc": "全球經濟格局可能改變。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美伊協議已電子簽署！6/19瑞士正式簽約",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel/",
+        "source": "CBS News",
+        "desc": "伊朗$24B凍結資金一半釋放。停火+荷姆茲+制裁緩解。"
+      },
+      {
+        "title": "道瓊51,671新高！Nasdaq +3.07%！油價-5%！",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P 7,554。全面狂歡。"
+      },
+      {
+        "title": "SpaceX SPCX $190（IPO +40%兩天）",
+        "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+        "source": "CoinDesk",
+        "desc": "Day 2 +18%。$2.5兆。"
+      },
+      {
+        "title": "BTC突破$66K：和平觸發Risk-on反彈",
+        "url": "https://news.bitcoin.com/bitcoin-tops-66k-as-us-iran-deal-triggers-risk-on-rally-across-markets/",
+        "source": "Bitcoin.com",
+        "desc": "從$60K低點反彈10%。"
+      },
+      {
+        "title": "Fed Warsh今日開會：和平後升息需要重估",
+        "url": "https://crypto.com/en/market-updates/btc-65k-iran-peace-warsh-fomc",
+        "source": "Crypto.com",
+        "desc": "油價跌→通膨降→可能按兵不動。"
+      },
+      {
+        "title": "台股期貨+1.1%至45,500：和平+美股狂歡帶動",
+        "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "預期續漲。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "美伊和平協議簽署：全球市場反應即時追蹤",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel/",
+        "source": "CBS News",
+        "desc": "直播更新。"
+      }
+    ],
+    "summaries": {
+      "ai": "美伊協議已簽署！6/19瑞士正式。SpaceX $190（+40%）。道瓊51,671。Fed今日開會。投資人警告尚未完全確認。",
+      "gaming": "和平→消費改善。SpaceX $190情緒。GTA 6倒數。FH6。RTX Spark環境改善。",
+      "tech": "🔴美伊已簽署！SpaceX $190。道瓊新高。Fed今開會。荷姆茲重開。油價暴跌。",
+      "crypto": "BTC突破$66K！和平Risk-on。但交易者謹慎（停火持久性？）。Fed明日。不預期破$75K。",
+      "dev": "SpaceX公開後擴大。供應鏈恢復。Fed融資。能源成本降。",
+      "finance": "🔴美伊已簽！道瓊51,671。SpaceX $190。BTC $66K。Fed今開會。台股+1.1%。油-5%。",
+      "art": "和平歷史時刻、SpaceX $190軌跡。",
+      "design": "和平協議架構、Fed制度。",
+      "business": "美伊$24B釋放。SpaceX $2.5兆。全球格局重塑。"
+    },
     "stock_briefing": {
       "date": "2026-06-16",
       "updated_at": "2026-06-16 08:30",
