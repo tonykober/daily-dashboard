@@ -1,17 +1,277 @@
 {
   "date": "2026-06-17",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "Fed新主席Warsh觀點：AI將提升生產力、緩解通膨",
+        "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+        "source": "CBS News",
+        "desc": "Warsh認為AI boom有助降低借貸成本。今日2:30PM ET記者會。"
+      },
+      {
+        "title": "道瓊突破52,000新高！但Nasdaq -1.15%晶片輪動",
+        "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "道瓊51,999收盤。科技股輪動賣壓。"
+      },
+      {
+        "title": "SpaceX SPCX第三日回檔：IPO後獲利了結",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "TSM和LITE同步下跌。"
+      },
+      {
+        "title": "Warsh已出售$1億加密資產組合：利益迴避",
+        "url": "https://www.coininsider.com/news/kevin-warsh-chairs-first-fed-meeting-as-markets-watch-for-rate-signals/",
+        "source": "CoinInsider",
+        "desc": "20+加密相關投資全部清空。"
+      },
+      {
+        "title": "今日Fed利率決議：99.6%機率維持不變",
+        "url": "https://www.cryptotimes.io/2026/06/16/kevin-warshs-first-fomc-meeting-has-99-6-odds-of-no-rate-change/",
+        "source": "Crypto Times",
+        "desc": "重點在SEP經濟預測和Warsh記者會語氣。"
+      },
+      {
+        "title": "台股週一暴漲1,200點收45,200：美伊和平確認",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/16/2003859150",
+        "source": "Taipei Times",
+        "desc": "突破45,000關卡。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Nintendo Direct回顧：Zelda時之笛重製確認2026年",
+        "url": "https://www.ign.com/articles/nintendo-direct-june-2026-live-updates-every-game-announcement",
+        "source": "IGN",
+        "desc": "N64經典在Switch 2重生。薩爾達40週年。"
+      },
+      {
+        "title": "GTA 6確認11/19 PS5/Xbox：PC等2年、Switch 2不支援",
+        "url": "https://www.techtimes.com/articles/318280/20260612/gta-6-hits-ps5-xbox-november-19-pc-players-face-2-year-wait-switch-2-left-out.htm",
+        "source": "TechTimes",
+        "desc": "業界繞開GTA 6發售日。"
+      },
+      {
+        "title": "Gears of War E-Day 10/8獨佔Xbox：取消PS5版本",
+        "url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+        "source": "Polygon",
+        "desc": "Xbox Showcase大驚喜。"
+      },
+      {
+        "title": "Splatoon Raiders 7/23、Switch Sports Resort 10/22",
+        "url": "https://www.g2a.com/news/features/nintendo-direct-june-2026-recap-ocarina-of-time-xenoblade-genesis-switch-sports-resort-and-more/",
+        "source": "G2A",
+        "desc": "Switch 2陣容持續壯大。"
+      },
+      {
+        "title": "Xenoblade Genesis 2027、Star Fox本月上市",
+        "url": "https://www.ign.com/articles/nintendo-direct-june-2026-live-updates-every-game-announcement",
+        "source": "IGN",
+        "desc": "Nintendo Direct滿載。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Fed Warsh今日首次記者會：AI生產力觀點受矚目",
+        "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+        "source": "CBS News",
+        "desc": "AI boom→生產力↑→通膨↓→利率可能更低。"
+      },
+      {
+        "title": "道瓊52,000但Nasdaq -1.15%：科技晶片輪動",
+        "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "TSM、Lumentum下跌。Marvell +10% (S&P 500入列)。"
+      },
+      {
+        "title": "台股+1,200點至45,200：歷史級單日漲幅",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/16/2003859150",
+        "source": "Taipei Times",
+        "desc": "美伊和平確認後全面做多。"
+      },
+      {
+        "title": "Nintendo Switch 2生態系持續擴大：Zelda OoT+多款新作",
+        "url": "https://www.ign.com/articles/nintendo-direct-june-2026-live-updates-every-game-announcement",
+        "source": "IGN",
+        "desc": "Switch 2軟體陣容爆發。"
+      },
+      {
+        "title": "SpaceX SPCX Day 3回檔：Warsh會後可能恢復",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "獲利了結正常。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC ETF週一資金流出！但其他加密ETF全部流入",
+        "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
+        "source": "CoinDesk",
+        "desc": "BTC vs altcoin分化。"
+      },
+      {
+        "title": "Warsh已清空$1億加密投資：個人觀點不再適用",
+        "url": "https://beincrypto.com/kevin-warsh-first-fed-meeting-crypto-bitcoin-dot-plot/",
+        "source": "BeInCrypto",
+        "desc": "Dot plot可能定價升息：利空BTC。"
+      },
+      {
+        "title": "BTC $66K：Fed前夕滑落5%",
+        "url": "https://www.ainvest.com/news/bitcoin-66k-warsh-fed-day-reprice-crypto-summer-2606/",
+        "source": "AInvest",
+        "desc": "降息機率僅3-4%。流動性不足。"
+      },
+      {
+        "title": "99.6%機率維持利率：重點在Warsh語氣和SEP",
+        "url": "https://www.cryptotimes.io/2026/06/16/kevin-warshs-first-fomc-meeting-has-99-6-odds-of-no-rate-change/",
+        "source": "Crypto Times",
+        "desc": "經濟預測摘要可能暗示升息路徑。"
+      },
+      {
+        "title": "神祕交易者在Warsh首次FOMC前移動$2億",
+        "url": "https://www.thestreet.com/crypto/fed/mysterious-trader-moves-200m-before-warshs-first-fomc",
+        "source": "The Street",
+        "desc": "大戶佈局。"
+      },
+      {
+        "title": "歷史規律：每次Fed領導層換人BTC都大跌",
+        "url": "https://www.cryptotimes.io/2026/06/15/kevin-warshs-first-fomc-what-it-means-for-bitcoin-and-crypto/",
+        "source": "Crypto Times",
+        "desc": "Powell→Warsh轉換期風險。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Warsh：AI提升生產力→開發者受益（借貸成本可能降）",
+        "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+        "source": "CBS News",
+        "desc": "Fed主席公開看好AI。"
+      },
+      {
+        "title": "Switch 2開發者機會：Zelda OoT重製+多款新IP",
+        "url": "https://www.ign.com/articles/nintendo-direct-june-2026-live-updates-every-game-announcement",
+        "source": "IGN",
+        "desc": "Switch 2 SDK需求激增。"
+      },
+      {
+        "title": "GTA 6 11/19：業界開發排程全面調整",
+        "url": "https://variety.com/2026/gaming/news/gta-6-impact-september-release-schedule-summer-game-fest-recap-1236778726/",
+        "source": "Variety",
+        "desc": "所有工作室避開11月。"
+      },
+      {
+        "title": "Marvell +10%即將加入S&P 500：AI晶片開發需求",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "6/22正式加入。"
+      }
+    ],
+    "art": [
+      {
+        "title": "Zelda時之笛重製：N64經典視覺在Switch 2重生",
+        "url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+        "source": "Polygon",
+        "desc": "薩爾達40週年紀念。"
+      },
+      {
+        "title": "Gears of War E-Day美術風格：回歸初代黑暗恐怖",
+        "url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+        "source": "Polygon",
+        "desc": "Xbox獨佔。"
+      }
+    ],
+    "design": [
+      {
+        "title": "Warsh Fed設計哲學：減少前瞻指引、更少預期管理",
+        "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+        "source": "CBS News",
+        "desc": "與Powell截然不同的溝通設計。"
+      },
+      {
+        "title": "Nintendo Direct敘事設計：40週年+Switch 2的完美結合",
+        "url": "https://www.g2a.com/news/features/nintendo-direct-june-2026-recap-ocarina-of-time-xenoblade-genesis-switch-sports-resort-and-more/",
+        "source": "G2A",
+        "desc": "產品線設計。"
+      }
+    ],
+    "business": [
+      {
+        "title": "Fed Warsh今日首次決議：AI觀點可能改變貨幣政策框架",
+        "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+        "source": "CBS News",
+        "desc": "Warsh：AI→生產力→通膨緩→利率降。"
+      },
+      {
+        "title": "道瓊突破52,000：伊朗和平+SpaceX+Fed三重催化",
+        "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "但Nasdaq -1.15%輪動。"
+      },
+      {
+        "title": "GTA 6效應：遊戲業H2排程全面重塑",
+        "url": "https://variety.com/2026/gaming/news/gta-6-impact-september-release-schedule-summer-game-fest-recap-1236778726/",
+        "source": "Variety",
+        "desc": "所有大作避開11/19。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "今日Fed Warsh首次利率決議：99.6%維持3.50-3.75%",
+        "url": "https://www.cryptotimes.io/2026/06/16/kevin-warshs-first-fomc-meeting-has-99-6-odds-of-no-rate-change/",
+        "source": "Crypto Times",
+        "desc": "重點在SEP和記者會語氣。"
+      },
+      {
+        "title": "道瓊52,000新高！Nasdaq -1.15%晶片輪動",
+        "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Marvell +10% S&P入列。TSM下跌。"
+      },
+      {
+        "title": "台股+1,200點至45,200：突破45K關卡",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/16/2003859150",
+        "source": "Taipei Times",
+        "desc": "美伊和平確認後歷史級漲幅。"
+      },
+      {
+        "title": "BTC $66K滑落5%：Fed前夕避險+ETF流出",
+        "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
+        "source": "CoinDesk",
+        "desc": "降息僅3-4%機率。"
+      },
+      {
+        "title": "Warsh：AI生產力觀點可能改寫利率前景",
+        "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+        "source": "CBS News",
+        "desc": "鴿派暗示→大漲；鷹派→回檔。"
+      },
+      {
+        "title": "伊朗和平疑慮：荷姆茲重開速度不如預期",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rises-sp-500-and-nasdaq-drift-ahead-of-warshs-first-fed-meeting-as-chair-223512220.html",
+        "source": "Yahoo Finance",
+        "desc": "和平紅利可能消退。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Warsh首次記者會：今日2:30PM ET",
+        "url": "https://cryptobriefing.com/fed-chair-warsh-first-fomc-press-conference/",
+        "source": "Crypto Briefing",
+        "desc": "全球關注。"
+      }
+    ],
+    "summaries": {
+      "ai": "Warsh：AI提升生產力、緩解通膨。道瓊52K。台股+1200。SpaceX回檔。今日記者會2:30PM ET。",
+      "gaming": "🎮 Zelda OoT重製！GTA 6確認11/19。Gears E-Day 10/8。Splatoon Raiders 7/23。Switch 2生態爆發。",
+      "tech": "Fed Warsh今日記者會（AI觀點）。道瓊52K但Nasdaq -1.15%。台股+1200。Switch 2。SpaceX回檔。",
+      "crypto": "BTC ETF流出！$66K滑5%。Warsh清空$1億加密。99.6%維持利率。$2億神祕交易。歷史規律利空。",
+      "dev": "Warsh看好AI。Switch 2開發機會。GTA 6效應。Marvell S&P入列。",
+      "finance": "⚡Fed決議日！99.6%維持。道瓊52K。Nasdaq -1.15%。台股+1200。BTC $66K跌5%。伊朗疑慮。",
+      "art": "Zelda OoT Switch 2重生、Gears E-Day回歸黑暗。",
+      "design": "Warsh減少前瞻指引、Nintendo Direct敘事。",
+      "business": "Warsh AI觀點。道瓊52K。GTA 6效應重塑遊戲業。"
+    },
     "stock_briefing": {
       "date": "2026-06-17",
       "updated_at": "2026-06-17 08:30",
