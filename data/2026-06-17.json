@@ -1,0 +1,327 @@
+{
+  "date": "2026-06-17",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-17",
+      "updated_at": "2026-06-17 08:30",
+      "sparkline": [
+        43500,
+        45000,
+        45200,
+        45200,
+        45000,
+        45000,
+        45000
+      ],
+      "sparkline_dates": [
+        "6/12",
+        "6/15",
+        "6/16",
+        "6/16",
+        "6/17E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,200",
+        "change": 1200,
+        "changePercent": "+2.7%(昨)",
+        "volume": "2.1兆(昨)",
+        "futures": "45,000 (-0.4%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -1.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -1
+        },
+        {
+          "name": "電子",
+          "change": -0.5
+        },
+        {
+          "name": "金融",
+          "change": 1
+        },
+        {
+          "name": "石化",
+          "change": -2
+        },
+        {
+          "name": "航運",
+          "change": 0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": -0.3
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 回檔",
+          "note": "Nasdaq -1.15%晶片輪動賣壓。TSM美股下跌。道瓊52,000新高但科技弱。今日Fed Warsh利率決議！預期按兵不動(3.50-3.75%)。",
+          "nav": null,
+          "pb": 12.5,
+          "premium": null,
+          "pe": 36,
+          "quarterLine": 13,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 小回",
+          "note": "昨日+1200點至45,200後今日科技回檔壓力。期貨-0.4%",
+          "nav": 226,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "平 持穩",
+          "note": "高股息防禦性強",
+          "nav": 44.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "平 持穩",
+          "note": "防禦型",
+          "nav": 26,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "平 持穩",
+          "note": "月配息",
+          "nav": 28.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "平 持穩",
+          "note": "價值型防禦",
+          "nav": 10,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 小回",
+          "note": "同0050",
+          "nav": 116,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 回檔",
+          "note": "Nasdaq -1.15%晶片輪動。TSM/LITE下跌",
+          "nav": 35,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 回檔",
+          "note": "半導體短期回檔",
+          "nav": 18.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "平 持穩",
+          "note": "主動型",
+          "nav": 16,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平 持穩",
+          "note": "主動型",
+          "nav": 32.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "平 觀望",
+          "note": "Fed今日決議。按兵不動已定價，重點看Warsh談話語氣",
+          "nav": null,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 小回",
+          "note": "跟隨大盤",
+          "nav": 62,
+          "pb": null,
+          "premium": 0,
+          "pe": 22,
+          "quarterLine": 5.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "跌 回檔",
+          "note": "科技回檔壓力",
+          "nav": 25,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "跌 小回",
+          "note": "科技回檔"
+        },
+        {
+          "name": "0056",
+          "trend": "平 持穩",
+          "note": "防禦"
+        },
+        {
+          "name": "00878",
+          "trend": "平 持穩",
+          "note": "防禦"
+        },
+        {
+          "name": "00929",
+          "trend": "跌 回檔",
+          "note": "科技弱"
+        },
+        {
+          "name": "00919",
+          "trend": "平 持穩",
+          "note": "月配息"
+        },
+        {
+          "name": "009816",
+          "trend": "跌 小回",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": 200,
+        "投信": 30,
+        "自營商": 20
+      },
+      "sentiment": {
+        "score": 62,
+        "label": "偏多 — 道瓊新高52K但Nasdaq -1.15%。今日Fed決議。伊朗和平疑慮浮現",
+        "history": [
+          12,
+          8,
+          35,
+          55,
+          68,
+          62,
+          62
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週二)",
+          "change": 0.64
+        },
+        {
+          "name": "S&P 500",
+          "change": -0.57
+        },
+        {
+          "name": "Nasdaq",
+          "change": -1.15
+        },
+        {
+          "name": "WTI原油",
+          "change": -1.5
+        },
+        {
+          "name": "SpaceX SPCX",
+          "change": -3
+        },
+        {
+          "name": "台積電ADR",
+          "change": -2
+        }
+      ],
+      "buffett_indicator": {
+        "value": 198,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "📌 今日Fed Warsh首次利率決議！預期維持3.50-3.75%",
+        "⚠️ 重點看Warsh記者會語氣：鴿派→大漲；鷹派→回檔",
+        "🟢 道瓊52,000新高（+0.64%至51,999）",
+        "🔴 Nasdaq -1.15%：晶片輪動賣壓（TSM、LITE下跌）",
+        "🔴 SpaceX SPCX Day 3回檔（IPO後獲利了結）",
+        "⚠️ 伊朗和平疑慮：荷姆茲重開速度不如預期",
+        "🟢 台股昨日+1,200點收45,200（週一和平行情）",
+        "台股期貨-0.4%：科技回檔壓力"
+      ],
+      "summary": "⚡ Fed決議日！今晚Warsh首次利率決議公布。預期按兵不動(3.50-3.75%)，重點看記者會語氣。昨日道瓊52K新高但Nasdaq -1.15%晶片輪動。台股預期小回。鴿派→大漲；鷹派→回檔。建議：持有等Fed，不宜今日大動作。14檔維持持有。",
+      "searched": []
+    }
+  }
+}
