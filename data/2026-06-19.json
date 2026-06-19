@@ -1,0 +1,569 @@
+{
+  "date": "2026-06-19",
+  "categories": {
+    "stock_briefing": {
+      "date": "2026-06-19",
+      "updated_at": "2026-06-19 08:30",
+      "sparkline": [
+        45200,
+        45200,
+        44500,
+        44800,
+        45000,
+        45000,
+        45000
+      ],
+      "sparkline_dates": [
+        "6/16",
+        "6/16",
+        "6/17",
+        "6/18",
+        "6/19E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "44,800(昨估)",
+        "change": 500,
+        "changePercent": "+1.1%(估)",
+        "volume": "預估1.8兆",
+        "futures": "45,000 (+0.4%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 2.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 2
+        },
+        {
+          "name": "電子",
+          "change": 1.5
+        },
+        {
+          "name": "金融",
+          "change": 0.5
+        },
+        {
+          "name": "石化",
+          "change": -2
+        },
+        {
+          "name": "航運",
+          "change": 0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 反彈",
+          "note": "🟢 美股大反彈！Nasdaq +2.3%、S&P +1.3%。AI晶片交易重燃。伊朗MoU已簽！油價續跌。制裁解除。今日6/19瑞士正式簽約。",
+          "nav": null,
+          "pb": 12.2,
+          "premium": null,
+          "pe": 35.5,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 反彈",
+          "note": "期貨+0.4%至45,000。伊朗協議+科技反彈",
+          "nav": 224,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩升",
+          "note": "全面反彈",
+          "nav": 44.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩升",
+          "note": "持穩",
+          "nav": 25.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 穩升",
+          "note": "月配息",
+          "nav": 28.2,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 穩升",
+          "note": "價值型",
+          "nav": 9.9,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 反彈",
+          "note": "同0050",
+          "nav": 115,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 強彈",
+          "note": "AI晶片交易重燃！Nasdaq +2.3%",
+          "nav": 34.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 強彈",
+          "note": "半導體反彈",
+          "nav": 18.3,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型",
+          "nav": 15.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "主動型",
+          "nav": 32.3,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "跌 續弱",
+          "note": "殖利率仍高。Warsh鷹派餘震。短期不宜加碼。",
+          "nav": null,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -5.5,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 反彈",
+          "note": "跟隨大盤",
+          "nav": 61,
+          "pb": null,
+          "premium": 0,
+          "pe": 21.5,
+          "quarterLine": 4.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強彈",
+          "note": "科技反彈+配息",
+          "nav": 24.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 反彈",
+          "note": "期貨+0.4%"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 穩升",
+          "note": "持穩"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 穩升",
+          "note": "反彈"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 強彈",
+          "note": "科技"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 穩升",
+          "note": "配息"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 反彈",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": 150,
+        "投信": 20,
+        "自營商": 10
+      },
+      "sentiment": {
+        "score": 52,
+        "label": "中性 — 伊朗簽約+科技反彈vs.升息陰影。V字反彈但不確定性仍在",
+        "history": [
+          35,
+          55,
+          68,
+          62,
+          42,
+          52,
+          52
+        ]
+      },
+      "international": [
+        {
+          "name": "道瓊(週四)",
+          "change": 1.2
+        },
+        {
+          "name": "S&P 500",
+          "change": 1.3
+        },
+        {
+          "name": "Nasdaq",
+          "change": 2.3
+        },
+        {
+          "name": "WTI原油",
+          "change": -2
+        },
+        {
+          "name": "美元指數",
+          "change": 0.5
+        },
+        {
+          "name": "BTC",
+          "change": -1.3
+        }
+      ],
+      "buffett_indicator": {
+        "value": 197,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🟢 美股大反彈！Nasdaq +2.3%、S&P +1.3%、道瓊+1.2%",
+        "🟢 伊朗MoU已簽！Trump簽署。制裁解除+伊朗可自由出口石油",
+        "🟢 AI晶片交易重燃！科技領漲",
+        "📌 今日6/19瑞士正式簽約儀式",
+        "🔴 BTC逆勢下跌$63,908（-1.3%）：Fed鷹派壓過和平利多",
+        "⚠️ 升息陰影仍在：dot plot 3.8%年底",
+        "🟢 油價續跌：制裁解除+荷姆茲重開",
+        "台股期貨+0.4%至45,000"
+      ],
+      "summary": "🟢 美股V字反彈！Nasdaq +2.3%、AI晶片重燃。伊朗MoU已簽（制裁解除）。今日瑞士正式儀式。但BTC逆勢跌（Fed鷹派>和平）。台股預期小漲。半導體回升。升息陰影仍在但市場選擇先慶祝和平。00403A繼續觀望（殖利率高）。",
+      "searched": []
+    },
+    "ai": [
+      {
+        "title": "🟢 美股V字反彈！Nasdaq +2.3%：AI晶片交易重燃",
+        "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
+        "source": "Yahoo Finance",
+        "desc": "科技領漲。投資人消化Fed後轉向和平利多。"
+      },
+      {
+        "title": "伊朗MoU已簽！Trump簽署。制裁解除+自由出口石油",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "美國讓步解除制裁。油價續跌。"
+      },
+      {
+        "title": "S&P +1.3%、道瓊+1.2%：伊朗和平抵消Fed鷹派",
+        "url": "https://cryptobriefing.com/nasdaq-sp500-rally-us-iran-peace-deal/",
+        "source": "Crypto Briefing",
+        "desc": "Nasdaq +2.3%為數週最佳。"
+      },
+      {
+        "title": "今日6/19瑞士正式簽約：最後一個本週催化劑",
+        "url": "https://blockchainreporter.net/crypto-market-today-june-18-2026-bitcoin-64350-stocks-rally-iran-deal-crypto-falls/",
+        "source": "Blockchain Reporter",
+        "desc": "可能扭轉Fed壓力。"
+      },
+      {
+        "title": "Reuters：華爾街指數上漲，晶片+伊朗樂觀",
+        "url": "https://www.reuters.com/business/wall-st-futures-bounce-back-us-iran-deal-optimism-balances-hawkish-fed-intel-up-2026-06-18/",
+        "source": "Reuters",
+        "desc": "上漲股>下跌股 1.77:1。"
+      },
+      {
+        "title": "美元指數創年度新高：Fed鷹派+強勢經濟",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094119/nasdaq-set-to-rebound-as-iran-deal-signed-dollar-hits-year-s-high-1094119.html",
+        "source": "Proactive Investors",
+        "desc": "SpaceX再跌。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "伊朗MoU簽署儀式+市場反應",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "直播。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "消費環境可能改善：油價跌+伊朗和平=物價降",
+        "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
+        "source": "Yahoo Finance",
+        "desc": "遊戲消費受益。"
+      },
+      {
+        "title": "GTA 6 11/19倒數5個月：業界H2全面調整",
+        "url": "https://www.techtimes.com/articles/318280/20260612/gta-6-hits-ps5-xbox-november-19-pc-players-face-2-year-wait-switch-2-left-out.htm",
+        "source": "TechTimes",
+        "desc": "PC 2年後。"
+      },
+      {
+        "title": "Zelda OoT重製+Switch 2：任天堂生態壯大",
+        "url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+        "source": "Polygon",
+        "desc": "2026最重要的主機生態。"
+      },
+      {
+        "title": "科技反彈利好遊戲股：Nasdaq +2.3%",
+        "url": "https://cryptobriefing.com/nasdaq-sp500-rally-us-iran-peace-deal/",
+        "source": "Crypto Briefing",
+        "desc": "風險偏好回升。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nasdaq +2.3%！AI晶片交易重燃、科技領漲",
+        "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed鷹派後一天就反彈。"
+      },
+      {
+        "title": "伊朗制裁解除：全球能源供應正常化→通膨可望緩解",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "伊朗可自由出口石油。"
+      },
+      {
+        "title": "美元指數年度新高：Fed鷹派+強勢經濟",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094119/nasdaq-set-to-rebound-as-iran-deal-signed-dollar-hits-year-s-high-1094119.html",
+        "source": "Proactive Investors",
+        "desc": "美元走強。SpaceX續跌。"
+      },
+      {
+        "title": "油價續跌：制裁解除確認+荷姆茲作業中",
+        "url": "https://uk.advfn.com/market-news/article/18041/futures-rise-as-markets-welcome-iran-agreement-and-lower-oil-prices-dow-jones-sp-nasdaq-wall-street",
+        "source": "ADVFN",
+        "desc": "WTI持續下行。"
+      },
+      {
+        "title": "今日瑞士正式簽約：本週最後催化劑",
+        "url": "https://blockchainreporter.net/crypto-market-today-june-18-2026-bitcoin-64350-stocks-rally-iran-deal-crypto-falls/",
+        "source": "Blockchain Reporter",
+        "desc": "可完全確認和平。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "🔴 BTC $63,908（-1.3%）逆勢下跌！股票漲、加密跌",
+        "url": "https://blockchainreporter.net/bitcoin-news-today/",
+        "source": "Blockchain Reporter",
+        "desc": "Fed鷹派>伊朗和平。"
+      },
+      {
+        "title": "CoinDesk：加密全面下跌，無視已簽伊朗協議",
+        "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+        "source": "CoinDesk",
+        "desc": "Fed通膨擔憂主導加密。"
+      },
+      {
+        "title": "Yahoo：BTC/ETH下跌 despite 伊朗和平簽署",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-18-2026-prices-sliding-despite-iran-peace-deal-115022443.html",
+        "source": "Yahoo Finance",
+        "desc": "借貸成本維持高位。"
+      },
+      {
+        "title": "BeInCrypto：Trump簽MoU但Fed阻止BTC復甦",
+        "url": "https://beincrypto.com/trump-signs-us-iran-mou-bitcoin-fed-impact/",
+        "source": "BeInCrypto",
+        "desc": "Fed鷹派壓力持續。"
+      },
+      {
+        "title": "BTC $64,350：等今日瑞士簽約能否扭轉",
+        "url": "https://blockchainreporter.net/crypto-market-today-june-18-2026-bitcoin-64350-stocks-rally-iran-deal-crypto-falls/",
+        "source": "Blockchain Reporter",
+        "desc": "6/19=本週最後機會。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "AI晶片交易重燃：開發者硬體環境改善",
+        "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
+        "source": "Yahoo Finance",
+        "desc": "Nasdaq +2.3%科技主導。"
+      },
+      {
+        "title": "伊朗制裁解除→全球供應鏈完全恢復",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "晶片物流最後障礙移除。"
+      },
+      {
+        "title": "美元強勢：海外開發者成本相對降低",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094119/nasdaq-set-to-rebound-as-iran-deal-signed-dollar-hits-year-s-high-1094119.html",
+        "source": "Proactive Investors",
+        "desc": "外包/海外團隊受益。"
+      }
+    ],
+    "art": [
+      {
+        "title": "伊朗MoU簽署：歷史性和平視覺記錄",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "2月戰爭→6月和平。"
+      },
+      {
+        "title": "V字反彈圖表：Fed震撼→隔日+2.3%",
+        "url": "https://cryptobriefing.com/nasdaq-sp500-rally-us-iran-peace-deal/",
+        "source": "Crypto Briefing",
+        "desc": "極端波動。"
+      }
+    ],
+    "design": [
+      {
+        "title": "伊朗和平協議架構：制裁解除+石油自由出口+瑞士簽約",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "多階段設計。"
+      },
+      {
+        "title": "市場情緒設計：Fed鷹派→隔日和平反彈的心理轉換",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-iran-deal-optimism-offsets-fed-hike-worries-230530576.html",
+        "source": "Yahoo Finance",
+        "desc": "催化劑切換。"
+      }
+    ],
+    "business": [
+      {
+        "title": "伊朗制裁解除：全球能源市場重塑",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "伊朗可自由出口石油。重大讓步。"
+      },
+      {
+        "title": "Nasdaq +2.3%：AI晶片+伊朗雙重催化",
+        "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
+        "source": "Yahoo Finance",
+        "desc": "科技反彈一天回血。"
+      },
+      {
+        "title": "加密vs股票分化：BTC跌、S&P漲",
+        "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+        "source": "CoinDesk",
+        "desc": "Fed利率預期主導加密。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🟢 Nasdaq +2.3%！S&P +1.3%！伊朗MoU已簽+AI晶片重燃",
+        "url": "https://cryptobriefing.com/nasdaq-sp500-rally-us-iran-peace-deal/",
+        "source": "Crypto Briefing",
+        "desc": "數週最佳單日。"
+      },
+      {
+        "title": "伊朗制裁解除：石油自由出口、油價續跌",
+        "url": "https://www.bnnbloomberg.ca/markets/2026/06/18/world-shares-are-mixed-following-signing-of-us-iran-deal-on-ending-the-war/",
+        "source": "BNN Bloomberg",
+        "desc": "全球通膨壓力緩解。"
+      },
+      {
+        "title": "BTC $63,908逆勢跌：Fed鷹派>伊朗和平",
+        "url": "https://blockchainreporter.net/bitcoin-news-today/",
+        "source": "Blockchain Reporter",
+        "desc": "股票漲加密跌的罕見分化。"
+      },
+      {
+        "title": "美元年度新高：Fed鷹派+強勢經濟數據",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094119/nasdaq-set-to-rebound-as-iran-deal-signed-dollar-hits-year-s-high-1094119.html",
+        "source": "Proactive Investors",
+        "desc": "強美元。"
+      },
+      {
+        "title": "今日6/19瑞士正式簽約：和平完全確認",
+        "url": "https://blockchainreporter.net/crypto-market-today-june-18-2026-bitcoin-64350-stocks-rally-iran-deal-crypto-falls/",
+        "source": "Blockchain Reporter",
+        "desc": "本週最後催化。"
+      },
+      {
+        "title": "台股期貨+0.4%至45,000：科技反彈帶動",
+        "url": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
+        "source": "Yahoo Finance",
+        "desc": "預期小漲。"
+      }
+    ],
+    "summaries": {
+      "ai": "🟢美股V字！Nasdaq +2.3%。伊朗MoU已簽。AI晶片重燃。美元新高。今日瑞士正式簽約。",
+      "gaming": "消費環境改善。GTA 6倒數。Zelda OoT。科技反彈利好。",
+      "tech": "Nasdaq +2.3%科技領漲！伊朗制裁解除。美元新高。油價續跌。今日瑞士簽約。",
+      "crypto": "🔴BTC $63,908逆勢跌！股漲加密跌。Fed鷹派>和平。等6/19簽約。",
+      "dev": "AI晶片重燃。供應鏈恢復。美元強勢利好外包。",
+      "finance": "🟢Nasdaq +2.3%！伊朗MoU簽。BTC逆跌。美元新高。油續跌。期貨+0.4%。今日瑞士。",
+      "art": "伊朗MoU簽署記錄、V字反彈視覺。",
+      "design": "和平協議架構、市場情緒切換。",
+      "business": "伊朗制裁解除！全球能源重塑。Nasdaq +2.3%。加密分化。"
+    }
+  }
+}
