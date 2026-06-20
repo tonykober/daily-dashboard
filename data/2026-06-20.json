@@ -1,0 +1,276 @@
+{
+  "date": "2026-06-20",
+  "categories": {
+    "stock_briefing": {
+      "date": "2026-06-20",
+      "updated_at": "2026-06-20 09:00",
+      "sparkline": [
+        45200,
+        44500,
+        44800,
+        44800,
+        44800
+      ],
+      "sparkline_dates": [
+        "6/16",
+        "6/17",
+        "6/18",
+        "6/19",
+        ""
+      ],
+      "market": {
+        "index": "44,800",
+        "change": 0,
+        "changePercent": "週末休市",
+        "volume": "N/A",
+        "futures": "N/A"
+      },
+      "sectors": [],
+      "stocks": [],
+      "etf": [],
+      "institutional": {},
+      "sentiment": {
+        "score": 45,
+        "label": "中性偏空 — 瑞士簽約取消。週一觀察。MoU仍有效。",
+        "history": [
+          68,
+          62,
+          42,
+          52,
+          45
+        ]
+      },
+      "international": [],
+      "buffett_indicator": {
+        "value": 196,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴 瑞士簽約取消！以色列空襲黎巴嫩",
+        "🔴 Trump：伊朗完蛋",
+        "美股Juneteenth休市",
+        "全球收低-0.1%",
+        "MoU仍有效、60天進行中"
+      ],
+      "summary": "⚠️ 週末更新：瑞士簽約取消（以色列空襲黎巴嫩導致）。但MoU仍有效。偏向「延期非崩潰」。週一觀察。",
+      "searched": []
+    },
+    "ai": [
+      {
+        "title": "🔴 伊朗瑞士簽約取消！以色列空襲黎巴嫩導致談判破裂",
+        "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html",
+        "source": "CNBC",
+        "desc": "真主黨殺4以軍→以色列報復空襲殺18人→和談取消。"
+      },
+      {
+        "title": "Trump警告伊朗「完蛋了」：60天不給一分錢",
+        "url": "https://www.forbes.com/sites/saradorn/2026/06/19/trump-says-iran-is-finished-after-cancelled-negotiations---as-israeli-attacks-threaten-deal/",
+        "source": "Forbes",
+        "desc": "協議48小時就岌岌可危。"
+      },
+      {
+        "title": "衛報：美伊談判因以色列-真主黨衝突突然取消",
+        "url": "https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled",
+        "source": "The Guardian",
+        "desc": "Vance取消瑞士行程。"
+      },
+      {
+        "title": "全球市場週五收低：和平不確定性重回",
+        "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+        "source": "CNBC",
+        "desc": "期貨-0.1%。"
+      },
+      {
+        "title": "美股Juneteenth休市：週一6/22恢復交易",
+        "url": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-are-us-stock-markets-nyse-nasdaq-dow-jones-closed-for-juneteenth-today-11781852790157.html",
+        "source": "Livemint",
+        "desc": "限時期貨至1PM ET。"
+      },
+      {
+        "title": "伊朗：「沒有急迫性」，MoU已數位簽署、看執行",
+        "url": "https://www.rferl.org/a/burgenstock-switzerland-vance-us-iran-mou-war/33784777.html",
+        "source": "RFE/RL",
+        "desc": "60天談判期進行中。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Al Jazeera：以色列空襲黎巴嫩導致美伊談判延期",
+        "url": "https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon",
+        "source": "Al Jazeera",
+        "desc": "即時報導。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "地緣風險回升：和平紅利可能縮水",
+        "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html",
+        "source": "CNBC",
+        "desc": "不確定性增加。"
+      },
+      {
+        "title": "GTA 6 11/19確認不延期",
+        "url": "https://www.techtimes.com/articles/318280/20260612/gta-6-hits-ps5-xbox-november-19-pc-players-face-2-year-wait-switch-2-left-out.htm",
+        "source": "TechTimes",
+        "desc": "5個月倒數。"
+      },
+      {
+        "title": "Zelda OoT重製：Switch 2殺手級",
+        "url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+        "source": "Polygon",
+        "desc": "N64重生。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔴 美伊瑞士簽約取消！以色列-黎巴嫩衝突升級",
+        "url": "https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon",
+        "source": "Al Jazeera",
+        "desc": "和平48hr考驗。"
+      },
+      {
+        "title": "全球市場收低：不確定性回升",
+        "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+        "source": "CNBC",
+        "desc": "期貨-0.1%。"
+      },
+      {
+        "title": "本週過山車：道瓊52K→Fed震撼→反彈→取消",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/daily-summary-end-of-an-extremely-intense-week-19-06-2026",
+        "source": "XTB",
+        "desc": "極端波動。"
+      },
+      {
+        "title": "Vance取消瑞士行程：持久停火前景不明",
+        "url": "https://www.channelnewsasia.com/world/us-iran-switzerland-talks-cancelled-6194751",
+        "source": "CNA",
+        "desc": "白宮稱後勤問題。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC $64K持穩：等週一美股開盤方向",
+        "url": "https://blockchainreporter.net/crypto-market-today-june-18-2026-bitcoin-64350-stocks-rally-iran-deal-crypto-falls/",
+        "source": "Blockchain Reporter",
+        "desc": "週末低流動性。"
+      },
+      {
+        "title": "Fed鷹派+和平破裂：加密雙重壓力",
+        "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+        "source": "CoinDesk",
+        "desc": "升息+地緣不確定。"
+      },
+      {
+        "title": "Trump：伊朗完蛋，60天不給錢。協議可能崩潰",
+        "url": "https://www.forbes.com/sites/saradorn/2026/06/19/trump-says-iran-is-finished-after-cancelled-negotiations---as-israeli-attacks-threaten-deal/",
+        "source": "Forbes",
+        "desc": "風險偏好下降。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "不確定性=延後投資決策",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/daily-summary-end-of-an-extremely-intense-week-19-06-2026",
+        "source": "XTB",
+        "desc": "從和平→鷹派→取消。"
+      },
+      {
+        "title": "Warsh AI Task Force幾週內開始工作",
+        "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+        "source": "CNBC",
+        "desc": "AI對經濟研究。"
+      }
+    ],
+    "art": [
+      {
+        "title": "48小時從簽約到取消的歷史反轉",
+        "url": "https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled",
+        "source": "The Guardian",
+        "desc": "戲劇性。"
+      },
+      {
+        "title": "以色列空襲黎巴嫩影像",
+        "url": "https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon",
+        "source": "Al Jazeera",
+        "desc": "Bekaa谷+南黎巴嫩。"
+      }
+    ],
+    "design": [
+      {
+        "title": "MoU vs正式條約的脆弱設計差異",
+        "url": "https://www.rferl.org/a/burgenstock-switzerland-vance-us-iran-mou-war/33784777.html",
+        "source": "RFE/RL",
+        "desc": "數位簽署≠完整執行。"
+      },
+      {
+        "title": "60天多方利害關係人框架的挑戰",
+        "url": "https://www.forbes.com/sites/saradorn/2026/06/19/trump-says-iran-is-finished-after-cancelled-negotiations---as-israeli-attacks-threaten-deal/",
+        "source": "Forbes",
+        "desc": "以色列非當事方=最大風險。"
+      }
+    ],
+    "business": [
+      {
+        "title": "🔴 瑞士簽約取消！和平協議48hr就面臨考驗",
+        "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html",
+        "source": "CNBC",
+        "desc": "以色列-黎巴嫩導火線。"
+      },
+      {
+        "title": "Trump：伊朗完蛋，不給錢。制裁解除可能跳票",
+        "url": "https://www.forbes.com/sites/saradorn/2026/06/19/trump-says-iran-is-finished-after-cancelled-negotiations---as-israeli-attacks-threaten-deal/",
+        "source": "Forbes",
+        "desc": "全球能源不確定性回升。"
+      },
+      {
+        "title": "油價可能反彈：荷姆茲重開進度不明",
+        "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+        "source": "CNBC",
+        "desc": "能源供應風險回歸。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🔴 瑞士簽約取消！以色列空襲黎巴嫩→和談破裂",
+        "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html",
+        "source": "CNBC",
+        "desc": "Vance取消行程。全球收低。"
+      },
+      {
+        "title": "Trump：伊朗完蛋+60天不給錢。協議岌岌可危",
+        "url": "https://www.forbes.com/sites/saradorn/2026/06/19/trump-says-iran-is-finished-after-cancelled-negotiations---as-israeli-attacks-threaten-deal/",
+        "source": "Forbes",
+        "desc": "但MoU仍有效。"
+      },
+      {
+        "title": "美股Juneteenth休市：期貨微跌-0.1%",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/daily-summary-end-of-an-extremely-intense-week-19-06-2026",
+        "source": "XTB",
+        "desc": "週一反映。"
+      },
+      {
+        "title": "本週回顧：道瓊52K→Fed -1.2%→+2.3%→簽約取消",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/daily-summary-end-of-an-extremely-intense-week-19-06-2026",
+        "source": "XTB",
+        "desc": "極端波動週。"
+      },
+      {
+        "title": "伊朗：沒有急迫性，MoU已簽、60天進行中",
+        "url": "https://www.rferl.org/a/burgenstock-switzerland-vance-us-iran-mou-war/33784777.html",
+        "source": "RFE/RL",
+        "desc": "下階段看執行。"
+      }
+    ],
+    "summaries": {
+      "ai": "🔴瑞士簽約取消！以色列空襲黎巴嫩。Trump：伊朗完蛋。全球收低。美股休市。48hr考驗。",
+      "gaming": "地緣風險回升。GTA 6不延期。Zelda OoT。",
+      "tech": "🔴簽約取消！以色列-黎巴嫩。全球收低。本週過山車。美股休市。",
+      "crypto": "BTC $64K等週一。Fed鷹+和平破裂雙壓。Trump強硬。",
+      "dev": "不確定性。Warsh AI Task Force啟動。",
+      "finance": "🔴瑞士取消！Trump強硬。美股休市-0.1%。本週過山車。MoU仍有效。60天。",
+      "art": "48hr反轉、空襲影像。",
+      "design": "MoU脆弱性、多方框架挑戰。",
+      "business": "瑞士取消！Trump強硬。油價可能反彈。"
+    }
+  }
+}
