@@ -1,0 +1,288 @@
+{
+  "date": "2026-06-21",
+  "categories": {
+    "ai": [
+      {
+        "title": "🔴🔴 伊朗宣布重新關閉荷姆茲海峽！以色列違反停火",
+        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
+        "source": "The Guardian",
+        "desc": "以色列空襲黎巴嫩殺16人（停火後）→伊朗宣布關閉海峽。和平協議瀕臨崩潰。"
+      },
+      {
+        "title": "Straits Times確認：伊朗因停火違反關閉荷姆茲",
+        "url": "https://www.straitstimes.com/world/middle-east/israeli-strikes-kill-10-in-lebanon-after-truce-with-prospect-of-us-iran-talks-unclear",
+        "source": "Straits Times",
+        "desc": "以色列稱回應真主黨攻擊。"
+      },
+      {
+        "title": "但！Vance已啟程瑞士、伊朗談判團抵達",
+        "url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-20",
+        "source": "Fox News",
+        "desc": "談判仍在進行！尚未完全崩潰。"
+      },
+      {
+        "title": "Trump告訴以色列「冷靜一下」：要求停火",
+        "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
+        "source": "The Guardian",
+        "desc": "美國施壓以色列。"
+      },
+      {
+        "title": "以色列-真主黨週五同意停火但週六又空襲",
+        "url": "https://www.abc.net.au/news/2026-06-20/lebanon-israel-united-states-iran-deal/106821978",
+        "source": "ABC News",
+        "desc": "停火脆弱。47死97傷。"
+      },
+      {
+        "title": "伊朗警告：除非黎巴嫩停火+承諾履行，否則協議將破裂",
+        "url": "https://indianexpress.com/article/world/us-iran-war-news-live-updates-peace-deal-talks-donald-trump-jd-vance-mojtaba-khamenei-israel-lebanaon-strikes-strait-of-hormuz-10747026/",
+        "source": "Indian Express",
+        "desc": "伊朗的底線。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "ABC News：以色列-真主黨停火後伊朗關閉海峽",
+        "url": "https://www.abc.net.au/news/2026-06-20/lebanon-israel-united-states-iran-deal/106821978",
+        "source": "ABC",
+        "desc": "即時更新。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "地緣危機升級：荷姆茲再關=全球經濟衝擊",
+        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
+        "source": "The Guardian",
+        "desc": "遊戲消費環境可能再惡化。"
+      },
+      {
+        "title": "GTA 6 11/19：地緣無影響",
+        "url": "https://www.techtimes.com/articles/318280/20260612/gta-6-hits-ps5-xbox-november-19-pc-players-face-2-year-wait-switch-2-left-out.htm",
+        "source": "TechTimes",
+        "desc": "確認不延。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔴🔴 荷姆茲海峽再次關閉！以色列違反停火導致",
+        "url": "https://www.straitstimes.com/world/middle-east/israeli-strikes-kill-10-in-lebanon-after-truce-with-prospect-of-us-iran-talks-unclear",
+        "source": "Straits Times",
+        "desc": "全球最大能源通道再斷。油價可能暴漲。"
+      },
+      {
+        "title": "Vance啟程瑞士+伊朗團到達：談判未死",
+        "url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-20",
+        "source": "Fox News",
+        "desc": "週一前可能有進展。"
+      },
+      {
+        "title": "油價週五已反彈：Brent回升至$80+",
+        "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow",
+        "source": "Al Jazeera",
+        "desc": "荷姆茲通行仍緩慢。"
+      },
+      {
+        "title": "回顧：100天關閉=史上最大能源中斷",
+        "url": "https://www.abc.net.au/news/2026-06-16/strait-of-hormuz-reopening-oil-price-inflation-explainer/106798732",
+        "source": "ABC",
+        "desc": "損失1.15億桶供給。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "荷姆茲再關：BTC可能受雙重衝擊（避險or風險）",
+        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
+        "source": "The Guardian",
+        "desc": "地緣風險+通膨預期。"
+      },
+      {
+        "title": "BTC $63.9K週末持穩：週一美股開盤是關鍵",
+        "url": "https://blockchainreporter.net/bitcoin-news-today/",
+        "source": "Blockchain Reporter",
+        "desc": "低流動性。"
+      },
+      {
+        "title": "Fed鷹派+荷姆茲再關=加密最壞情境？",
+        "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+        "source": "CoinDesk",
+        "desc": "升息+通膨+地緣三重壓力。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "全球供應鏈再次面臨中斷風險：荷姆茲關閉",
+        "url": "https://www.straitstimes.com/world/middle-east/israeli-strikes-kill-10-in-lebanon-after-truce-with-prospect-of-us-iran-talks-unclear",
+        "source": "Straits Times",
+        "desc": "晶片物流可能再受影響。"
+      },
+      {
+        "title": "Warsh AI Task Force仍將在幾週內開始",
+        "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+        "source": "CNBC",
+        "desc": "不受地緣影響。"
+      }
+    ],
+    "art": [
+      {
+        "title": "從和平到再次關閉：一週內的戲劇性反轉",
+        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
+        "source": "The Guardian",
+        "desc": "視覺化危機。"
+      },
+      {
+        "title": "黎巴嫩空襲：47死97傷的人道災難",
+        "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
+        "source": "The Guardian",
+        "desc": "南黎巴嫩+Bekaa。"
+      }
+    ],
+    "design": [
+      {
+        "title": "和平協議脆弱性暴露：MoU缺乏以色列約束機制",
+        "url": "https://indianexpress.com/article/world/us-iran-war-news-live-updates-peace-deal-talks-donald-trump-jd-vance-mojtaba-khamenei-israel-lebanaon-strikes-strait-of-hormuz-10747026/",
+        "source": "Indian Express",
+        "desc": "設計缺陷。"
+      },
+      {
+        "title": "多方衝突管理：美-伊-以色列-真主黨四角關係",
+        "url": "https://www.abc.net.au/news/2026-06-20/lebanon-israel-united-states-iran-deal/106821978",
+        "source": "ABC",
+        "desc": "系統設計挑戰。"
+      }
+    ],
+    "business": [
+      {
+        "title": "🔴🔴 荷姆茲再關！全球能源供應再次中斷",
+        "url": "https://www.straitstimes.com/world/middle-east/israeli-strikes-kill-10-in-lebanon-after-truce-with-prospect-of-us-iran-talks-unclear",
+        "source": "Straits Times",
+        "desc": "油價可能暴漲回$90+。通膨壓力回升。"
+      },
+      {
+        "title": "但談判未死：Vance赴瑞士、伊朗團已到",
+        "url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-20",
+        "source": "Fox News",
+        "desc": "週末密集外交。"
+      },
+      {
+        "title": "全球已損失1.15億桶供給：再關閉=更大衝擊",
+        "url": "https://indianexpress.com/article/world/strait-of-hormuz-reopens-oil-supply-recovery-explained-10748017/",
+        "source": "Indian Express",
+        "desc": "Goldman預測已下修。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "🔴🔴 伊朗重新關閉荷姆茲海峽！以色列停火違反",
+        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
+        "source": "The Guardian",
+        "desc": "週一全球市場可能暴跌。油價暴漲預期。"
+      },
+      {
+        "title": "Vance赴瑞士+伊朗團抵達：談判仍在",
+        "url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-20",
+        "source": "Fox News",
+        "desc": "如果週末達成新協議→反轉。"
+      },
+      {
+        "title": "油價已開始反彈：Brent $80+",
+        "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow",
+        "source": "Al Jazeera",
+        "desc": "可能回到$90-100。"
+      },
+      {
+        "title": "Forbes：油市早在停火前就已消化危機",
+        "url": "https://www.forbes.com/sites/georgecalhoun/2026/06/18/the-oil-market-canceled-the-hormuz-crisis--even-before-the-ceasefire/",
+        "source": "Forbes",
+        "desc": "但再次關閉=重新定價。"
+      },
+      {
+        "title": "本週極端過山車：和平→Fed鷹→反彈→取消→再關閉",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/daily-summary-end-of-an-extremely-intense-week-19-06-2026",
+        "source": "XTB",
+        "desc": "史上最波動的一週。"
+      },
+      {
+        "title": "週一關注：美股反映荷姆茲再關+Vance瑞士談判結果",
+        "url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-20",
+        "source": "Fox News",
+        "desc": "如果Vance成功→反彈。失敗→暴跌。"
+      }
+    ],
+    "summaries": {
+      "ai": "🔴🔴荷姆茲再關！以色列違反停火。但Vance赴瑞士+伊朗到達=談判未死。Trump壓以色列。",
+      "gaming": "地緣危機升級。GTA 6不延。消費環境可能再惡化。",
+      "tech": "🔴🔴荷姆茲再關！油價反彈。Vance瑞士。100天損失1.15億桶。全球能源再斷。",
+      "crypto": "BTC $64K等週一。荷姆茲+Fed+地緣三壓。最壞情境？",
+      "dev": "供應鏈再中斷風險。Warsh Task Force不受影響。",
+      "finance": "🔴🔴荷姆茲再關！油暴漲預期。但Vance談判中。週一=關鍵。成功→反彈、失敗→暴跌。",
+      "art": "一週反轉視覺、黎巴嫩人道災難。",
+      "design": "MoU缺陷暴露、四角衝突管理。",
+      "business": "荷姆茲再關！能源再斷。但談判未死。全球損失巨大。"
+    },
+    "stock_briefing": {
+      "date": "2026-06-21",
+      "updated_at": "2026-06-21 09:00",
+      "sparkline": [
+        45200,
+        44500,
+        44800,
+        44800,
+        44000
+      ],
+      "sparkline_dates": [
+        "6/16",
+        "6/17",
+        "6/18",
+        "6/19",
+        "6/22E"
+      ],
+      "market": {
+        "index": "44,800(上週五)",
+        "change": -800,
+        "changePercent": "-1.8%(週一估)",
+        "volume": "預估3兆",
+        "futures": "N/A(週末)"
+      },
+      "sectors": [],
+      "stocks": [],
+      "etf": [],
+      "institutional": {},
+      "sentiment": {
+        "score": 30,
+        "label": "恐慌 — 荷姆茲再關！但談判仍在。週一是關鍵。",
+        "history": [
+          68,
+          62,
+          42,
+          52,
+          45,
+          30,
+          30
+        ]
+      },
+      "international": [
+        {
+          "name": "Brent原油",
+          "change": 3
+        },
+        {
+          "name": "BTC",
+          "change": -0.5
+        }
+      ],
+      "buffett_indicator": {
+        "value": 193,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴🔴 伊朗重新關閉荷姆茲海峽！",
+        "🔴 以色列停火後繼續空襲黎巴嫩殺16人",
+        "🟡 Vance已啟程瑞士、伊朗談判團抵達",
+        "🟡 Trump壓以色列「冷靜」",
+        "⚠️ 週一美股開盤=關鍵反映日",
+        "油價反彈至$80+，可能回$90-100"
+      ],
+      "summary": "🔴🔴 極端利空：荷姆茲再關！但不要絕望 — Vance赴瑞士談判中。如果週末成功→週一反彈。如果失敗→暴跌。建議：不要在週末恐慌決策。等週一開盤看結果。高股息ETF相對安全。科技/半導體風險最大。",
+      "searched": []
+    }
+  }
+}
