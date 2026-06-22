@@ -1,17 +1,247 @@
 {
   "date": "2026-06-22",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
-    "ai_videos": [],
-    "summaries": {},
+    "ai": [
+      {
+        "title": "Vance瑞士談判「重大進展」！伊朗達成制裁豁免草案",
+        "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+        "source": "The Guardian",
+        "desc": "關鍵前提：制裁豁免→伊朗才開核談判。"
+      },
+      {
+        "title": "Trump同時威脅：如果荷姆茲關閉就「炸爛伊朗」",
+        "url": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/",
+        "source": "Washington Post",
+        "desc": "Vance說「翻開新頁」但Trump說「炸爛」。雙面手法。"
+      },
+      {
+        "title": "Al Jazeera：瑞士談判「高度戲劇性」",
+        "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks",
+        "source": "Al Jazeera",
+        "desc": "Vance+伊朗Ghalibaf+卡達/巴基斯坦調解。"
+      },
+      {
+        "title": "NBC：伊朗因Trump威脅一度退場",
+        "url": "https://www.nbcnews.com/world/iran/president-jd-vance-switzerland-iran-talks-trump-threatens-toll-rcna351033",
+        "source": "NBC News",
+        "desc": "Trump：講電話警告伊朗。Fox訪問中說「炸爛」。"
+      },
+      {
+        "title": "CNBC：美伊在瑞士會面展開和平談判",
+        "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
+        "source": "CNBC",
+        "desc": "Trump威脅重啟戰爭同時Vance在談判。"
+      },
+      {
+        "title": "RFE/RL：談判週日晚10PM結束，無官方聲明",
+        "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+        "source": "RFE/RL",
+        "desc": "結果不明，等週一確認。"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "地緣危機+通膨=遊戲消費壓力持續",
+        "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
+        "source": "CNBC",
+        "desc": "油價漲→物價升。"
+      },
+      {
+        "title": "GTA 6 11/19確認不延期：5個月倒數",
+        "url": "https://www.techtimes.com/articles/318280/20260612/gta-6-hits-ps5-xbox-november-19-pc-players-face-2-year-wait-switch-2-left-out.htm",
+        "source": "TechTimes",
+        "desc": "不受地緣影響。"
+      },
+      {
+        "title": "Marvell今日加入S&P 500：AI晶片需求指標",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "6/22正式入列。"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Vance瑞士：伊朗制裁豁免草案達成→荷姆茲可能重開",
+        "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+        "source": "The Guardian",
+        "desc": "如果制裁正式解除→伊朗重開海峽。"
+      },
+      {
+        "title": "Trump「炸爛」威脅vs Vance「重大進展」：雙面外交",
+        "url": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/",
+        "source": "Washington Post",
+        "desc": "好警察壞警察策略。"
+      },
+      {
+        "title": "美股今日開盤：反映Juneteenth+荷姆茲+瑞士三重因素",
+        "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
+        "source": "CNBC",
+        "desc": "上週四Nasdaq +2.3%是最後交易。"
+      },
+      {
+        "title": "Marvell正式加入S&P 500：AI晶片里程碑",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "今日生效。"
+      },
+      {
+        "title": "Straits Times：Trump威脅新攻擊同時Vance談判",
+        "url": "https://www.straitstimes.com/world/united-states/trump-threatens-iran-with-fresh-strikes-as-vance-leads-peace-talks-in-switzerland",
+        "source": "Straits Times",
+        "desc": "外交+軍事雙軌。"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC等週一美股開盤定方向：荷姆茲vs談判",
+        "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
+        "source": "CNBC",
+        "desc": "週末低流動性。"
+      },
+      {
+        "title": "Fed鷹派+荷姆茲再關+Trump威脅=三重壓力",
+        "url": "https://www.nbcnews.com/world/iran/president-jd-vance-switzerland-iran-talks-trump-threatens-toll-rcna351033",
+        "source": "NBC News",
+        "desc": "避險情緒主導。"
+      },
+      {
+        "title": "如果Vance談判成功→風險資產反彈（含BTC）",
+        "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+        "source": "The Guardian",
+        "desc": "制裁豁免草案=正面訊號。"
+      },
+      {
+        "title": "油價預期上漲：如果荷姆茲持續關閉→BTC可能跟跌",
+        "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow",
+        "source": "Al Jazeera",
+        "desc": "通膨+升息預期壓制。"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Marvell加入S&P 500：AI晶片開發需求持續",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "今日生效。AI infra持續擴張。"
+      },
+      {
+        "title": "荷姆茲再關對全球供應鏈的影響：等談判結果",
+        "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
+        "source": "CNBC",
+        "desc": "如果快速解決→影響有限。"
+      },
+      {
+        "title": "Trump外交策略對tech投資環境的啟示",
+        "url": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/",
+        "source": "Washington Post",
+        "desc": "不確定性=延後大投資。"
+      }
+    ],
+    "art": [
+      {
+        "title": "瑞士Bürgenstock談判的歷史性場景",
+        "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks",
+        "source": "Al Jazeera",
+        "desc": "美伊首次直接面談。"
+      },
+      {
+        "title": "Trump「翻新頁」vs「炸爛」的語言對比",
+        "url": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/",
+        "source": "Washington Post",
+        "desc": "同一天兩種語氣。"
+      }
+    ],
+    "design": [
+      {
+        "title": "好警察壞警察外交設計：Vance談判+Trump威脅",
+        "url": "https://www.nbcnews.com/world/iran/president-jd-vance-switzerland-iran-talks-trump-threatens-toll-rcna351033",
+        "source": "NBC News",
+        "desc": "刻意設計的雙軌策略？"
+      },
+      {
+        "title": "14點MoU架構：從簽署到執行的設計挑戰",
+        "url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-20",
+        "source": "Fox News",
+        "desc": "以色列變數未被納入設計。"
+      }
+    ],
+    "business": [
+      {
+        "title": "瑞士談判達成制裁豁免草案：石油出口關鍵一步",
+        "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+        "source": "The Guardian",
+        "desc": "如果正式生效→荷姆茲重開。"
+      },
+      {
+        "title": "Trump威脅+談判並行：全球企業面臨不確定性",
+        "url": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/",
+        "source": "Washington Post",
+        "desc": "能源/航運/保險成本波動。"
+      },
+      {
+        "title": "Marvell加入S&P 500：AI晶片產業正式進入核心指數",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "今日生效。"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Vance瑞士「重大進展」+制裁豁免草案：和平未死",
+        "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+        "source": "The Guardian",
+        "desc": "但Trump同時威脅。"
+      },
+      {
+        "title": "荷姆茲再關+美股三天未交易：今日開盤=關鍵",
+        "url": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
+        "source": "CNBC",
+        "desc": "上週四+2.3%→週末利空→今日?"
+      },
+      {
+        "title": "Trump：如果荷姆茲不開就「炸爛伊朗」",
+        "url": "https://www.nbcnews.com/world/iran/president-jd-vance-switzerland-iran-talks-trump-threatens-toll-rcna351033",
+        "source": "NBC News",
+        "desc": "極端威脅。"
+      },
+      {
+        "title": "油價預期大漲：Brent可能回$85-90",
+        "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow",
+        "source": "Al Jazeera",
+        "desc": "荷姆茲關閉=能源危機回歸。"
+      },
+      {
+        "title": "Marvell今日加入S&P 500：被動資金流入",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-meeting-spacex-stock-spcx/",
+        "source": "Investor's Business Daily",
+        "desc": "AI晶片股受益。"
+      },
+      {
+        "title": "CBS：14點MoU仍有效、60天談判持續",
+        "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/",
+        "source": "CBS News",
+        "desc": "荷姆茲「重新關閉」但MoU架構在。"
+      }
+    ],
+    "ai_videos": [
+      {
+        "title": "Vance瑞士談判現場：「偉大進展」",
+        "url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
+        "source": "The Guardian Live",
+        "desc": "即時更新。"
+      }
+    ],
+    "summaries": {
+      "ai": "Vance瑞士「重大進展」！制裁豁免草案。但Trump同時威脅「炸爛」。伊朗一度退場。談判未死。",
+      "gaming": "地緣+通膨壓力。GTA 6不延。Marvell入S&P。",
+      "tech": "瑞士制裁草案！Trump雙面外交。美股今開盤。Marvell入S&P 500。荷姆茲等結果。",
+      "crypto": "BTC等美股定方向。Fed鷹+荷姆茲+Trump三壓。如果談判成功→反彈。",
+      "dev": "Marvell S&P。荷姆茲供應鏈。不確定性=延後投資。",
+      "finance": "⚡混合！Vance進展+制裁草案 vs 荷姆茲關+Trump威脅。美股今開。油可能$85-90。Marvell入S&P。",
+      "art": "Bürgenstock歷史場景、Trump語言對比。",
+      "design": "好壞警察外交、14點MoU執行挑戰。",
+      "business": "制裁豁免草案！但Trump威脅。Marvell S&P。企業不確定性。"
+    },
     "stock_briefing": {
       "date": "2026-06-22",
       "updated_at": "2026-06-22 08:30",
