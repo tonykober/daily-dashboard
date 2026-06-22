@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-22",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "ai_videos": [],
+    "summaries": {},
+    "stock_briefing": {
+      "date": "2026-06-22",
+      "updated_at": "2026-06-22 08:30",
+      "sparkline": [
+        44500,
+        44800,
+        44800,
+        44000,
+        44000,
+        44000,
+        44000
+      ],
+      "sparkline_dates": [
+        "6/17",
+        "6/18",
+        "6/19",
+        "6/22E",
+        "",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "44,800(上週五)",
+        "change": -500,
+        "changePercent": "-1.1%(估)",
+        "volume": "預估2.5兆",
+        "futures": "44,300 (-1.1%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -1.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -1.5
+        },
+        {
+          "name": "電子",
+          "change": -1
+        },
+        {
+          "name": "金融",
+          "change": -0.5
+        },
+        {
+          "name": "石化",
+          "change": 3
+        },
+        {
+          "name": "航運",
+          "change": 1.5
+        },
+        {
+          "name": "傳產",
+          "change": 0
+        },
+        {
+          "name": "高股息ETF",
+          "change": -0.5
+        }
+      ],
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 回檔",
+          "note": "荷姆茲再關+Trump威脅「炸爛伊朗」但Vance瑞士談判「重大進展」。伊朗達成制裁豁免草案。混合訊號。美股上週五休市，今日反映。",
+          "nav": null,
+          "pb": 12,
+          "premium": null,
+          "pe": 34.5,
+          "quarterLine": 10,
+          "suggestion": "持有（不殺低）"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 回檔",
+          "note": "期貨-1.1%。荷姆茲+Fed鷹+週末衝突。但談判進行中",
+          "nav": 222,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 小跌",
+          "note": "高股息相對抗跌",
+          "nav": 43.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 小跌",
+          "note": "防禦型",
+          "nav": 25.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "跌 小跌",
+          "note": "月配息防禦",
+          "nav": 28,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "跌 小跌",
+          "note": "價值型",
+          "nav": 9.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 1,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 回檔",
+          "note": "同0050",
+          "nav": 113,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 回檔",
+          "note": "科技承壓",
+          "nav": 33.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有（不加碼）"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 回檔",
+          "note": "半導體壓力",
+          "nav": 17.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3.5,
+          "suggestion": "持有（不加碼）"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "跌 小跌",
+          "note": "主動型",
+          "nav": 15.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "跌 小跌",
+          "note": "主動型",
+          "nav": 31.8,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信美債20年",
+          "trend": "跌 續弱",
+          "note": "殖利率仍高+荷姆茲再關=通膨預期上升=債跌。短期迴避。",
+          "nav": null,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": -6,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 回檔",
+          "note": "跟隨大盤",
+          "nav": 60,
+          "pb": null,
+          "premium": 0,
+          "pe": 21,
+          "quarterLine": 3.5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "跌 回檔",
+          "note": "科技壓力",
+          "nav": 24,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 2.5,
+          "suggestion": "持有（不加碼）"
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "跌 回檔",
+          "note": "期貨-1.1%"
+        },
+        {
+          "name": "0056",
+          "trend": "跌 小跌",
+          "note": "抗跌"
+        },
+        {
+          "name": "00878",
+          "trend": "跌 小跌",
+          "note": "防禦"
+        },
+        {
+          "name": "00929",
+          "trend": "跌 回檔",
+          "note": "科技壓"
+        },
+        {
+          "name": "00919",
+          "trend": "跌 小跌",
+          "note": "配息"
+        },
+        {
+          "name": "009816",
+          "trend": "跌 回檔",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": -250,
+        "投信": 10,
+        "自營商": -20
+      },
+      "sentiment": {
+        "score": 35,
+        "label": "恐慌偏空 — 荷姆茲再關+Fed鷹+以色列衝突。但Vance「重大進展」+制裁草案=未全崩",
+        "history": [
+          62,
+          42,
+          52,
+          45,
+          30,
+          35,
+          35
+        ]
+      },
+      "international": [
+        {
+          "name": "Brent原油(預期)",
+          "change": 5
+        },
+        {
+          "name": "BTC",
+          "change": -1
+        },
+        {
+          "name": "美元指數",
+          "change": 0.3
+        }
+      ],
+      "buffett_indicator": {
+        "value": 193,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴 荷姆茲海峽再次關閉（以色列違反停火）",
+        "🟡 Vance瑞士談判週日「重大進展」！",
+        "🟡 伊朗達成制裁豁免草案（關鍵前提）",
+        "🔴 Trump威脅：如果伊朗關荷姆茲就「炸爛他們」",
+        "🔴 伊朗代表因Trump威脅一度退場",
+        "⚠️ 美股今日開盤=反映整個週末（Juneteenth+荷姆茲+談判）",
+        "台股期貨-1.1%至44,300",
+        "石化/航運可能逆勢漲（油價+運費預期）"
+      ],
+      "summary": "⚡ 混合訊號日！荷姆茲再關是大利空，但Vance瑞士「重大進展」+制裁草案=談判未死。台股預跌但非暴跌。Trump一邊談判一邊威脅的雙面手法。建議：持有不殺低。石化/航運可能逆勢漲。高股息防禦。科技不加碼。如果今日盤中傳出更多談判好消息→可能收紅。",
+      "searched": []
+    }
+  }
+}
