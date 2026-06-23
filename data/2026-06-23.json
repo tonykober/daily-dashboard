@@ -1,15 +1,270 @@
 {
   "date": "2026-06-23",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
+    "ai": [
+      {
+        "title": "五眼聯盟罕見聲明：AI網路攻擊能力「數月內」將超越預期",
+        "url": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+        "source": "The Guardian",
+        "desc": "美英澳加紐五國情報機構聯合警告，前沿AI模型將根本性改變攻防能力，時間表是「數月而非數年」"
+      },
+      {
+        "title": "美國政府禁止Anthropic Fable 5：出口管制指令強制關閉",
+        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "source": "TechCrunch",
+        "desc": "6/12美政府以國安理由下令Anthropic關閉Fable 5與Mythos 5對外國人存取。Anthropic已配合但表示不認同"
+      },
+      {
+        "title": "Google Gemini 3.5 Flash成為全球預設模型",
+        "url": "https://morningoverview.com/googles-gemini-3-5-flash-is-already-the-default-across-search-and-the-gemini-app/",
+        "source": "Morning Overview",
+        "desc": "Google將Gemini 3.5 Flash設為Gemini App與AI Mode搜尋的全球預設模型，取代2.5系列"
+      },
+      {
+        "title": "Sensor Tower報告：AI助手成為新購物入口",
+        "url": "https://www.theneuron.ai/explainer-articles/-everything-that-happened-in-ai-today-friday-june-19-2026/",
+        "source": "The Neuron",
+        "desc": "State of AI 2026報告顯示AI助手正成為產品發現、廣告、零售推薦與轉換的新平台"
+      },
+      {
+        "title": "CoreWeave兩分鐘完成DeepSeek-V3訓練",
+        "url": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-june-16-2026/",
+        "source": "The Neuron",
+        "desc": "CoreWeave展示極端算力，僅花2分鐘完成DeepSeek-V3模型訓練，刷新紀錄"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "EA Sports UFC 6 發售（Metacritic 81）",
+        "url": "https://www.metacritic.com/game/star-fox/critic-reviews/?platform=nintendo-switch-2",
+        "source": "Metacritic",
+        "desc": "6/19登陸PS5/XBX，格鬥遊戲獲81分好評。改進打擊手感與職業模式"
+      },
+      {
+        "title": "The Adventures of Elliot: The Millennium Tales（Metacritic 82）",
+        "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+        "source": "IGN",
+        "desc": "6/18推出的動作RPG，PC/PS5/XBX/NS2全平台，獲82分佳評"
+      },
+      {
+        "title": "Dave the Diver: In the Jungle DLC 上線",
+        "url": "https://www.metacritic.com/news/major-new-and-upcoming-video-games-ps5-xbox-switch-pc/",
+        "source": "Metacritic",
+        "desc": "6/18上線全平台DLC，Dave進入叢林探險新章節。PC/PS5/PS4/XBX/NS"
+      },
+      {
+        "title": "Star Fox Switch 2重製版月底登場：N64經典重生",
+        "url": "https://www.videogameschronicle.com/features/star-fox-for-switch-2/",
+        "source": "VGC",
+        "desc": "Velan Studios開發，忠實重現N64結構但大幅強化畫面與管弦樂配樂。新增多人線上對戰模式"
+      },
+      {
+        "title": "R-Type Tactics I + II Cosmos 合輯登陸全平台",
+        "url": "https://de.ign.com/witchspire/152916/the-biggest-game-releases-of-june-2026",
+        "source": "IGN",
+        "desc": "6/18推出經典戰略RPG合輯，PC/PS5/PS4/XBX/NS2/NS全平台"
+      }
+    ],
+    "tech": [
+      {
+        "title": "SpaceX以$600億全股收購Cursor（Anysphere）",
+        "url": "https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html",
+        "source": "CNBC",
+        "desc": "IPO後第三天宣布，史上最大創投收購案。Cursor成為SpaceX全資子公司，Q3完成"
+      },
+      {
+        "title": "記憶體危機加劇：「連Apple都不安全」",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "AI算力需求導致全球記憶體供需嚴重失衡，價格暴漲影響到所有科技大廠"
+      },
+      {
+        "title": "大型科技股下滑：SpaceX延續跌勢+AI支出疑慮",
+        "url": "https://www.ctvnews.ca/business/article/us-tech-megacaps-slide-as-spacex-extends-slump-ai-expense-concerns-grow/",
+        "source": "CTV/BNN",
+        "desc": "6/22科技巨頭集體下跌，SpaceX從$225高點持續回落，AI投資回報疑慮升溫"
+      },
+      {
+        "title": "Microsoft長期鎖定AI數據中心電力，NVIDIA推動降低AI環境衝擊",
+        "url": "https://techstartups.com/2026/06/22/top-tech-news-today-june-22-2026/",
+        "source": "Tech Startups",
+        "desc": "微軟簽訂長約確保AI算力用電；NVIDIA努力緩解運算爆炸的環保壓力"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC $64,056 | 恐懼貪婪指數23（極度恐懼）",
+        "url": "https://blockchainreporter.net/crypto-market-today-june-22-2026-bitcoin-64056-clarity-act-senate-bitmine-russell-1000/",
+        "source": "Blockchain Reporter",
+        "desc": "ETH $1,746, XRP $1.13, SOL $73.70。鏈上數據趨建設性但情緒極度恐懼"
+      },
+      {
+        "title": "BTC ETF連續第6週資金流出$2.28億",
+        "url": "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens",
+        "source": "CoinDesk",
+        "desc": "累計流出$59.4億。速度放緩但趨勢未逆轉，另一逆風正在增強"
+      },
+      {
+        "title": "地緣政治緩和遇上Warsh聯準會：加密市場週前瞻",
+        "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
+        "source": "CoinDesk",
+        "desc": "伊朗和談+Fed維持利率=短期利多。SEC/CFTC開放數位資產衍生品報告框架60天公評"
+      },
+      {
+        "title": "日本支持加密貨幣；CLARITY Act進入參議院",
+        "url": "https://www.coingabbar.com/en/crypto-currency-news/crypto-market-update-bitcoin-btc-eth-pump-gains-japan-news",
+        "source": "CoinGabbar",
+        "desc": "日本政府表態支持加密產業發展。美國CLARITY法案進入參議院審議階段"
+      }
+    ],
+    "dev": [
+      {
+        "title": "TIOBE 6月：Rust升至#12歷史新高，Python跌破19%",
+        "url": "https://www.techrepublic.com/article/news-tiobe-june-2026-rust-hits-new-high/",
+        "source": "TechRepublic",
+        "desc": "C++重回Java之上。Paul Jansen修正「Python已見頂」預測。Rust持續爬升"
+      },
+      {
+        "title": "SpaceX收購Cursor：AI編碼工具進入太空時代",
+        "url": "https://www.pcmag.com/news/spacex-acquires-ai-coding-platform-cursor-for-60-billion",
+        "source": "PCMag",
+        "desc": "$600億收購Anysphere，Cursor成為SpaceX子公司。AI coding market重新洗牌"
+      },
+      {
+        "title": "Microsoft 6月Patch Tuesday：修補206個漏洞含3個zero-day",
+        "url": "https://myitforum.substack.com/p/it-pros-weekly-roundup-june-13-june",
+        "source": "IT Pros Weekly",
+        "desc": "206個安全漏洞修補，含3個已公開zero-day。優先處理提權與RCE修復"
+      },
+      {
+        "title": "量子程式語言2026開發者指南：Qiskit、Cirq、PennyLane",
+        "url": "https://techgig.com/news/software-devops/quantum-programming-languages-a-2026-developer-guide/131869757",
+        "source": "TechGig",
+        "desc": "Python成為量子程式共通語言。不同框架對應不同硬體平台與使用情境"
+      },
+      {
+        "title": "Java生態週報：Spring Tools、Helidon、Open Liberty更新",
+        "url": "https://www.infoq.com/news/2026/06/java-news-roundup-jun15-2026/",
+        "source": "InfoQ",
+        "desc": "JEP 512支援、/native標籤增強、@enablePreview等重要更新"
+      }
+    ],
+    "art": [
+      {
+        "title": "CREATOR Act：國會立法讓藝術家可告AI風格竊取",
+        "url": "https://futurism.com/artificial-intelligence/law-protect-artists-ai",
+        "source": "Futurism",
+        "desc": "兩黨議員提出法案，建立聯邦標準保護視覺藝術家獨特風格，可對AI仿冒提起商業訴訟"
+      },
+      {
+        "title": "NO FAKES Act通過參議院司法委員會",
+        "url": "https://rollcall.com/2026/06/18/ai-deepfakes-bill-advanced-by-senate-judiciary-committee/",
+        "source": "Roll Call",
+        "desc": "6/18通過！賦予個人對AI深偽聲音/肖像的智財權，死後延續70年。語音投票通過"
+      },
+      {
+        "title": "Dataland：全球首座AI藝術博物館6/20在洛杉磯開幕",
+        "url": "https://monocle.com/culture/art/ai-art-dataland-los-angeles-museum/",
+        "source": "Monocle",
+        "desc": "由AI藝術家Refik Anadol共同創辦，定位為「活的博物館」，作品持續演化"
+      },
+      {
+        "title": "Adobe報告：87%創作者表示AI正在壯大他們的事業",
+        "url": "https://news.adobe.com/news/2026/06/creators-toolkit-report-2026",
+        "source": "Adobe",
+        "desc": "調查16,000名全球創作者，AI如何幫助創作者增長業務、放大創意力、在競爭中脫穎而出"
+      },
+      {
+        "title": "數位藝術在Art Basel登大雅之堂",
+        "url": "https://rightclicksave.beehiiv.com/p/right-click-news-digital-art-comes-of-age-at-art-basel-william-mapan-trevor-paglen-lap-see-lam-stan",
+        "source": "Right Click Save",
+        "desc": "Trevor Paglen新書探討AI如何改變人類與影像的關係。數位藝術在主流藝博會站穩腳步"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma重構圖層面板：大型檔案快30-50%",
+        "url": "https://www.figma.com/blog/everything/",
+        "source": "Figma Blog",
+        "desc": "採用全新運算與快取策略，針對最大最複雜的設計檔案顯著提升互動速度"
+      },
+      {
+        "title": "Figma MCP Server擴展：從更新簡報到出貨設計",
+        "url": "https://www.figma.com/blog/news/",
+        "source": "Figma Blog",
+        "desc": "MCP server覆蓋範圍前所未有地廣，可從更新living deck到將設計交付生產"
+      },
+      {
+        "title": "State of the Designer 2026：設計師擁抱混亂中間地帶",
+        "url": "https://www.figma.com/blog/state-of-the-designer-2026/",
+        "source": "Figma",
+        "desc": "全球設計師如何在壓力下提升技能、維持工藝品質、將挑戰轉為創意動能"
+      },
+      {
+        "title": "Adobe XD已成遺產軟體：Figma vs Adobe 2026定局",
+        "url": "https://hedrick.io/post/figma-vs-adobe",
+        "source": "Hedrick.io",
+        "desc": "Adobe 2023停止XD開發後未逆轉。Figma天生為即時協作設計，Adobe XD是桌面優先+後補協作"
+      }
+    ],
+    "business": [
+      {
+        "title": "SpaceX一度超越微軟（$2.94T）後大幅回落",
+        "url": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+        "source": "CNBC",
+        "desc": "IPO後連漲三天曾衝至$2.94T超越MSFT，但隨後持續下滑。$60B收購Cursor為催化劑"
+      },
+      {
+        "title": "美伊瑞士和談：Vance稱「良好基礎」+ 60天路線圖",
+        "url": "https://www.nbcnews.com/world/iran/us-iran-talks-war-vance-trump-hormuz-lebanon-switzerland-foundation-rcna351112",
+        "source": "NBC News",
+        "desc": "達成60天最終協議路線圖。含荷姆茲安全通行、黎巴嫩停火、核查重啟。Trump仍威脅但市場不理"
+      },
+      {
+        "title": "前Fed主席Alan Greenspan逝世",
+        "url": "https://www.globalbankingandfinance.com/trading-day-mixed-signals-wall-street-wobbles/",
+        "source": "Global Banking & Finance",
+        "desc": "6/22消息，影響全球市場情緒。與Fed Warsh新時代形成時代交替"
+      },
+      {
+        "title": "Alphabet因關鍵高層離職下跌；防禦型藍籌股上漲",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-slips-on-key-departure-and-defensive-blue-chips-gain/",
+        "source": "Motley Fool",
+        "desc": "科技巨頭承壓，防禦型股票（能源、房地產）獲資金避險青睞"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Fed維持利率3.5-3.75%，Warsh首次主持，聲明大幅精簡",
+        "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+        "source": "CNBC",
+        "desc": "全票通過。聲明縮至~130字，移除前瞻指引。Dot plot上修至3.8%→暗示年底升息"
+      },
+      {
+        "title": "S&P 500收7,500 | Dow 51,564 | Nasdaq 26,517",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "6/22開盤上漲但收盤混合。S&P -0.4%, Nasdaq -1.3%。本週關注PCE數據(週四)+Micron財報"
+      },
+      {
+        "title": "黃金$4,189 | 10年期殖利率4.51% | 美元指數100.81",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-slips-on-key-departure-and-defensive-blue-chips-gain/",
+        "source": "Motley Fool",
+        "desc": "黃金+0.9%避險；殖利率微升反映Fed鷹派dot plot。能源+房地產漲，工業+通信各跌逾3%"
+      },
+      {
+        "title": "Fed升息機率：市場定價10月前升息25bp",
+        "url": "https://www.advisorperspectives.com/dshort/updates/2026/06/18/feds-interest-rate-decision-june-17-2026?topic=global-markets",
+        "source": "Advisor Perspectives",
+        "desc": "Fed官員上修年底利率預測至3.6%-4.1%。2027-28各降25bp。市場已定價Q4升息"
+      },
+      {
+        "title": "Fed新時代：Warsh精簡聲明、不給前瞻指引",
+        "url": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+        "source": "CNBC",
+        "desc": "聲明從300+字降至130字。不公布投票明細。Warsh稱前瞻指引「不適合當前環境」"
+      }
+    ],
     "stock_briefing": {
       "date": "2026-06-23",
       "updated_at": "2026-06-23 08:30",
