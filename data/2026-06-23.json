@@ -1,0 +1,314 @@
+{
+  "date": "2026-06-23",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "stock_briefing": {
+      "date": "2026-06-23",
+      "updated_at": "2026-06-23 08:30",
+      "sparkline": [
+        44169,
+        45484,
+        46465,
+        47200,
+        47400,
+        0,
+        0
+      ],
+      "sparkline_dates": [
+        "6/12",
+        "6/15",
+        "6/18",
+        "6/22",
+        "6/23E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "47,200(6/22收)",
+        "change": 200,
+        "changePercent": "+0.4%(估)",
+        "volume": "預估3兆",
+        "futures": "47,400 (+0.4%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 0.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 0.8
+        },
+        {
+          "name": "電子",
+          "change": 0.5
+        },
+        {
+          "name": "金融",
+          "change": 0.3
+        },
+        {
+          "name": "石化",
+          "change": -1
+        },
+        {
+          "name": "航運",
+          "change": -0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.5
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 續強",
+          "note": "Fed不升息+科技拉動"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 穩健",
+          "note": "高息抗跌"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 穩健",
+          "note": "防禦+息收"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 偏強",
+          "note": "科技帶動"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 穩健",
+          "note": "配息族群"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 續強",
+          "note": "跟漲台50"
+        }
+      ],
+      "institutional": {
+        "外資": 180,
+        "投信": 25,
+        "自營商": 10
+      },
+      "sentiment": {
+        "score": 62,
+        "label": "偏多 — Fed維持利率+Vance談判進展+台積電強勢。Dot plot暗示年底升息但短線利空出盡",
+        "history": [
+          42,
+          52,
+          45,
+          30,
+          35,
+          55,
+          62
+        ]
+      },
+      "international": [
+        {
+          "name": "Brent原油",
+          "change": -2
+        },
+        {
+          "name": "BTC",
+          "change": 1.5
+        },
+        {
+          "name": "美元指數",
+          "change": -0.2
+        }
+      ],
+      "buffett_indicator": {
+        "value": 198,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "✅ Fed 6/17維持利率3.5-3.75%（Warsh首次主持，全票通過）",
+        "⚠️ Dot plot上修至3.8%→暗示年底可能升息25bp",
+        "✅ Warsh聲明大幅簡化(130字)、移除前瞻指引＝去鴿化但未鷹",
+        "✅ Vance瑞士談判「重大進展」，伊朗制裁豁免草案出爐",
+        "🟡 Trump仍威脅「炸爛伊朗」但市場已不理會",
+        "✅ 台股上週五大漲（0050 +3.59%至111.15）",
+        "⚠️ 加權偏離季線16%→短線乖離偏高"
+      ],
+      "summary": "🚀 Fed利空出盡行情！Warsh首次會議維持利率+聲明去鴿化但未升息＝短線利多。台股上週五暴漲+3.6%確認。Vance伊朗談判進展提振信心。今日預估小漲續創高。但注意：偏離季線16%已偏高，dot plot暗示Q4升息。建議：持有為主、不追高。科技續強但宜分批。高股息穩定持有。",
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 續強",
+          "note": "Fed不升息+AI需求不減。上週五收2400(+1.05%)。短線強但PB/偏離季線偏高。",
+          "nav": null,
+          "pb": 10.45,
+          "premium": null,
+          "pe": 31.93,
+          "quarterLine": 12.12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 續強",
+          "note": "上週五111.15(+3.59%)。Fed維持+台積電帶動。偏離季線16.3%偏高。",
+          "nav": 110.75,
+          "pb": null,
+          "premium": 0.36,
+          "pe": null,
+          "quarterLine": 16.3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩健",
+          "note": "防禦性佳。折價-0.14%=合理。離季線13.4%尚可。",
+          "nav": 51.57,
+          "pb": null,
+          "premium": -0.14,
+          "pe": null,
+          "quarterLine": 13.43,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "高息防禦。估價約20.5元。穩定配息族群。",
+          "nav": 20.3,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 穩健",
+          "note": "高息ETF中表現穩定。月配息吸引力持續。",
+          "nav": 27.5,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 14,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 微揚",
+          "note": "淨值緩步回升中。Google顯示約$9.8。",
+          "nav": 9.75,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 10,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 續強",
+          "note": "上週五257.45(+3.35%)。幾乎平貼淨值。表現等同0050。",
+          "nav": 257.19,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 16.32,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 強勢",
+          "note": "上週五1247(+2.19%)。台積電+聯發科帶動。科技類表現亮眼。",
+          "nav": 1240,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 18,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 偏強",
+          "note": "半導體族群共振。Fed不升息利多科技股。",
+          "nav": 22.5,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 15,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 強勢",
+          "note": "離季線24%！主動型跑贏大盤。折溢價+0.29%合理。規模381億持續成長。",
+          "nav": 21,
+          "pb": null,
+          "premium": 0.29,
+          "pe": null,
+          "quarterLine": 24.08,
+          "suggestion": "持有（不追高）"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 偏強",
+          "note": "規模2980億最大主動ETF。折價-0.41%=買盤空間。離季線15.4%。",
+          "nav": 31.63,
+          "pb": null,
+          "premium": -0.41,
+          "pe": null,
+          "quarterLine": 15.42,
+          "suggestion": "買進（折價）"
+        },
+        {
+          "name": "00403A 中信台灣精選50主動",
+          "trend": "漲 偏強",
+          "note": "主動型50股精選。成長動能聚焦強趨勢產業。",
+          "nav": 18.5,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 14,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 續強",
+          "note": "規模1495億。折溢價+0.19%平貼。離季線18.4%偏高但趨勢強。",
+          "nav": 15.47,
+          "pb": null,
+          "premium": 0.19,
+          "pe": null,
+          "quarterLine": 18.38,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 偏強",
+          "note": "科技+高息雙引擎。Fed不升息利多。",
+          "nav": 24.5,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        }
+      ],
+      "searched": []
+    },
+    "summaries": [],
+    "ai_videos": []
+  }
+}
