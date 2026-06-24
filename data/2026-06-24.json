@@ -1,15 +1,252 @@
 {
   "date": "2026-06-24",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
+    "ai": [
+      {
+        "title": "Oracle因AI裁員21,000人（13%），員工被迫先訓練AI再被裁",
+        "url": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
+        "source": "CNBC",
+        "desc": "SEC文件揭露過去12個月裁員21K，遣散費$18.4億。員工證實被要求訓練自己的AI替代者後才遭解僱"
+      },
+      {
+        "title": "五眼聯盟警告持續延燒：AI網攻能力「數月內到達」",
+        "url": "https://keyt.com/news/national-world/cnn-national/2026/06/23/5-things-to-know-for-june-23-ai-warning-primaries-nuclear-weapons-uk-political-turmoil-montreal-shooting/",
+        "source": "CNN/KEYT",
+        "desc": "AI模型即將能發動足以壓垮政府和大企業的網路攻擊，不是年而是月"
+      },
+      {
+        "title": "Meta推出AI智慧眼鏡$299起：26種款式、三款鏡框",
+        "url": "https://www.theshortcut.com/p/meta-glasses-get-more-affordable",
+        "source": "The Shortcut",
+        "desc": "與EssilorLuxottica合作，含Kylie Jenner聯名。開放式揚聲器、免持拍照錄影、8+小時電池"
+      },
+      {
+        "title": "IBM加入OpenAI Daybreak Cyber Partner計畫",
+        "url": "https://www.timesofai.com/news/ai/",
+        "source": "Times of AI",
+        "desc": "IBM將前沿AI用於網路安全，協助政府機構防禦AI驅動的網路威脅"
+      },
+      {
+        "title": "ByteDance發表Doubao 2.1 Pro：單次請求可接收50個多模態素材",
+        "url": "https://www.futuretools.io/news?ref=ainews.link",
+        "source": "Future Tools",
+        "desc": "支援圖片/音訊/影片混合輸入+風格保留編輯。Seedream 5.0 Pro及Seed-Audio 1.0同步預覽"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Valve Steam Machine定價$1,049起，6/29開賣",
+        "url": "https://www.polygon.com/valve-steam-machine-price-pre-order/",
+        "source": "Polygon",
+        "desc": "512GB起步/$1,349 2TB。六吋黑色方塊=Steam Deck 6倍性能。6/25開放預購"
+      },
+      {
+        "title": "Age of Empires Mobile: PC Edition上架+加入Game Pass",
+        "url": "https://www.trueachievements.com/news/xbox-new-games-june-22-2026",
+        "source": "TrueAchievements",
+        "desc": "6/23上線PC版，同步加入Game Pass。帝國時代手遊移植PC端"
+      },
+      {
+        "title": "Empulse：Titanfall精神續作免費射擊遊戲6/24上線",
+        "url": "https://www.trueachievements.com/news/xbox-new-games-june-22-2026",
+        "source": "TrueAchievements",
+        "desc": "Splitgate團隊開發的F2P射擊。機甲+高速移動+Titanfall風格"
+      },
+      {
+        "title": "Zelda: Ocarina of Time重製版確認2026年內推出",
+        "url": "https://www.ign.com/articles/nintendo-direct-june-2026-live-updates-every-game-announcement",
+        "source": "IGN",
+        "desc": "Nintendo Direct收尾大作。林克小屋場景一閃而過。更多資訊即將公布"
+      },
+      {
+        "title": "Warhammer 40K 11版首部Codex公布",
+        "url": "https://www.tabletopbattles.com/games-industry-news-roundup-june-23rd-2026/",
+        "source": "Tabletop Battles",
+        "desc": "Games Workshop展示11版第一本Codex及配套發售品"
+      }
+    ],
+    "tech": [
+      {
+        "title": "南韓KOSPI暴跌10%觸發熔斷！槓桿ETF危機引爆全球拋售",
+        "url": "https://www.reuters.com/world/asia-pacific/south-koreas-kospi-plunges-nearly-10-after-regulator-cautions-leveraged-etfs-2026-06-23/",
+        "source": "Reuters",
+        "desc": "金融監管承認「太草率批准」槓桿ETF。Samsung/SK Hynix各跌12%。外資拋$25億。744兆韓元蒸發"
+      },
+      {
+        "title": "費半SOX暴跌8%：Micron -13%、SanDisk -13%、AMD -6%",
+        "url": "https://www.cnbc.com/2026/06/22/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "全球晶片拋售從亞洲蔓延至華爾街。AI估值過高疑慮+利率上行壓力雙重夾擊"
+      },
+      {
+        "title": "SK Hynix放緩HBM擴產：AI記憶體泡沫警報",
+        "url": "https://ca.finance.yahoo.com/news/south-korea-leveraged-etf-crisis-125015030.html",
+        "source": "Yahoo Finance",
+        "desc": "報導SK Hynix正放緩高頻寬記憶體擴張計畫，引發AI投資回報全面質疑"
+      },
+      {
+        "title": "Oracle投入$500億AI基建但產生負自由現金流$237億",
+        "url": "https://thenextweb.com/news/oracle-21000-layoffs-ai-data-centres",
+        "source": "The Next Web",
+        "desc": "裁21K人+發債$500億建AI基建。自由現金流轉負$237億。AI投資最坦白的代價揭露"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC跌破$63K至$62,249：Fed升息+科技拋售雙重壓力",
+        "url": "https://cryptonews.com/news/crypto-news-june-23-why-is-crypto-down-btc-usd-falls-under-63k-as-eth-hits-triple-bottom-in-massive-leverage-flush/",
+        "source": "CryptoNews",
+        "desc": "ETH觸及三重底、大規模槓桿清算。市場恐懼升息+強美元壓制風險資產"
+      },
+      {
+        "title": "加密市場24hr跌2.68%：總市值降至$2.14T",
+        "url": "https://coinpedia.org/crypto-live-news/why-is-crypto-down-today-june-23rd/amp/",
+        "source": "CoinPedia",
+        "desc": "Fed政策不確定+美元走強→廣泛風險資產拋售。BTC/ETH/SOL/DOGE全線下跌"
+      },
+      {
+        "title": "Metaplanet被移除S&P Japan指數；RWA市場達$510億",
+        "url": "https://99bitcoins.com/news/bitcoin-btc/crypto-news-today-june-23-btc-crashes-below-63k-metaplanet-removed-from-sp-japan-rwa-market-hits-51bn/",
+        "source": "99Bitcoins",
+        "desc": "日本最大BTC持倉公司Metaplanet被S&P Japan指數移除。RWA代幣化市場突破$51B里程碑"
+      },
+      {
+        "title": "Vitalik Buterin宣布ETH重大變革即將到來",
+        "url": "https://en.bitcoinsistemi.com/live/live-june-23-2026-bitcoin-and-crypto-news-daily-highlights/",
+        "source": "Bitcoin Sistemi",
+        "desc": "以太坊共同創辦人宣布平台即將有重大改變，回應社群對ETH表現的批評"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Oracle裁員真相：員工先訓練AI替代者再被解僱",
+        "url": "https://startupfortune.com/oracle-cut-21000-jobs-to-fund-its-50-billion-ai-buildout-and-workers-say-they-trained-their-own-replacements/",
+        "source": "Startup Fortune",
+        "desc": "21K員工遭裁，$21億遣散準備金。工人證實被要求為AI系統做知識轉移後才收到裁員通知"
+      },
+      {
+        "title": "SpaceX用Cursor深化AI coding：收購後整合加速",
+        "url": "https://techstartups.com/2026/06/23/top-tech-news-today-june-23-2026/",
+        "source": "Tech Startups",
+        "desc": "SpaceX以$60B收購Cursor後，積極將AI coding工具整合進內部開發流程"
+      },
+      {
+        "title": "中國自主硬體奪下全球超級計算機榜首",
+        "url": "https://techstartups.com/2026/06/23/top-tech-news-today-june-23-2026/",
+        "source": "Tech Startups",
+        "desc": "中國以國產硬體搶下全球超算冠軍，技術自主化又一里程碑"
+      },
+      {
+        "title": "量子程式Q-Day預備：開發者需提前準備加密遷移",
+        "url": "http://www.codemag.com/Magazine/Issue/eeb304e4-64b6-47bb-a28d-121c4855f355",
+        "source": "CODE Magazine",
+        "desc": "5/6月刊主題：量子運算對現代加密的威脅，開發者需在Q-Day到來前開始準備"
+      }
+    ],
+    "art": [
+      {
+        "title": "Getty Images與OpenAI結盟：曾控告AI如今賣圖給AI（股價+150%）",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/22/getty-images-shares-soar-more-than-120-after-it-announces-deal-with-openai/",
+        "source": "Forbes",
+        "desc": "6/21宣布多年合作，授權圖片進入ChatGPT搜尋。三年前曾因版權控告AI公司，如今戲劇性轉向"
+      },
+      {
+        "title": "CREATOR Act進展：藝術家可對AI風格仿冒提起聯邦訴訟",
+        "url": "https://futurism.com/artificial-intelligence/law-protect-artists-ai",
+        "source": "Futurism",
+        "desc": "兩黨議員推動的CREATOR Act持續獲得關注，建立視覺藝術風格的聯邦保護標準"
+      },
+      {
+        "title": "Getty+OpenAI的沉默：訓練權問題刻意迴避",
+        "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/06/22/getty-sued-ai-now-its-selling-to-ai-while-dodging-the-one-question-that-counts/",
+        "source": "Forbes",
+        "desc": "授權協議只涉及「展示」不涉及「訓練」。Getty花了大筆律師費試圖維護的權利，協議中隻字未提"
+      },
+      {
+        "title": "Adobe 87%創作者報告：AI正在壯大事業",
+        "url": "https://news.adobe.com/news/2026/06/creators-toolkit-report-2026",
+        "source": "Adobe",
+        "desc": "16,000名創作者調查：AI幫助增長業務、放大創意、在競爭中脫穎而出"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma設計代理新增Web搜尋功能",
+        "url": "https://www.figma.com/release-notes/",
+        "source": "Figma",
+        "desc": "AI設計代理可直接搜尋網路，拉入即時內容、最佳實踐，用真實資料取代placeholder"
+      },
+      {
+        "title": "Runway Aleph 2.0登陸Figma Weave：逐幀創意指導",
+        "url": "https://www.figma.com/newsroom/",
+        "source": "Figma Newsroom",
+        "desc": "6/18整合。在Figma Weave畫布中實現frame-level創意控制，支援30秒片段+關鍵幀連續性"
+      },
+      {
+        "title": "Figma MCP Server 4大實戰用法",
+        "url": "https://www.figma.com/blog/news/",
+        "source": "Figma Blog",
+        "desc": "從更新living deck到出貨設計至生產環境。MCP server覆蓋範圍前所未有地廣"
+      },
+      {
+        "title": "Figma AI Agent + Skills：直接在畫布上設計",
+        "url": "https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/",
+        "source": "Figma Blog",
+        "desc": "AI代理可直接操作Figma畫布。Skills讓代理理解團隊決策與意圖。免費beta中"
+      }
+    ],
+    "business": [
+      {
+        "title": "南韓KOSPI暴跌10%觸發熔斷：槓桿ETF泡沫爆破",
+        "url": "https://www.channelnewsasia.com/business/south-koreas-kospi-plunges-nearly-10-after-regulator-cautions-leveraged-etfs-6203156",
+        "source": "CNA",
+        "desc": "金融監管長承認「太草率批准」晶片槓桿ETF。Samsung/SK Hynix槓桿ETF慘跌25%。外資拋$25億"
+      },
+      {
+        "title": "Oracle重組代價：$18.4億遣散費、負自由現金流$237億",
+        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+        "source": "Ars Technica",
+        "desc": "裁員21K＋發債$450-500億建AI基建。遣散費年增400%。AI轉型最大代價案例"
+      },
+      {
+        "title": "SpaceX連跌第四日：IPO泡沫持續消退",
+        "url": "https://markets.businessinsider.com/index/s&p_500",
+        "source": "Business Insider",
+        "desc": "從$225高點持續回落，IPO後蜜月期結束。AI投資回報質疑波及所有科技巨頭"
+      },
+      {
+        "title": "Getty Images宣布與OpenAI合作後股價暴漲150%",
+        "url": "https://qz.com/getty-images-openai-chatgpt-licensed-photo-deal-062226",
+        "source": "Quartz",
+        "desc": "授權圖片進入ChatGPT。三年前控告AI侵權的公司如今擁抱AI＝時代轉折點"
+      }
+    ],
+    "finance": [
+      {
+        "title": "全球科技股暴跌：S&P -1.44% | Nasdaq -2.21% | SOX -8%",
+        "url": "https://www.seattletimes.com/business/how-major-us-stock-indexes-fared-tuesday-6-23-2026/",
+        "source": "Seattle Times",
+        "desc": "S&P 7,365 | Nasdaq 25,587 | Dow 51,667(-0.09%)。AI概念股集中拋售，年初以來最大單日跌幅"
+      },
+      {
+        "title": "Micron -13%領跌：週四財報成AI信仰關鍵驗證",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/23/stock-market-today-june-23-micron-falls-as-south-korea-led-memory-selloff-raises-earnings-stakes/",
+        "source": "Motley Fool",
+        "desc": "收$1,051。Micron 6/24財報=HBM需求+DRAM定價+毛利指引。驗證AI記憶體投資邏輯"
+      },
+      {
+        "title": "南韓金融監管承認失誤：批准晶片槓桿ETF「太草率」",
+        "url": "https://ca.finance.yahoo.com/news/south-korea-leveraged-etf-crisis-125015030.html",
+        "source": "Yahoo Finance",
+        "desc": "上月才開放的晶片槓桿ETF加劇波動。外資拋$25億+散戶槓桿爆倉＝KOSPI -10%"
+      },
+      {
+        "title": "本週關注：PCE物價(週四) + Micron財報 + Fed發言",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "PCE=Fed最重視的通膨指標。Micron財報驗證AI記憶體。兩大事件決定反彈或續跌"
+      }
+    ],
     "stock_briefing": {
       "date": "2026-06-24",
       "updated_at": "2026-06-24 08:30",
