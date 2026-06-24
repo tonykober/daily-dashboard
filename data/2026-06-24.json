@@ -1,0 +1,314 @@
+{
+  "date": "2026-06-24",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "stock_briefing": {
+      "date": "2026-06-24",
+      "updated_at": "2026-06-24 08:30",
+      "sparkline": [
+        45484,
+        46465,
+        47200,
+        46700,
+        45800,
+        0,
+        0
+      ],
+      "sparkline_dates": [
+        "6/15",
+        "6/18",
+        "6/22",
+        "6/23",
+        "6/24E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "46,700(6/23收)",
+        "change": -900,
+        "changePercent": "-1.9%(估)",
+        "volume": "預估3.5兆",
+        "futures": "45,800 (-1.9%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -3.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -3
+        },
+        {
+          "name": "電子",
+          "change": -2.5
+        },
+        {
+          "name": "金融",
+          "change": -0.5
+        },
+        {
+          "name": "石化",
+          "change": 0
+        },
+        {
+          "name": "航運",
+          "change": 0.5
+        },
+        {
+          "name": "傳產",
+          "change": -0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": -1
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "跌 重挫",
+          "note": "Nasdaq -2.2%直擊"
+        },
+        {
+          "name": "0056",
+          "trend": "跌 小跌",
+          "note": "高息抗跌"
+        },
+        {
+          "name": "00878",
+          "trend": "跌 微跌",
+          "note": "防禦"
+        },
+        {
+          "name": "00929",
+          "trend": "跌 重挫",
+          "note": "科技壓"
+        },
+        {
+          "name": "00919",
+          "trend": "跌 小跌",
+          "note": "高息防禦"
+        },
+        {
+          "name": "009816",
+          "trend": "跌 重挫",
+          "note": "跟隨台50"
+        }
+      ],
+      "institutional": {
+        "外資": -350,
+        "投信": 15,
+        "自營商": -30
+      },
+      "sentiment": {
+        "score": 30,
+        "label": "恐慌 — Micron -13%+南韓晶片ETF警告引爆全球科技股拋售。AI泡沫疑慮升溫。Fed dot plot暗示升息",
+        "history": [
+          52,
+          45,
+          30,
+          35,
+          55,
+          62,
+          30
+        ]
+      },
+      "international": [
+        {
+          "name": "Nasdaq",
+          "change": -2.21
+        },
+        {
+          "name": "Micron",
+          "change": -13.2
+        },
+        {
+          "name": "費半",
+          "change": -4
+        }
+      ],
+      "buffett_indicator": {
+        "value": 195,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🔴 美股6/23暴跌：Nasdaq -2.21%、S&P -1.44%",
+        "🔴 Micron -13%！南韓金融監管警告晶片ETF風險",
+        "🔴 SK Hynix放緩HBM擴產→AI記憶體泡沫疑慮",
+        "🔴 SanDisk -13%、Intel -6%、AMD -6%、Qualcomm -8%",
+        "🟡 全球科技拋售從南韓蔓延至華爾街",
+        "⚠️ Micron週四將公布財報→關鍵驗證時刻",
+        "✅ 美伊談判60天路線圖＝地緣風險暫解（油價-1%）"
+      ],
+      "summary": "🔴 全球晶片股大屠殺！南韓金融監管警告記憶體ETF風險→SK Hynix放緩HBM→Micron -13%→Nasdaq -2.2%。台股今日預跌1.5-2%。台積電/聯電/記憶體族群首當其衝。建議：不要恐慌殺低！Micron週四財報是關鍵→若財報OK則反彈。高股息防禦持有。半導體不加碼但也不砍。等Micron財報結果再決定。",
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 重壓",
+          "note": "Micron -13%帶動費半暴跌。但台積邏輯晶片≠記憶體，基本面未變。等Micron財報驗證。",
+          "nav": null,
+          "pb": 10.45,
+          "premium": null,
+          "pe": 31.93,
+          "quarterLine": 12.12,
+          "suggestion": "持有（不殺低）"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 重壓",
+          "note": "6/23收110.10(-0.94%)。今日估再跌1.5-2%。NAV 109.70，溢價0.36%。",
+          "nav": 109.7,
+          "pb": null,
+          "premium": 0.36,
+          "pe": null,
+          "quarterLine": 14.64,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 微跌",
+          "note": "高息防禦。預估跌幅遠小於大盤。抗跌首選。",
+          "nav": 52.5,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": 13,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 微跌",
+          "note": "防禦型ETF。科技崩盤時高息股相對抗跌。",
+          "nav": 20.4,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 11,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "跌 小跌",
+          "note": "高息族群防禦力較強。月配息持續。",
+          "nav": 27.3,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 13,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "跌 小跌",
+          "note": "價值+高息雙重防禦。跌幅應小於科技類。",
+          "nav": 9.7,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 9,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 重壓",
+          "note": "6/23收254.35(-1.20%)。NAV 254.71，折價-0.14%。今日續跌。",
+          "nav": 254.71,
+          "pb": null,
+          "premium": -0.14,
+          "pe": null,
+          "quarterLine": 14.36,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 暴跌",
+          "note": "半導體ETF直接反映費半崩盤。Micron/AMD/Intel全線下挫。今日估跌3-4%。",
+          "nav": 1200,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 14,
+          "suggestion": "持有（不殺低）"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 暴跌",
+          "note": "半導體族群重災區。但記憶體≠邏輯晶片，基本面差異大。",
+          "nav": 21.8,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有（不殺低）"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "跌 回檔",
+          "note": "主動型前期漲多。離季線24%→回檔壓力大。NAV 21.0。",
+          "nav": 21,
+          "pb": null,
+          "premium": 0.29,
+          "pe": null,
+          "quarterLine": 24.08,
+          "suggestion": "觀望（等回檔）"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "跌 回檔",
+          "note": "規模2980億最大主動ETF。折價-0.41%=逢低空間。離季線15.4%。",
+          "nav": 31.63,
+          "pb": null,
+          "premium": -0.41,
+          "pe": null,
+          "quarterLine": 15.42,
+          "suggestion": "持有（折價保護）"
+        },
+        {
+          "name": "00403A 中信台灣精選50主動",
+          "trend": "跌 回檔",
+          "note": "主動型跟隨大盤回檔。精選強趨勢股受科技拋售影響。",
+          "nav": 18.3,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 13,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 重壓",
+          "note": "規模1495億。NAV 15.47，溢價0.19%。離季線18.4%仍高→回檔合理。",
+          "nav": 15.47,
+          "pb": null,
+          "premium": 0.19,
+          "pe": null,
+          "quarterLine": 18.38,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "跌 重壓",
+          "note": "科技類首當其衝。但有高息保護。等Micron財報後判斷。",
+          "nav": 24,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 10,
+          "suggestion": "持有（不殺低）"
+        }
+      ],
+      "searched": []
+    },
+    "summaries": [],
+    "ai_videos": []
+  }
+}
