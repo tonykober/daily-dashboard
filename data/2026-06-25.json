@@ -1,0 +1,314 @@
+{
+  "date": "2026-06-25",
+  "categories": {
+    "ai": [],
+    "gaming": [],
+    "tech": [],
+    "crypto": [],
+    "dev": [],
+    "art": [],
+    "design": [],
+    "business": [],
+    "finance": [],
+    "stock_briefing": {
+      "date": "2026-06-25",
+      "updated_at": "2026-06-25 08:30",
+      "sparkline": [
+        46465,
+        47200,
+        46700,
+        45500,
+        46500,
+        0,
+        0
+      ],
+      "sparkline_dates": [
+        "6/18",
+        "6/22",
+        "6/23",
+        "6/24",
+        "6/25E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,500(6/24收)",
+        "change": 1000,
+        "changePercent": "+2.2%(估)",
+        "volume": "預估4兆",
+        "futures": "46,500 (+2.2%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 4
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 3.5
+        },
+        {
+          "name": "電子",
+          "change": 2.5
+        },
+        {
+          "name": "金融",
+          "change": 0.5
+        },
+        {
+          "name": "石化",
+          "change": -0.5
+        },
+        {
+          "name": "航運",
+          "change": 0
+        },
+        {
+          "name": "傳產",
+          "change": 0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": 1.5
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 強彈",
+          "note": "Micron +15%帶動"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 穩升",
+          "note": "跟漲"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 穩升",
+          "note": "反彈"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 強彈",
+          "note": "科技帶動"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 穩升",
+          "note": "跟漲"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 強彈",
+          "note": "台50跟漲"
+        }
+      ],
+      "institutional": {
+        "外資": 300,
+        "投信": 20,
+        "自營商": 15
+      },
+      "sentiment": {
+        "score": 58,
+        "label": "偏多 — Micron財報大超預期(營收$415億/指引$500億)+KOSPI反彈+AI信仰回歸。恐慌反轉",
+        "history": [
+          45,
+          30,
+          35,
+          55,
+          62,
+          30,
+          58
+        ]
+      },
+      "international": [
+        {
+          "name": "Micron盤後",
+          "change": 15
+        },
+        {
+          "name": "KOSPI",
+          "change": 3.26
+        },
+        {
+          "name": "Nasdaq",
+          "change": -0.43
+        }
+      ],
+      "buffett_indicator": {
+        "value": 192,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🚀 Micron財報爆表：營收$415億(估$358億)、EPS $25.11(估$20.78)、盤後+15%",
+        "🚀 Micron Q4指引$500億！年增4.4倍。HBM供不應求確認",
+        "✅ KOSPI反彈+3.26%（前日暴跌10%後）",
+        "✅ 南韓監管緊急穩定措施：暫停新槓桿ETF審批",
+        "⚠️ 美股6/24盤中仍弱（S&P -0.1%），但盤後因Micron翻轉",
+        "📊 今日PCE物價數據公布（Fed最重視通膨指標）",
+        "🟡 台股6/24跌2.7%（0050: 107.15），偏離季線回到11%=合理區間"
+      ],
+      "summary": "🚀 Micron財報救市！營收$415億大超預期+Q4指引$500億=AI記憶體需求強勁確認。盤後暴漲15%。台股昨日跌2.7%後今日預強彈2%+。半導體族群領漲。前日恐慌殺低的「不殺低」建議得到驗證。偏離季線回到11%=健康區間。今日PCE通膨數據是另一關鍵。建議：半導體可回補、高股息持有、整體偏多操作。",
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 強彈",
+          "note": "Micron +15%確認AI記憶體需求→邏輯晶片更受惠。昨跌今必彈。台積基本面最強。",
+          "nav": null,
+          "pb": 10.2,
+          "premium": null,
+          "pe": 31,
+          "quarterLine": 9,
+          "suggestion": "買進"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 強彈",
+          "note": "6/24收107.15(-2.68%)。NAV 106.25，溢價0.85%。偏離11.1%回到健康。",
+          "nav": 106.25,
+          "pb": null,
+          "premium": 0.85,
+          "pe": null,
+          "quarterLine": 11.11,
+          "suggestion": "買進"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩升",
+          "note": "防禦+反彈。高息抗跌後跟漲。",
+          "nav": 51.5,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": 11,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩升",
+          "note": "高息防禦反彈。市場情緒恢復。",
+          "nav": 20,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 9,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 穩升",
+          "note": "高息跟漲。月配息持續吸引力。",
+          "nav": 26.8,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 11,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 微升",
+          "note": "價值型跟漲。",
+          "nav": 9.6,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 強彈",
+          "note": "6/24收247.95(-2.52%)。NAV 246.75，溢價0.49%。偏離11%健康。",
+          "nav": 246.75,
+          "pb": null,
+          "premium": 0.49,
+          "pe": null,
+          "quarterLine": 11.03,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 暴漲",
+          "note": "Micron +15%直接催化！半導體ETF今日最強。記憶體需求確認。",
+          "nav": 1170,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 10,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 暴漲",
+          "note": "半導體族群全面反彈。AI記憶體→邏輯→封測全線受惠。",
+          "nav": 21.2,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 9,
+          "suggestion": "買進"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 反彈",
+          "note": "主動型前期回檔後反彈。離季線從24%回到合理。",
+          "nav": 20.5,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 20,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 反彈",
+          "note": "規模2980億。折價-0.4%=仍有買盤空間。",
+          "nav": 30.8,
+          "pb": null,
+          "premium": -0.4,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "買進（折價）"
+        },
+        {
+          "name": "00403A 中信台灣精選50主動",
+          "trend": "漲 反彈",
+          "note": "主動型跟漲。強趨勢產業受惠Micron利多。",
+          "nav": 17.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 10,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 強彈",
+          "note": "跟隨台50反彈。偏離回到健康區間。",
+          "nav": 15,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 14,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強彈",
+          "note": "科技+高息。Micron確認AI需求=科技類最大利多。",
+          "nav": 23.5,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "買進"
+        }
+      ],
+      "searched": []
+    },
+    "summaries": [],
+    "ai_videos": []
+  }
+}
