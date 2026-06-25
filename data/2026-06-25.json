@@ -1,15 +1,246 @@
 {
   "date": "2026-06-25",
   "categories": {
-    "ai": [],
-    "gaming": [],
-    "tech": [],
-    "crypto": [],
-    "dev": [],
-    "art": [],
-    "design": [],
-    "business": [],
-    "finance": [],
+    "ai": [
+      {
+        "title": "Micron+Qualcomm盤後財報點燃$4000億AI晶片股反彈",
+        "url": "https://www.channelnewsasia.com/business/micron-and-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-6208296",
+        "source": "CNA",
+        "desc": "Micron營收$415億(估$358億)+Qualcomm超預期→盤後半導體集體暴漲。$4000億市值一夜回血"
+      },
+      {
+        "title": "Micron與Anthropic簽訂AI記憶體戰略合作",
+        "url": "https://www.fool.com/investing/2026/06/23/micron-technology-has-made-a-terrific-move-before/",
+        "source": "Motley Fool",
+        "desc": "財報前夕宣布與Anthropic合作，為Claude模型提供HBM記憶體解決方案。長期佈局AI推論需求"
+      },
+      {
+        "title": "Gartner：AI coding agents將使開發者人均AI支出達前所未見水平",
+        "url": "https://www.infoworld.com/software-development/",
+        "source": "InfoWorld",
+        "desc": "消費型定價+coding agents普及→未來兩年開發者AI支出可能暴增至前所未見水平"
+      },
+      {
+        "title": "VS Code開放非Copilot模型：AI開發工具多元化",
+        "url": "https://www.infoworld.com/application-development/",
+        "source": "InfoWorld",
+        "desc": "VS Code現可使用GitHub Copilot以外的模型和服務進行AI輔助開發，但有部分限制"
+      },
+      {
+        "title": "Deutsche Bank：BTC跌破$60K因資金轉向AI股",
+        "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
+        "source": "CoinDesk",
+        "desc": "投資人風險資本從加密貨幣輪轉至AI股票和基建＝結構性逆風。BTC已成機構型資產"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "EMPULSE正式進入Early Access：Titanfall精神續作$19.99",
+        "url": "https://gamingtrend.com/news/empulse-launches-into-early-access/",
+        "source": "Gaming Trend",
+        "desc": "6/24上線Steam/Xbox(PS5稍後)。6v6機甲射擊、壁跑+鉤爪。25萬wishlist。首週75折$15"
+      },
+      {
+        "title": "Valve Steam Machine預購6/25開放：$1,049起",
+        "url": "https://www.polygon.com/valve-steam-machine-price-pre-order/",
+        "source": "Polygon",
+        "desc": "今日開放預購！512GB/$1,049起。6/29開賣。六吋黑方塊，Steam Deck 6倍效能"
+      },
+      {
+        "title": "Sandy Petersen：「Quake毀了id Software」引爆業界討論",
+        "url": "https://mastersingaming.com/2026/06/24/john-carmack-apologizes-after-sandy-petersen-says-quake-ruined-id-software-and-for-once-john-romero-doesnt-tell-sandy-hes-wrong/",
+        "source": "Masters In Gaming",
+        "desc": "Quake共同設計師發文批評。Carmack罕見道歉，Romero也未反駁。遊戲史經典爭議再燃"
+      },
+      {
+        "title": "Ceva推出微軟認證空間音頻軟體：PC遊戲耳機新標準",
+        "url": "https://www.design-reuse.com/news/list/",
+        "source": "Design & Reuse",
+        "desc": "針對PC遊戲耳機的空間音頻解決方案，獲微軟認證"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Micron財報史上最佳：營收$415億、毛利率84.9%、Q4指引$500億",
+        "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+        "source": "CNBC",
+        "desc": "營收年增4.4倍！EPS $25.11(估$20.78)。HBM需求爆發確認。盤後+15%"
+      },
+      {
+        "title": "晶片股盤後暴漲$4000億：SanDisk +10%、Qualcomm +12.7%",
+        "url": "https://uk.finance.yahoo.com/news/chip-stocks-surge-hours-micron-215409836.html",
+        "source": "Yahoo Finance",
+        "desc": "Micron+Qualcomm雙雙超預期→SanDisk、WDC、整體半導體盤後全線翻多"
+      },
+      {
+        "title": "KOSPI 6/24反彈+3.26%：南韓暫停新槓桿ETF審批",
+        "url": "https://www.chosun.com/english/market-money-en/2026/06/24/7CVJ6HXKRVD4TNDF7A44UIUWBM/",
+        "source": "Chosun",
+        "desc": "前日暴跌10%後隔日反彈。Samsung +2.4%。監管出手穩定市場情緒"
+      },
+      {
+        "title": "Micron HBM記憶體危機=最強驗證：供不應求持續到2027",
+        "url": "https://thenextweb.com/news/micron-q3-fy2026-earnings-revenue-hbm-ai-memory",
+        "source": "The Next Web",
+        "desc": "毛利率81%+。HBM營收驅動一切。AI加速器旁的堆疊DRAM供給缺口短期無法填補"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC暴跌至$59,023：2024年10月以來最低！24hr跌10%",
+        "url": "https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html",
+        "source": "CNBC",
+        "desc": "跌破$60K關鍵支撐。距ATH $126,272跌逾50%。清算超$6.5億。資金輪轉至AI股"
+      },
+      {
+        "title": "加密市場全面崩跌：ETH/XRP/DOGE均跌3%+",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/60086849/bitcoin-plunges-below-60000-ethereum-xrp-dogecoin-lose-3-in-brutal-crypto-sell-off",
+        "source": "Benzinga",
+        "desc": "BTC $59.5K帶動全面恐慌。ETH/XRP/DOGE各跌3%。Fed鷹派+AI股虹吸=雙重壓力"
+      },
+      {
+        "title": "21Shares：四年週期仍完好，目前合乎歷史減半後模式",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-falls-below-60-000-again-21shares-says-4-year-cycle-intact",
+        "source": "KuCoin",
+        "desc": "機構原預期2026因機構需求打破週期，但價格走勢仍吻合歷史減半後模式"
+      },
+      {
+        "title": "Deutsche Bank：BTC已成機構資產，價格由資金流+政策決定",
+        "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
+        "source": "CoinDesk",
+        "desc": "鷹派Fed+記錄ETF流出+槓桿持倉擔憂。投資人輪轉至AI股＝加密結構性逆風"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Gartner警告：coding agents恐使開發者AI支出失控",
+        "url": "https://www.infoworld.com/software-development/",
+        "source": "InfoWorld",
+        "desc": "消費型定價模型+agent普及=每開發者支出可能在兩年內升至前所未見水平"
+      },
+      {
+        "title": "VS Code開放第三方AI模型支援",
+        "url": "https://www.infoworld.com/application-development/",
+        "source": "InfoWorld",
+        "desc": "不再限於GitHub Copilot，開發者可接入其他AI模型進行輔助開發。生態系開放化"
+      },
+      {
+        "title": "Micron+Anthropic合作：HBM專為AI推論優化",
+        "url": "https://www.fool.com/investing/2026/06/23/micron-technology-has-made-a-terrific-move-before/",
+        "source": "Motley Fool",
+        "desc": "針對Claude模型推論需求的記憶體解決方案。AI基建軟硬體整合趨勢加速"
+      },
+      {
+        "title": "2026軟體開發產業挑戰報告",
+        "url": "https://www.netguru.com/blog/software-development-industry-challenges",
+        "source": "Netguru",
+        "desc": "AI取代/轉型、人才短缺、安全威脅、技術債務為四大核心挑戰"
+      }
+    ],
+    "art": [
+      {
+        "title": "The New Yorker：AI設計美學正在佔領整個網路",
+        "url": "https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet",
+        "source": "The New Yorker",
+        "desc": "「品味好的微偏主色+去飽和中世紀現代主義色調」＝AI世代的視覺語言正在標準化"
+      },
+      {
+        "title": "Getty Images+OpenAI持續發酵：訓練權沉默vs展示授權",
+        "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/06/22/getty-sued-ai-now-its-selling-to-ai-while-dodging-the-one-question-that-counts/",
+        "source": "Forbes",
+        "desc": "協議只涉及展示不涉及訓練。Getty花大錢維護的權利在協議中隻字未提=行業轉捩點"
+      },
+      {
+        "title": "AI Didn't Kill Design — It Exposed It",
+        "url": "https://techpolicy.press/ai-didnt-kill-design-it-exposed-it",
+        "source": "Tech Policy Press",
+        "desc": "美國法院終於認識到設計師一直知道的：平台設計本身直接影響用戶負面行為"
+      },
+      {
+        "title": "New Designers 2026回歸：DEVELOP3D設立新銳設計獎",
+        "url": "https://develop3d.com/develop3d-blog/new-designer-2026-d3d-award/",
+        "source": "DEVELOP3D",
+        "desc": "展示優秀技術、工藝和創造力的五位最佳新銳設計師將獲8/9月號專題報導"
+      }
+    ],
+    "design": [
+      {
+        "title": "The New Yorker分析：AI設計美學席捲全網",
+        "url": "https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet",
+        "source": "The New Yorker",
+        "desc": "AI生成的視覺風格正標準化：微偏原色+去飽和復古調。設計師應如何回應此趨勢"
+      },
+      {
+        "title": "Figma AI Agent加入Web搜尋：用真實內容取代placeholder",
+        "url": "https://www.figma.com/release-notes/",
+        "source": "Figma",
+        "desc": "設計代理直接搜尋網路，拉入即時最佳實踐，填充真實資料而非假內容"
+      },
+      {
+        "title": "Valve Steam Machine工業設計：六吋黑方塊的極簡哲學",
+        "url": "https://www.geekwire.com/2026/surprise-valves-new-steam-machine-is-here-but-the-price-is-the-real-shocker/",
+        "source": "GeekWire",
+        "desc": "六吋黑色立方體=客廳遊戲PC。可換面板。設計理念：隱身於任何空間"
+      },
+      {
+        "title": "AI Didn't Kill Design：法院認定平台設計=行為責任",
+        "url": "https://techpolicy.press/ai-didnt-kill-design-it-exposed-it",
+        "source": "Tech Policy Press",
+        "desc": "法院判例首次認定：平台的UX設計選擇直接導致用戶負面行為=設計責任新標準"
+      }
+    ],
+    "business": [
+      {
+        "title": "Micron+Qualcomm點燃$4000億盤後反彈：AI信仰回歸",
+        "url": "https://finance.yahoo.com/technology/ai/articles/micron-qualcomm-forecasts-ignite-400-230933990.html",
+        "source": "Reuters/Yahoo",
+        "desc": "兩大晶片巨頭盤後財報超預期→半導體市值一夜回血$4000億。AI泡沫論暫時終結"
+      },
+      {
+        "title": "Micron史上最賺季度：毛利率84.9%確立記憶體定價權",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/24/micron-soars-15-after-chipmaker-posts-record-revenue-and-positive-guidance/",
+        "source": "Forbes",
+        "desc": "HBM供不應求=定價權完全在Micron手中。毛利率從去年40%飆至85%"
+      },
+      {
+        "title": "BTC跌破$60K：加密vs AI股的資金大輪轉",
+        "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
+        "source": "CoinDesk",
+        "desc": "金+油+BTC同步下跌。2025年的「法幣貶值交易」全面瓦解。資金流入AI=新共識"
+      },
+      {
+        "title": "KOSPI反彈+3.26%：南韓監管暫停槓桿ETF新申請",
+        "url": "https://www.chosun.com/english/market-money-en/2026/06/24/7CVJ6HXKRVD4TNDF7A44UIUWBM/",
+        "source": "Chosun",
+        "desc": "前日史上最大跌幅後反彈。監管出手=市場信心初步恢復。Samsung/SK Hynix回穩"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股6/24：S&P -0.1% (7,358) | Nasdaq -0.43% (25,477) | Dow +0.35%",
+        "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-tick-up-tech-shares-stabilize-2026-06-24/",
+        "source": "Reuters",
+        "desc": "盤中仍弱但跌幅收斂。Micron+Qualcomm盤後翻轉一切。明日（今日）預期大漲"
+      },
+      {
+        "title": "Micron盤後+15%：Q3營收$415億、Q4指引$500億（估$436億）",
+        "url": "https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-record-results-third-quarter",
+        "source": "Micron IR",
+        "desc": "營收年增344%！EPS $25.11(估$20.78)。毛利84.9%。HBM=最大驅動力"
+      },
+      {
+        "title": "BTC暴跌至$59K：距ATH跌53%，清算$6.5億",
+        "url": "https://cryptobriefing.com/bitcoin-falls-below-60000-as-crypto-liquidations-top-650m/",
+        "source": "Crypto Briefing",
+        "desc": "2024年10月以來最低。資金從加密輪轉至AI股。Fed鷹派+ETF連續流出=結構性壓力"
+      },
+      {
+        "title": "今日關注：PCE物價數據+GDP第三估+Micron效應",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "5月PCE=Fed最重視通膨指標。Q1 GDP三估。Micron效應帶動半導體今日預漲"
+      }
+    ],
     "stock_briefing": {
       "date": "2026-06-25",
       "updated_at": "2026-06-25 08:30",
