@@ -1,0 +1,545 @@
+{
+  "date": "2026-06-26",
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI發表Jalapeño：首款自研推論晶片，與Broadcom合作",
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/06/25/meet-jalapeo-openais-first-custom-ai-chip-built-with-broadcom/",
+        "source": "Forbes",
+        "desc": "9個月開發完成。效能/瓦優於Nvidia Blackwell。年底部署。降低ChatGPT推論成本+減少對Nvidia依賴"
+      },
+      {
+        "title": "Micron+Qualcomm雙雙超預期：AI晶片信仰回歸",
+        "url": "https://www.channelnewsasia.com/business/micron-and-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-6208296",
+        "source": "CNA",
+        "desc": "兩大晶片巨頭財報超預期→盤後半導體暴漲$4000億。AI投資質疑論暫時消退"
+      },
+      {
+        "title": "SK Hynix計畫融資$300億擴大HBM產能",
+        "url": "https://techstartups.com/2026/06/25/top-tech-news-today-june-25-2026/",
+        "source": "Tech Startups",
+        "desc": "前日暴跌後立即宣布擴產融資。反映HBM需求確定性極高"
+      },
+      {
+        "title": "IBM研發全球首款sub-1nm(0.7nm)晶片技術",
+        "url": "https://www.timesofai.com/news/",
+        "source": "Times of AI",
+        "desc": "7 angstrom節點+新電晶體架構。突破物理極限的半導體研究里程碑"
+      },
+      {
+        "title": "Google Gemini 3.5 Flash新增Computer Use功能",
+        "url": "https://techpp.com/2026/06/25/daily-brief-june-25-2026-chatgpt-finance/",
+        "source": "TechPP",
+        "desc": "可直接操作電腦介面。AI代理從聊天走向實際操控桌面環境"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "GTA 6定價$79.99確認！6/25全球預購開跑",
+        "url": "https://www.polygon.com/gta6-grand-theft-auto-6-news-price-release-date-pre-orders/",
+        "source": "Polygon",
+        "desc": "Standard $79.99 / Ultimate $99.99。11月發售。PS5/Xbox Series。首日單人模式。比標準3A貴$10"
+      },
+      {
+        "title": "EMPULSE正式EA上線：25萬wishlist的Titanfall精神續作",
+        "url": "https://gamingtrend.com/news/empulse-launches-into-early-access/",
+        "source": "Gaming Trend",
+        "desc": "6/24上線Steam/Xbox。6v6機甲射擊$19.99(首週$15)。無微交易。PS5稍後"
+      },
+      {
+        "title": "Valve Steam Machine今日開放預購：$1,049",
+        "url": "https://www.polygon.com/valve-steam-machine-price-pre-order/",
+        "source": "Polygon",
+        "desc": "6/25預購啟動。512GB $1,049 / 2TB $1,349。6/29正式開賣。預約制"
+      },
+      {
+        "title": "Sandy Petersen「Quake毀了id Software」：Carmack罕見道歉",
+        "url": "https://mastersingaming.com/2026/06/24/john-carmack-apologizes-after-sandy-petersen-says-quake-ruined-id-software-and-for-once-john-romero-doesnt-tell-sandy-hes-wrong/",
+        "source": "Masters In Gaming",
+        "desc": "Quake共同設計師公開批評。Carmack道歉+Romero未反駁＝遊戲史經典爭議再度燃起"
+      }
+    ],
+    "tech": [
+      {
+        "title": "OpenAI+Broadcom發表Jalapeño推論晶片：挑戰Nvidia霸權",
+        "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+        "source": "Ars Technica",
+        "desc": "reticle-sized ASIC、9個月開發。專為LLM推論優化。2026年底部署+Microsoft合作"
+      },
+      {
+        "title": "PCE通膨4.1%（三年最高）：升息壓力持續",
+        "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
+        "source": "CNBC",
+        "desc": "5月PCE年率4.1%、月增0.4%。核心PCE 3.4%。Fed升息預期不減反增"
+      },
+      {
+        "title": "Apple全面漲價：MacBook Neo $699起、Air $1,299起",
+        "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
+        "source": "9to5Mac",
+        "desc": "MacBook/iPad全線調漲。通膨+關稅+零組件成本三重壓力。Apple股價-6%"
+      },
+      {
+        "title": "Brent原油抹去全部戰爭溢價：荷姆茲海峽恢復通行",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+        "source": "Bloomberg",
+        "desc": "美伊和平路線圖落實→荷姆茲海峽流量恢復→油價大跌。地緣風險完全消化"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC閃崩至$58,035：6月跌近20%，清算$10億+",
+        "url": "https://news.bitcoin.com/bitcoin-slides-nearly-20-in-june-as-715m-in-crypto-long-bets-collapse/",
+        "source": "Bitcoin.com",
+        "desc": "2024年10月以來最低。$7.15億多頭爆倉。距ATH跌53%。資金持續流向AI股"
+      },
+      {
+        "title": "PCE 4.1%後BTC再閃崩$61K→$58K：通膨=加密殺手",
+        "url": "https://cryptorank.io/news/feed/9a6aa-bitcoins-60k-rebound-just-collapsed-as-427m-in-long-liquidations-followed-sticky-inflation-data",
+        "source": "CryptoRank",
+        "desc": "PCE公布後$427M多頭清算。通膨升溫→升息確定性增加→風險資產全面承壓"
+      },
+      {
+        "title": "BTC ETF單日流出$459M：機構持續減碼",
+        "url": "https://bitcoin.einnews.com/article/922145188/hBjsxwr0EGcqSgJx",
+        "source": "EIN News",
+        "desc": "分析師警告：除非回到$62.8K-$65K上方，否則反彈不可持續"
+      },
+      {
+        "title": "CoinDesk：做空擠壓可能觸發技術性反彈",
+        "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges",
+        "source": "CoinDesk",
+        "desc": "BTC跌至$58K但做空倉位過度擁擠→空頭擠壓機率升高"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI Jalapeño晶片：LLM推論專用ASIC架構解析",
+        "url": "https://siliconangle.com/2026/06/24/openai-broadcom-debut-custom-jalapeno-chip-llm-inference/",
+        "source": "SiliconAngle",
+        "desc": "基於OpenAI模型roadmap設計。針對ChatGPT/Codex推論場景。比通用GPU效能/瓦更優"
+      },
+      {
+        "title": "Figma Config 2026：所有公告都與AI相關",
+        "url": "https://techpp.com/2026/06/25/daily-brief-june-25-2026-chatgpt-finance/",
+        "source": "TechPP",
+        "desc": "Figma年度大會。AI功能全面主導。對設計師工作流程的深度整合"
+      },
+      {
+        "title": "Qualcomm $40億收購強化AI軟體層",
+        "url": "https://techstartups.com/2026/06/25/top-tech-news-today-june-25-2026/",
+        "source": "Tech Startups",
+        "desc": "收購案鞏固端側AI能力。手機/車用/IoT的AI推論生態系擴展"
+      },
+      {
+        "title": "Gartner：coding agents推升開發者AI支出至前所未見水平",
+        "url": "https://www.infoworld.com/software-development/",
+        "source": "InfoWorld",
+        "desc": "消費型定價+agent普及=企業AI工具支出可能在兩年內暴增"
+      }
+    ],
+    "art": [
+      {
+        "title": "The New Yorker：AI設計美學正在標準化整個網路視覺語言",
+        "url": "https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet",
+        "source": "The New Yorker",
+        "desc": "去飽和色+微偏原色+中世紀現代主義=AI世代的視覺DNA。獨立性vs同質化辯論"
+      },
+      {
+        "title": "UN研究：133個AI系統強化性別與種族刻板印象",
+        "url": "https://www.ndtv.com/ai",
+        "source": "NDTV",
+        "desc": "聯合國調查發現AI系統中部分將女性描繪為性對象、財產或從屬角色"
+      },
+      {
+        "title": "Getty+OpenAI效應持續：從控告到合作的產業轉型",
+        "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/06/22/getty-sued-ai-now-its-selling-to-ai-while-dodging-the-one-question-that-counts/",
+        "source": "Forbes",
+        "desc": "授權展示避開訓練權。視覺內容產業正快速擁抱AI而非對抗"
+      },
+      {
+        "title": "DEVELOP3D新銳設計獎2026：技術+工藝+AI整合評選",
+        "url": "https://develop3d.com/develop3d-blog/new-designer-2026-d3d-award/",
+        "source": "DEVELOP3D",
+        "desc": "選出五位最佳新銳設計師。AI工具使用能力成為評選新標準"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma Config 2026：AI全面主導設計師工作流",
+        "url": "https://techpp.com/2026/06/25/daily-brief-june-25-2026-chatgpt-finance/",
+        "source": "TechPP",
+        "desc": "年度大會所有公告圍繞AI。設計代理、智能生成、協作增強"
+      },
+      {
+        "title": "The New Yorker分析AI美學同質化危機",
+        "url": "https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet",
+        "source": "The New Yorker",
+        "desc": "AI設計工具讓視覺風格趨同。設計師如何在AI時代保持獨特性"
+      },
+      {
+        "title": "法院認定平台UX設計=行為責任：設計倫理新標準",
+        "url": "https://techpolicy.press/ai-didnt-kill-design-it-exposed-it",
+        "source": "Tech Policy Press",
+        "desc": "判例確立：設計選擇直接影響用戶行為＝設計師負有法律責任"
+      },
+      {
+        "title": "GTA 6 UI預覽：$80定價暗示的AAA視覺投資",
+        "url": "https://www.polygon.com/gta6-grand-theft-auto-6-news-price-release-date-pre-orders/",
+        "source": "Polygon",
+        "desc": "史上最貴標準版3A遊戲。反映開發成本+視覺品質+UI投資的新標準"
+      }
+    ],
+    "business": [
+      {
+        "title": "Micron +16%領漲但Apple -6%拖累：科技分化加劇",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-micron-surges-apple-falls-and-inflation-data-weighs-on-stocks/",
+        "source": "Motley Fool",
+        "desc": "記憶體/HBM大漲vs消費電子承壓。Apple全面漲價後股價重挫。Caterpillar創新高"
+      },
+      {
+        "title": "GTA 6定價$80打破AAA慣例：Take-Two豪賭",
+        "url": "https://www.forbes.com/sites/paultassi/2026/06/24/rockstar-reveals-gta-6s-price-is-80-confirms-preorder-time-bonuses/",
+        "source": "Forbes",
+        "desc": "比標準$70貴$10。反映通膨+開發成本+市場定價權。Ultimate $100含獨家內容"
+      },
+      {
+        "title": "Brent油價抹去戰爭溢價：荷姆茲全面恢復",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+        "source": "Bloomberg",
+        "desc": "美伊和平路線圖落實。航運恢復＝能源通膨壓力解除但PCE仍高"
+      },
+      {
+        "title": "SK Hynix融資$300億：KOSPI暴跌後立即擴產",
+        "url": "https://techstartups.com/2026/06/25/top-tech-news-today-june-25-2026/",
+        "source": "Tech Startups",
+        "desc": "前日-12%後隔天宣布大規模融資。HBM需求確定性＞短期股價波動"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股6/25：Nasdaq -0.5% | S&P ≈平盤 | Dow +0.35% | Micron +16%",
+        "url": "https://www.straitstimes.com/business/companies-markets/nasdaq-sp-end-lower-as-tech-megacap-declines-outweigh-upbeat-chip-outlook",
+        "source": "Straits Times",
+        "desc": "Micron/記憶體大漲但Apple -6%+大型科技拖累。PCE通膨壓制整體情緒"
+      },
+      {
+        "title": "PCE 4.1%三年最高！Fed升息幾乎確定",
+        "url": "https://finance.yahoo.com/economy/policy/article/pce-report-feds-preferred-inflation-measure-hits-3-year-high-keeping-talk-of-possible-rate-hike-in-play-124158491.html",
+        "source": "Yahoo Finance",
+        "desc": "5月PCE年率4.1%(最高自2023/4)。核心3.4%。月增0.4%。消費支出仍強＝經濟不弱"
+      },
+      {
+        "title": "BTC跌至$59K收：加密vs AI的資金大輪轉持續",
+        "url": "https://bitcoin.einnews.com/article/922250416/2BLFV7Bindpp7Lqr",
+        "source": "EIN News",
+        "desc": "BTC $59,413 | ETH $1,559 | SOL $66。6月跌近20%。AI股虹吸效應明確"
+      },
+      {
+        "title": "台股6/25收平（0050 107.20）：Micron利多vs PCE利空抵消",
+        "url": "https://stockq.org/etf/etf_index_tracking.php",
+        "source": "StockQ",
+        "desc": "0050僅+0.05%。NAV 106.70，溢價0.47%，偏離10.71%=健康。今日觀望PCE後續效應"
+      }
+    ],
+    "stock_briefing": {
+      "date": "2026-06-26",
+      "updated_at": "2026-06-26 09:00",
+      "sparkline": [
+        47200,
+        46700,
+        45500,
+        45500,
+        45300,
+        0,
+        0
+      ],
+      "sparkline_dates": [
+        "6/22",
+        "6/23",
+        "6/24",
+        "6/25",
+        "6/26E",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "45,500(6/25收)",
+        "change": -200,
+        "changePercent": "-0.4%(估)",
+        "volume": "預估2.8兆",
+        "futures": "45,300 (-0.4%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 0.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 0.5
+        },
+        {
+          "name": "電子",
+          "change": -0.5
+        },
+        {
+          "name": "金融",
+          "change": -0.3
+        },
+        {
+          "name": "石化",
+          "change": -1
+        },
+        {
+          "name": "航運",
+          "change": -1
+        },
+        {
+          "name": "傳產",
+          "change": -0.3
+        },
+        {
+          "name": "高股息ETF",
+          "change": -0.3
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "平盤 觀望",
+          "note": "Micron vs PCE抵消"
+        },
+        {
+          "name": "0056",
+          "trend": "跌 微跌",
+          "note": "PCE壓力"
+        },
+        {
+          "name": "00878",
+          "trend": "跌 微跌",
+          "note": "觀望"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 微升",
+          "note": "Micron帶動"
+        },
+        {
+          "name": "00919",
+          "trend": "跌 微跌",
+          "note": "觀望"
+        },
+        {
+          "name": "009816",
+          "trend": "平盤 觀望",
+          "note": "跟隨"
+        }
+      ],
+      "institutional": {
+        "外資": -50,
+        "投信": 10,
+        "自營商": 5
+      },
+      "sentiment": {
+        "score": 48,
+        "label": "中性 — Micron超預期+OpenAI晶片利多vs PCE 4.1%三年最高+Apple漲價-6%。多空拉鋸",
+        "history": [
+          30,
+          35,
+          55,
+          62,
+          30,
+          58,
+          48
+        ]
+      },
+      "international": [
+        {
+          "name": "Micron",
+          "change": 16
+        },
+        {
+          "name": "Apple",
+          "change": -6
+        },
+        {
+          "name": "Nasdaq",
+          "change": -0.5
+        }
+      ],
+      "buffett_indicator": {
+        "value": 191,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🚀 OpenAI發表Jalapeño自研推論晶片（與Broadcom合作）",
+        "🚀 Micron +16%！但大型科技拖累Nasdaq收跌",
+        "🔴 PCE 4.1%三年最高→升息幾乎確定",
+        "🔴 Apple全面漲價（MacBook/iPad）→股價-6%",
+        "✅ Brent油價抹去戰爭溢價→荷姆茲恢復通行",
+        "🟡 台股昨日平盤收(0050 +0.05%)=多空抵消",
+        "⚠️ 今日收週線。PCE後效應觀察中"
+      ],
+      "summary": "🟡 多空拉鋸日！Micron +16%+OpenAI Jalapeño晶片=AI利多，但PCE 4.1%(三年高)+Apple -6%=通膨壓力。台股昨平盤，今日估微跌。半導體持續受惠但需消化升息預期。收週線觀望為主。建議：持有不動、不追高不殺低。等下週PCE效應消化。",
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "平盤 震盪",
+          "note": "Micron利多但PCE升息壓力。OpenAI Jalapeño不用Nvidia=長期競爭變數。短線觀望。",
+          "nav": null,
+          "pb": 10.2,
+          "premium": null,
+          "pe": 31,
+          "quarterLine": 9,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "平盤 觀望",
+          "note": "6/25收107.20(+0.05%)。NAV 106.70，溢價0.47%。偏離10.71%健康。",
+          "nav": 106.7,
+          "pb": null,
+          "premium": 0.47,
+          "pe": null,
+          "quarterLine": 10.71,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "跌 微跌",
+          "note": "PCE升息壓力對高息股不利。但殖利率保護。",
+          "nav": 51.3,
+          "pb": null,
+          "premium": -0.1,
+          "pe": null,
+          "quarterLine": 10,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "跌 微跌",
+          "note": "升息環境對高息ETF有壓。防禦持有。",
+          "nav": 19.9,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "跌 微跌",
+          "note": "月配息持續。短線受PCE壓制。",
+          "nav": 26.5,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 10,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "跌 微跌",
+          "note": "價值型在升息環境相對抗壓。",
+          "nav": 9.5,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "觀望"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "平盤 觀望",
+          "note": "6/25收248.10(+0.06%)。NAV 247.79，溢價0.13%。偏離10.64%。",
+          "nav": 247.79,
+          "pb": null,
+          "premium": 0.13,
+          "pe": null,
+          "quarterLine": 10.64,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 微升",
+          "note": "Micron +16%受惠。但PCE升息壓制漲幅。",
+          "nav": 1180,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 11,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 微升",
+          "note": "半導體利多持續。HBM供需確認。",
+          "nav": 21.5,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 10,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "平盤 震盪",
+          "note": "主動型觀望。離季線回到合理區間。",
+          "nav": 20.3,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 18,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平盤 震盪",
+          "note": "最大主動ETF。折價-0.4%持續。",
+          "nav": 30.5,
+          "pb": null,
+          "premium": -0.4,
+          "pe": null,
+          "quarterLine": 11,
+          "suggestion": "持有（折價）"
+        },
+        {
+          "name": "00403A 中信台灣精選50主動",
+          "trend": "平盤 觀望",
+          "note": "跟隨大盤整理。",
+          "nav": 17.6,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 9,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "平盤 觀望",
+          "note": "規模1495億。偏離回到合理。",
+          "nav": 14.8,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 微升",
+          "note": "科技+高息。Micron利多帶動。",
+          "nav": 23.3,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        }
+      ],
+      "searched": []
+    },
+    "summaries": [],
+    "ai_videos": []
+  }
+}
