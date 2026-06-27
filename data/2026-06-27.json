@@ -1,0 +1,245 @@
+{
+  "date": "2026-06-27",
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI發布GPT-5.6系列（Sol/Terra/Luna），應美國政府要求限制公開存取",
+        "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "source": "TechCrunch",
+        "desc": "Sol為最強旗艦、Terra平衡效能與成本、Luna主打速度與低價。Trump行政命令要求AI公司先讓政府評估30天，僅約20家信賴夥伴可優先存取"
+      },
+      {
+        "title": "MIT開發Murakkab系統：優化多步驟AI工作流設計與部署",
+        "url": "https://news.mit.edu/topic/artificial-intelligence2",
+        "source": "MIT News",
+        "desc": "自動優化驅動AI應用的多步驟工作流程，提升複雜pipeline效率"
+      },
+      {
+        "title": "AWS持續擴展Agentic AI生態系：Bedrock+Kiro+New Relic整合",
+        "url": "https://solutionsreview.com/ai-news-for-the-week-of-june-26-updates-from-broadcom-lenovo-openai-more/",
+        "source": "Solutions Review",
+        "desc": "Amazon Bedrock基礎模型+Kiro AI原生開發環境+可觀測性平台即時遙測整合，構建企業級agentic AI完整棧"
+      },
+      {
+        "title": "Google要求新聞出版商分享內容供AI訓練，否則失去授權費",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-tells-news-publishers-to-share-content-for-ai-training-or-lose-fees/",
+        "source": "PYMNTS",
+        "desc": "Google News試行「AI驅動文章概要」，要求加入的出版商同意廣泛的內容使用權"
+      },
+      {
+        "title": "HPE擴展AI Factory產品組合：支援NVIDIA自主多代理系統",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "source": "Crescendo AI",
+        "desc": "新增NVIDIA Vera CPU（agent編排）+Agent Toolkit，安全管理生產環境中的自主代理"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "GTA 6 Switch 2移植版傳2027推出，內部人士透露已開發多時",
+        "url": "https://www.vice.com/en/article/gta-6-switch-2-port-reportedly-releasing-in-2027/",
+        "source": "Vice",
+        "desc": "Nintendo內部人士指GTA 6 Switch 2版本已在開發中，可能2027年推出。本體11月PS5/Xbox首發"
+      },
+      {
+        "title": "Monster Hunter Stories 3 付費DLC「Rudy篇」即日推出+免費更新",
+        "url": "https://www.nintendolife.com/news/2026/06/monster-hunter-stories-3-rudy-side-story-dlc-announced-out-now-alongside-free-update",
+        "source": "Nintendo Life",
+        "desc": "Capcom Spotlight公布。$9.99 DLC聚焦系列人氣隨從Rudy起源故事+免費Royal Monsters更新解鎖全怪物皇家版本"
+      },
+      {
+        "title": "Star Fox（Switch 2獨佔）6月發售：系列睽違多年新作",
+        "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+        "source": "IGN",
+        "desc": "Nintendo Switch 2獨佔的Star Fox新作本月推出，軌道射擊玩法回歸"
+      },
+      {
+        "title": "GTA 6「Code-in-a-Box」實體版引發遊戲數位化爭議",
+        "url": "https://www.nintendolife.com/news/2026/06/this-is-even-worse-gta-6-code-in-a-box-reveal-reignites-game-key-card-debate",
+        "source": "Nintendo Life",
+        "desc": "實體版內只有下載碼無光碟，重燃遊戲所有權與實體收藏價值辯論"
+      }
+    ],
+    "tech": [
+      {
+        "title": "美軍空襲伊朗：Trump指控違反停火協議，荷姆茲海峽再度緊張",
+        "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+        "source": "CNBC",
+        "desc": "伊朗無人機襲擊荷姆茲海峽商船→美中央司令部攻擊伊朗飛彈/無人機儲存設施+雷達站。地緣風險再度升溫"
+      },
+      {
+        "title": "Onsemi以$70億全股票收購Synaptics，押注Physical AI",
+        "url": "https://www.reuters.com/legal/transactional/onsemi-buy-synaptics-7-billion-all-stock-deal-2026-06-25/",
+        "source": "Reuters",
+        "desc": "Onsemi史上最大收購。Synaptics股東獲1.350股ON換1股SYNA（溢價19%）。目標：感知+行動的實體AI完整解決方案"
+      },
+      {
+        "title": "Windows 11 Insider新版本推出，WIP新體驗零售版上線",
+        "url": "https://blogs.windows.com/windows-insider/2026/06/26/announcing-new-builds-for-26-june-2026-retail-launch-of-new-wip-improvements/",
+        "source": "Windows Insider Blog",
+        "desc": "Beta+Experimental雙通道新build。新的Windows Insider Program UI設定正式推送到零售版Windows 11"
+      },
+      {
+        "title": "Trump威脅對徵收數位服務稅國家加徵100%關稅",
+        "url": "https://abcnews.com/US/wireStory/trump-threatens-100-tax-european-imports-countries-impose-134249597",
+        "source": "ABC News",
+        "desc": "針對對美國科技公司課Digital Services Tax的國家→100%進口關稅威脅。歐洲首當其衝"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Binance 7/1起暫停歐盟服務：MiCA牌照申請失敗",
+        "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+        "source": "CoinDesk",
+        "desc": "全球最大交易所撤回希臘MiCA申請。法國/義大利/波蘭/西班牙用戶受影響。計畫改向法國申請，資產安全可提取"
+      },
+      {
+        "title": "BTC跌至$58,000（21個月低點）後反彈至$60,200，$12.6億清算",
+        "url": "https://www.ccn.com/news/crypto/bitcoin-price-crash-58k-1-26b-liquidations-55k/",
+        "source": "CCN",
+        "desc": "24小時內20.9萬交易者爆倉$12.6億。距ATH跌53%。多頭$4.5億在1小時內蒸發"
+      },
+      {
+        "title": "加密市場H1收跌：BTC -32%、ETH -47%、MSTR -43%",
+        "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+        "source": "CoinDesk",
+        "desc": "總市值跌至~$2兆（2024年11月以來最低）。BTC跌幅相對較小成為唯一慰藉"
+      },
+      {
+        "title": "Jeremy Grantham：比特幣將「悄然消亡」",
+        "url": "https://www.cnbc.com/business/",
+        "source": "CNBC",
+        "desc": "億萬投資人Grantham看空BTC長期前景，認為加密貨幣終將以whimper收場"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Figma Design Agent開放Beta：自訂工具+畫布上下文感知",
+        "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+        "source": "Figma",
+        "desc": "設計師可直接在畫布上與AI代理協作。支援自訂工具/技能+多框架原型生成。開放更多用戶使用"
+      },
+      {
+        "title": "OpenAI GPT-5.3 Instant發布：減少不必要拒絕，更直接對話",
+        "url": "https://openai.com/index/gpt-5-3-instant/",
+        "source": "OpenAI",
+        "desc": "大幅降低過度防禦/說教式前言。該回答時直接回答，不加多餘警語"
+      },
+      {
+        "title": "Roblox開發者週報：UI Shadows正式版+Shop個人化商店7/7上線",
+        "url": "https://devforum.roblox.com/t/weekly-recap-june-22-26-2026/4704424",
+        "source": "Roblox DevForum",
+        "desc": "UI Shadows和Individual Corner Rounding全面上線。Shop為遊戲內個人化店面，7/7向全用戶推出"
+      },
+      {
+        "title": "Aerospike Vector Search新版：十億級向量毫秒級語義搜尋",
+        "url": "https://solutionsreview.com/data-management/data-management-news-for-the-week-of-june-26-updates-from-edb-komprise-opsguru-more/",
+        "source": "Solutions Review",
+        "desc": "新索引和儲存選項，企業可在十億級向量規模上執行即時語義搜尋"
+      }
+    ],
+    "art": [
+      {
+        "title": "Adobe Creative Agent大擴展：進駐Photoshop/Premiere/Illustrator/InDesign",
+        "url": "https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion",
+        "source": "Adobe",
+        "desc": "AI助手跨應用編排多步驟工作流。Firefly新增品牌套件/短影片/分鏡轉影片等agentic能力。87%創作者稱AI助長業務"
+      },
+      {
+        "title": "AI數位插畫工作流突破：從文生圖轉向多層畫布環境",
+        "url": "https://www.abnewswire.com/pressreleases/ai-digital-illustration-workflow-breakthrough-evaluated-in-new-nikitti-ai-handson-report_820601.html",
+        "source": "AB Newswire",
+        "desc": "Nikitti AI報告：現代創作者正從獨立prompt生成轉向動態多層畫布，消除生產瓶頸"
+      },
+      {
+        "title": "Creative Boom：6月創意產業動態——策略主管需求飆升+social-first工作室擴招",
+        "url": "https://www.creativeboom.com/news/booms-and-shakes-june-2026/",
+        "source": "Creative Boom",
+        "desc": "策略領導者搶手、社群優先代理商持續招人、有工作室勇敢把自家品牌重塑外包"
+      },
+      {
+        "title": "Nikitti AI驗證Dreamina多層畫布為工作室概念藝術必備工具",
+        "url": "https://www.abnewswire.com/pressreleases/best-ai-image-generators-for-concept-art-in-2026-nikitti-ai-validates-dreaminas-multilayer-canvas-as-essential-for-studio-workflows_820809.html",
+        "source": "AB Newswire",
+        "desc": "2026概念藝術生產框架發布。引導遊戲工作室/娛樂公司/獨立創作者在生成式軟體市場建立視覺資產"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma Design Agent開放Beta+Custom Tools：設計師AI協作新紀元",
+        "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+        "source": "Figma",
+        "desc": "直接在Figma畫布上使用AI代理。支援自訂工具擴展+上下文感知，精確度與創意控制力提升"
+      },
+      {
+        "title": "2026 UI/UX趨勢：行為適應介面取代裝飾動畫",
+        "url": "https://solguruz.com/blog/ui-ux-design-trends/?",
+        "source": "SolGuruz",
+        "desc": "介面依行為模式/時段/互動風格個別適應。功能性微動畫取代純裝飾motion。28大趨勢解析"
+      },
+      {
+        "title": "Figma Make：AI網站建構器+互動原型一氣呵成",
+        "url": "https://www.figma.com/solutions/ai-website-builder/",
+        "source": "Figma",
+        "desc": "用自然語言描述網站→自動生成版面/結構/互動。設計與代碼原型合一的新工作流"
+      },
+      {
+        "title": "AI重塑UX設計：對話式介面層+radical透明度成主流",
+        "url": "https://www.yujdesigns.com/blog/ai-ux-design-trends-2026/",
+        "source": "YUJ Designs",
+        "desc": "設計AI產品需處理不確定性、建立用戶信任、溝通模型行為——不只是好看"
+      }
+    ],
+    "business": [
+      {
+        "title": "JPMorgan上調2026 S&P 500目標價，但預警前方仍有障礙",
+        "url": "https://www.cnbc.com/2026/06/24/jpmorgan-hikes-2026-sp-500-target-but-sees-hurdles-ahead-for-stocks.html",
+        "source": "CNBC",
+        "desc": "Q1獲利年增28.9%、Q2預估+22%。但關稅/通膨/地緣政治風險仍存"
+      },
+      {
+        "title": "SpaceX IPO後跌23%：從$202高點回落至$156",
+        "url": "https://www.fool.com/investing/2026/06/25/spacex-stock-down-23-ipo-this-happen-next-big-move/",
+        "source": "Motley Fool",
+        "desc": "6/12上市$135→6/16飆至$202（市值$2.6兆）→回落23%至$156。S&P 500拒絕快速納入（12月觀察期）"
+      },
+      {
+        "title": "Newsom提出全國億萬富翁稅+AI公共權益基金",
+        "url": "https://www.cbsnews.com/news/newsom-proposes-federal-billionaire-tax-and-ai-public-equity-fund/",
+        "source": "CBS News",
+        "desc": "加州州長呼籲對淨資產逾$1億者課最低聯邦稅率+建立AI財富全民分享基金。被視為2028總統野心佈局"
+      },
+      {
+        "title": "JPMorgan人事重組：Doug Petno+Troy Rohrbaugh升任聯席總裁",
+        "url": "https://www.cnbc.com/business/",
+        "source": "CNBC",
+        "desc": "Marianne Lake離任。接班佈局明朗化。Jamie Dimon退休後繼任者漸浮現"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股週五混合收盤：科技續弱+金融工業撐盤，Nasdaq連跌4天",
+        "url": "https://au.finance.yahoo.com/news/stock-market-news-jun-26-132200376.html",
+        "source": "Yahoo Finance",
+        "desc": "道瓊+0.1%收51,920。上漲股多於下跌股但科技AI類股持續拖累。Micron財報佳但無法阻止賣壓"
+      },
+      {
+        "title": "全球股市下跌：科技拋售蔓延，投資人審慎觀望",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-26/",
+        "source": "Reuters",
+        "desc": "「整體跌幅在大局中算溫和，預期整理結束後恢復上漲」——買dip心態+基本面穩固"
+      },
+      {
+        "title": "美伊停火破裂+空襲→油價/地緣風險重新定價",
+        "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+        "source": "CNBC",
+        "desc": "上週才因和平協議讓油價大跌，本週無人機襲擊+美軍空襲令荷姆茲海峽風險再度升溫"
+      },
+      {
+        "title": "歐盟通過歷史性貿易協議：對美關稅降至零",
+        "url": "https://www.xtb.com/en/market-analysis/daily-summary-will-the-s-p-500-close-the-week-with-a-loss-find-out-what-drove-the-market-today",
+        "source": "XTB",
+        "desc": "商務部長Lutnick宣布歐洲立法通過美歐貿易協定，歐盟首次對美零關稅。利好美國製造/農漁業"
+      }
+    ]
+  }
+}
