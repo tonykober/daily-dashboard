@@ -1,0 +1,251 @@
+{
+  "date": "2026-06-28",
+  "categories": {
+    "ai": [
+      {
+        "title": "美國政府可能即將允許Anthropic恢復Claude Fable 5存取",
+        "url": "https://thetechportal.com/2026/06/28/us-government-could-soon-allow-anthropic-to-restore-claude-fable-5/",
+        "source": "The Tech Portal",
+        "desc": "經過近兩週談判，Trump政府據報正準備允許Anthropic恢復Fable 5模型存取。此前Mythos 5已獲批准提供給約100家公司和聯邦機構"
+      },
+      {
+        "title": "美國政府批准Anthropic向受信任夥伴發布Mythos 5 AI模型",
+        "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+        "source": "CNBC",
+        "desc": "商務部長Lutnick致函Anthropic確認「適當安全措施已就位」。約100家公司和聯邦機構可使用Mythos 5，但Fable 5尚未獲批"
+      },
+      {
+        "title": "OpenAI GPT-5.6部署因美國國安審查延遲",
+        "url": "https://thetechportal.com/2026/06/27/openai-gpt-5-6-rollout-delayed-us-national-security-review/",
+        "source": "The Tech Portal",
+        "desc": "Trump政府要求OpenAI延遲GPT-5.6（Sol/Terra/Luna）全面公開。先限制於「受信任小組」30天評估期"
+      },
+      {
+        "title": "NVIDIA宣布解決AI水冷問題，降低資料中心水資源消耗",
+        "url": "https://markmcneilly.substack.com/p/the-new-news-in-ai-62626-edition",
+        "source": "Substack - New News in AI",
+        "desc": "NVIDIA表示已解決AI運算的水資源消耗問題。同期新聞：美國新法案要求人類教授不得被AI取代、挪威近乎禁止小學使用AI"
+      },
+      {
+        "title": "Apple向Trump政府申請從中國黑名單企業CXMT採購晶片",
+        "url": "https://thetechportal.com/2026/06/27/apple-requests-us-clearance-to-source-chips-from-chinas-blacklisted-cxmt/",
+        "source": "The Tech Portal",
+        "desc": "Apple試圖獲得許可從被列入黑名單的中國記憶體晶片製造商CXMT採購，以緩解AI驅動的記憶體晶片危機"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Deltarune第5章免費更新現已上線，Switch 1&2均可遊玩",
+        "url": "https://www.nintendolife.com/news/2026/06/psa-deltarune-chapter-5-is-now-available-for-switch-1-and-2-crash-issue-identified",
+        "source": "Nintendo Life",
+        "desc": "Toby Fox的Deltarune第5章「粉紅與金色之野」6/24上線，為所有付費版本擁有者的免費更新。已確認Switch版有崩潰問題正在修復"
+      },
+      {
+        "title": "TMNT: Shredder's Revenge本週Epic Games Store免費領取",
+        "url": "https://games.gg/news/tmnt-shredders-revenge-free-epic-games/",
+        "source": "Games.gg",
+        "desc": "評分87的復古橫向捲軸格鬥遊戲限時免費，領取期限至7月2日。支援最多6人連線合作"
+      },
+      {
+        "title": "Xbox Free Play Days：三款付費遊戲本週末免費遊玩",
+        "url": "https://gamerant.com/free-games-this-weekend-june-28-2026/",
+        "source": "Game Rant",
+        "desc": "Xbox Game Pass訂閱者可免費遊玩Blades of Fire、House Flipper 2、Assetto Corsa Competizione至6/28"
+      },
+      {
+        "title": "本週末免費遊戲總整理：Steam/Epic/IndieGala多平台",
+        "url": "https://gg.deals/freebie/new-free-games-this-weekend-june-27-28-2026-your-comprehensive-roundup/",
+        "source": "GG.deals",
+        "desc": "Steam免費：POPGOES Arcade、Sixth Force。Epic免費：Voidwrought、RollerCoaster Tycoon 3完整版。手機免費：TMNT Shredder's Revenge"
+      },
+      {
+        "title": "Final Fantasy VII Revelation確認2027春季全平台同步發售",
+        "url": "https://www.videogameschronicle.com/news/final-fantasy-7-revelation-director-says-his-next-game-wont-be-a-remake-but-could-be-a-grand-scale-rpg/",
+        "source": "VGC",
+        "desc": "FF7重製三部曲最終章將於2027春季登陸PS5/Xbox Series/Switch 2/PC同步發售，不再是PlayStation限時獨佔"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Apple/Microsoft大幅調漲產品價格：AI驅動記憶體晶片危機",
+        "url": "https://www.aljazeera.com/economy/2026/6/26/apple-microsoft-hike-prices-over-surging-chip-costs",
+        "source": "Al Jazeera",
+        "desc": "Apple Mac/iPad漲幅達20%以上。Tim Cook稱此為「百年一遇的洪水」，Musk附和稱「前所未見的最大漲幅」。AI資料中心需求推高記憶體成本"
+      },
+      {
+        "title": "SpaceX計劃推出Starlink手機服務，直接與AT&T和Verizon競爭",
+        "url": "https://www.fool.com/investing/2026/06/26/spacex-might-soon-launch-a-starlink-mobile-internet-service-competing-directly-with-att-and-verizon/",
+        "source": "Motley Fool",
+        "desc": "SpaceX準備進入美國零售手機服務市場，利用低軌衛星網路提供消費者直連行動通訊服務"
+      },
+      {
+        "title": "委內瑞拉雙地震死亡人數突破1,430人，為125年來最致命",
+        "url": "https://www.usatoday.com/story/news/world/2026/06/27/venezuela-earthquakes-death-toll-updates/90721221007/",
+        "source": "USA Today",
+        "desc": "6/24雙震（7.2+7.5級）造成超過1,430死、3,200傷。首都加拉加斯建物倒塌，La Guaira地區受創最重，國際救援持續進行"
+      },
+      {
+        "title": "OpenAI可能將IPO延至2027年，不確定性引發美股賣壓",
+        "url": "https://thetechportal.com/2026/06/26/openai-could-delay-ipo-until-2027/",
+        "source": "The Tech Portal",
+        "desc": "Bloomberg報導OpenAI考慮推遲IPO至2027年。消息導致美股下跌，投資人對AI產業商業化時程產生疑慮"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC觸及$58,000（21個月新低）後反彈，加密市場守住關鍵支撐",
+        "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
+        "source": "CoinDesk",
+        "desc": "BTC觸及2024年9月以來最低點後反彈至$59,770。ETH跌破$1,600。期貨清算超$10億，衍生品訊號顯示下行壓力仍在"
+      },
+      {
+        "title": "加密市場交易者24小時內損失$10億，空頭面臨反壓",
+        "url": "https://news.bitcoin.com/crypto-traders-lose-1b-in-24-hours-as-short-sellers-face-rising-pressure/",
+        "source": "Bitcoin.com",
+        "desc": "BTC觸及2026年低點$59,018後清算潮。分析師警告BTC若反彈至$69,500可能觸發$47億空頭擠壓"
+      },
+      {
+        "title": "Binance 7/1起暫停歐盟服務：MiCA牌照申請失敗",
+        "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+        "source": "CoinDesk",
+        "desc": "全球最大加密交易所撤回希臘MiCA申請。法國/義大利/波蘭/西班牙用戶受影響，計畫改向法國申請"
+      },
+      {
+        "title": "加密市場H1慘淡收場：BTC -32%、ETH -47%、總市值跌至$2兆",
+        "url": "https://crypto.news/bitcoin-retests-june-low-after-850m-liquidations-rock-crypto-market/",
+        "source": "Crypto News",
+        "desc": "ETH跌至$1,590、SOL跌破$65、XRP約$1.05。總市值降至約$2.1兆（2024年11月以來最低），分析師警告可能進入新一輪加密寒冬"
+      }
+    ],
+    "dev": [
+      {
+        "title": "GitHub Desktop 3.6發布：原生Worktree支援+深度Copilot整合",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "source": "GitHub Blog",
+        "desc": "所有Copilot功能新增模型選擇器，支援BYOK連接第三方或本地模型。原生Git Worktree管理讓多分支開發更流暢"
+      },
+      {
+        "title": "VS Code 1.126更新：新增Copilot會話級費用追蹤",
+        "url": "https://visualstudiomagazine.com/articles/2026/06/24/vs-code-keeps-eye-on-costs-in-v1126-update.aspx",
+        "source": "Visual Studio Magazine",
+        "desc": "繼花費計量器後再加會話級成本資訊，擴展AI使用透明度。開發者可即時監控每次對話的token消耗與費用"
+      },
+      {
+        "title": "GitHub Copilot CLI全新終端介面正式GA",
+        "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available/",
+        "source": "GitHub Blog",
+        "desc": "Build 2026預覽的重新設計終端介面正式推出。分頁式GitHub操作佈局、新的工具配置體驗、更清潔的無障礙介面"
+      },
+      {
+        "title": "Claude作為Agent Provider在JetBrains IDE進入公開預覽",
+        "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides/",
+        "source": "GitHub Blog",
+        "desc": "GitHub Copilot for JetBrains新增Claude代理提供者預覽、組織/企業級代理支援、CLI會話中的訊息佇列管理"
+      }
+    ],
+    "art": [
+      {
+        "title": "Adobe Creative Agent大擴展：進駐Photoshop/Premiere/Illustrator/InDesign",
+        "url": "https://news.adobe.com/news/2026/06/adobe-unveils-major-expansion",
+        "source": "Adobe",
+        "desc": "AI助手跨應用編排多步驟工作流。Firefly新增品牌套件/短影片/分鏡轉影片。調查顯示87%創作者稱AI助長業務"
+      },
+      {
+        "title": "AI數位插畫工作流突破：產業正式告別「平面圖像時代」",
+        "url": "https://www.abnewswire.com/pressreleases/ai-digital-illustration-workflow-breakthrough-evaluated-in-new-nikitti-ai-handson-report_820601.html",
+        "source": "AB Newswire",
+        "desc": "Nikitti AI報告：2024-2025的單張生成已過時，創作者正轉向動態多層畫布環境，消除概念藝術生產瓶頸"
+      },
+      {
+        "title": "Creative Boom：6月創意產業動態—策略主管需求飆升",
+        "url": "https://www.creativeboom.com/news/booms-and-shakes-june-2026/",
+        "source": "Creative Boom",
+        "desc": "策略領導者搶手、社群優先代理商持續招人。設計職位下降33%，但策略性角色需求逆勢上揚"
+      },
+      {
+        "title": "Pinterest在Cannes Lions 2026坦言：建構創意事業的網路正在被拆解",
+        "url": "https://www.creativeboom.com/tips/the-web-that-built-your-creative-business-is-being-dismantled-so-what-should-you-do-now/",
+        "source": "Creative Boom",
+        "desc": "Pinterest推出AI廣告工具的同時坦承整個產業正朝AI優先方向轉型，創意人需重新思考商業模式"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma Config 2026回顧：Motion、Code Layers、Shaders全面升級畫布",
+        "url": "https://www.figma.com/blog/config-2026-recap/",
+        "source": "Figma",
+        "desc": "Config 2026帶來Code Layers（程式碼圖層）、Figma Motion（時間軸動畫）、著色器、生成式外掛和Weave工具"
+      },
+      {
+        "title": "Figma Design Agent開放Beta：自訂工具+畫布上下文感知",
+        "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+        "source": "Figma",
+        "desc": "設計師可直接在畫布上與AI代理協作。支援自訂工具/技能+多框架原型生成，精確度與創意控制力提升"
+      },
+      {
+        "title": "Figma Motion正式發布：畫布內建時間軸動畫工具",
+        "url": "https://www.figma.com/blog/introducing-figma-motion/",
+        "source": "Figma",
+        "desc": "動畫功能直接內嵌於設計檔案中，與元件/變數/團隊同一空間。設計從第一天起就能動態呈現"
+      },
+      {
+        "title": "2026 UI/UX趨勢：行為適應介面取代裝飾動畫",
+        "url": "https://solguruz.com/blog/ui-ux-design-trends/",
+        "source": "SolGuruz",
+        "desc": "介面依行為模式/時段/互動風格個別適應。功能性微動畫取代純裝飾motion。AI從新奇轉為基礎設施"
+      }
+    ],
+    "business": [
+      {
+        "title": "美國Q1 GDP終值上修至2.1%年增率，優於預期",
+        "url": "https://www.foxbusiness.com/economy/us-economy-q1-2026-final",
+        "source": "Fox Business",
+        "desc": "經濟分析局第三次估算上修GDP成長率。經濟韌性高於預期，但關稅/通膨/地緣政治風險仍為下半年變數"
+      },
+      {
+        "title": "Dow Jones週漲0.6%創歷史新高，資金從科技股輪動至防禦型類股",
+        "url": "https://sundayguardianlive.com/business/us-stock-market-today-sp-500-nasdaq-slip-as-big-tech-ai-stocks-tumble-dow-gains-as-investors-rotate-to-healthcare-and-broader-market-217102/",
+        "source": "Sunday Guardian",
+        "desc": "本週Dow收在51,876歷史高點。醫療保健/防禦型類股受惠資金輪動，而Big Tech和AI股遭拋售"
+      },
+      {
+        "title": "全球機器人新創2026年已募資$188億，超越2025全年",
+        "url": "https://news.crunchbase.com/sections/startups/",
+        "source": "Crunchbase",
+        "desc": "機器人新創今年至今募資$188億，對比2025年全年$150億。AI驅動的實體機器人成為投資焦點"
+      },
+      {
+        "title": "Musk與Cook同聲警告：AI記憶體晶片危機為「前所未見」",
+        "url": "https://africa.businessinsider.com/news/elon-musk-agrees-with-tim-cook-the-memory-shortage-is-unprecedented/3yrlxzn",
+        "source": "Business Insider",
+        "desc": "Cook稱記憶體短缺為「百年洪水」並調漲產品價格。Musk附和稱「我見過最大的價格跳漲」。AI資料中心需求是元凶"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股週報：S&P 500跌2%、Nasdaq重挫4.6%、Dow逆勢創新高",
+        "url": "https://www.livemint.com/market/us-market",
+        "source": "Livemint",
+        "desc": "截至6/26當週：Dow漲0.6%收51,876歷史新高。S&P 500跌2%至7,354。Nasdaq跌4.6%至25,297。科技股大幅拋售vs.防禦型上漲"
+      },
+      {
+        "title": "Apple股價單日暴跌逾6%：Mac/iPad漲價後最差表現",
+        "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+        "source": "CNBC",
+        "desc": "Apple宣布Mac/iPad調漲20%+後股價創一年多來最大單日跌幅。記憶體晶片成本飆升為主因"
+      },
+      {
+        "title": "科技股持續承壓：投資人從大型科技股輪動至落後板塊",
+        "url": "https://markets.businessinsider.com/index/dow_jones",
+        "source": "Business Insider",
+        "desc": "大型科技股和AI概念股遭拋售壓力。資金轉向年初以來表現落後的醫療、工業和價值型股票"
+      },
+      {
+        "title": "聯準會6月會議偏鷹：2026年降息預期全面落空",
+        "url": "https://ca.finance.yahoo.com/news/five-time-keep-cool-075946627.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed官員聚焦控制通膨。就業市場穩健+點陣圖移除2026降息預期。市場需等待更明確的通膨降溫訊號"
+      }
+    ]
+  }
+}
