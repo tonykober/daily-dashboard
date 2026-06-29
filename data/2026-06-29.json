@@ -1,0 +1,245 @@
+{
+  "date": "2026-06-29",
+  "categories": {
+    "ai": [
+      {
+        "title": "美國政府可能即將允許Anthropic恢復Claude Fable 5存取",
+        "url": "https://thetechportal.com/2026/06/28/us-government-could-soon-allow-anthropic-to-restore-claude-fable-5/",
+        "source": "The Tech Portal",
+        "desc": "經兩週談判，Trump政府據報準備允許Anthropic恢復其最強模型Fable 5。此前6/12因出口管制指令被迫全面下架"
+      },
+      {
+        "title": "Anthropic Mythos 5獲得美國限制令的有限豁免",
+        "url": "https://www.businessinsider.com/anthropic-mythos-5-us-restrictions-fable-5-openai-gpt-2026-6",
+        "source": "Business Insider",
+        "desc": "Commerce Department部分解除Mythos 5限制，約100家受信任公司和聯邦機構可使用。Fable 5仍在談判中"
+      },
+      {
+        "title": "Commerce放寬Anthropic限制，但AI治理重大問題仍懸而未決",
+        "url": "https://techpolicy.press/commerce-eased-its-block-on-anthropics-mythos-but-major-questions-remain",
+        "source": "Tech Policy Press",
+        "desc": "外交關係委員會分析：出口管制首次用於限制美國公司的AI模型，開創先例但法律框架模糊"
+      },
+      {
+        "title": "白宮發布AI行政命令：促進先進AI創新與安全",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+        "source": "White House",
+        "desc": "Trump簽署AI行政命令，強調美國AI領導地位來自產業創新，拒絕以過度監管扼殺發展"
+      },
+      {
+        "title": "Quantifind獲$2億融資：AI原生風險情報平台用於金融犯罪偵測",
+        "url": "https://www.prnewswire.com/news-releases/consumer-technology-latest-news/artificial-intelligence-list/",
+        "source": "PR Newswire",
+        "desc": "AI風險情報領導者Quantifind完成$2億融資，服務金融犯罪偵測與國家安全營運"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Xbox本週21款新遊戲上架，含Game Pass新作RV There Yet",
+        "url": "https://www.trueachievements.com/news/xbox-new-games-june-29-2026",
+        "source": "TrueAchievements",
+        "desc": "6/29-7/3共21款遊戲登陸Xbox Series/One/PC。RV There Yet加入Game Pass Ultimate/PC陣容"
+      },
+      {
+        "title": "Monopoly Star Wars：團隊對戰版桌遊登陸主機平台",
+        "url": "https://checkpointgaming.net/features/2026/06/coming-out-in-gaming-this-week-june-29-2026/",
+        "source": "Checkpoint Gaming",
+        "desc": "Ubisoft推出Star Wars主題Monopoly，支援2v2和3v3競技模式+線上/本地合作。選擇英雄或反派使用獨特能力"
+      },
+      {
+        "title": "PlayStation本週8款新遊戲上架（6/29-7/5）",
+        "url": "https://www.truetrophies.com/n28093/playstation-game-releases-june-29th-to-july-5th",
+        "source": "TrueTrophies",
+        "desc": "PS4/PS5本週新作陣容公布。多款獨立遊戲與中型作品上線"
+      },
+      {
+        "title": "日本心理驚悚遊戲Wasabi公布：1990年代長野連續殺人事件",
+        "url": "https://www.digitallydownloaded.net/2026/06/the-catch-up-coffee-june-29-2026.html",
+        "source": "Digitally Downloaded",
+        "desc": "Tokyo Underground Killer團隊新作。設定於1990年代長野縣安曇野市，每天出現新屍體的心理驚悚冒險"
+      }
+    ],
+    "tech": [
+      {
+        "title": "韓國KOSPI創史上最大單週崩跌：從歷史新高到熔斷僅3天",
+        "url": "https://en.sedaily.com/news/2026/06/28/kospi-hits-record-high-then-worst-crash-in-rollercoaster",
+        "source": "Seoul Economic Daily",
+        "desc": "KOSPI從6/22開盤9,052跌至6/26收8,411（-7.08%）。三星/SK海力士跌逾12%。AI股泡沫破裂疑慮升溫"
+      },
+      {
+        "title": "韓國KOSPI暴跌觸發AI晶片市場風險警報",
+        "url": "https://en.cryptonomist.ch/2026/06/27/south-korea-kospi-drop/",
+        "source": "Cryptonomist",
+        "desc": "KOSPI盤中暴跌8.19%觸發熔斷，收跌5.81%。佔指數55%權重的三星+SK海力士崩盤引發全球半導體產業鏈疑慮"
+      },
+      {
+        "title": "委內瑞拉雙地震死亡人數持續攀升：搜救進入關鍵第五天",
+        "url": "https://www.usatoday.com/story/news/world/2026/06/27/venezuela-earthquakes-death-toll-updates/90721221007/",
+        "source": "USA Today",
+        "desc": "截至6/27死亡1,430人、傷3,200+。125年來最致命地震，7.2+7.5雙震摧毀La Guaira地區，國際救援持續"
+      },
+      {
+        "title": "美國製造業PMI升至55.7（2022年5月以來最高），但工廠就業跌六年低",
+        "url": "https://ca.finance.yahoo.com/news/us-manufacturing-rises-front-loading-135847163.html",
+        "source": "Yahoo Finance",
+        "desc": "S&P Global快閃PMI顯示廠商搶先下單推升製造業活動，但就業指標降至六年最低，反映自動化取代效應"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC維持$60,000以下：ETF持續流出+$106億選擇權到期",
+        "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-june-29-july-3-2026-1782566820",
+        "source": "TalkMarkets",
+        "desc": "BTC觸及52週新低$58,100後盤整。美元走強+ETF外流+$106億選擇權到期壓制反彈動能"
+      },
+      {
+        "title": "BTC週末分析：買方在$58K-$59.7K區間吸收，但尚未收復$60.7K",
+        "url": "https://investinglive.com/Cryptocurrency/bitcoin-analysis-over-the-weekend-28-june-2026-20260628/",
+        "source": "InvestingLive",
+        "desc": "多頭在$58K-$59.7K展現真實吸收力，但BTC需收復$60.7K-$61K才能確認短期修復。$61.7K-$62.2K為關鍵修復區"
+      },
+      {
+        "title": "加密市場本週關鍵行事曆：多項經濟數據+代幣事件",
+        "url": "https://www.mexc.com/news/1180195",
+        "source": "MEXC",
+        "desc": "Solana Treasury納入Russell 2000/3000指數。Upbit下架OXT。SharpLink加入Russell指數。本週經濟數據密集"
+      },
+      {
+        "title": "Bitcoin底部訊號浮現？週末回顧與黃金買點分析",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/60146861/weekend-round-up-bitcoins-bottom-signal-golds-buying-opportunity-and-more-crypto-news",
+        "source": "Benzinga",
+        "desc": "分析師指出BTC可能接近短期底部。黃金也因美元走強受壓但被視為買入機會"
+      }
+    ],
+    "dev": [
+      {
+        "title": "TypeScript 7.0 RC：Go重寫的原生編譯器正式進入主線（10倍速提升）",
+        "url": "https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx",
+        "source": "Visual Studio Magazine",
+        "desc": "TypeScript 7.0以Go重寫編譯器，透過原生碼速度+共享記憶體平行化達成約10倍加速。保留完全相同的型別檢查語意"
+      },
+      {
+        "title": "Kotlin 2.4.0發布：支援Java 26、WebAssembly和JS開發擴展",
+        "url": "https://adtmag.com/articles/2026/06/24/jetbrains-kotlin-release.aspx",
+        "source": "ADTmag",
+        "desc": "JetBrains發布Kotlin 2.4.0。新增Java 26 on Kotlin/JVM支援、metadata annotations預設啟用、WASM/JS/Native開發進化"
+      },
+      {
+        "title": "Azure Developer CLI (azd) 5-6月更新：工具管理+跨平台執行器",
+        "url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-may-june-2026/",
+        "source": "Microsoft DevBlogs",
+        "desc": "新增azd tool指令群（發現/安裝/升級開發工具）、azd exec跨平台命令執行器繼承完整環境、多層佈建安全相依分析"
+      },
+      {
+        "title": "Gradle 2026年6月電子報：5,000+倉庫靜態分析+358條規則",
+        "url": "https://newsletter.gradle.org/2026/06",
+        "source": "Gradle",
+        "desc": "新系統跨5,000+倉庫執行358條規則，偵測近百萬問題（約1,000為高優先）。含OSS規則庫：nullability、Gradle外掛最佳實踐等"
+      }
+    ],
+    "art": [
+      {
+        "title": "Adobe宣布收購Topaz Labs：AI影像/影片增強技術納入Creative Cloud",
+        "url": "https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs",
+        "source": "Adobe",
+        "desc": "6/25簽署收購協議。Topaz Labs為業界領先的AI影片/影像增強專家，將整合進Adobe應用程式實現直接高解析度輸出"
+      },
+      {
+        "title": "Adobe收購Topaz Labs對創作者的意義：工作流程即將改變",
+        "url": "https://completeaitraining.com/news/what-adobes-topaz-labs-acquisition-means-for-creatives/",
+        "source": "Complete AI Training",
+        "desc": "收購結束數月猜測。攝影師/影片編輯/設計師將可直接在Adobe應用內使用市場最佳AI放大和增強技術"
+      },
+      {
+        "title": "Adobe與Disney Imagineering合作：Firefly Foundry進入主題樂園設計",
+        "url": "https://news.adobe.com/news/2026/06/adobe-and-disney-imagineering-collaborate",
+        "source": "Adobe",
+        "desc": "Disney 70年傳奇藝術結合Adobe生成式AI。Firefly Foundry讓企業建立品牌專屬AI模型，Disney率先導入樂園設計"
+      },
+      {
+        "title": "Adobe加速Agentic AI生態：新代理商與技術夥伴合作",
+        "url": "https://news.adobe.com/news/2026/06/adobe-accelerates-agentic-ai-adoption",
+        "source": "Adobe",
+        "desc": "Adobe定位為跨模型/平台/代理的agentic基礎設施層，整合創意、行銷和AI於代理時代"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma Config 2026回顧：Code Layers、Motion、Shaders全面革新畫布",
+        "url": "https://www.figma.com/blog/config-2026-recap/",
+        "source": "Figma",
+        "desc": "Config 2026推出程式碼圖層（直接在設計中探索多方向）、Figma Motion時間軸、著色器、生成式外掛和Weave工具"
+      },
+      {
+        "title": "Config 2026新功能總覽：設計師需要知道的一切",
+        "url": "https://help.figma.com/hc/en-us/articles/39582753756695-What-s-new-from-Config-2026",
+        "source": "Figma Learn",
+        "desc": "官方功能文件：Motion、Shaders、自建工具、更強的Design Agent。畫布從靜態工具進化為動態創作平台"
+      },
+      {
+        "title": "設計師以AI實驗為履歷：用Cursor/Gemini/Claude/Figma MCP獲得Adobe AI職位",
+        "url": "https://letsdatascience.com/news/designer-treats-career-as-lab-lands-adobe-ai-role-0da19533",
+        "source": "Let's Data Science",
+        "desc": "設計師Kumar用7天實驗多款AI工具（舞蹈手勢偵測器+食譜生成器原型），以具體案例拿下Adobe AI設計職位"
+      },
+      {
+        "title": "Figma Code Layers：在設計檔中直接用程式碼探索多種方向",
+        "url": "https://www.figma.com/blog/",
+        "source": "Figma Blog",
+        "desc": "Code Layers讓設計師與開發者在同一畫布中並肩協作，程式碼與視覺設計同步探索不同方案"
+      }
+    ],
+    "business": [
+      {
+        "title": "本週前瞻：美國非農就業、Nike財報、ISM製造業成焦點",
+        "url": "https://www.archyde.com/economic-week-ahead-us-jobs-report-nike-earnings-and-market-outlook/",
+        "source": "Archyde",
+        "desc": "6/29起關鍵數據：JOLTS(週二)、ADP私人就業(週三)、非農就業(週四)、ISM製造業。Nike Q4財報測試消費者韌性"
+      },
+      {
+        "title": "JPMorgan上調S&P 500目標至7,800：「Blue Sky」情境看多5%",
+        "url": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
+        "source": "CNBC",
+        "desc": "大摩將年度目標從7,200上調至7,800，看好企業獲利動能。但科技股拋售和記憶體晶片危機仍是風險"
+      },
+      {
+        "title": "華爾街H1收官：S&P 500 YTD +7%但6月遭逢逆風",
+        "url": "https://www.brecorder.com/news/40427610/wall-street-week-ahead-jobs-data-rate-bets-in-focus-as-us-stocks-close-solid-first-half",
+        "source": "Brecorder",
+        "desc": "S&P 500上半年漲逾7%，但6月科技股拋售令漲幅縮水。就業數據和Fed利率路徑為下半年關鍵"
+      },
+      {
+        "title": "全球股市分化加劇：AI支出疑慮壓科技股，本週數據決定方向",
+        "url": "https://www.ig.com/au/news-and-trade-ideas/week-ahead--29-june-2026-260626",
+        "source": "IG",
+        "desc": "美國非農+中國PMI+RBA信號為本週三大焦點。AI高額資本支出回報存疑，推動資金從科技股輪動"
+      }
+    ],
+    "finance": [
+      {
+        "title": "本週焦點：美國就業數據主導Fed利率路徑預期",
+        "url": "https://kessler-prod.reta52d8.eas.morningstar.com/news/dow-jones/20260628576/week-ahead-for-fx-bonds-us-jobs-data-in-focus-as-markets-search-for-clues-on-fed-rate-path",
+        "source": "Morningstar/Dow Jones",
+        "desc": "預估6月非農+16萬，與5月17.2萬相近。勞動市場穩定化跡象明確，但過強數據反而利空（強化不降息預期）"
+      },
+      {
+        "title": "經濟週報：S&P 500本週跌2%、Nasdaq跌4.5%，Apple/Microsoft漲價衝擊",
+        "url": "https://www.yardeniquicktakes.com/economic-week-ahead-june-29-july-3/",
+        "source": "Yardeni Quick Takes",
+        "desc": "S&P收7,354（週-2%）、Nasdaq週-4.5%。Apple/Microsoft因記憶體晶片成本翻倍而調漲消費產品價格"
+      },
+      {
+        "title": "Fed主席Warsh本週將發言：就業+製造業數據決定下一步",
+        "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-jobs-data-fed-signals-and-middle-east-risks-take-center-stage-1607075",
+        "source": "FX Empire",
+        "desc": "6月就業報告+ISM製造業+Fed主席Warsh談話為本週三大事件。中東風險仍為背景變數"
+      },
+      {
+        "title": "CNBC本週三大觀察：JOLTS、非農就業、Fed降息辯論",
+        "url": "https://www.cnbc.com/2026/06/28/here-are-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead-.html",
+        "source": "CNBC",
+        "desc": "週二JOLTS職缺數據、週三ADP、週四非農。市場關注就業是否開始降溫以支持未來降息"
+      }
+    ]
+  }
+}
