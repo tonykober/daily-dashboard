@@ -1,0 +1,245 @@
+{
+  "date": "2026-06-30",
+  "categories": {
+    "ai": [
+      {
+        "title": "百度AI晶片子公司崑崙芯傳以$500億估值申請港交所IPO",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "百度旗下AI晶片部門崑崙芯（Kunlunxin）據報瞄準$500億港股IPO，股價跳漲7%。反映中國AI晶片自主化加速"
+      },
+      {
+        "title": "韓國宣布三星/SK海力士$5,900億AI與半導體超級投資計畫",
+        "url": "https://the-decoder.com/artificial-intelligence-news/short-news/",
+        "source": "The Decoder",
+        "desc": "韓國政府支持800兆韓元建4座新工廠+81兆封裝中心+30兆15年次世代晶片研發。回應KOSPI崩盤後的產業信心"
+      },
+      {
+        "title": "AI繁榮正面臨新威脅：極端氣候衝擊資料中心與電力供應",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "嚴重天氣事件威脅AI基礎設施。資料中心冷卻需求與電力消耗在極端高溫下面臨前所未有挑戰"
+      },
+      {
+        "title": "Bernie Sanders提案：AI財富應重新分配給美國公眾",
+        "url": "https://www.akronlegalnews.com/editorial/38612",
+        "source": "Akron Legal News/AP",
+        "desc": "Sanders參議員提出全面法案，要求AI公司將部分財富和權力轉移給公眾。涵蓋稅制改革與社會安全網擴張"
+      },
+      {
+        "title": "聯合國秘書長呼籲AI公司揭露碳排放、水和土地使用數據",
+        "url": "https://www.akronlegalnews.com/editorial/38623",
+        "source": "Akron Legal News/AP",
+        "desc": "Guterres 6/23要求AI企業公開環境影響數據。AI運算的碳足跡和水資源消耗成為全球關注焦點"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Xbox Game Pass今日移除8款遊戲：6月30日最後下載機會",
+        "url": "https://screenrant.com/xbox-game-pass-june-30-8-games-confirmed-leaving/",
+        "source": "Screen Rant",
+        "desc": "8款遊戲6/30從Game Pass下架。玩家需趁最後機會下載。7月新增陣容已預告多款大作"
+      },
+      {
+        "title": "Monopoly Star Wars: Heroes vs. Villains今日發售",
+        "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-june-july-2026-week-27",
+        "source": "DLCompare",
+        "desc": "Ubisoft與Hasbro合作的Star Wars主題Monopoly。2v2/3v3競技+線上合作+英雄/反派獨特能力。6/30全平台上市"
+      },
+      {
+        "title": "PS Plus 6月30日新增遊戲提前曝光：含FF16、Sonic X Shadow",
+        "url": "https://opencritic.com/news/33758/new-ps-plus-games-for-june-30-revealed-ahead-of-time",
+        "source": "OpenCritic",
+        "desc": "PS Plus Extra本月新增Final Fantasy 16、Sonic X Shadow Generations、Kingdom Come: Deliverance等，6/30上線"
+      },
+      {
+        "title": "本週新遊戲總覽（6/30-7/3）：Monopoly SW、多款獨立作品",
+        "url": "https://checkpointgaming.net/features/2026/06/coming-out-in-gaming-this-week-june-29-2026/",
+        "source": "Checkpoint Gaming",
+        "desc": "本週新作：Monopoly Star Wars、RV There Yet(Game Pass)等。7月大作預告：Control Resonant、Onimusha等確認日期"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Alphabet首日加入道瓊漲近5%，推動Dow首度突破52,000大關",
+        "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Alphabet取代Verizon成為Dow成分股首日即漲近5%。Dow收52,182創歷史新高（+306點/+0.59%）"
+      },
+      {
+        "title": "美國-伊朗緊張緩和：雙方暫停攻擊，科技股全面反彈",
+        "url": "https://www.ajupress.com/view/20260630071670857",
+        "source": "Aju Press",
+        "desc": "美伊雙方同意暫停荷姆茲海峽衝突。地緣風險降溫推動S&P +1.18%至7,440、Nasdaq +2.07%至25,820"
+      },
+      {
+        "title": "Comcast宣布分拆：媒體和科技業務將獨立上市",
+        "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Comcast將媒體與科技業務分拆為兩家上市公司，預計一年內完成。股價跳漲4.4%"
+      },
+      {
+        "title": "歐洲熱浪持續：已逾1,300人死亡，烏克蘭電網承壓",
+        "url": "https://www.livemint.com/news/world/total-world-latest-news-on-june-30-2026-live-updates-11782758828146.html",
+        "source": "Livemint",
+        "desc": "歐洲熱浪轉向東部巴爾幹和烏克蘭。死亡人數超過1,300，野火蔓延，電力基礎設施面臨極限壓力"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC創2022年中以來最弱6月：$40億ETF流出+跌破$60K",
+        "url": "https://m.economictimes.com/markets/cryptocurrency/",
+        "source": "Economic Times",
+        "desc": "BTC本月為2022年中以來最差6月表現。本月spot ETF流出超$40億。$60,000成為關鍵阻力位"
+      },
+      {
+        "title": "BTC穩定在$59,800：分析師警告更多下行風險在前方",
+        "url": "https://www.coindesk.com/markets/2026/06/29/bitcoin-hovers-below-usd60-000-as-crypto-braces-for-a-pivotal-week",
+        "source": "CoinDesk",
+        "desc": "BTC週初微漲0.6%至$59,800、SOL +2%，但衍生品數據和圖形形態仍指向持續下行風險"
+      },
+      {
+        "title": "Binance MiCA截止前一週錄得$4億淨流出",
+        "url": "https://www.gadgets360.com/news",
+        "source": "Gadgets360",
+        "desc": "Binance在7/1歐盟退出前錄得超$4億週淨流出。用戶加速將資產轉移至合規交易所"
+      },
+      {
+        "title": "BTC再失$60K：EU追查MiCA違規者+BIS發出穩定幣警告",
+        "url": "https://99bitcoins.com/news/bitcoin-btc/crypto-news-today-june-29-btc-loses-60k-again-eu-goes-after-mica-violators-following-binance-cull-and-the-bis-makes-stark-stablecoin-warning/",
+        "source": "99Bitcoins",
+        "desc": "BTC跌回$60K以下。歐盟監管機構開始追查MiCA違規者。國際清算銀行對穩定幣發出嚴厲警告"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Elon Musk調派SpaceX工程師支援Grok AI開發",
+        "url": "https://letsdatascience.com/news/topic/ai-developer-tools",
+        "source": "Let's Data Science",
+        "desc": "Musk從SpaceX調工程師至xAI支援Grok開發，引發跨公司資源調配爭議。AI人才爭奪白熱化"
+      },
+      {
+        "title": "AI Coding Agents正在減少人工程式碼審查需求",
+        "url": "https://letsdatascience.com/news/topic/ai-developer-tools",
+        "source": "Let's Data Science",
+        "desc": "最新報告顯示AI coding agents正逐步接管code review流程。開發者角色從編碼轉向審核AI產出"
+      },
+      {
+        "title": "Mozilla 0DIN展示基於GitHub的AI Agent漏洞利用",
+        "url": "https://letsdatascience.com/news/topic/ai-developer-tools",
+        "source": "Let's Data Science",
+        "desc": "Mozilla安全團隊0DIN演示如何利用GitHub上的AI代理進行攻擊。開源AI工具的安全風險浮現"
+      },
+      {
+        "title": "Azul提供免費JVM漏洞風險評估：應對AI自主利用工具威脅",
+        "url": "https://www.infoworld.com/software-development/",
+        "source": "InfoWorld",
+        "desc": "Azul針對Java生態系統提供免費風險評估。解決AI自主漏洞利用工具日益能發現的安全盲點"
+      }
+    ],
+    "art": [
+      {
+        "title": "Apple收購設計工具Play：曾獲Apple Design Award的原型設計工具",
+        "url": "https://www.mactech.com/2026/06/29/apple-hires-some-rabbit-3-times-employees-and-scoops-up-the-design-tool-play/",
+        "source": "MacTech",
+        "desc": "Apple收購Play（2025 Design Award得主）並僱用Rabbit 3 Times團隊成員。Play讓設計師用SwiftUI和Core Animation直接在iPhone/Mac上建互動原型"
+      },
+      {
+        "title": "Adobe收購Topaz Labs：AI影像增強龍頭正式納入Creative Cloud",
+        "url": "https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs",
+        "source": "Adobe",
+        "desc": "Adobe 6/25簽署收購協議。市場最佳AI影片/影像增強技術將整合進Photoshop/Premiere等應用"
+      },
+      {
+        "title": "AI相關借貸達美國投資級發行量15%：數據中心基建狂潮",
+        "url": "https://www.timesofai.com/news/ai/",
+        "source": "Times of AI",
+        "desc": "AI相關企業借貸佔美國投資級債發行15%。超大規模業者和資料中心營運商大舉籌資購買晶片和運算能力"
+      },
+      {
+        "title": "Smashing Magazine 7月桌面桌布：全球設計師創意迎新月",
+        "url": "https://www.smashingmagazine.com/",
+        "source": "Smashing Magazine",
+        "desc": "全球設計師與藝術家再次以創意歡迎新月份。7月桌面桌布收藏集發布"
+      }
+    ],
+    "design": [
+      {
+        "title": "Apple收購設計原型工具Play：SwiftUI原生互動設計新里程碑",
+        "url": "https://www.mactech.com/2026/06/29/apple-hires-some-rabbit-3-times-employees-and-scoops-up-the-design-tool-play/",
+        "source": "MacTech",
+        "desc": "Play讓設計師直接用Apple原生框架（SwiftUI/Core Animation）構建互動原型。Apple收購意味未來可能深度整合至Xcode"
+      },
+      {
+        "title": "新設計工程技能框架發布：解決AI時代的UI Slop問題",
+        "url": "https://www.thenextgentechinsider.com/pulse/new-design-engineering-skills-framework-released-to-optimize-uiux-development",
+        "source": "NextGen Tech Insider",
+        "desc": "新框架橋接創意意圖與技術執行。提供動畫和視覺規則，對抗AI驅動工作流中缺乏美學「品味」的問題"
+      },
+      {
+        "title": "Config 2026精華：下一代設計工具與創意工作流",
+        "url": "https://www.sunrisegeek.com/post/config-2026-highlights-the-next-generation-of-design-tools-and-creative-workflows",
+        "source": "Sunrise Geek",
+        "desc": "深度回顧Figma Config 2026亮點：Motion、Code Layers、Shaders如何重新定義設計工具的可能性"
+      },
+      {
+        "title": "2026最佳介面設計工具排行：AI驅動原型到協作平台",
+        "url": "https://www.producthunt.com/categories/interface-design-tools",
+        "source": "Product Hunt",
+        "desc": "2026年介面設計工具全面評比。從AI原型生成到團隊協作，涵蓋設計/開發/產品團隊全流程"
+      }
+    ],
+    "business": [
+      {
+        "title": "道瓊首度收破52,000：Alphabet加入首日漲5%領軍",
+        "url": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-semiconductor-rebound-alphabet-share-us-iran-talks-crude-triggers-19934527.htm",
+        "source": "CNBC TV18",
+        "desc": "Dow收52,182（+306/+0.59%），S&P 7,440（+1.18%），Nasdaq 25,820（+2.07%）。五連跌終結，半導體反彈"
+      },
+      {
+        "title": "BofA警告：Q3 S&P 500可能下跌最多6%",
+        "url": "https://markets.businessinsider.com/index/dow_jones",
+        "source": "Business Insider",
+        "desc": "美國銀行預測S&P 500第三季度面臨回檔風險，最差情境跌6%。科技股估值過高為主要憂慮"
+      },
+      {
+        "title": "韓國三星/SK海力士盤前上漲：美科技股反彈提振信心",
+        "url": "https://www.ajupress.com/view/20260630084470998",
+        "source": "Aju Press",
+        "desc": "三星盤前漲逾1%（32萬韓元），SK海力士持穩263萬。美國科技股反彈+韓國政府超級投資計畫提振半導體信心"
+      },
+      {
+        "title": "KOSPI力圖收復8,400：科技股反彈引領",
+        "url": "https://en.sedaily.com/news/2026/06/30/kospi-aims-to-reclaim-8400-as-tech-stocks-rally",
+        "source": "Seoul Economic Daily",
+        "desc": "美國科技股反彈（Nasdaq +2%）帶動KOSPI嘗試回到8,400。三星/SK海力士仍為關鍵指標"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股H1收官：S&P 500 YTD +7%但6月腰斬漲幅",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "今日為Q2最後交易日。S&P 500距歷史新高僅3%。6月科技拋售讓全年漲幅縮水，但非科技板塊浮現強勢"
+      },
+      {
+        "title": "S&P +1.18%、Nasdaq +2.07%五連跌終結：地緣緩和推升風險偏好",
+        "url": "https://www.ajupress.com/view/20260630071670857",
+        "source": "Aju Press",
+        "desc": "6/29美股全面反彈。美伊暫停攻擊+科技股超賣反彈+Alphabet Dow首日效應。道瓊首度站上52,000"
+      },
+      {
+        "title": "本週焦點轉向就業：JOLTS/ADP/非農決定下半年Fed路徑",
+        "url": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "季底收線後焦點轉向就業。本週三密集數據（JOLTS週二/ADP週三/非農週四）將定調H2預期"
+      },
+      {
+        "title": "JPMorgan上調S&P目標7,800：看好企業獲利+Blue Sky情境",
+        "url": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
+        "source": "CNBC",
+        "desc": "大摩目標從7,200上調至7,800（暗示再漲5%）。Q1獲利年增28.9%、Q2預估+22%為主要支撐"
+      }
+    ]
+  }
+}
