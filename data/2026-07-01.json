@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-01",
+  "categories": {
+    "ai": [
+      {
+        "title": "🔥 BREAKING：Trump政府全面解除Anthropic Claude Fable 5與Mythos 5出口管制",
+        "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+        "source": "CNBC",
+        "desc": "Commerce部長Lutnick致函確認：「不再需要許可證即可出口Fable或Mythos模型」。18天管制僵局結束，Fable 5今日（7/1）恢復全球存取"
+      },
+      {
+        "title": "Anthropic確認7/1恢復Claude Fable 5全球存取",
+        "url": "https://9to5mac.com/2026/06/30/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
+        "source": "9to5Mac",
+        "desc": "Anthropic表示將於週三（7/1）開始恢復Fable 5對所有美國及海外一般用戶的存取。Mythos 5同步解禁，不再限於100家受信任機構"
+      },
+      {
+        "title": "OpenAI首款硬體裝置「Codex Micro」7/15發表：AI程式碼快捷鍵盤",
+        "url": "https://devops.com/openai-expands-into-developer-hardware-with-codex-micro-keyboard/",
+        "source": "DevOps.com",
+        "desc": "OpenAI與鍵盤製造商Work Louder合作打造Codex Micro巨集鍵盤。方形按鍵裝置提供Codex AI程式碼助手專用快捷操作"
+      },
+      {
+        "title": "五大超大規模科技公司2026年AI基建支出將超$1兆",
+        "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+        "source": "Vogue Business",
+        "desc": "Amazon/Microsoft/Alphabet/Meta/Oracle合計AI基建支出預計年底前超$1兆。AI借貸佔美國投資級債發行15%"
+      },
+      {
+        "title": "Anthropic指控阿里巴巴旗下Qwen實驗室透過2.5萬假帳號盜用Claude",
+        "url": "https://www.tweaktown.com/news/artificial_intelligence_ai/index.html",
+        "source": "TweakTown",
+        "desc": "Anthropic6/10致函美國參議員指控：阿里Qwen AI實驗室用近25,000假帳號產生2,880萬次Claude對話（4/22-6/5）"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "7月遊戲發售總覽：Halo Campaign Evolved、AC Black Flag Resynced等大作",
+        "url": "https://screenrant.com/july-2026-video-games-releases-schedule-lineup/",
+        "source": "Screen Rant",
+        "desc": "7月重磅：Halo Campaign Evolved（重新詮釋初代故事+新關卡）、AC Black Flag Resynced（7/9開放世界海盜重製）、Splatoon Raiders、Rhythm Paradise Groove"
+      },
+      {
+        "title": "Rhythm Paradise Groove：Nintendo Switch最後一款第一方獨佔",
+        "url": "https://metro.co.uk/2026/06/30/11-exciting-video-game-releases-july-2026-28968970/",
+        "source": "Metro",
+        "desc": "系列十年來首款新作，也是初代Switch最後的第一方獨佔遊戲。Nintendo暗示仍將在Switch 2旁繼續支援原版Switch"
+      },
+      {
+        "title": "7月完整發售日曆：海盜、泰坦、Palworld 1.0、Splatoon、Halo",
+        "url": "https://nuxgameguides.com/originals/all-july-2026-video-game-releases-full-list-top-picks/",
+        "source": "NUX Game Guides",
+        "desc": "7月遊戲量爆發：Palworld 1.0正式版、Mistfall Hunter、多款獨立大作。繼上半年RE Requiem/Forza H6/007後持續瘋狂節奏"
+      },
+      {
+        "title": "PS Plus 6/30新增遊戲上線：Final Fantasy 16、Sonic X Shadow等",
+        "url": "https://opencritic.com/news/33758/new-ps-plus-games-for-june-30-revealed-ahead-of-time",
+        "source": "OpenCritic",
+        "desc": "PS Plus Extra陣容更新：FF16、Sonic X Shadow Generations、Kingdom Come: Deliverance、Life is Strange: Double Exposure加入"
+      }
+    ],
+    "tech": [
+      {
+        "title": "美國最高法院駁回Trump出生公民權行政命令",
+        "url": "https://english.news.cn/20260701/dead450004464d6eb60bc1814a753e71/c.html",
+        "source": "新華社",
+        "desc": "最高法院裁定駁回Trump否認非法移民子女出生公民權的行政命令，維護憲法第14修正案出生公民權保障"
+      },
+      {
+        "title": "Google NotebookLM可將研究總結為TikTok式短影片",
+        "url": "https://www.theverge.com/tech",
+        "source": "The Verge",
+        "desc": "60秒影片以AI生成圖像和旁白摘要你的資料來源。NotebookLM從Podcast摘要進化到短影片格式"
+      },
+      {
+        "title": "Meta探索自建預測市場App「Arena」：曾考慮收購Kalshi",
+        "url": "https://www.theverge.com/tech",
+        "source": "The Verge",
+        "desc": "據NPR報導，Meta在考慮收購Kalshi後決定自建預測市場應用「Arena」，以點數而非真金白銀下注"
+      },
+      {
+        "title": "歐洲熱浪持續惡化：超1,300死、巴爾幹野火、烏克蘭電網承壓",
+        "url": "https://www.livemint.com/news/world/total-world-latest-news-on-july-1-2026-live-updates-11782854943729.html",
+        "source": "Livemint",
+        "desc": "歐洲極端高溫持續。死亡逾1,300人，野火蔓延巴爾幹半島，烏克蘭電力基礎設施面臨戰爭+熱浪雙重壓力"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "🔴 今日起Binance正式退出歐盟：MiCA合規大限7/1啟動",
+        "url": "https://crypto.news/binance-eu-mica-license-lockout-july-2026-explained/",
+        "source": "Crypto News",
+        "desc": "3,000+歐盟加密公司中僅210家獲MiCA授權。Binance停止EU新訂單/存款/註冊。法國/義大利/波蘭/西班牙用戶受影響"
+      },
+      {
+        "title": "MiCA大限恐影響1,000萬歐洲用戶尋找新平台",
+        "url": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
+        "source": "CoinDesk",
+        "desc": "EU監管機構警告無照業者須停止營運並協助客戶轉移。違規穩定幣發行商最高罰年營收12.5%"
+      },
+      {
+        "title": "Binance創辦人CZ指MiCA申請遭政治干預阻擋",
+        "url": "https://cryptobriefing.com/binance-cz-mica-political-intervention/",
+        "source": "Crypto Briefing",
+        "desc": "CZ表示申請接近獲批但遭政治介入。Binance撤希臘申請，正尋找歐洲其他友善監管管轄地"
+      },
+      {
+        "title": "BTC維持$60K以下：最弱6月收官，$4B ETF月流出",
+        "url": "https://m.economictimes.com/markets/cryptocurrency/",
+        "source": "Economic Times",
+        "desc": "BTC自2022年中以來最差6月表現。現貨ETF本月流出超$40億。分析師指$55.5K-$56K為下一支撐"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI Codex Micro：首款AI程式碼專用硬體巨集鍵盤7/15發表",
+        "url": "https://www.businessinsider.com/openai-teases-codex-hardware-device-mini-keyboard-controller-2026-6",
+        "source": "Business Insider",
+        "desc": "OpenAI攜手Work Louder打造Codex專用方形巨集鍵盤。AI Engineer World's Fair搶先曝光。不是Jony Ive消費產品，而是開發者工具"
+      },
+      {
+        "title": "Stanford研究：AI正消滅職業階梯底層——入門級職位首當其衝",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-june-29-2026/",
+        "source": "The Neuron",
+        "desc": "Stanford最新薪資數據顯示AI衝擊集中在職業階梯底部。初級開發者/客服/行政角色被AI取代速度加快"
+      },
+      {
+        "title": "AI與政府、勞動、實體供應鏈正面碰撞：週一AI產業全景",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-june-29-2026/",
+        "source": "The Neuron",
+        "desc": "Apple追求記憶體晶片降價、科技勞工因管理AI代理失眠、24/7機器人電視台上線。AI已滲透每個產業層面"
+      },
+      {
+        "title": "政府開始追蹤AI伺服器如同追蹤戰略資產",
+        "url": "https://techstartups.com/2026/06/30/top-tech-news-today-june-30-2026/",
+        "source": "TechStartups",
+        "desc": "各國政府將AI運算伺服器視為戰略資產加以追蹤。資料中心與電力極限賽跑，新創在混亂中找到機會"
+      }
+    ],
+    "art": [
+      {
+        "title": "Apple收購設計原型工具Play+僱用Rabbit 3 Times團隊",
+        "url": "https://www.mactech.com/2026/06/29/apple-hires-some-rabbit-3-times-employees-and-scoops-up-the-design-tool-play/",
+        "source": "MacTech",
+        "desc": "Apple收購2025 Design Award得主Play（SwiftUI原生原型工具）。可能深度整合至未來Xcode設計工作流"
+      },
+      {
+        "title": "Adobe收購Topaz Labs完成：AI影像增強整合Creative Cloud",
+        "url": "https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs",
+        "source": "Adobe",
+        "desc": "市場頂尖AI影像/影片增強技術正式納入Adobe生態。攝影師和影片創作者可直接在應用內使用AI超解析度"
+      },
+      {
+        "title": "AI繁榮撞上極端氣候：資料中心面臨前所未有的冷卻挑戰",
+        "url": "https://www.cnbc.com/technology/",
+        "source": "CNBC",
+        "desc": "歐洲熱浪+全球暖化威脅AI基礎設施。資料中心冷卻成本飆升，水資源消耗引發環保爭議"
+      },
+      {
+        "title": "24/7機器人電視台上線：AI生成內容進入全天候廣播時代",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-june-29-2026/",
+        "source": "The Neuron",
+        "desc": "全天候AI生成電視節目正式開播。從概念驗證到商業運營，AI影視內容創作進入新階段"
+      }
+    ],
+    "design": [
+      {
+        "title": "Apple收購Play設計工具：SwiftUI原生互動原型的未來",
+        "url": "https://www.mactech.com/2026/06/29/apple-hires-some-rabbit-3-times-employees-and-scoops-up-the-design-tool-play/",
+        "source": "MacTech",
+        "desc": "Play讓設計師用Apple原生框架直接建互動原型。Apple收購暗示Xcode可能迎來設計師友善的大幅改版"
+      },
+      {
+        "title": "Google NotebookLM推出TikTok式AI摘要影片：研究成果可視化新方式",
+        "url": "https://www.theverge.com/tech",
+        "source": "The Verge",
+        "desc": "NotebookLM從音訊Podcast摘要進化到60秒短影片。AI生成圖像+旁白將研究資料轉化為可分享的視覺內容"
+      },
+      {
+        "title": "設計師用AI實驗獲Adobe職位：職涯即實驗室的新思維",
+        "url": "https://letsdatascience.com/news/designer-treats-career-as-lab-lands-adobe-ai-role-0da19533",
+        "source": "Let's Data Science",
+        "desc": "設計師Kumar用Cursor/Gemini/Claude/Figma MCP進行7天實驗，以舞蹈手勢偵測器原型獲得Adobe AI設計職位"
+      },
+      {
+        "title": "Config 2026精華：下一代設計工具與創意工作流深度回顧",
+        "url": "https://www.sunrisegeek.com/post/config-2026-highlights-the-next-generation-of-design-tools-and-creative-workflows",
+        "source": "Sunrise Geek",
+        "desc": "Figma Motion/Code Layers/Shaders如何重新定義設計工具。從靜態畫布到動態創作平台的完整轉型"
+      }
+    ],
+    "business": [
+      {
+        "title": "S&P 500 Q2漲14%、Nasdaq Q2漲20%：2020年以來最佳季度",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-hits-record-sp-500-jumps-to-cap-best-quarter-since-2020-amid-massive-chip-rally-224823556.html",
+        "source": "Yahoo Finance",
+        "desc": "晶片股狂潮推動最佳季度。儘管年初美伊戰爭曾使指數下跌10%，隨後展開創紀錄反彈"
+      },
+      {
+        "title": "三大力量驅動美股最佳季度：AI晶片、地緣緩和、企業獲利",
+        "url": "https://www.businessinsider.com/stock-market-today-dow-sp500-nasdaq-record-ai-026-6",
+        "source": "Business Insider",
+        "desc": "Q2三大推力：(1)AI/半導體狂潮 (2)美伊戰爭轉為停火 (3)Q1企業獲利年增28.9%。地緣風險觸底後強力反彈"
+      },
+      {
+        "title": "小型股創35年來最佳上半年表現",
+        "url": "https://www.cnbc.com/",
+        "source": "CNBC",
+        "desc": "Russell 2000小型股指數H1表現為35年來最佳。資金從大型科技股輪動至中小型股，市場寬度改善"
+      },
+      {
+        "title": "Dow H1漲9%為2021來最佳；Mag 7市值蒸發$2.3兆但晶片股受捧",
+        "url": "https://www.cnbc.com/",
+        "source": "CNBC",
+        "desc": "Dow H1+9%（5年最佳）。AI支出疑慮使Magnificent 7市值縮水$2.3兆，但投資人轉捧晶片製造商"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Dow 52,319歷史新高收官H1；S&P 7,499、Nasdaq 26,213",
+        "url": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "6/30收盤：Dow +136(+0.26%)52,319新高、S&P +0.79%至7,499、Nasdaq +1.52%至26,213。H1完美收官"
+      },
+      {
+        "title": "專家解讀：為何美股2026上半年如此瘋漲？",
+        "url": "https://abcnews.com/Business/stock-market-soar-half-2026-experts-explain/story?id=134336709",
+        "source": "ABC News",
+        "desc": "Q1 GDP穩健成長+就業好於預期消除衰退恐懼。AI投資浪潮+企業獲利超預期為核心驅動力"
+      },
+      {
+        "title": "黃金創2013年以來最差季度跌幅：升息預期+美元走強壓制",
+        "url": "https://www.investing.com/news",
+        "source": "Investing.com",
+        "desc": "黃金本季跌幅為2013年來最大。Fed升息預期+美元走強+風險偏好回升三重壓力"
+      },
+      {
+        "title": "美股H2展望：JOLTS今日公布，非農週四決定Fed路徑",
+        "url": "https://www.cnbc.com/2026/06/30/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "H2首日聚焦就業：JOLTS職缺(今日)+ADP(週三)+非農(週四)。市場需確認經濟是否過熱以判斷升息節奏"
+      }
+    ]
+  }
+}
