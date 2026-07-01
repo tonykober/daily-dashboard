@@ -240,6 +240,312 @@
         "source": "CNBC",
         "desc": "大摩目標從7,200上調至7,800（暗示再漲5%）。Q1獲利年增28.9%、Q2預估+22%為主要支撐"
       }
-    ]
+    ],
+    "stock_briefing": {
+      "date": "2026-07-01",
+      "updated_at": "2026-07-01 08:30",
+      "sparkline": [
+        46043,
+        46544,
+        45300,
+        45900,
+        46125,
+        0,
+        0
+      ],
+      "sparkline_dates": [
+        "6/24",
+        "6/25",
+        "6/27",
+        "6/29",
+        "6/30",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "46,125(6/30收)",
+        "change": 1126,
+        "changePercent": "+2.50%",
+        "volume": "3,800億",
+        "futures": "46,300 (+0.4%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": 3.5
+        },
+        {
+          "name": "AI/伺服器",
+          "change": 3.8
+        },
+        {
+          "name": "電子",
+          "change": 2.5
+        },
+        {
+          "name": "金融",
+          "change": 1.2
+        },
+        {
+          "name": "傳產",
+          "change": 0.8
+        },
+        {
+          "name": "航運",
+          "change": 1.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": 2
+        },
+        {
+          "name": "生技",
+          "change": 1.3
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "漲 大漲",
+          "note": "NAV 107.80(+3.21%)，溢價+0.99%"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 強勢",
+          "note": "NAV 53.25(+2.80%)，溢價+0.89%"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 穩健",
+          "note": "NAV 33.50(+1.82%)，溢價0%"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 強勢",
+          "note": "NAV 30.78(+2.63%)，溢價+0.20%"
+        },
+        {
+          "name": "00919",
+          "trend": "平盤 微漲",
+          "note": "NAV 29.50(+0.14%)，折價-0.54%"
+        },
+        {
+          "name": "009816",
+          "trend": "漲 大漲",
+          "note": "跟隨大盤大漲"
+        }
+      ],
+      "institutional": {
+        "外資": 350,
+        "投信": 45,
+        "自營商": 20
+      },
+      "sentiment": {
+        "score": 72,
+        "label": "偏貪婪 — H1收官大漲+美伊緩和+科技反彈。短期情緒過熱需注意",
+        "history": [
+          30,
+          35,
+          28,
+          25,
+          38,
+          55,
+          72
+        ]
+      },
+      "international": [
+        {
+          "name": "Dow",
+          "change": 0.26
+        },
+        {
+          "name": "S&P 500",
+          "change": 0.79
+        },
+        {
+          "name": "Nasdaq",
+          "change": 1.52
+        },
+        {
+          "name": "KOSPI",
+          "change": 1.5
+        },
+        {
+          "name": "費半",
+          "change": 2.5
+        }
+      ],
+      "buffett_indicator": {
+        "value": 193,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "🚀 台股6/30大漲2.5%收46,125！上半年漲超60%，為全球最強主要市場之一",
+        "🚀 台積電H1漲58%：AI需求+先進製程+台積電條款資金效應",
+        "✅ 美伊暫停衝突→地緣風險大幅降溫，油價回落",
+        "✅ 美股H1收官：Dow +9%(2021來最佳)、Nasdaq AI推動大漲",
+        "✅ Alphabet加入Dow+Comcast分拆→市場結構利多",
+        "🟡 今日為H2首日：注意獲利了結+部位調整壓力",
+        "⚠️ 本週：JOLTS(今日)+ADP(明日)+非農(後日)密集就業數據",
+        "⚠️ Buffett Indicator 193仍嚴重高估，注意過熱回檔風險"
+      ],
+      "summary": "🚀 台股H1完美收官！6/30大漲2.5%收46,125（+1,126），上半年漲超60%為全球最強。台積電H1+58%。美股同步強勢：Dow 52,319新高(H1+9%)、S&P 7,499、Nasdaq 26,213。ETF全線大漲（0050 +3.21%、00929 +2.63%）。今日為H2首日，需注意：(1)短期漲多回檔壓力 (2)本週就業數據密集 (3)Buffett Indicator 193嚴重高估。建議：持有續抱但設停損，不追高。等就業數據確認後再加碼。",
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "漲 大漲",
+          "note": "6/30估漲3%+。H1+58%。PB ~10.8，PE ~33，離季線恢復至~12%。AI需求滿載+先進製程獨佔。短期漲多注意回檔。",
+          "nav": null,
+          "pb": 10.8,
+          "premium": null,
+          "pe": 33,
+          "quarterLine": 12,
+          "suggestion": "持有（設停損）"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "漲 大漲",
+          "note": "NAV 107.80，市價106.74，溢價+0.99%。日漲+3.21%。H1表現極佳但溢價擴大需注意。",
+          "nav": 107.8,
+          "pb": null,
+          "premium": 0.99,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有（溢價偏高）"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 強勢",
+          "note": "NAV 53.25，市價52.78，溢價+0.89%。日漲+2.80%。殖利率~5.2%，溢價擴大需觀察。",
+          "nav": 53.25,
+          "pb": null,
+          "premium": 0.89,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩健",
+          "note": "NAV 33.50，市價33.50，溢價0%。日漲+1.82%。折溢價回到平衡，160萬受益人穩定。",
+          "nav": 33.5,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "平盤 微漲",
+          "note": "NAV 29.50，市價29.66，折價-0.54%。日漲僅+0.14%明顯落後。折價擴大為買入訊號？",
+          "nav": 29.5,
+          "pb": null,
+          "premium": -0.54,
+          "pe": null,
+          "quarterLine": 2,
+          "suggestion": "觀望（折價中）"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 穩定",
+          "note": "NAV 12.65，市價12.65，溢價0%。日漲+1.36%。價值型穩步上漲。",
+          "nav": 12.65,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "漲 大漲",
+          "note": "NAV 250.20，市價247.86，溢價+0.94%。日漲+3.07%。與0050同步大漲，溢價偏高。",
+          "nav": 250.2,
+          "pb": null,
+          "premium": 0.94,
+          "pe": null,
+          "quarterLine": 12,
+          "suggestion": "持有（溢價偏高）"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "漲 大漲",
+          "note": "半導體ETF跟隨台積電大漲。加權正2+6%反推半導體漲3%+。",
+          "nav": 1180,
+          "pb": null,
+          "premium": 0.5,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "漲 強勢",
+          "note": "半導體ETF強勢反彈。KOSPI三星盤前也回升1%+。",
+          "nav": 22,
+          "pb": null,
+          "premium": 0.3,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 強勢",
+          "note": "主動型ETF受惠大盤大漲。經理人選股優勢在反彈中顯現。",
+          "nav": 20.5,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "漲 折價收斂",
+          "note": "最大主動型ETF。大漲日折價傾向收斂。成交量穩定。",
+          "nav": 31.2,
+          "pb": null,
+          "premium": -0.2,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信台灣精選50主動",
+          "trend": "漲 跟隨",
+          "note": "跟隨大盤大漲。主動管理在牛市中表現佳。",
+          "nav": 17.8,
+          "pb": null,
+          "premium": 0.15,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "漲 大漲",
+          "note": "被動追蹤大型股，跟隨大盤大漲2.5%+。",
+          "nav": 15,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 強勢",
+          "note": "NAV 30.78，市價30.72，溢價+0.20%。日漲+2.63%。科技+高息反彈力道強。",
+          "nav": 30.78,
+          "pb": null,
+          "premium": 0.2,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        }
+      ]
+    }
   }
 }
