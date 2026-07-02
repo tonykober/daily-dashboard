@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-02",
+  "categories": {
+    "ai": [
+      {
+        "title": "Anthropic正式恢復Claude Fable 5全球存取：新增分類器安全機制+越獄嚴重度評分框架",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "source": "Anthropic",
+        "desc": "Fable 5於7/1回歸Claude平台/Claude.ai/Claude Code/Claude Cowork。新增安全分類器+越獄嚴重度評分框架。Mythos 5僅限美國核准組織"
+      },
+      {
+        "title": "Anthropic恢復Claude Fable 5：18天禁令背後的完整始末",
+        "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+        "source": "The Hacker News",
+        "desc": "6/9上線→6/12因Amazon通報安全繞過而全球下架→7/1恢復。Commerce部完全解除出口管制，不再需要許可證"
+      },
+      {
+        "title": "Guardian深度：Anthropic AI模型因網路攻擊安全疑慮被禁後解封",
+        "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+        "source": "The Guardian",
+        "desc": "超過兩週的封鎖源於美政府擔心強AI被用於嚴重網路攻擊。Anthropic承諾新安全措施後獲准恢復"
+      },
+      {
+        "title": "今日AI全景：Fable 5回歸+Fed Chair談AI通膨衝擊+AI伺服器追蹤戰略化",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
+        "source": "The Neuron",
+        "desc": "7/2 AI日報：Fable 5帶新safeguards回歸；Warsh談通膨含AI成本因素；政府追蹤AI算力如追蹤核武；晶片股劇烈獲利了結"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "7月遊戲發售完整時間表：AC Black Flag Resynced(7/9)、Halo(7/28)領銜",
+        "url": "https://screenrant.com/july-2026-video-games-releases-schedule-lineup/",
+        "source": "Screen Rant",
+        "desc": "7月大作：AC Black Flag Resynced(7/9)、Splatoon Raiders(7/16)、DOOM Dark Ages Revelations(7/1)、Halo Campaign Evolved(7/28早鳥7/23)"
+      },
+      {
+        "title": "Halo: Campaign Evolved確認7/28全平台發售，早鳥7/23搶先體驗",
+        "url": "https://collider.com/halo-campaign-evolved-release-xbox-ps5-pc-july-2026/",
+        "source": "Collider",
+        "desc": "初代Halo故事重製版。升級視覺+重新設計關卡+新敘事。PS5/Xbox/PC同步發售，Game Pass首日"
+      },
+      {
+        "title": "IGN 7月遊戲總覽：Splatoon Raiders、Denshattack!等獨立大作",
+        "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+        "source": "IGN",
+        "desc": "7月混合陣容：新作（Splatoon Raiders/Denshattack!）+重製（AC Black Flag/Halo CE）。繼上半年瘋狂後7月持續爆發"
+      },
+      {
+        "title": "GameSpot 7月精選：Lovecraftian合作遊戲+更多DOOM+獨立佳作",
+        "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+        "source": "GameSpot",
+        "desc": "7月1日DOOM Dark Ages Revelations DLC上線。另有Lovecraftian背叛合作遊戲、多款indie佳作排隊"
+      }
+    ],
+    "tech": [
+      {
+        "title": "ADP民間就業僅增98K遠低預期：就業市場放緩訊號",
+        "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html",
+        "source": "CNBC",
+        "desc": "6月ADP私人就業僅增9.8萬（預期11.5萬）。就業增長明顯放緩。今日非農將決定Fed是否仍傾向升息"
+      },
+      {
+        "title": "美國ISM製造業從四年高點回落：前瞻搶單效應消退",
+        "url": "https://www.reuters.com/business/us-private-payrolls-gains-slow-june-planned-layoffs-drop-53-2026-07-01/",
+        "source": "Reuters",
+        "desc": "ISM製造業PMI從四年高點回落。企業前瞻搶單（避中東衝突短缺/漲價）效應逐漸消退。投入價格仍偏高"
+      },
+      {
+        "title": "Fed主席Warsh在ECB論壇表態：通膨仍過高但風險已降低",
+        "url": "https://www.cnbctv18.com/market/us-futures-trade-lower-dow-jones-nasdaq-fed-chair-kevin-warsh-speech-19936596.htm",
+        "source": "CNBC TV18",
+        "desc": "Warsh在歐央行Sintra論壇：「通膨仍太高」但「近週風險顯著下降」。重申央行承諾物價穩定。市場解讀偏正面"
+      },
+      {
+        "title": "JOLTS職缺升至兩年新高但招聘仍低迷：勞動市場混合訊號",
+        "url": "https://finance.yahoo.com/economy/articles/us-job-openings-tick-may-143014399.html",
+        "source": "Yahoo Finance",
+        "desc": "5月JOLTS職缺上升，每位失業者對應1.04個職缺。但招聘率仍低迷，企業開缺但不積極雇用"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Binance歐盟服務正式中止：MiCA第一天實測報告",
+        "url": "https://www.tradingview.com/news/financemagnates:90d51124d094b:0-mica-day-one-we-tested-how-europe-s-unlicensed-exchanges-treat-new-users/",
+        "source": "TradingView/Finance Magnates",
+        "desc": "7/1 MiCA首日實測：Binance停止新帳號/存款/交易。現有用戶僅能提款。歐盟市場版圖重新洗牌開始"
+      },
+      {
+        "title": "歐盟加密市場大洗牌：僅210家獲MiCA授權，Coinbase/Kraken/OKX通過",
+        "url": "https://crypto.news/binance-eu-mica-license-lockout-july-2026-explained/",
+        "source": "Crypto News",
+        "desc": "3,000+歐盟加密業者中僅210家合規。Coinbase/Kraken/OKX通過vs Binance出局。競爭格局徹底改變"
+      },
+      {
+        "title": "Binance歐盟用戶現可轉移和提取加密資產",
+        "url": "https://bitcoinke.io/2026/07/binance-crypto-assets-in-the-eu/",
+        "source": "BitKE",
+        "desc": "Binance確認歐盟用戶資產安全可提取。停止新訂單但保留提款功能。計畫改向其他歐洲國家申請牌照"
+      },
+      {
+        "title": "BTC非農前維持$60K以下：預期11.5萬新增就業，過強=利空",
+        "url": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-us-market-wednesday-warsh-amd-micron-intel-meta-shares-jobs-report-19936838.htm",
+        "source": "CNBC TV18",
+        "desc": "非農預期11.5萬、失業率4.3%。過強數據=升息確認=加密利空。BTC等待方向確認"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Claude Fable 5帶新安全框架回歸：越獄嚴重度評分系統首度公開",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "source": "Anthropic",
+        "desc": "Anthropic為Fable 5設計嚴重度評分框架。量化越獄風險等級而非二元封鎖，為AI安全治理提供新思路"
+      },
+      {
+        "title": "美國製造業就業跌至六年低點：自動化+AI取代加速",
+        "url": "https://www.reuters.com/business/us-private-payrolls-gains-slow-june-planned-layoffs-drop-53-2026-07-01/",
+        "source": "Reuters",
+        "desc": "ISM報告顯示美國工廠就業降至六年最低。製造業活動仍在擴張但人力需求持續被自動化取代"
+      },
+      {
+        "title": "晶片股劇烈獲利了結：iShares半導體ETF單日-3.7%",
+        "url": "https://blockonomi.com/major-indices-decline-as-feds-warsh-addresses-ecb-forum-and-jobs-data-disappoints/",
+        "source": "Blockonomi",
+        "desc": "H1半導體漲80%後的回吐壓力爆發。晶片ETF單日跌3.7%。AMD/Micron/Intel全面回檔。開發者關注AI算力供應影響"
+      },
+      {
+        "title": "7/3美國休市（國慶日）：金融市場+科技產業暫歇",
+        "url": "https://www.morningstar.com/news/marketwatch/2026070133/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july",
+        "source": "Morningstar",
+        "desc": "NYSE/Nasdaq/債券市場7/3全天休市。非農提前至7/2公布。本週後半交投清淡"
+      }
+    ],
+    "art": [
+      {
+        "title": "Anthropic Fable 5安全框架：AI創作工具的安全邊界如何劃定",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "source": "Anthropic",
+        "desc": "Fable 5新分類器可偵測並量化有害輸出嚴重度。對AI藝術/寫作工具的創作自由vs安全設下新標準"
+      },
+      {
+        "title": "Apple收購Play設計工具：SwiftUI原型設計生態持續擴張",
+        "url": "https://www.mactech.com/2026/06/29/apple-hires-some-rabbit-3-times-employees-and-scoops-up-the-design-tool-play/",
+        "source": "MacTech",
+        "desc": "Apple持續強化創作工具生態。Play讓設計師用原生框架建互動原型。收購暗示Xcode設計流程大幅進化"
+      },
+      {
+        "title": "Adobe Topaz Labs收購後續：AI超解析度將深度整合Lightroom/Premiere",
+        "url": "https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs",
+        "source": "Adobe",
+        "desc": "業界預測Topaz的Gigapixel AI（影像放大）和Video Enhance將直接內建於Adobe主力應用，改變後製工作流"
+      },
+      {
+        "title": "軟體公司跑贏半導體：創意/生產力軟體成避風港",
+        "url": "https://blockonomi.com/major-indices-decline-as-feds-warsh-addresses-ecb-forum-and-jobs-data-disappoints/",
+        "source": "Blockonomi",
+        "desc": "7/1美股中軟體股逆勢上漲而半導體重挫-3.7%。投資人從硬體轉向軟體尋求AI回報確定性"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma Config 2026後續效應：設計工程技能框架全面推廣中",
+        "url": "https://www.thenextgentechinsider.com/pulse/new-design-engineering-skills-framework-released-to-optimize-uiux-development",
+        "source": "NextGen Tech Insider",
+        "desc": "Config 2026推出的設計工程框架正被產業採用。針對動畫/視覺polish提供結構化規則，對抗AI生成的「UI Slop」"
+      },
+      {
+        "title": "2026介面設計工具演進：AI原型生成到全流程自動化",
+        "url": "https://www.producthunt.com/categories/interface-design-tools",
+        "source": "Product Hunt",
+        "desc": "2026設計工具格局：Figma(Design Agent+Motion)、Adobe(Creative Agent)、Apple(Play收購)三強鼎立。AI嵌入每個環節"
+      },
+      {
+        "title": "Google NotebookLM短影片摘要：研究視覺化的設計新範式",
+        "url": "https://www.theverge.com/tech",
+        "source": "The Verge",
+        "desc": "NotebookLM用AI圖像+旁白生成60秒研究摘要影片。從文字→音訊→影片，內容呈現設計持續進化"
+      },
+      {
+        "title": "軟體股逆勢上漲：設計/生產力工具公司獲資金青睞",
+        "url": "https://blockonomi.com/major-indices-decline-as-feds-warsh-addresses-ecb-forum-and-jobs-data-disappoints/",
+        "source": "Blockonomi",
+        "desc": "7/1半導體崩跌中軟體股逆勢走強。Adobe/Figma等設計工具公司被視為AI回報鏈中確定性較高的環節"
+      }
+    ],
+    "business": [
+      {
+        "title": "美股H2首日回檔：S&P -0.22%、Nasdaq -0.66%、晶片ETF -3.7%",
+        "url": "https://www.cnbc.com/2026/06/30/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "H2首日獲利了結。半導體H1漲80%後劇烈回吐（晶片ETF -3.7%）。軟體股逆勢上漲。Dow盤中新高後回落"
+      },
+      {
+        "title": "ADP就業僅增98K（預期122K）：就業放緩加深經濟疑慮",
+        "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html",
+        "source": "CNBC",
+        "desc": "6月民間就業新增僅9.8萬，低於預期12.2萬。就業市場降溫但計畫裁員數下降53%為正面訊號"
+      },
+      {
+        "title": "Fed主席Warsh：通膨過高但風險降低，承諾價格穩定",
+        "url": "https://blockonomi.com/major-indices-decline-as-feds-warsh-addresses-ecb-forum-and-jobs-data-disappoints/",
+        "source": "Blockonomi",
+        "desc": "Warsh在ECB Sintra論壇表態後市場先跌後回。「通膨仍太高」=維持鷹派，「風險已降」=留下轉鴿空間"
+      },
+      {
+        "title": "今日非農就業（因7/3休市提前至7/2公布）：預期11.5萬",
+        "url": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-us-market-wednesday-warsh-amd-micron-intel-meta-shares-jobs-report-19936838.htm",
+        "source": "CNBC TV18",
+        "desc": "非農預期新增11.5萬（前值17.2萬）、失業率4.3%持平。過強=升息確認利空；偏弱=Fed有轉鴿空間"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Warsh鷹派轉向+非農在即：利率路徑關鍵週",
+        "url": "https://finance.yahoo.com/economy/policy/articles/pivotal-week-ahead-warshs-hawkish-153800603.html",
+        "source": "Yahoo Finance",
+        "desc": "Dot plot從降息轉升息、2026通膨預測上修、easing bias從聲明移除、Warsh首度不參與dot plot。史無前例的政策轉向"
+      },
+      {
+        "title": "美股H1表現全覽：Dow H1最佳5年、Nasdaq最佳季度since 2020",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "S&P距歷史新高僅3%。儘管6月艱困但H1整體極佳。非科技板塊開始展現強勢=市場健康寬度改善"
+      },
+      {
+        "title": "JOLTS升至兩年新高：職缺增加但招聘停滯的矛盾",
+        "url": "https://finance.yahoo.com/economy/articles/us-job-openings-tick-may-143014399.html",
+        "source": "Yahoo Finance",
+        "desc": "每位失業者對應1.04個職缺（年前為1.01）。企業開缺意願強但實際雇用謹慎→反映對未來不確定性"
+      },
+      {
+        "title": "7/3美國市場全天休市：本週為短交易週",
+        "url": "https://www.morningstar.com/news/marketwatch/2026070133/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july",
+        "source": "Morningstar",
+        "desc": "國慶日假期：7/3 NYSE/Nasdaq/債市全天關閉。非農因此提前至7/2(今日)公布。下週一恢復正常交易"
+      }
+    ]
+  }
+}
