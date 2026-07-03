@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-03",
+  "categories": {
+    "ai": [
+      {
+        "title": "CAIS評測：Anthropic Fable 5在真實遠端工作任務中排名第一",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
+        "source": "The Neuron",
+        "desc": "CAIS（AI安全中心）在真實遠端工作任務評測中，Fable 5排名第一。確認其在實際應用場景中的頂級能力"
+      },
+      {
+        "title": "史上首例AI代理驅動勒索軟體JADEPUFFER被發現",
+        "url": "https://letsdatascience.com/news",
+        "source": "Let's Data Science",
+        "desc": "Sysdig威脅研究團隊7/1發布報告：JADEPUFFER為首個完全由AI代理驅動的勒索軟體攻擊行動。AI安全威脅進入新階段"
+      },
+      {
+        "title": "美國政府與AI公司進入自願標準談判最終階段，下週可能宣布",
+        "url": "https://techstartups.com/2026/07/02/top-tech-news-today-july-2-2026/",
+        "source": "TechStartups",
+        "desc": "據FT報導，美政府與AI公司就模型發布自願標準進行深入談判。涵蓋benchmark、發布時程、境內外存取規則。最快下週公布"
+      },
+      {
+        "title": "NVIDIA推出AI基建營收共享模式：與雲端業者分潤推動算力建設",
+        "url": "https://longbridge.com/en/quote/AAPL.US/news/291598586",
+        "source": "Longbridge",
+        "desc": "NVIDIA推動全新合作模式：透過營收共享機制與AI雲端供應商合作推動算力建設，降低前期資本門檻"
+      },
+      {
+        "title": "Meta開始出售多餘AI算力：雲端算力市場格局再變",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
+        "source": "The Neuron",
+        "desc": "Meta將超額AI運算能力對外銷售。超大規模科技公司從純消費者轉為AI算力供應商，市場競爭格局進化"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "7月遊戲發售日曆：AC Black Flag Resynced(7/9)領先開跑",
+        "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+        "source": "IGN",
+        "desc": "7月首波大作：AC Black Flag Resynced(7/9)、Splatoon Raiders(7/16)、Halo Campaign Evolved(7/28)。下半年遊戲戰爭開打"
+      },
+      {
+        "title": "Halo: Campaign Evolved確認7/28全平台發售：初代重製+新關卡+Game Pass首日",
+        "url": "https://collider.com/halo-campaign-evolved-release-xbox-ps5-pc-july-2026/",
+        "source": "Collider",
+        "desc": "初代Halo故事全面重製。升級視覺+重新設計關卡+擴展敘事。PS5/Xbox/PC同步，Game Pass首日。早鳥7/23"
+      },
+      {
+        "title": "DOOM: The Dark Ages Revelations DLC 7/1上線：經典FPS續寫",
+        "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+        "source": "GameSpot",
+        "desc": "id Software推出DOOM Dark Ages Revelations資料片。Lovecraftian合作遊戲+多款indie佳作同步7月登場"
+      },
+      {
+        "title": "GameFi代幣暴漲：Web3遊戲代幣市值+15%逼近$190億",
+        "url": "https://coinmarketcap.com/academy/uk/article/gamefi-news-gaming-coins-skyrocket-as-bitcoin-shatters-ath",
+        "source": "CoinMarketCap",
+        "desc": "主要Web3遊戲代幣錄得雙位數漲幅。整體GameFi市值上漲15%逼近$190億，交易量飆升65%"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🔥 非農就業僅+57K（預期115K）！就業市場急遽放緩",
+        "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "source": "BLS",
+        "desc": "6月非農僅增5.7萬（預期11.5萬）！5月下修至12.9萬。失業率4.2%微降。就業-人口比跌至2021年低點59%"
+      },
+      {
+        "title": "就業疲弱但市場歡呼：升息預期大降，Dow飆594點至52,900歷史新高",
+        "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "弱就業數據=升息機率下降→Dow +1.14%至52,900新高。但Nasdaq -0.8%（晶片股持續獲利了結）"
+      },
+      {
+        "title": "Fed觀察：弱就業+Warsh談通膨降溫=利率政策轉折點在即？",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "57K遠低預期+Warsh前日說「風險降低」=市場重新定價利率路徑。Fed將觀察能源價格是否進一步減緩通膨"
+      },
+      {
+        "title": "美國經濟從「衝刺」轉為「慢跑」：就業市場結構性轉變",
+        "url": "https://finance.yahoo.com/economy/live/june-jobs-report-live-updates-us-labor-market-slows-from-a-sprint-to-a-jog-121350875.html",
+        "source": "Yahoo Finance",
+        "desc": "經濟增速明確放緩。健康/社會服務仍增4.66萬（佔比80%+）。勞動力參與率和就業人口比均跌至2021年水準"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC飆漲至$62K！弱非農數據點燃「Green July」希望",
+        "url": "https://cointelegraph.com/markets/bitcoin-returns-to-62k",
+        "source": "Cointelegraph",
+        "desc": "BTC日漲近4%突破$62,000。弱就業→升息預期下降→風險資產全面受惠。7月開局強勁"
+      },
+      {
+        "title": "比特幣突破$62K：鯨魚增持270,000 BTC+空頭爆倉$1.3億",
+        "url": "https://news.bitcoin.com/bitcoin-pushes-above-62000-after-whales-add-270000-btc-forcing-130m-in-short-losses/",
+        "source": "Bitcoin.com",
+        "desc": "BTC反彈至$62,137高點。大型持有者增持27萬BTC。$1.3億空頭被強制平倉。市場情緒從恐慌轉為審慎樂觀"
+      },
+      {
+        "title": "Trump財務揭露：$12億加密相關收入+約$5000萬BTC持倉",
+        "url": "https://games.gg/news/trump-crypto-earnings-bitcoin-disclosure/",
+        "source": "Games.gg",
+        "desc": "Trump年度財務揭露顯示超$12億加密貨幣相關收入和約$5000萬比特幣持倉。利益衝突疑慮再度浮現"
+      },
+      {
+        "title": "加密市場7/2全面回升：BTC $61.2K、SOL週漲20%+",
+        "url": "https://blockchainreporter.net/crypto-market-today/",
+        "source": "Blockchain Reporter",
+        "desc": "BTC重回$61K+（一週來首次）。Solana週漲20.77%表現最亮眼。整體加密市場情緒顯著改善"
+      }
+    ],
+    "dev": [
+      {
+        "title": "首例AI代理勒索軟體JADEPUFFER：開發者須正視AI Agent安全風險",
+        "url": "https://letsdatascience.com/news",
+        "source": "Let's Data Science",
+        "desc": "Sysdig發布報告：完全自主AI代理執行勒索攻擊。開發者建構Agent系統時必須考慮防禦此類威脅"
+      },
+      {
+        "title": "NVIDIA發布Agentic AI完整基建堆疊：開源工具包+安全運行環境",
+        "url": "https://www.cio.com/article/4179537/nvidia-stacks-up-agentic-ai-infrastructure.html",
+        "source": "CIO",
+        "desc": "NVIDIA推出企業AI Agent量產基建：開源Agent Toolkit+安全執行環境+Vera CPU架構（專為Agentic AI設計）"
+      },
+      {
+        "title": "Alli AI推出WordPress外掛：讓網站對ChatGPT/Claude/Perplexity可見",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "source": "MarTech",
+        "desc": "伺服器端渲染解決方案，為AI爬蟲提供預渲染HTML而不影響人類用戶體驗。SEO進入AI搜尋優化新時代"
+      },
+      {
+        "title": "AI不再只是技術：已成為經濟系統、產業政策、雲端競賽和企業軟體戰場",
+        "url": "https://hipther.com/latest-news/2026/07/02/114486/ai-dispatch-daily-trends-and-innovations-july-2-2026-openai-trump-administration-meta-palantir-anthropic-nvidia-corning-vercel-and-mercedes-amg-petronas/",
+        "source": "Hipther",
+        "desc": "7/2 AI產業日報：OpenAI/Meta/Palantir/NVIDIA/Vercel/Mercedes全面布局。AI已超越技術範疇成為經濟基礎設施"
+      }
+    ],
+    "art": [
+      {
+        "title": "xAI推出語音AI代理：對話式AI進入語音互動新階段",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
+        "source": "The Neuron",
+        "desc": "Elon Musk旗下xAI推出語音代理功能。AI從文字→語音→多模態互動持續進化，對創作工具的交互設計產生深遠影響"
+      },
+      {
+        "title": "2026為AI藥物研發首次真實考驗年：創意產業可借鏡",
+        "url": "https://www.promarket.org/2026/07/02/pharmas-ai-boom-has-bet-on-the-wrong-bottleneck/",
+        "source": "ProMarket",
+        "desc": "投資人投入數十億用AI發現新藥。2026是AI設計藥物是否真能幫助病人的首次真實測試。創意產業面臨類似AI落地挑戰"
+      },
+      {
+        "title": "軟體股持續跑贏半導體：Adobe/創意軟體公司成市場避風港",
+        "url": "https://au.investing.com/news/economy-news/nasdaq-ends-lower-with-tech-investors-assess-softer-jobs-data-4516755",
+        "source": "Investing.com",
+        "desc": "Nasdaq -0.8%但軟體/創意工具類股逆勢上漲。Adobe等創意軟體被視為AI回報鏈中較確定的受益者"
+      },
+      {
+        "title": "UN呼籲AI產業透明化：碳排放、水和土地使用必須公開",
+        "url": "https://news.un.org/en/story/2026/07/1167848",
+        "source": "UN News",
+        "desc": "聯合國專文說明為何全球需立即行動規範AI。從碼農工具到環境影響，AI的全方位社會責任受到國際關注"
+      }
+    ],
+    "design": [
+      {
+        "title": "Alli AI WordPress外掛：AI時代的SEO設計新範式",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "source": "MarTech",
+        "desc": "設計師需考慮AI爬蟲可見性。SSR預渲染為AI搜尋引擎優化提供技術方案，網站設計規則正在改變"
+      },
+      {
+        "title": "CNBC分析：AI的三大敘事違反——現實如何挑戰AI願景",
+        "url": "https://blockchain.news/ainews/cnbc-analyzes-ai-s-3-narrative-violations",
+        "source": "Blockchain News",
+        "desc": "CNBC 7/2直播：AI三大主流敘事正被現實挑戰。設計/創意產業需根據實際AI能力而非炒作來規劃工作流"
+      },
+      {
+        "title": "NVIDIA Physical AI資料工廠藍圖：機器人和自駕車訓練數據自動化",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Open-Physical-AI-Data-Factory-Blueprint-to-Accelerate-Robotics-Vision-AI-Agents-and-Autonomous-Vehicle-Development/default.aspx",
+        "source": "NVIDIA",
+        "desc": "開放參考架構統一並自動化訓練數據生成/增強/評估。降低實體AI系統（機器人/視覺/自駕）的數據成本和複雜度"
+      },
+      {
+        "title": "Mercedes-AMG PETRONAS導入AI：從賽車到產品設計的AI應用",
+        "url": "https://hipther.com/latest-news/2026/07/02/114486/ai-dispatch-daily-trends-and-innovations-july-2-2026-openai-trump-administration-meta-palantir-anthropic-nvidia-corning-vercel-and-mercedes-amg-petronas/",
+        "source": "Hipther",
+        "desc": "Mercedes F1車隊將AI整合進賽車設計和策略。工業設計+AI的跨界整合案例持續增加"
+      }
+    ],
+    "business": [
+      {
+        "title": "Dow飆594點至52,900歷史新高！弱就業報告→升息預期驟降",
+        "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "7/2收盤：Dow +594(+1.14%)至52,900新高。S&P 7,483持平。Nasdaq -0.8%（晶片持續獲利了結）。Dow連四週上漲"
+      },
+      {
+        "title": "弱就業=好消息？非農57K遠低預期使升息機率大幅下降",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-indexes-rise-104305800.html",
+        "source": "Yahoo Finance",
+        "desc": "三大指數本週均漲約2%。弱就業數據讓市場重新定價：升息不再是定局，Fed可能維持利率或甚至降息"
+      },
+      {
+        "title": "晶片股持續獲利了結vs價值股/防禦股受惠：風格輪動延續",
+        "url": "https://au.investing.com/news/economy-news/nasdaq-ends-lower-with-tech-investors-assess-softer-jobs-data-4516755",
+        "source": "Investing.com",
+        "desc": "Nasdaq -0.8%（晶片股續弱）但Dow +1.14%（價值/防禦型受惠利率預期降溫）。半導體H1漲80%後的修正持續"
+      },
+      {
+        "title": "白宮經濟顧問Hassett：美國經濟「非常強勁」回應弱就業報告",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dow-soars-hits-all-time-high-weak-jobs-report-hassett-us-economy-very-strong/cZme8lcR7SH",
+        "source": "Stocktwits",
+        "desc": "Hassett堅稱經濟基本面強勁，弱就業可能為一次性因素（世界盃影響等）。市場傾向「壞數據=好市場」解讀"
+      }
+    ],
+    "finance": [
+      {
+        "title": "非農僅+57K震撼市場：升息預期驟降，利率政策轉折在即",
+        "url": "https://finance.yahoo.com/economy/policy/articles/instant-view-job-growth-falls-130624650.html",
+        "source": "Yahoo Finance/Reuters",
+        "desc": "6月非農+57K（預期110K）。5月下修至129K（原172K減43K）。Fed升息路線面臨重大質疑"
+      },
+      {
+        "title": "就業數據深度：健康服務佔80%+新增、勞動參與率跌至2021低",
+        "url": "https://cepr.net/publications/june-2026-jobs-report/",
+        "source": "CEPR",
+        "desc": "健康/社會服務+4.66萬佔新增就業80%+。就業-人口比降至59%（2021年來最低）。結構性就業弱化明確"
+      },
+      {
+        "title": "Dow連四週上漲、7/3美國全天休市：長假前完美收官",
+        "url": "https://www.spokesman.com/stories/2026/jul/02/dow-jumps-to-record-closing-high-after-soft-us-job/",
+        "source": "Spokesman",
+        "desc": "Dow四連漲週。7/3（今日）NYSE/Nasdaq全天休市（國慶）。下週一恢復交易。市場帶著利多情緒進入假期"
+      },
+      {
+        "title": "Fed St. Louis分析：失業率4.2%12月來最低但就業人口比失守",
+        "url": "https://www.stlouisfed.org/on-the-economy/2026/jul/flash-report-unemployment-falls-job-growth-slows-in-june",
+        "source": "St. Louis Fed",
+        "desc": "失業率4.2%為12個月最低。但勞動力參與率和就業人口比同步下滑至2021水準→人們退出就業市場"
+      }
+    ]
+  }
+}
