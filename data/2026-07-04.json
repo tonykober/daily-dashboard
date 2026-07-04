@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-04",
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI正與美國政府談判：考慮給予5%政府持股",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
+        "source": "The Neuron",
+        "desc": "據FT和CNBC報導，OpenAI正在早期談判中考慮給予美政府5%持股。Trump曾表示公眾持股可讓美國人「成為AI繁榮的夥伴」"
+      },
+      {
+        "title": "Meta推出Pocket App：AI提示即可生成互動小遊戲和體驗",
+        "url": "https://prometheanai.substack.com/p/the-week-in-ai-news-june-26-july",
+        "source": "Promethean AI/Substack",
+        "desc": "Meta推出Pocket新應用，用AI提示生成小型互動遊戲。當App創作、社群動態和AI生成遊戲全部合併在同一介面"
+      },
+      {
+        "title": "SK Telecom宣布投資140兆韓元（$915億）建設嶺南超大規模AI資料中心",
+        "url": "https://letsdatascience.com/news",
+        "source": "Let's Data Science",
+        "desc": "SK Telecom CEO鄭在勳7/3向總統李在明簡報：將在嶺南地區建設超大規模AI資料中心。韓國AI基建投資規模持續擴大"
+      },
+      {
+        "title": "Ivy League爆發史上最大AI作弊醜聞",
+        "url": "https://www.neuralbuddies.com/p/ai-news-recap-july-3-2026",
+        "source": "Neural Buddies",
+        "desc": "一位教授發現他所稱的常春藤聯盟史上最大AI作弊案。AI在教育領域的濫用問題達到新高峰"
+      },
+      {
+        "title": "NVIDIA GPU營收共享模式細節：AI新創不需前期大額支付即可取得算力",
+        "url": "https://techstartups.com/2026/07/03/top-tech-news-today-july-3-2026/",
+        "source": "TechStartups",
+        "desc": "NVIDIA以營收共享+信用支持結構取代全額預付，讓無法負擔大量算力採購的AI新創也能使用NVIDIA GPU"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Epic Games Store本週免費：I Have No Mouth + River City Girls 2（至7/9）",
+        "url": "https://games.gg/news/epic-games-store-july-free-games/",
+        "source": "Games.gg",
+        "desc": "經典恐怖冒險I Have No Mouth, And I Must Scream + 橫向捲軸格鬥River City Girls 2限時免費至7/9。下週：Nova Lands + Tattoo Tycoon"
+      },
+      {
+        "title": "Steam免費保存活動：7-8月將有4款遊戲100%免費",
+        "url": "https://gamerant.com/steam-free-keep-games-coming-soon-july-august-2026/",
+        "source": "Game Rant",
+        "desc": "後端資料曝光：The Life and Suffering of Sir Brante、Yet Another Zombie Defense HD等將免費。確切上線時間未定"
+      },
+      {
+        "title": "PC平台4款遊戲免費至7/6：Larger Than Light等",
+        "url": "https://opencritic.com/news/34145/4-games-are-100-free-to-keep-for-pc-users-until-july-6",
+        "source": "OpenCritic",
+        "desc": "限時免費：Larger Than Light、Tim-Tim 2: The Almighty Gnome、Path Defenders、Wraithmind。把握7/6前領取"
+      },
+      {
+        "title": "7月全平台免費遊戲總整理：Steam/Epic/Prime/PS Plus/IndieGala",
+        "url": "https://gamerant.com/free-games-july-2026-steam-epic-amazon-prime-gaming/",
+        "source": "Game Rant",
+        "desc": "7月免費遊戲完整列表：從小型indie到曾售$69.99的3A大作。涵蓋所有平台每週更新"
+      }
+    ],
+    "tech": [
+      {
+        "title": "美國獨立日長假：NYSE/Nasdaq全天休市（7/3-7/4）",
+        "url": "https://moneycheck.com/july-4th-weekend-2026-complete-guide-to-market-closures-and-trading-hours/",
+        "source": "MoneyCheck",
+        "desc": "美國所有金融市場7/3全天休市，7/7（週一）恢復正常交易。Dow以52,900歷史新高進入假期"
+      },
+      {
+        "title": "AI半導體股失去動能：資本是否將回流比特幣？",
+        "url": "https://www.coindesk.com/latest-crypto-news",
+        "source": "CoinDesk",
+        "desc": "2026年主導市場的AI記憶體和半導體股正失去動能（H1漲80%後大幅回吐）。分析師討論資金是否轉向BTC"
+      },
+      {
+        "title": "經濟學家辯論：AI毀滅人類1/3機率是否為「划算的交易」",
+        "url": "https://www.neuralbuddies.com/p/ai-news-recap-july-3-2026",
+        "source": "Neural Buddies",
+        "desc": "一位經濟學家認為AI有1/3機率毀滅人類，但數學上仍是「不錯的交易」。引發AI風險vs收益的激烈辯論"
+      },
+      {
+        "title": "OpenAI GPT-5.6仍在政府審查中：全面公開持續延遲",
+        "url": "https://www.marketingprofs.com/opinions/2026/55197/ai-update-july-3-2026-ai-news-and-views-from-the-past-week",
+        "source": "MarketingProfs",
+        "desc": "GPT-5.6（Sol/Terra/Luna）全面公開持續延遲。美政府要求早期存取+額外監督才允許更廣泛可用性"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC $62,149：美國現貨ETF終結連10天淨流出",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "BTC穩定在$62,149（+0.8%）。美國spot BTC ETF打破連續10天淨流出的下降趨勢，資金重新流入"
+      },
+      {
+        "title": "加密市場國慶週末正常交易：BTC/ETH/SOL 24/7不受影響",
+        "url": "https://blockonomi.com/july-4-2026-market-closures-what-investors-need-to-know/",
+        "source": "Blockonomi",
+        "desc": "傳統市場休市但加密貨幣24/7照常。BTC $62K+、ETH $1,744、SOL $82。空頭24小時爆倉$2.81億"
+      },
+      {
+        "title": "ETH週漲近10%、SOL週漲近19%：山寨幣強力反彈",
+        "url": "https://www.coindesk.com/",
+        "source": "CoinDesk",
+        "desc": "科技股反彈緩解AI交易壓力，帶動加密市場回暖。ETH接近$1,744（+10%）、SOL逼近$82（+19%）。市場情緒顯著改善"
+      },
+      {
+        "title": "弱非農+Warsh緩和=風險資產全面受惠：BTC站穩$61K+",
+        "url": "https://www.interactivecrypto.com/bitcoin-s-july-2-rally-defies-etf-outflows-as-fed-s-warsh-calms-inflation-fears-jul-2026",
+        "source": "Interactive Crypto",
+        "desc": "非農僅57K+Warsh說通膨風險降低=升息預期大減。BTC在ETF仍淨流出的背景下逆勢上漲，反映市場對利率轉向的定價"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Anthropic指控阿里Qwen用25,000假帳號盜用Claude：AI安全與存取控制挑戰",
+        "url": "https://www.timesofai.com/news/ai/",
+        "source": "Times of AI",
+        "desc": "安全vs存取的衝突加劇。Anthropic致函美國參議員揭露中國AI實驗室大規模盜用行為，凸顯API安全防護的脆弱性"
+      },
+      {
+        "title": "AI Agent已超越聊天：可檢查程式碼、執行測試、搜尋知識庫、運行數小時",
+        "url": "https://news.developer.nvidia.com/",
+        "source": "NVIDIA Developer",
+        "desc": "NVIDIA技術部落格：AI代理從簡單對話進化到可長時間自主操作——檢查程式碼、執行測試、查詢內部系統、搜尋知識庫"
+      },
+      {
+        "title": "Two Sigma共同創辦人：封閉AI如同1980年代差點犯的軟體錯誤",
+        "url": "https://fortune.com/section/artificial-intelligence/",
+        "source": "Fortune",
+        "desc": "David Siegel認為封閉AI模型重蹈1980年代封閉軟體覆轍。開源AI的風險更高但潛在回報也更大"
+      },
+      {
+        "title": "AI正被應用於關鍵工業操作：超越消費應用的基礎設施管理",
+        "url": "https://theaireport.net/news/",
+        "source": "The AI Report",
+        "desc": "AI從消費應用延伸到基礎設施管理、工業操作和關鍵系統。開發者需為更高可靠性和安全性標準做準備"
+      }
+    ],
+    "art": [
+      {
+        "title": "Meta Pocket：AI生成互動遊戲App——創作民主化的新嘗試",
+        "url": "https://prometheanai.substack.com/p/the-week-in-ai-news-june-26-july",
+        "source": "Promethean AI",
+        "desc": "Meta的Pocket讓任何人用文字提示創建互動體驗。App創作/社群/AI遊戲合一，降低創作門檻但也引發品質擔憂"
+      },
+      {
+        "title": "I Have No Mouth, And I Must Scream免費：經典恐怖文學改編遊戲的藝術價值",
+        "url": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+        "source": "GameSpot",
+        "desc": "Harlan Ellison經典反烏托邦小說改編遊戲免費領取。探索AI暴政下的人性——30年前的預言與今日AI現實呼應"
+      },
+      {
+        "title": "AI編碼助手爭議升溫：中美AI公司間的安全與模型保護衝突",
+        "url": "https://www.timesofai.com/news/ai/",
+        "source": "Times of AI",
+        "desc": "阿里Qwen盜用事件背後是AI創作工具存取權的全球爭奪。開源vs閉源、免費試用vs付費保護的邊界日益模糊"
+      },
+      {
+        "title": "AI是否值得1/3毀滅風險？經濟學家的爭議性論述",
+        "url": "https://www.neuralbuddies.com/p/ai-news-recap-july-3-2026",
+        "source": "Neural Buddies",
+        "desc": "一位經濟學家以數學論證AI即使有1/3機率毀滅人類仍「划算」。藝術/創意社群對此論述強烈反彈"
+      }
+    ],
+    "design": [
+      {
+        "title": "Meta Pocket重新定義互動設計：文字提示→即時互動體驗",
+        "url": "https://prometheanai.substack.com/p/the-week-in-ai-news-june-26-july",
+        "source": "Promethean AI",
+        "desc": "Pocket模糊了遊戲設計/App設計/社群設計的邊界。UX設計師面對「任何人都能創建互動體驗」的新現實"
+      },
+      {
+        "title": "NVIDIA Nemotron 3 Ultra：更小更快的開源模型加速Agent設計",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/Enterprise-Software-Leaders-Build-AI-Agents-With-NVIDIA/default.aspx",
+        "source": "NVIDIA",
+        "desc": "Nemotron 3 Ultra專為長時間Agent設計：5倍推理速度+降低30%成本。企業Agent產品的UX設計基礎設施"
+      },
+      {
+        "title": "AI Coding助手+Agent從工具進化為系統：開發者工作流設計必須重構",
+        "url": "https://news.developer.nvidia.com/",
+        "source": "NVIDIA Developer",
+        "desc": "AI Agent可持續數小時自主工作。設計AI輔助工作流時需考慮：監督頻率、介入時機、錯誤回復的交互設計"
+      },
+      {
+        "title": "封閉vs開源AI設計工具的辯論：1980年代軟體歷史的教訓",
+        "url": "https://fortune.com/section/artificial-intelligence/",
+        "source": "Fortune",
+        "desc": "Two Sigma創辦人警告：封閉AI模型可能重蹈覆轍。設計工具生態的開放性決定了創新速度和設計師可及性"
+      }
+    ],
+    "business": [
+      {
+        "title": "OpenAI考慮給美政府5%持股：AI產業與政府關係進入新階段",
+        "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
+        "source": "The Neuron",
+        "desc": "FT/CNBC報導OpenAI正與美政府談判5%持股。Trump稱可讓美國人「參與AI繁榮」。AI公司與政府的關係定義正在改寫"
+      },
+      {
+        "title": "SK Telecom $915億AI資料中心投資：韓國AI基建軍備賽加速",
+        "url": "https://letsdatascience.com/news",
+        "source": "Let's Data Science",
+        "desc": "繼三星/SK海力士$5,900億後，SK Telecom再投$915億。韓國AI基建總投資已接近$7,000億，全球最積極"
+      },
+      {
+        "title": "美國市場長假休市：Dow 52,900新高+非農轉折雙重利多帶入H2",
+        "url": "https://moneycheck.com/independence-day-2026-complete-guide-to-market-closures-and-trading-hours/",
+        "source": "MoneyCheck",
+        "desc": "Dow以歷史新高52,900進入國慶假期。弱非農（57K）翻轉升息預期→市場帶著利多情緒迎接下半年"
+      },
+      {
+        "title": "本週回顧：非農震撼+Fable 5解禁+Dow新高=完美收官",
+        "url": "https://finance.yahoo.com/economy/policy/articles/instant-view-job-growth-falls-130624650.html",
+        "source": "Yahoo Finance",
+        "desc": "本週三大事件：(1)非農+57K遠低預期 (2)Claude Fable 5全球恢復 (3)Dow連四週漲至52,900新高。市場轉向樂觀"
+      }
+    ],
+    "finance": [
+      {
+        "title": "非農+57K衝擊波：Fed升息路線面臨根本質疑",
+        "url": "https://www.stlouisfed.org/on-the-economy/2026/jul/flash-report-unemployment-falls-job-growth-slows-in-june",
+        "source": "St. Louis Fed",
+        "desc": "St. Louis Fed分析：失業率4.2%（12月低）但EPOP跌至59%（2021低）。就業弱化非僅數字問題而是結構性"
+      },
+      {
+        "title": "Dow連四週上漲+歷史新高52,900收假：H2開局完美",
+        "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "本週三大指數均漲~2%。Dow +594至52,900新高。弱就業轉化為升息預期降溫→價值/防禦股受惠最大"
+      },
+      {
+        "title": "市場定價翻轉：從「確定升息」到「可能維持甚至降息」",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-indexes-rise-104305800.html",
+        "source": "Yahoo Finance",
+        "desc": "57K非農徹底改變市場利率預期。一週前市場定價升息確定，現在已轉向「Fed可能按兵不動或降息」"
+      },
+      {
+        "title": "加密市場獨立日正常交易：BTC $62K+為假期增添風險資產信心",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "傳統市場休假但加密24/7。BTC $62,149穩定。ETF結束10天淨流出。假期期間流動性較低需留意波動"
+      }
+    ]
+  }
+}
