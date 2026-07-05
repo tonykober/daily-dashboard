@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-05",
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI 5%政府持股細節：估值$852B下價值$426億，條件=競爭者也需同意",
+        "url": "https://letsdatascience.com/news",
+        "source": "Let's Data Science",
+        "desc": "FT報導OpenAI提議給美政府5%持股（以3月$8520億估值計算值$426億）。CNBC稱目的是化解政治壓力。關鍵條件：其他AI競爭者也須同意類似安排"
+      },
+      {
+        "title": "Sam Altman條件曝光：僅在競爭對手也給政府持股時才成立",
+        "url": "https://www.foxnews.com/politics/openais-sam-altman-wants-negotiate-5-stake-company-us-competitors-agree-key-provision",
+        "source": "Fox News",
+        "desc": "Altman明確表態：5%政府持股提案僅在其他AI競爭者同意相同條件時才會推進。避免OpenAI單方面競爭劣勢"
+      },
+      {
+        "title": "Anthropic明確否認與Trump政府討論政府持股事宜",
+        "url": "https://thenextweb.com/news/anthropic-trump-administration-deny-government-stake",
+        "source": "The Next Web",
+        "desc": "Reuters引述知情人士：Anthropic和Trump政府雙方都否認討論過政府入股。與OpenAI形成鮮明對比"
+      },
+      {
+        "title": "本週AI回顧：Fable 5回歸+Google輸EU反壟斷上訴+OpenAI政府持股",
+        "url": "https://www.techtarget.com/searchcio/feature/Weekly-news-roundup-OpenAI-weighs-5-government-stake-Google-loses-appeal-and-Fable-5-return",
+        "source": "TechTarget",
+        "desc": "本週三大AI事件：(1)Claude Fable 5全球恢復 (2)Google輸EU反壟斷上訴 (3)OpenAI考慮5%政府持股。AI治理格局劇變"
+      },
+      {
+        "title": "美政府設定AI模型發布前審查新先例：Anthropic事件影響深遠",
+        "url": "https://www.ibtimes.sg/why-u-s-government-setting-new-precedent-reviewing-ai-models-before-release-89085",
+        "source": "IBTimes",
+        "desc": "Fable 5/Mythos 5事件為首次政府在前沿AI模型發布後介入。促使更廣泛的先進AI系統政府審查制度化"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "7月Web3遊戲5大熱門動態：Season Zero、Token銷售等",
+        "url": "https://playtoearn.com/news/5-games-making-big-moves-in-july-2026-dont-miss-out",
+        "source": "Play to Earn",
+        "desc": "7月blockchain遊戲焦點：Season Zero: The Invasion首個結構化賽季（提取式loop）、RollerCoin Art of Deal限時銷售等"
+      },
+      {
+        "title": "Epic Games Store免費：I Have No Mouth + River City Girls 2（倒數4天）",
+        "url": "https://gamerant.com/epic-games-store-free-games-list/",
+        "source": "Game Rant",
+        "desc": "經典恐怖AI冒險+橫向格鬥，7/9前免費。下週免費預告：Nova Lands + Tattoo Tycoon"
+      },
+      {
+        "title": "Steam/Epic/Prime 7月完整免費遊戲追蹤（持續更新）",
+        "url": "https://gamerant.com/free-games-july-2026-steam-epic-amazon-prime-gaming/",
+        "source": "Game Rant",
+        "desc": "7月免費遊戲全平台追蹤：Steam即將免費4款、Epic每週更新、Prime Gaming陣容。從indie到3A應有盡有"
+      },
+      {
+        "title": "RollerCoin Art of Deal限時活動：7/3-7/6主題礦機銷售",
+        "url": "https://playtoearn.com/news?page=1",
+        "source": "Play to Earn",
+        "desc": "Web3挖礦遊戲RollerCoin推出限時主題礦機（起始100,000,000 Gh/s+25%加成），可升級至頂級版本"
+      }
+    ],
+    "tech": [
+      {
+        "title": "🚀 SpaceX將於7/7加入Nasdaq-100指數：史上最大IPO後最大里程碑",
+        "url": "https://www.fool.com/investing/2026/06/29/2-reasons-july-7-shaping-up-monster-day-for-spacex/",
+        "source": "Motley Fool",
+        "desc": "Nasdaq宣布SpaceX(SPCX)7/7正式加入Nasdaq-100。繼史上最大IPO後的重大里程碑。預期被動資金大量流入"
+      },
+      {
+        "title": "Google輸掉EU反壟斷上訴：歐洲科技監管持續收緊",
+        "url": "https://www.techtarget.com/searchcio/feature/Weekly-news-roundup-OpenAI-weighs-5-government-stake-Google-loses-appeal-and-Fable-5-return",
+        "source": "TechTarget",
+        "desc": "Google在EU反壟斷案中敗訴。歐洲對大型科技公司的監管力度持續加強，可能影響AI服務在歐的部署策略"
+      },
+      {
+        "title": "CME FedWatch：7月升息機率降至33%（非農前近乎確定→現在懸而未決）",
+        "url": "https://www.smartreversals.com/p/critical-week-ahead-for-tech-f7e",
+        "source": "Smart Reversals",
+        "desc": "Fed利率3.50-3.75%不變。FOMC 7/28-29。非農57K震撼後，CME FedWatch 7月升息機率從近確定降至33%。下一步關鍵在通膨數據"
+      },
+      {
+        "title": "本週美股回顧：Dow週漲+1,024(+1.97%)、S&P +1.76%、Nasdaq持平",
+        "url": "https://www.ig.com/en-ch/news-and-trade-ideas/week-ahead-july-6th-2026-260703",
+        "source": "IG",
+        "desc": "科技股大跌被Dow價值股offset。Dow +1,024（+1.97%）至52,900新高。S&P +1.76%。Nasdaq-100幾乎持平（晶片拖累）"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC突破$63,000：週末持續走強",
+        "url": "https://coinness.com/en/",
+        "source": "CoinNess",
+        "desc": "BTC在Binance USDT市場交易突破$63,001。較週初$58K反彈超8%。弱非農+ETF回流+鯨魚增持三重推動"
+      },
+      {
+        "title": "大額BTC轉入Coinbase Prime引發市場猜測：億萬富翁動向",
+        "url": "https://www.cointribune.com/en/news/crypto-news/",
+        "source": "CoinTribune",
+        "desc": "7/3有大額BTC轉入Coinbase Prime。鏈上分析工具歸屬於知名億萬富翁，引發賣壓或OTC交易猜測"
+      },
+      {
+        "title": "ETH/SOL持續強勢：ETH $1,744(+10%)、SOL $82(+19%)週漲",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "山寨幣延續反彈。BTC ETF結束10天流出。科技股反彈緩解AI交易壓力，資金重新流入加密市場"
+      },
+      {
+        "title": "CLARITY法案進展：Polymarket預估2026通過機率48%",
+        "url": "https://crypto.com/us/market-updates/best-crypto-july-2026",
+        "source": "Crypto.com",
+        "desc": "XRP催化劑CLARITY法案有白宮7/4簽署截止期。Polymarket通過機率48%。GENIUS穩定幣法案也在推進中"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Q2財報季即將開始：科技股面臨AI投資回報的首次真實考驗",
+        "url": "https://www.investors.com/tag/all-news-and-stock-ideas/",
+        "source": "IBD",
+        "desc": "下週起Q2財報季開跑。市場將檢驗：AI巨額資本支出（$1兆+）是否轉化為實際營收和利潤。科技股估值面臨驗證"
+      },
+      {
+        "title": "Rezolve AI設定$3億股票回購：AI新創在公開市場的資本操作",
+        "url": "https://ts2.tech/en/",
+        "source": "TS2 Tech",
+        "desc": "Rezolve AI(RZLV)獲股東批准$3億回購計畫。AI上市公司用回購穩定股價→新創融資後的資本管理新模式"
+      },
+      {
+        "title": "Schwab技術策略師：AI基建投機過度+保證金借貸集中，看空科技短期",
+        "url": "https://www.schwab.com/learn/story/weekly-traders-outlook",
+        "source": "Schwab",
+        "desc": "季末再平衡+保證金借貸過度延伸+AI基建持倉集中→技術面看空科技板塊。建議觀望等財報確認"
+      },
+      {
+        "title": "小型股Russell 2000 H1跑贏所有主要指數：開發者/新創生態利多",
+        "url": "https://www.zacks.com/ahead-of-wall-street/",
+        "source": "Zacks",
+        "desc": "小型股H1表現超越S&P/Nasdaq/Dow。AI工具民主化降低新創開發門檻，中小型科技公司反而受益"
+      }
+    ],
+    "art": [
+      {
+        "title": "AI政府介入模型發布的先例：對創意AI工具的長期影響",
+        "url": "https://www.ibtimes.sg/why-u-s-government-setting-new-precedent-reviewing-ai-models-before-release-89085",
+        "source": "IBTimes",
+        "desc": "Fable 5事件確立政府可在AI模型發布後介入的先例。創意工具（影像/文字/程式碼生成）未來可能面臨類似審查"
+      },
+      {
+        "title": "科技股H1最佳半年since 2023：AI基建投資推動創意產業數位化",
+        "url": "https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html",
+        "source": "Yahoo Finance",
+        "desc": "XLK科技板塊H1+28%（2023 AI boom以來最佳）。AI基建投資帶動創意/設計軟體公司估值。Mag 7雖在「禁閉區」但整體受益"
+      },
+      {
+        "title": "Morningstar 7月股票推薦：科技板塊雲霄飛車，更多下跌在前方？",
+        "url": "https://www.morningstar.com/podcasts/the-morning-filter/3-stocks-buy-3-stocks-sell-july",
+        "source": "Morningstar",
+        "desc": "Morningstar建議7月買入3檔+賣出3檔。科技股過山車行情中，創意/軟體類被視為較安全標的"
+      },
+      {
+        "title": "Corning暴跌10.8%：AI基建材料供應商面臨估值修正",
+        "url": "https://ts2.tech/en/",
+        "source": "TS2 Tech",
+        "desc": "AI資料中心光纖/玻璃供應商Corning單日跌10.8%。AI硬體供應鏈面臨從高估值回歸的壓力"
+      }
+    ],
+    "design": [
+      {
+        "title": "SpaceX加入Nasdaq-100：被動投資設計面臨新權重挑戰",
+        "url": "https://www.fool.com/investing/2026/06/29/2-reasons-july-7-shaping-up-monster-day-for-spacex/",
+        "source": "Motley Fool",
+        "desc": "SpaceX加入Nasdaq-100將改變指數權重結構。ETF和指數基金的設計者需重新考慮太空/航天板塊曝險"
+      },
+      {
+        "title": "下週關鍵：Q2財報季考驗AI設計工具商業化成效",
+        "url": "https://www.investors.com/tag/all-news-and-stock-ideas/",
+        "source": "IBD",
+        "desc": "Figma/Adobe/Canva等設計工具公司Q2財報將揭示AI功能是否真的轉化為付費用戶和營收增長"
+      },
+      {
+        "title": "AI模型審查制度化對設計工具的影響：創作自由vs安全合規",
+        "url": "https://www.ibtimes.sg/why-u-s-government-setting-new-precedent-reviewing-ai-models-before-release-89085",
+        "source": "IBTimes",
+        "desc": "政府審查AI模型的先例意味著生成式設計工具（文生圖/文生影片）也可能面臨上市前監管。設計工具商需提前準備"
+      },
+      {
+        "title": "科技板塊「關鍵一週」：Q2財報+SpaceX入指+Fed路徑",
+        "url": "https://www.smartreversals.com/p/critical-week-ahead-for-tech-f7e",
+        "source": "Smart Reversals",
+        "desc": "下週多重催化劑：SpaceX入Nasdaq-100(7/7)、Q2財報季開跑、Fed利率路徑定價。設計/軟體板塊表現受關注"
+      }
+    ],
+    "business": [
+      {
+        "title": "SpaceX 7/7加入Nasdaq-100：被動資金將大量流入",
+        "url": "https://investingnews.com/top-tech-news/",
+        "source": "Investing News",
+        "desc": "Nasdaq宣布SpaceX(SPCX)正式加入Nasdaq-100。追蹤該指數的數千億美元被動資金將在7/7自動買入SpaceX股票"
+      },
+      {
+        "title": "本週美股總結：Dow +1,024至52,900新高、連四週漲",
+        "url": "https://www.ig.com/en-ch/news-and-trade-ideas/week-ahead-july-6th-2026-260703",
+        "source": "IG",
+        "desc": "Dow週漲+1.97%（+1,024點）至52,900歷史新高。S&P +1.76%。Nasdaq基本持平（晶片獲利了結vs軟體上漲相消）"
+      },
+      {
+        "title": "OpenAI政府持股提案值$426億：AI公司與政府關係新篇章",
+        "url": "https://letsdatascience.com/news",
+        "source": "Let's Data Science",
+        "desc": "以$852B估值計算5%=$426億。CNBC稱意在化解政治壓力。但Altman設限：僅在競爭者同意時才推進"
+      },
+      {
+        "title": "下週前瞻：SpaceX入指(7/7)+Q2財報季開跑+油價跌至戰前水平",
+        "url": "https://www.investors.com/tag/all-news-and-stock-ideas/",
+        "source": "IBD",
+        "desc": "7/7 SpaceX加入Nasdaq-100。Q2財報季正式開始（銀行股領先報告）。油價回到伊朗戰爭前水平=通膨緩解訊號"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Fed 7月FOMC前瞻：升息機率從near-100%降至33%",
+        "url": "https://www.smartreversals.com/p/critical-week-ahead-for-tech-f7e",
+        "source": "Smart Reversals",
+        "desc": "利率3.50-3.75%。FOMC 7/28-29。非農57K後CME FedWatch升息機率驟降至33%。市場共識傾向7月暫停"
+      },
+      {
+        "title": "Dow連四週漲+52,900收官：價值/防禦股領軍",
+        "url": "https://www.ig.com/en-ch/news-and-trade-ideas/week-ahead-july-6th-2026-260703",
+        "source": "IG",
+        "desc": "科技股大跌被Dow藍籌offset。本週Dow +1.97%>S&P +1.76%>Nasdaq ~0%。風格輪動（價值>成長）持續中"
+      },
+      {
+        "title": "BTC $63K+：加密市場與傳統市場脫鉤走強",
+        "url": "https://coinness.com/en/",
+        "source": "CoinNess",
+        "desc": "傳統市場休市但BTC突破$63K。從$58K週初反彈+8%。ETF回流+鯨魚增持+弱就業利多三重推力"
+      },
+      {
+        "title": "下週關鍵：SpaceX入Nasdaq-100、Q2財報季、7月CPI前哨",
+        "url": "https://www.zacks.com/ahead-of-wall-street/",
+        "source": "Zacks",
+        "desc": "7/7 SpaceX入指（被動買盤湧入）。Q2財報（AI投資回報首次檢驗）。小型股Russell 2000持續跑贏大盤"
+      }
+    ]
+  }
+}
