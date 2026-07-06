@@ -240,6 +240,312 @@
         "source": "Zacks",
         "desc": "7/7 SpaceX入指（被動買盤湧入）。Q2財報（AI投資回報首次檢驗）。小型股Russell 2000持續跑贏大盤"
       }
-    ]
+    ],
+    "stock_briefing": {
+      "date": "2026-07-06",
+      "updated_at": "2026-07-06 08:30",
+      "sparkline": [
+        45900,
+        46125,
+        46600,
+        46700,
+        46700,
+        0,
+        0
+      ],
+      "sparkline_dates": [
+        "6/29",
+        "6/30",
+        "7/1",
+        "7/2",
+        "7/3",
+        "",
+        ""
+      ],
+      "market": {
+        "index": "46,700(7/3收估)",
+        "change": 100,
+        "changePercent": "+0.2%(估)",
+        "volume": "2,800億",
+        "futures": "46,800 (+0.2%)"
+      },
+      "sectors": [
+        {
+          "name": "半導體",
+          "change": -0.3
+        },
+        {
+          "name": "AI/伺服器",
+          "change": -0.5
+        },
+        {
+          "name": "電子",
+          "change": -0.2
+        },
+        {
+          "name": "金融",
+          "change": 0.5
+        },
+        {
+          "name": "傳產",
+          "change": 0.3
+        },
+        {
+          "name": "航運",
+          "change": 0.5
+        },
+        {
+          "name": "高股息ETF",
+          "change": 0.8
+        },
+        {
+          "name": "生技",
+          "change": 0.3
+        }
+      ],
+      "etf": [
+        {
+          "name": "0050",
+          "trend": "跌 微跌",
+          "note": "NAV 108.35(-0.41%)，溢價+0.07%"
+        },
+        {
+          "name": "0056",
+          "trend": "漲 穩定",
+          "note": "NAV 52.85(+0.48%)，溢價0%"
+        },
+        {
+          "name": "00878",
+          "trend": "漲 穩定",
+          "note": "NAV 33.33(+0.33%)，折價-0.42%"
+        },
+        {
+          "name": "00929",
+          "trend": "漲 回升",
+          "note": "NAV 31.34(+0.48%)，溢價+0.22%"
+        },
+        {
+          "name": "00919",
+          "trend": "漲 強勢",
+          "note": "NAV 29.53(+1.13%)，折價-0.27%"
+        },
+        {
+          "name": "009816",
+          "trend": "平盤",
+          "note": "大型股微跌拖累"
+        }
+      ],
+      "institutional": {
+        "外資": -50,
+        "投信": 30,
+        "自營商": 10
+      },
+      "sentiment": {
+        "score": 62,
+        "label": "中性偏樂觀 — 非農弱+Dow新高利多，但Nasdaq晶片續弱。高息股開始回流",
+        "history": [
+          25,
+          38,
+          55,
+          72,
+          68,
+          65,
+          62
+        ]
+      },
+      "international": [
+        {
+          "name": "Dow(7/2)",
+          "change": 1.14
+        },
+        {
+          "name": "S&P 500",
+          "change": -0.07
+        },
+        {
+          "name": "Nasdaq",
+          "change": -0.8
+        },
+        {
+          "name": "7/3-4美國休市",
+          "change": 0
+        },
+        {
+          "name": "SpaceX今日入Nasdaq-100",
+          "change": 0
+        }
+      ],
+      "buffett_indicator": {
+        "value": 193,
+        "label": "嚴重高估"
+      },
+      "events": [
+        "✅ Dow 52,900歷史新高（+594/+1.14%）！非農弱→升息預期降",
+        "✅ 非農僅+57K→Fed升息機率降至33%，市場解讀為利多",
+        "🟡 Nasdaq -0.8%：晶片股持續獲利了結（H1漲80%修正中）",
+        "✅ 高股息ETF回流：00919 +1.13%、0056 +0.48%、00929 +0.48%",
+        "🟡 0050/006208微跌-0.4%：大型股/半導體暫歇",
+        "🚀 SpaceX今日（7/7）正式加入Nasdaq-100：被動資金將流入",
+        "⚠️ 7/3-4美國休市（國慶），週末無美股引導",
+        "🟡 風格再輪動：從大型股→回到高息股（上週反向）"
+      ],
+      "summary": "🟡 風格再次輪動！7/3台股大型股微跌（0050 -0.41%）但高股息ETF全面回升（00919 +1.13%、0056 +0.48%）。非農57K震撼使升息預期驟降→防禦/價值股受惠。Dow 52,900新高但Nasdaq -0.8%（晶片持續修正）。今日重點：SpaceX加入Nasdaq-100（明日7/7生效）+美國假期後恢復交易。建議：均衡配置，大型股和高股息ETF都持有。短期高息股相對強勢但不追高。",
+      "stocks": [
+        {
+          "name": "2330 台積電",
+          "trend": "跌 微跌",
+          "note": "估微跌0.3-0.5%（0050 -0.41%反推）。Nasdaq晶片股修正中。但弱就業降低升息壓力為中長期利多。",
+          "nav": null,
+          "pb": 10.8,
+          "premium": null,
+          "pe": 33,
+          "quarterLine": 12,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0050 元大台灣50",
+          "trend": "跌 微跌",
+          "note": "NAV 108.35，市價108.27，溢價+0.07%。日跌-0.41%。台積電拖累但跌幅有限。",
+          "nav": 108.35,
+          "pb": null,
+          "premium": 0.07,
+          "pe": null,
+          "quarterLine": 11,
+          "suggestion": "持有"
+        },
+        {
+          "name": "0056 元大高股息",
+          "trend": "漲 穩定",
+          "note": "NAV 52.85，市價52.85，溢價0%。日漲+0.48%。高息股回流資金。殖利率~5.3%。",
+          "nav": 52.85,
+          "pb": null,
+          "premium": 0,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00878 國泰永續高股息",
+          "trend": "漲 穩定",
+          "note": "NAV 33.33，市價33.47，折價-0.42%。日漲+0.33%。折價區間仍有吸引力。",
+          "nav": 33.33,
+          "pb": null,
+          "premium": -0.42,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00919 群益精選高息",
+          "trend": "漲 強勢",
+          "note": "NAV 29.53，市價29.61，折價-0.27%。日漲+1.13%！風格輪動最大受益者。",
+          "nav": 29.53,
+          "pb": null,
+          "premium": -0.27,
+          "pe": null,
+          "quarterLine": 3,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00940 元大價值高息",
+          "trend": "漲 回升",
+          "note": "NAV 12.73，市價12.80，折價-0.55%。日漲+0.63%。價值型持續回暖。",
+          "nav": 12.73,
+          "pb": null,
+          "premium": -0.55,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        },
+        {
+          "name": "006208 富邦台50",
+          "trend": "跌 微跌",
+          "note": "NAV 251.35，市價251.41，折價-0.02%。日跌-0.38%。與0050同步微跌。",
+          "nav": 251.35,
+          "pb": null,
+          "premium": -0.02,
+          "pe": null,
+          "quarterLine": 11,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00892 富邦半導體",
+          "trend": "跌 微跌",
+          "note": "半導體ETF跟隨Nasdaq晶片修正。但跌幅不大（加權正2僅+0.56%顯示整體持穩）。",
+          "nav": 1190,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 8,
+          "suggestion": "持有觀望"
+        },
+        {
+          "name": "00891 中信半導體",
+          "trend": "跌 微跌",
+          "note": "同上，半導體暫時休息。韓國三星/SK持穩。",
+          "nav": 22,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 7,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00982A 群益精選強棒",
+          "trend": "漲 穩定",
+          "note": "主動型均衡配置。高息股漲抵消半導體跌。",
+          "nav": 20.8,
+          "pb": null,
+          "premium": 0.15,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00981A 統一台股增長",
+          "trend": "平盤",
+          "note": "最大主動型。大盤持平，折價維持。",
+          "nav": 31.5,
+          "pb": null,
+          "premium": -0.25,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00403A 中信台灣精選50主動",
+          "trend": "平盤",
+          "note": "跟隨大盤小幅震盪。",
+          "nav": 18,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 5,
+          "suggestion": "持有"
+        },
+        {
+          "name": "009816 凱基台灣TOP50",
+          "trend": "跌 微跌",
+          "note": "被動追蹤大型股，微跌跟隨0050。",
+          "nav": 15.1,
+          "pb": null,
+          "premium": 0.1,
+          "pe": null,
+          "quarterLine": 6,
+          "suggestion": "持有"
+        },
+        {
+          "name": "00929 復華科技優息",
+          "trend": "漲 回升",
+          "note": "NAV 31.34，市價31.27，溢價+0.22%。日漲+0.48%。科技+高息雙因子在利率預期降溫下受惠。",
+          "nav": 31.34,
+          "pb": null,
+          "premium": 0.22,
+          "pe": null,
+          "quarterLine": 4,
+          "suggestion": "持有"
+        }
+      ]
+    }
   }
 }
