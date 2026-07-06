@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-06",
+  "categories": {
+    "ai": [
+      {
+        "title": "AI週報：GPT-5.6持續延遲、EU瞄準AWS/Azure、AI代理成系統性金融風險",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly for Leaders",
+        "desc": "GPT-5.6在政府壓力下繼續延遲公開；歐盟將AWS和Azure列為「守門人」監管；歐洲企業分散使用美/中/歐AI模型；監管機構開始將AI代理視為系統性金融風險"
+      },
+      {
+        "title": "Anthropic秘密提交IPO申請：目標$300億募資、估值$9650億",
+        "url": "https://www.fool.com/investing/2026/06/30/could-the-spacex-anthropic-and-openai-ipos-trigger/",
+        "source": "Motley Fool",
+        "desc": "Anthropic已秘密提交IPO文件，目標募資$300億、估值約$9650億。繼SpaceX $1.75兆IPO後，AI三巨頭IPO潮持續"
+      },
+      {
+        "title": "SpaceX/Anthropic/OpenAI三大IPO是否會觸發40%股市崩盤？",
+        "url": "https://www.fool.com/investing/2026/06/30/could-the-spacex-anthropic-and-openai-ipos-trigger/",
+        "source": "Motley Fool",
+        "desc": "金融評論員Hulbert警告：三大AI/科技IPO集中可能抽乾市場流動性，歷史數據顯示大規模IPO潮後股市有大幅回檔風險"
+      },
+      {
+        "title": "SpaceX明日(7/7)正式加入Nasdaq-100+IPO靜默期結束",
+        "url": "https://www.odaily.news/en/post/5211726",
+        "source": "Odaily",
+        "desc": "SpaceX 7/7加入Nasdaq-100（被動資金流入）+下週二IPO靜默期結束（券商將發布研究報告影響估值）。雙重催化劑"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "7月Web3遊戲5大動態：Season Zero提取loop+新賽季機制",
+        "url": "https://playtoearn.com/news/5-games-making-big-moves-in-july-2026-dont-miss-out",
+        "source": "Play to Earn",
+        "desc": "7月blockchain遊戲焦點：Season Zero: The Invasion（6/26啟動首個結構化賽季）、提取式戰鬥loop引領P2E新方向"
+      },
+      {
+        "title": "本週遊戲大事：AC Black Flag Resynced 7/9發售倒數",
+        "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+        "source": "IGN",
+        "desc": "7/9 Assassin's Creed Black Flag Resynced正式發售。開放世界海盜重製版。後續：Splatoon Raiders(7/16)、Halo CE(7/28)"
+      },
+      {
+        "title": "Epic免費遊戲本週更新：Nova Lands + Tattoo Tycoon即將上線",
+        "url": "https://gamerant.com/epic-games-store-free-games-list/",
+        "source": "Game Rant",
+        "desc": "I Have No Mouth + River City Girls 2即將於7/9到期。下一波免費：Nova Lands(殖民模擬)+Tattoo Tycoon(刺青店經營)"
+      },
+      {
+        "title": "GameFi代幣本週關注：重大token解鎖+市場情緒改善",
+        "url": "https://coinness.com/en/news",
+        "source": "CoinNess",
+        "desc": "本週重大token解鎖：RED 4085萬枚($409萬/流通9.8%)、APT 1131萬枚($708萬)。GameFi市值維持$190億附近"
+      }
+    ],
+    "tech": [
+      {
+        "title": "SpaceX 7/7加入Nasdaq-100：史上最大IPO後最重要里程碑",
+        "url": "https://www.fool.com/investing/2026/06/29/2-reasons-july-7-shaping-up-monster-day-for-spacex/",
+        "source": "Motley Fool",
+        "desc": "SpaceX(SPCX)明日正式加入Nasdaq-100。數千億被動追蹤資金將自動買入。$1.75兆市值巨獸進入指數"
+      },
+      {
+        "title": "SK海力士即將赴美上市：韓國AI半導體軍備賽外溢全球",
+        "url": "https://www.odaily.news/en/post/5211726",
+        "source": "Odaily",
+        "desc": "SK海力士計畫在美國上市。配合韓國$5900億半導體超級投資計畫。AI記憶體晶片需求推動全球上市潮"
+      },
+      {
+        "title": "美國國慶長假結束：今日全球市場恢復正常交易",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-indexes-rise-104305800.html",
+        "source": "Yahoo Finance",
+        "desc": "7/3-4美國休市結束。帶入長假的利多：Dow 52,900新高+非農57K降低升息預期+三大指數週漲~2%"
+      },
+      {
+        "title": "非農效應持續：Fed升息機率33%、就業-人口比跌至2021低",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Schwab",
+        "desc": "就業僅+57K的餘震：Fed觀察能源價格是否能進一步緩解通膨。勞動力參與率和就業人口比雙跌至2021水準"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "XRP領漲：國慶假期間漲5%，CLARITY法案推進中",
+        "url": "https://www.coindesk.com/",
+        "source": "CoinDesk",
+        "desc": "XRP在7/4薄交易量中漲5%領先主要幣種。CLARITY法案為XRP的監管催化劑，Polymarket通過機率48%"
+      },
+      {
+        "title": "本週加密關鍵：重大token解鎖+Michael Saylor強化BTC立場",
+        "url": "https://en.bitcoinsistemi.com/live/live-july-5-2026-bitcoin-and-crypto-news-daily-highlights/",
+        "source": "Bitcoin Sistemi",
+        "desc": "Strategy CEO Saylor發表聲明強化BTC定位。本週多項經濟數據+altcoin事件密集。市場在$62-63K區間整理"
+      },
+      {
+        "title": "BTC穩定$63K+：國慶假期流動性低但多頭維持控制",
+        "url": "https://coincodex.com/article/86999/daily-market-update-for-july-05-2026/",
+        "source": "CoinCodex",
+        "desc": "BTC +0.45%維持$63K上方。Ultima日漲+19%為當日最強。總市值+0.53%。Cardano為單日焦點幣"
+      },
+      {
+        "title": "加密股Q3展望：BTC從$126K峰值跌53%後尋找方向",
+        "url": "https://www.cryptotimes.io/insights/top-crypto-stocks-to-watch-in-july-2026/",
+        "source": "Crypto Times",
+        "desc": "BTC從2025/10 ATH $126,272跌至~$63K（-50%）。7月開局反彈但技術修正尚未結束。加密相關股票面臨估值重估"
+      }
+    ],
+    "dev": [
+      {
+        "title": "EU將AWS和Microsoft Azure列為「守門人」：雲端開發者生態面臨監管",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly",
+        "desc": "歐盟以守門人規則瞄準AWS/Azure。開發者部署AI服務的基礎設施選擇可能受限。歐洲企業開始分散至多家雲端"
+      },
+      {
+        "title": "AI代理被列為系統性金融風險：開發者需考慮合規框架",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly",
+        "desc": "監管機構開始將AI代理視為系統性金融風險。自動交易/決策系統的開發者需要預先設計符合金融監管的框架"
+      },
+      {
+        "title": "SpaceX IPO靜默期下週二結束：券商研報將重新定價AI/太空估值",
+        "url": "https://www.odaily.news/en/post/5211726",
+        "source": "Odaily",
+        "desc": "SpaceX IPO靜默期結束後券商可發布研究報告。預期將影響整個科技/AI/太空板塊的估值基準"
+      },
+      {
+        "title": "三大AI IPO流動性警告：SpaceX+Anthropic+OpenAI合計可能抽乾市場",
+        "url": "https://www.fool.com/investing/2026/06/30/could-the-spacex-anthropic-and-openai-ipos-trigger/",
+        "source": "Motley Fool",
+        "desc": "歷史數據：大規模IPO集中期後股市平均回檔幅度達40%。開發者/新創的融資環境可能隨之收緊"
+      }
+    ],
+    "art": [
+      {
+        "title": "歐洲創意產業分散AI模型使用：不再只依賴美國公司",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly",
+        "desc": "歐洲企業開始分散使用美國(OpenAI/Anthropic)、中國(Qwen)和歐洲本地AI模型。創意產業降低單一供應商風險"
+      },
+      {
+        "title": "Anthropic $9650億IPO：AI創作工具公司估值天花板再被推高",
+        "url": "https://www.fool.com/investing/2026/06/30/could-the-spacex-anthropic-and-openai-ipos-trigger/",
+        "source": "Motley Fool",
+        "desc": "Anthropic（Claude/Fable 5/Mythos 5背後公司）IPO估值近$1兆。AI創作工具的商業價值獲資本市場最高認可"
+      },
+      {
+        "title": "GPT-5.6延遲對創意產業的影響：最新模型何時可全面使用？",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly",
+        "desc": "OpenAI GPT-5.6（Sol/Terra/Luna）在政府要求下持續限制使用。創意專業者需等待更長時間才能使用最新生成能力"
+      },
+      {
+        "title": "BTC從$126K跌至$63K：NFT和數位藝術市場同步面臨冷卻",
+        "url": "https://www.cryptotimes.io/insights/top-crypto-stocks-to-watch-in-july-2026/",
+        "source": "Crypto Times",
+        "desc": "加密市場從2025高點腰斬。NFT和鏈上數位藝術交易量同步萎縮。但新一波AI+NFT融合項目正在醞釀"
+      }
+    ],
+    "design": [
+      {
+        "title": "EU「守門人」規則影響設計工具部署：AWS/Azure雲端被監管",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly",
+        "desc": "AWS/Azure被列為守門人。使用這些雲端服務的設計工具（Figma/Adobe等）可能面臨新合規要求和數據處理限制"
+      },
+      {
+        "title": "Q2財報季本週開跑：設計工具商AI功能商業化首次大考",
+        "url": "https://www.fool.com/investing/2026/06/29/2-reasons-july-7-shaping-up-monster-day-for-spacex/",
+        "source": "Motley Fool",
+        "desc": "銀行股率先報告，科技/設計軟體公司財報將在未來幾週揭示AI功能是否真正轉化為付費用戶增長"
+      },
+      {
+        "title": "SpaceX入Nasdaq-100改變指數組成：ETF設計者面臨權重再平衡",
+        "url": "https://www.odaily.news/en/post/5211726",
+        "source": "Odaily",
+        "desc": "SpaceX $1.75兆市值加入Nasdaq-100將顯著改變指數權重。追蹤基金的組合設計需大幅調整"
+      },
+      {
+        "title": "AI代理作為金融工具的UX設計挑戰：監管要求影響介面",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly",
+        "desc": "AI代理被視為系統性風險後，金融AI產品的UX需加入更多透明度/可解釋性/人為干預設計"
+      }
+    ],
+    "business": [
+      {
+        "title": "SpaceX明日加入Nasdaq-100+靜默期下週結束：雙重催化劑",
+        "url": "https://www.odaily.news/en/post/5211726",
+        "source": "Odaily",
+        "desc": "7/7入指（被動買盤）+下週二靜默期結束（券商研報）。SpaceX $1.75兆市值將成為Nasdaq-100最大成分股之一"
+      },
+      {
+        "title": "Anthropic秘密IPO：目標$300億募資+$9650億估值",
+        "url": "https://www.fool.com/investing/2026/06/30/could-the-spacex-anthropic-and-openai-ipos-trigger/",
+        "source": "Motley Fool",
+        "desc": "繼SpaceX $75B IPO後，Anthropic瞄準$300億。三大AI/太空IPO合計可能超$400億，引發市場流動性擔憂"
+      },
+      {
+        "title": "本週前瞻：SpaceX入指+Q2財報季+SK海力士赴美上市",
+        "url": "https://www.odaily.news/en/post/5211726",
+        "source": "Odaily",
+        "desc": "本週三大催化劑：SpaceX入Nasdaq-100(7/7)、Q2財報季正式開跑（銀行股先行）、SK海力士美股上市準備"
+      },
+      {
+        "title": "國慶長假後恢復：Dow 52,900+非農利多情緒帶入H2",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-indexes-rise-104305800.html",
+        "source": "Yahoo Finance",
+        "desc": "三大指數帶著週漲~2%的利多進入國慶長假。今日恢復交易。非農57K持續壓低升息預期為基本面利多"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股今日恢復交易：帶著Dow 52,900新高+升息預期降溫回歸",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-indexes-rise-104305800.html",
+        "source": "Yahoo Finance",
+        "desc": "7/3-4長假結束。上週收盤：Dow 52,900(+2%週漲)、S&P 7,478、Nasdaq持平。非農效應：升息33%→利多延續"
+      },
+      {
+        "title": "IPO潮流動性警告：SpaceX+Anthropic+OpenAI恐抽乾市場",
+        "url": "https://www.fool.com/investing/2026/06/30/could-the-spacex-anthropic-and-openai-ipos-trigger/",
+        "source": "Motley Fool",
+        "desc": "Hulbert警告：歷史上大規模IPO集中期後市場平均回撤40%。三大AI公司合計募資可能超$400億"
+      },
+      {
+        "title": "本週經濟數據：ISM服務業+Fed官員多場發言",
+        "url": "https://aidrivensucess.substack.com/p/ai-weekly-for-leaders-july-5-2026",
+        "source": "AI Weekly",
+        "desc": "本週關注：ISM服務業PMI、多位Fed官員演講、Q2財報季前瞻。FOMC 7/28-29前最後的數據窗口"
+      },
+      {
+        "title": "BTC $63K：加密市場與傳統市場脫鉤，獨立走強趨勢延續",
+        "url": "https://coincodex.com/article/86999/daily-market-update-for-july-05-2026/",
+        "source": "CoinCodex",
+        "desc": "傳統市場國慶休市但BTC +0.45%穩定$63K+。從$58K反彈+8%以來持續走強。ETF淨流入+鯨魚增持支撐"
+      }
+    ]
+  }
+}
