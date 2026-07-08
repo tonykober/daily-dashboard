@@ -54,6 +54,37 @@
       {"title": "SpaceX $162(+2.83%)收盤：入指前已提前反應部分買盤", "url": "https://ca.finance.yahoo.com/quote/SPCX/", "source": "Yahoo Finance", "desc": "SpaceX上個交易日收$162（+2.83%）。部分被動買盤已提前進場。今日正式入指後觀察是否「買消息賣事實」"},
       {"title": "Q2財報季開跑：銀行股本週報告，科技股下週接力", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026", "source": "The Street", "desc": "本週JPMorgan/Citi等大行先報Q2。下週科技巨頭接力。市場將檢驗AI $1兆投資是否開始回收"},
       {"title": "Nasdaq-100假期後+1.38%：SpaceX+科技反彈帶動", "url": "https://markets.businessinsider.com/index/nasdaq_100", "source": "Business Insider", "desc": "Nasdaq-100 7/6收29,697（+368/+1.38%）。SpaceX效應+假期後資金回流+科技股超跌反彈三重推力"}
-    ]
+    ],
+    "stock_briefing": {
+      "date": "2026-07-08",
+      "updated_at": "2026-07-08 08:30",
+      "sparkline": [46600, 46700, 46700, 46500, 45400, 0, 0],
+      "sparkline_dates": ["7/1", "7/2", "7/3", "7/6", "7/7", "", ""],
+      "market": {"index": "45,400(7/7收估)", "change": -1100, "changePercent": "-2.4%", "volume": "4,200億", "futures": "45,200 (-0.4%)"},
+      "sectors": [{"name": "半導體", "change": -3.5}, {"name": "AI/伺服器", "change": -3}, {"name": "電子", "change": -2.5}, {"name": "金融", "change": -1}, {"name": "傳產", "change": -0.8}, {"name": "航運", "change": -1.2}, {"name": "高股息ETF", "change": -1.8}, {"name": "生技", "change": -0.5}],
+      "etf": [{"name": "0050", "trend": "跌 大跌", "note": "NAV 106.20(-1.89%)，溢價+0.44%"}, {"name": "0056", "trend": "跌 大跌", "note": "NAV 52.15(-2.07%)，溢價+0.46%"}, {"name": "00878", "trend": "跌 下跌", "note": "NAV 32.97(-1.55%)，溢價0%"}, {"name": "00929", "trend": "跌 重挫", "note": "NAV 30.44(-2.93%)！科技拖累最大"}, {"name": "00919", "trend": "跌 相對抗跌", "note": "NAV 29.62(-0.47%)跌幅最小"}, {"name": "009816", "trend": "跌 大跌", "note": "跟隨大盤下挫"}],
+      "institutional": {"外資": -400, "投信": 10, "自營商": -20},
+      "sentiment": {"score": 35, "label": "恐懼 — 全面下跌！SpaceX入指日反而成為「買消息賣事實」。獲利了結潮湧現", "history": [72, 68, 65, 62, 60, 55, 35]},
+      "international": [{"name": "SpaceX入指(7/7)", "change": 0}, {"name": "Nasdaq(預估)", "change": -2}, {"name": "費半(預估)", "change": -3}, {"name": "Dow", "change": -0.5}],
+      "buffett_indicator": {"value": 190, "label": "嚴重高估"},
+      "events": ["🔴 台股7/7大跌-2.4%！全面回檔，無一倖免", "🔴 加權正2 -4.78%確認大盤重挫", "🔴 00929 -2.93%跌幅最大（科技權重高）", "🔴 0056 -2.07%、0050 -1.89%、006208 -1.93%", "🟡 00919 -0.47%相對抗跌（高息防禦）", "⚠️ SpaceX入指日反成「買消息賣事實」轉折點？", "⚠️ 外資預估大賣超-400億", "🟡 前一週漲幅過快→技術性回檔合理，但幅度偏大"],
+      "summary": "🔴 全面大跌日！台股7/7估跌-2.4%（加權正2 -4.78%），所有ETF無一倖免。00929跌-2.93%最慘（科技權重高）。SpaceX入Nasdaq-100成為「買消息賣事實」經典案例？市場從連續反彈轉為獲利了結。外資大幅賣超。建議：不要恐慌殺出。這是前一週急漲後的技術修正。00919 -0.47%相對抗跌→高息防禦型仍有價值。等美股今晚表現確認方向再行動。",
+      "stocks": [
+        {"name": "2330 台積電", "trend": "跌 大跌", "note": "估跌2%+（0050 -1.89%推算）。SpaceX入指後科技獲利了結壓力。但基本面不變。", "nav": null, "pb": 10.5, "premium": null, "pe": 32, "quarterLine": 8, "suggestion": "持有不殺"},
+        {"name": "0050 元大台灣50", "trend": "跌 大跌", "note": "NAV 106.20(-1.89%)，市價105.73，溢價+0.44%。回吐上週漲幅。", "nav": 106.2, "pb": null, "premium": 0.44, "pe": null, "quarterLine": 8, "suggestion": "持有不殺"},
+        {"name": "0056 元大高股息", "trend": "跌 大跌", "note": "NAV 52.15(-2.07%)，市價51.91，溢價+0.46%。高息股也難逃全面賣壓。", "nav": 52.15, "pb": null, "premium": 0.46, "pe": null, "quarterLine": 5, "suggestion": "持有"},
+        {"name": "00878 國泰永續高股息", "trend": "跌 下跌", "note": "NAV 32.97(-1.55%)，市價32.97，溢價0%。相對0050跌幅略小。", "nav": 32.97, "pb": null, "premium": 0, "pe": null, "quarterLine": 4, "suggestion": "持有"},
+        {"name": "00919 群益精選高息", "trend": "跌 相對抗跌", "note": "NAV 29.62(-0.47%)，折價-0.17%。全場最抗跌！高息防禦價值顯現。", "nav": 29.62, "pb": null, "premium": -0.17, "pe": null, "quarterLine": 3, "suggestion": "持有（最抗跌）"},
+        {"name": "00940 元大價值高息", "trend": "跌 下跌", "note": "NAV 12.52(-1.73%)，折價-0.32%。價值+高息仍跌。", "nav": 12.52, "pb": null, "premium": -0.32, "pe": null, "quarterLine": 2, "suggestion": "持有"},
+        {"name": "006208 富邦台50", "trend": "跌 大跌", "note": "NAV 246.50(-1.93%)，溢價+0.40%。與0050同步。", "nav": 246.5, "pb": null, "premium": 0.4, "pe": null, "quarterLine": 8, "suggestion": "持有不殺"},
+        {"name": "00892 富邦半導體", "trend": "跌 重挫", "note": "半導體跌幅最大。加權正2 -4.78%顯示權值股重挫。", "nav": 1130, "pb": null, "premium": 0, "pe": null, "quarterLine": 3, "suggestion": "觀望"},
+        {"name": "00891 中信半導體", "trend": "跌 重挫", "note": "同上。科技/半導體全面獲利了結。", "nav": 21, "pb": null, "premium": 0, "pe": null, "quarterLine": 2, "suggestion": "觀望"},
+        {"name": "00982A 群益精選強棒", "trend": "跌 下跌", "note": "主動型難逃系統性賣壓。", "nav": 20, "pb": null, "premium": 0, "pe": null, "quarterLine": 2, "suggestion": "持有"},
+        {"name": "00981A 統一台股增長", "trend": "跌 下跌", "note": "主動型跟跌。", "nav": 30.5, "pb": null, "premium": -0.3, "pe": null, "quarterLine": 2, "suggestion": "持有"},
+        {"name": "00403A 中信台灣精選50主動", "trend": "跌 下跌", "note": "跟隨大盤。", "nav": 17.3, "pb": null, "premium": 0, "pe": null, "quarterLine": 2, "suggestion": "持有"},
+        {"name": "009816 凱基台灣TOP50", "trend": "跌 大跌", "note": "被動追蹤，跟大盤一起跌。", "nav": 14.5, "pb": null, "premium": 0, "pe": null, "quarterLine": 3, "suggestion": "持有"},
+        {"name": "00929 復華科技優息", "trend": "跌 重挫", "note": "NAV 30.44(-2.93%)！科技權重讓它成為本日最慘ETF。但月配息仍在。", "nav": 30.44, "pb": null, "premium": 0.66, "pe": null, "quarterLine": 0, "suggestion": "持有不殺（超跌）"}
+      ]
+    }
   }
 }
