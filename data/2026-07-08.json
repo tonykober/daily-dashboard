@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-08",
+  "categories": {
+    "ai": [
+      {"title": "AI股全球性崩跌：拖累全球市場走低", "url": "https://www.latimes.com/business/story/2026-07-07/ai-stocks-sink-drag-markets-lower-worldwide", "source": "LA Times", "desc": "AI產業股票暴跌拖累全球市場。Nasdaq -1.2%、半導體全線重挫。AI估值泡沫疑慮加深"},
+      {"title": "Samsung Q2獲利暴增18倍但遭「賣消息」拋售→記憶體股崩跌", "url": "https://www.xtb.com/int/market-analysis/news-and-research/nasdaq-selloff-deepseek-and-samsung-earnings-reaction-sink-semiconductor-stocks", "source": "XTB", "desc": "Samsung Q2獲利年增18倍但股價反跌。Intel -9%、SanDisk/WD -7%+。「賣消息」效應擊垮半導體"},
+      {"title": "SpaceX Nasdaq-100首日暴跌7%：$1432億市值蒸發", "url": "https://www.bitget.com/news/detail/12560605494529", "source": "Bitget", "desc": "SpaceX入Nasdaq-100首日即跌6.83%。市值蒸發約$1432億，從$2.1兆退回$1.95兆。史上最慘指數debut之一"},
+      {"title": "AI永續性質疑升溫：估值+競爭加劇+DeepSeek衝擊", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-micron-intel-stock-price-news-7-july-2026/liveblog/132239319.cms", "source": "Economic Times", "desc": "AI驅動反彈的可持續性受質疑。Micron等晶片股即使Samsung財報強勁仍遭拋售。DeepSeek競爭+估值泡沫雙重壓力"}
+    ],
+    "gaming": [
+      {"title": "AC Black Flag Resynced明日(7/9)正式發售！", "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch", "source": "IGN", "desc": "Assassin's Creed Black Flag Resynced明天全平台上市。2013年經典海盜開放世界完全重製。Ubisoft年度重磅"},
+      {"title": "Epic免費I Have No Mouth+River City Girls 2最後一天（7/9到期）", "url": "https://gamerant.com/epic-games-store-free-games-list/", "source": "Game Rant", "desc": "明天到期！還沒領的趕快。下週免費：Nova Lands+Tattoo Tycoon"},
+      {"title": "7月中旬預告：Splatoon Raiders(7/16)即將登場", "url": "https://screenrant.com/july-2026-video-games-releases-schedule-lineup/", "source": "Screen Rant", "desc": "Nintendo Switch 2獨佔新作。Splatoon系列全新玩法。7/16全球同步發售"},
+      {"title": "全球股市暴跌對遊戲產業的影響：科技估值修正中", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "科技股全面下跌環境下，遊戲公司估值也面臨壓力。但遊戲消費需求通常在經濟放緩時反而上升"}
+    ],
+    "tech": [
+      {"title": "美股7/7全面下跌：Nasdaq -1.16%、S&P -0.45%、Dow -0.25%", "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "晶片股領跌。SpaceX入指首日-7%。Samsung賣消息效應。油價因伊朗石油許可撤銷跳漲。Dow從盤中新高回落"},
+      {"title": "SpaceX Nasdaq-100首日暴跌7%！「買消息賣事實」典型案例", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "SpaceX入指首日不漲反跌7%。被動買盤$43億進場但更多獲利了結賣壓湧出。前期漲幅過大的修正"},
+      {"title": "Intel暴跌9%+記憶體股崩盤：Samsung好財報反成利空", "url": "https://www.bitget.com/news/detail/12560605494529", "source": "Bitget", "desc": "Intel -9%、SanDisk/WD -7%+。Samsung Q2利潤年增18倍但「賣消息」拋售。半導體修正加速"},
+      {"title": "油價跳漲：美國撤銷伊朗石油出口許可證", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "美國撤銷伊朗售油許可→油價跳漲。中東緊張再升級。通膨擔憂重新浮現"}
+    ],
+    "crypto": [
+      {"title": "科技股崩跌+油價跳漲：加密市場面臨雙重壓力", "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chip-shoulder-volatile-210324129.html", "source": "Yahoo Finance/Reuters", "desc": "Nasdaq -1.16%+油價上漲=風險資產雙重利空。BTC與科技股高相關性意味著加密可能跟跌"},
+      {"title": "SpaceX -7%對Musk系加密生態的影響", "url": "https://www.bitget.com/news/detail/12560605494529", "source": "Bitget", "desc": "Musk旗艦公司入指首日暴跌。對DOGE等Musk相關加密資產情緒產生負面影響"},
+      {"title": "伊朗石油許可撤銷：地緣風險回升對BTC雙面影響", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "中東緊張↑→風險趨避（短線利空BTC）但也=通膨↑→去中心化資產避險需求↑（中長線利多）"},
+      {"title": "全球AI股崩跌：加密市場的「去關聯化」機會？", "url": "https://www.latimes.com/business/story/2026-07-07/ai-stocks-sink-drag-markets-lower-worldwide", "source": "LA Times", "desc": "AI泡沫破裂若持續，部分資金可能從科技股轉入BTC。但短線仍會跟跌。觀察BTC是否能守$60K"}
+    ],
+    "dev": [
+      {"title": "半導體產業鏈衝擊：Intel -9%對開發者生態的影響", "url": "https://www.xtb.com/int/market-analysis/news-and-research/nasdaq-selloff-deepseek-and-samsung-earnings-reaction-sink-semiconductor-stocks", "source": "XTB", "desc": "Intel暴跌9%反映x86生態面臨AI時代挑戰。開發者需關注算力供應鏈穩定性和平台選擇"},
+      {"title": "DeepSeek衝擊半導體估值：中國AI競爭加劇", "url": "https://www.xtb.com/int/market-analysis/news-and-research/nasdaq-selloff-deepseek-and-samsung-earnings-reaction-sink-semiconductor-stocks", "source": "XTB", "desc": "DeepSeek等中國AI模型的競爭力提升，壓低西方AI基建的估值溢價。開發者生態更加多元化"},
+      {"title": "Samsung Q2獲利18倍但股價跌：AI硬體繁榮不等於投資回報", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262015711-spacex-nvda-samsung-skhynix-dram-mu-spcx-sndk-tradingkey", "source": "TradingKey", "desc": "Samsung業績爆表但市場不買帳。AI硬體需求≠股東回報。開發者需理解供應鏈經濟學"},
+      {"title": "Q2財報季正式開跑：科技公司AI投資回報首次大考", "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "本週起Q2財報密集。市場將嚴格檢驗：$1兆+AI投資是否產生實質回報。開發工具公司表現受關注"}
+    ],
+    "art": [
+      {"title": "AI股崩跌對創意產業的啟示：泡沫還是調整？", "url": "https://www.latimes.com/business/story/2026-07-07/ai-stocks-sink-drag-markets-lower-worldwide", "source": "LA Times", "desc": "全球AI股暴跌。創意產業中重度依賴AI工具的公司/自由工作者需評估：工具供應商的長期穩定性"},
+      {"title": "AC Black Flag Resynced明日發售：13年遊戲美術進化的終極展示", "url": "https://screenrant.com/july-2026-video-games-releases-schedule-lineup/", "source": "Screen Rant", "desc": "2013→2026重製版展示遊戲美術13年進化。次世代海洋渲染/光照/角色建模的技術力展現"},
+      {"title": "SpaceX入指首日-7%：科技品牌光環不等於市場信心", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "品牌影響力（SpaceX/Musk）無法抵擋估值修正。創意品牌建設需建立在真實價值而非炒作上"},
+      {"title": "油價跳漲+通膨隱憂：創意工作者的成本壓力可能回升", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "伊朗石油許可撤銷→油價漲→通膨壓力回。若升息重啟，自由工作者借貸成本上升+消費支出壓縮"}
+    ],
+    "design": [
+      {"title": "「買消息賣事實」的設計啟示：預期管理在產品發布中的重要性", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "SpaceX入指前被炒高→入指日暴跌。產品設計和發布也面臨相同問題：過度預告可能讓實際發布反高潮"},
+      {"title": "Q2財報將檢驗設計工具AI功能的商業化成果", "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Adobe/Figma等設計工具商Q2財報即將揭示AI功能是否成功轉化為付費增長。市場對AI ROI要求日益嚴格"},
+      {"title": "全球市場同步下跌：系統性風險下的設計產品韌性", "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chip-shoulder-volatile-210324129.html", "source": "Reuters", "desc": "當全球市場同步崩跌，SaaS/設計工具的訂閱收入模型相比硬體更具韌性。但企業客戶可能延遲採購"},
+      {"title": "AC Black Flag重製明日上線：遊戲UI/UX跨世代升級的範例", "url": "https://screenrant.com/july-2026-video-games-releases-schedule-lineup/", "source": "Screen Rant", "desc": "重製版如何在保留經典體驗的同時現代化介面。2013→2026的操作/HUD/選單設計哲學變遷"}
+    ],
+    "business": [
+      {"title": "美股7/7全面下跌：SpaceX -7%入指首日暴跌+半導體崩盤", "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Dow 52,925(-0.25%)、S&P 7,503(-0.45%)、Nasdaq -1.16%。SpaceX蒸發$1432億。Intel -9%領跌半導體"},
+      {"title": "Samsung Q2利潤年增18倍但遭拋售：市場對AI估值轉向嚴格", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262015711-spacex-nvda-samsung-skhynix-dram-mu-spcx-sndk-tradingkey", "source": "TradingKey", "desc": "業績好不夠→市場要看估值合理性。AI硬體繁榮進入「show me the money」階段"},
+      {"title": "美國撤銷伊朗石油許可：油價跳漲+地緣風險回升", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "中東緊張再度升溫。油價跳漲加深通膨擔憂。前幾週因美伊暫停攻擊而降溫的風險重新定價"},
+      {"title": "全球AI股同步崩跌：估值修正還是泡沫破裂？", "url": "https://www.latimes.com/business/story/2026-07-07/ai-stocks-sink-drag-markets-lower-worldwide", "source": "LA Times", "desc": "AI股拖累全球市場。問題核心：$1兆+AI投資何時回收？DeepSeek競爭是否壓縮西方AI利潤？"}
+    ],
+    "finance": [
+      {"title": "Nasdaq -1.16%、S&P -0.45%：AI+晶片領跌全球", "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "7/7收盤：Dow 52,925(-130/-0.25%)、S&P 7,503(-0.45%)、Nasdaq 25,818(-1.16%)。晶片股重挫"},
+      {"title": "SpaceX入指首日-7%=$1432億蒸發：史上最慘Nasdaq-100 debut", "url": "https://www.bitget.com/news/detail/12560605494529", "source": "Bitget", "desc": "SpaceX從$162跌至~$150。$43億被動買盤無法抵擋更大的賣壓。快速入指規則首次測試就失敗？"},
+      {"title": "油價因伊朗許可撤銷跳漲：通膨+升息預期可能回升", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "前一週因弱非農降溫的升息預期可能因油價反彈而重新升溫。市場利率定價面臨重新校準"},
+      {"title": "Dow盤中觸新高後回落：多頭力竭的警訊？", "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Dow盤中再創新高但無法守住。S&P多數個股上漲但被AI權值股拖累。市場寬度改善但頭部承壓"}
+    ]
+  }
+}
