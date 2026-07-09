@@ -54,6 +54,37 @@
       {"title": "SpaceX入指首日-7%=$1432億蒸發：史上最慘Nasdaq-100 debut", "url": "https://www.bitget.com/news/detail/12560605494529", "source": "Bitget", "desc": "SpaceX從$162跌至~$150。$43億被動買盤無法抵擋更大的賣壓。快速入指規則首次測試就失敗？"},
       {"title": "油價因伊朗許可撤銷跳漲：通膨+升息預期可能回升", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-7-2026-105630397.html", "source": "Yahoo Finance", "desc": "前一週因弱非農降溫的升息預期可能因油價反彈而重新升溫。市場利率定價面臨重新校準"},
       {"title": "Dow盤中觸新高後回落：多頭力竭的警訊？", "url": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Dow盤中再創新高但無法守住。S&P多數個股上漲但被AI權值股拖累。市場寬度改善但頭部承壓"}
-    ]
+    ],
+    "stock_briefing": {
+      "date": "2026-07-09",
+      "updated_at": "2026-07-09 08:30",
+      "sparkline": [46700, 46500, 45400, 45300, 0, 0, 0],
+      "sparkline_dates": ["7/3", "7/6", "7/7", "7/8", "", "", ""],
+      "market": {"index": "45,300(7/8收估)", "change": -100, "changePercent": "-0.2%", "volume": "3,500億", "futures": "45,400 (+0.2%)"},
+      "sectors": [{"name": "半導體", "change": -0.5}, {"name": "AI/伺服器", "change": -1}, {"name": "電子", "change": -0.3}, {"name": "金融", "change": 0.5}, {"name": "傳產", "change": 0.3}, {"name": "航運", "change": 0.5}, {"name": "高股息ETF", "change": 0.7}, {"name": "生技", "change": 0.3}],
+      "etf": [{"name": "0050", "trend": "平盤 止穩", "note": "NAV 106.05(-0.14%)。昨-1.89%後今日止穩！"}, {"name": "0056", "trend": "漲 反彈", "note": "NAV 52.35(+0.38%)。高息股獲資金回流"}, {"name": "00878", "trend": "漲 反彈", "note": "NAV 33.20(+0.70%)。反彈最明顯"}, {"name": "00929", "trend": "跌 收斂", "note": "NAV 29.97(-1.54%)。前日-2.93%→今-1.54%跌幅收斂"}, {"name": "00919", "trend": "漲 強勢反彈", "note": "NAV 29.94(+1.08%)。再次證明高息防禦力"}, {"name": "00940", "trend": "漲 回升", "note": "NAV 12.59(+0.56%)。價值型回溫"}],
+      "institutional": {"外資": -150, "投信": 35, "自營商": 10},
+      "sentiment": {"score": 42, "label": "偏恐懼但止穩 — 大跌後快速止穩。高息股反彈+大型股持平=市場未崩", "history": [68, 65, 62, 60, 55, 35, 42]},
+      "international": [{"name": "Nasdaq(7/7)", "change": -1.16}, {"name": "S&P 500", "change": -0.45}, {"name": "Dow", "change": -0.25}, {"name": "SpaceX首日", "change": -7}],
+      "buffett_indicator": {"value": 188, "label": "嚴重高估"},
+      "events": ["✅ 大跌後止穩！0050 -0.14%、006208 -0.14%幾乎持平", "✅ 高息股反彈：00919 +1.08%、00878 +0.70%、0056 +0.38%", "🟡 00929 -1.54%仍跌但大幅收斂（前日-2.93%）", "🟡 美股7/7 Nasdaq -1.16%（晶片續弱+伊朗油價跳漲）", "✅ 市場並未恐慌崩潰→技術修正而非趨勢反轉確認", "⚠️ 油價跳漲+伊朗撤銷=通膨壓力可能回升", "✅ 今日AC Black Flag Resynced正式發售"],
+      "summary": "✅ 止穩！大跌-2.4%後隔日快速企穩。0050僅-0.14%（幾乎持平），高息股全面反彈（00919 +1.08%、00878 +0.70%）。科技/半導體仍弱（00929 -1.54%）但跌幅大幅收斂。確認7/7為技術修正而非崩盤。美股Nasdaq -1.16%但影響有限。建議：持股續抱，最恐慌時刻已過。高息股再次證明防禦價值。等美股進一步確認後可考慮逢低加碼。",
+      "stocks": [
+        {"name": "2330 台積電", "trend": "平盤 止穩", "note": "估持平（0050 -0.14%）。大跌後止穩。美Nasdaq -1.16%但台股已先跌反應。", "nav": null, "pb": 10.4, "premium": null, "pe": 31.5, "quarterLine": 6, "suggestion": "持有"},
+        {"name": "0050 元大台灣50", "trend": "平盤 止穩", "note": "NAV 106.05(-0.14%)。昨日-1.89%後今日止穩。溢價-0.42%合理。", "nav": 106.05, "pb": null, "premium": -0.42, "pe": null, "quarterLine": 6, "suggestion": "持有（止穩）"},
+        {"name": "0056 元大高股息", "trend": "漲 反彈", "note": "NAV 52.35(+0.38%)。大跌後高息股率先反彈。殖利率升至~5.4%吸引買盤。", "nav": 52.35, "pb": null, "premium": 0.08, "pe": null, "quarterLine": 4, "suggestion": "持有"},
+        {"name": "00878 國泰永續高股息", "trend": "漲 反彈", "note": "NAV 33.20(+0.70%)。反彈力道強。折價-0.57%仍有空間。", "nav": 33.2, "pb": null, "premium": -0.57, "pe": null, "quarterLine": 4, "suggestion": "持有"},
+        {"name": "00919 群益精選高息", "trend": "漲 強勢反彈", "note": "NAV 29.94(+1.08%)！連續展現最強防禦力。昨-0.47%今+1.08%。", "nav": 29.94, "pb": null, "premium": -0.56, "pe": null, "quarterLine": 3, "suggestion": "持有"},
+        {"name": "00940 元大價值高息", "trend": "漲 回升", "note": "NAV 12.59(+0.56%)。價值型在修正後回暖。", "nav": 12.59, "pb": null, "premium": -0.47, "pe": null, "quarterLine": 3, "suggestion": "持有"},
+        {"name": "006208 富邦台50", "trend": "平盤 止穩", "note": "NAV 246.15(-0.14%)。與0050同步止穩。", "nav": 246.15, "pb": null, "premium": -0.47, "pe": null, "quarterLine": 6, "suggestion": "持有"},
+        {"name": "00892 富邦半導體", "trend": "跌 收斂", "note": "半導體仍弱但跌幅收斂。Intel-9%效應消化中。", "nav": 1110, "pb": null, "premium": 0, "pe": null, "quarterLine": 1, "suggestion": "觀望"},
+        {"name": "00891 中信半導體", "trend": "跌 收斂", "note": "同上。觀望等美股半導體確認方向。", "nav": 20.5, "pb": null, "premium": 0, "pe": null, "quarterLine": 0, "suggestion": "觀望"},
+        {"name": "00982A 群益精選強棒", "trend": "漲 穩定", "note": "主動型均衡。高息漲+半導體跌相抵→小幅正。", "nav": 20, "pb": null, "premium": 0, "pe": null, "quarterLine": 2, "suggestion": "持有"},
+        {"name": "00981A 統一台股增長", "trend": "平盤", "note": "主動型。大盤持平帶動。", "nav": 30.5, "pb": null, "premium": -0.3, "pe": null, "quarterLine": 2, "suggestion": "持有"},
+        {"name": "00403A 中信台灣精選50主動", "trend": "平盤", "note": "跟隨大盤止穩。", "nav": 17, "pb": null, "premium": 0, "pe": null, "quarterLine": 2, "suggestion": "持有"},
+        {"name": "009816 凱基台灣TOP50", "trend": "平盤", "note": "被動追蹤，持平。", "nav": 14.3, "pb": null, "premium": 0, "pe": null, "quarterLine": 3, "suggestion": "持有"},
+        {"name": "00929 復華科技優息", "trend": "跌 收斂", "note": "NAV 29.97(-1.54%)。前日-2.93%→今-1.54%跌幅大幅收斂。科技修正尚未結束但最慘已過。", "nav": 29.97, "pb": null, "premium": -0.76, "pe": null, "quarterLine": -1, "suggestion": "持有觀望"}
+      ]
+    }
   }
 }
