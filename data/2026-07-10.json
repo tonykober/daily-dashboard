@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-10",
+  "categories": {
+    "ai": [
+      {"title": "GPT-5.6 Sol/Terra/Luna正式公開發布：白宮審核12天後放行", "url": "https://openai.com/index/gpt-5-6/", "source": "OpenAI", "desc": "OpenAI GPT-5.6三模型家族7/9全面上線。Sol為旗艦版，在coding/知識工作/網安/科學達SOTA。經白宮自願性審核12天後獲准向公眾開放"},
+      {"title": "GPT-5.6成為Microsoft 365 Copilot預設模型", "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/", "source": "OpenAI", "desc": "GPT-5.6即日起成為Word/Excel/PowerPoint/Chat/Cowork的預設AI模型。企業用戶立即受益於效率和智能的雙重升級"},
+      {"title": "SpaceXAI發布Grok 4.5：首款與Cursor共同訓練的編程模型", "url": "https://x.ai/news/grok-4-5", "source": "SpaceXAI", "desc": "Grok 4.5定位coding/agentic/知識工作。與Cursor共同訓練，定價$2/$6每百萬token。Opus級能力但更便宜。EU中旬開放"},
+      {"title": "Cognition發布SWE-1.7：基於Kimi K2.7的輕量級專業編程模型", "url": "https://mtslive.substack.com/p/78-big-news-day", "source": "MTS Live", "desc": "SWE-1.7基於Kimi K2.7打造，編程能力接近前沿但體積小、成本低。1000 tokens/s推理速度。Devin付費用戶免費使用"},
+      {"title": "OpenAI推出GPT-Live：下一代語音模型實現同步聽說", "url": "https://mtslive.substack.com/p/78-big-news-day", "source": "MTS Live", "desc": "GPT-Live能同時聆聽和說話，產生更自然對話。比兩年前的Advanced Voice Mode底層模型更強大"}
+    ],
+    "gaming": [
+      {"title": "AC Black Flag Resynced 7/9正式發售：Metascore 84，系列2013年來最佳評價", "url": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-delivers-the-series-best-reviews-since-2013/", "source": "GameSpot", "desc": "刺客教條黑旗重製版全球上市。Metascore 84為系列13年來最高。視覺全面翻新，現代線劇情刪除，60fps流暢體驗"},
+      {"title": "Splatoon Raiders 7/23 Switch 2獨佔：單人冒險射擊新方向", "url": "https://www.nintendo.com/us/whatsnew/splatoon-raiders-direct-spills-the-ink-on-the-treasure-filled-adventure-coming-to-nintendo-switch-2/", "source": "Nintendo", "desc": "漆彈大作戰新作轉型單人冒險。與Deep Cut三人組探索神秘群島尋寶。可自訂機械道具配合各種噴墨武器"},
+      {"title": "Halo: Campaign Evolved 7/28上市（7/23搶先體驗）", "url": "https://news.xbox.com/en-us/2026/06/07/halo-campaign-evolved-launch-preorder-xbox-games-showcase-2026/", "source": "Xbox", "desc": "Halo CE忠實重製+擴展版。HD畫面、改良操控、4人線上Co-op、3個全新關卡。Xbox/PS5/Steam三平台"},
+      {"title": "7月大作連發：DOOM Dark Ages Revelations、Mistfall Hunter等排隊上線", "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/", "source": "GameSpot", "desc": "7月被稱為年度最密集月份。重製雙雄(AC/Halo)+Splatoon Raiders+多款獨立遊戲+DOOM DLC。各平台玩家都有新貨"}
+    ],
+    "tech": [
+      {"title": "美國二度空襲伊朗：Trump宣布停火結束，中東緊張再升級", "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html", "source": "CNBC", "desc": "美軍7/9對伊朗發動新一波空襲（約90目標）。伊朗反擊波灣國家。Trump在NATO宣布停火結束，稱伊朗領導人「有病」"},
+      {"title": "SpaceX申請發射10萬顆Gen3 Starlink衛星：超低軌巨型星座", "url": "https://www.itnews.com.au/", "source": "ITNews", "desc": "SpaceX向FCC申請在超低地球軌道部署100,000顆第三代Starlink衛星。規模史無前例的通訊星座計畫"},
+      {"title": "晶片股強勢反彈：Micron領漲+8%帶動半導體板塊回升", "url": "https://finance.yahoo.com/markets/stocks/article/micron-sandisk-marvell-stocks-jump-leading-chip-sector-gains-135433074.html", "source": "Yahoo Finance", "desc": "Micron +8%領頭，SanDisk/WD/Marvell/Broadcom/AMD全線上漲。美國新增數十億晶片製造投資提振信心，壓過地緣風險"},
+      {"title": "Rackspace+Palantir推出AI部署框架：幫受監管企業從試點走向生產", "url": "https://www.stocktitan.net/news/today", "source": "Stock Titan", "desc": "Rackspace與Palantir聯手推出作業框架，專門幫助金融/醫療等受監管產業將AI試點擴展至正式環境部署"}
+    ],
+    "crypto": [
+      {"title": "加密市場跌2.1%陷入極度恐懼：BTC守$62K等待方向", "url": "https://www.coingabbar.com/en/crypto-currency-news/latest-crypto-news-july-9-2026-btc-eth-standx-lab-price-today", "source": "CoinGabbar", "desc": "7/9市場整體跌2.1%，恐懼貪婪指數進入極度恐懼。BTC在$61,800-$62,100窄幅整理，成交量持續萎縮"},
+      {"title": "SEC 2026監管議程：三項加密規則將重塑市場結構", "url": "https://cryptobriefing.com/sec-crypto-rules-2026-regulatory-agenda/", "source": "Crypto Briefing", "desc": "SEC主席Atkins公布2026議程，包含加密資產發行/券商規則/交易所修訂三大項。目標讓BTC與股票在同一平台交易"},
+      {"title": "$14.7億BTC選擇權今日到期：最大痛點$62,000", "url": "https://coinness.com/en", "source": "Coinness", "desc": "7/10 UTC 8:00到期$14.7億BTC選擇權，Put/Call比0.97，最大痛點$62K。另有$2.4億ETH選擇權同時到期"},
+      {"title": "BTC現在追蹤短期美債收益率而非避險資產", "url": "https://www.kucoin.com/news/insight/BTC/6a4fefb35b96ae0007528674", "source": "KuCoin", "desc": "市場正將地緣衝擊定價為利率事件。BTC與2年期美債收益率同步而非黃金。美元走強+收益率逼近2026年高點"}
+    ],
+    "dev": [
+      {"title": "GitHub Copilot帳單飆至$800：用量計費時代的衝擊", "url": "https://devops.com/github-copilot-bills-hit-800-visual-studios-june-update-adds-real-time-usage-alerts-and-mcp-trust-checks/", "source": "DevOps.com", "desc": "6/1轉用量計費後，重度agentic用戶月費從$39暴增至$800+。Visual Studio新增即時用量警示和MCP信任檢查"},
+      {"title": "SpaceXAI Grok 4.5與Cursor深度整合：AI程式助手新選擇", "url": "https://qz.com/spacexai-grok-45-coding-model-launch-070926", "source": "Quartz", "desc": "Grok 4.5可透過SpaceXAI API、Grok Build agent和Cursor直接使用。$2/$6定價比Opus 4.8便宜60%。法律/金融/工程任務表現突出"},
+      {"title": "Android Bench LLM排行榜改用Harbor框架：7月版更新", "url": "https://sdtimes.com/", "source": "SD Times", "desc": "Google宣布Android Bench（Android開發任務LLM基準測試）7月版改用Harbor評估框架。開發者可更準確比較各模型表現"},
+      {"title": "下一代開發工具需管理多Agent並行：IDE時代結束？", "url": "https://www.infoworld.com/software-development/", "source": "InfoWorld", "desc": "IDE主宰的時代建立在開發者一次做一件事。現在需要管理多個coding agent同時處理多個任務的新一代工具"}
+    ],
+    "art": [
+      {"title": "XPPen Anime Expo 2026：Artist Pro 27 Gen 2旗艦繪圖螢幕亮相", "url": "https://www.xp-pen.com/news/xppen-anime-expo-2026-digital-art-tools", "source": "XPPen", "desc": "XPPen在Anime Expo展出最新旗艦Color Master觸控繪圖螢幕Artist Pro 27 Gen 2及首款編輯控制台Pilot Pro"},
+      {"title": "Creative Boom調查：86%創作者使用AI，但僅10%認為AI正面影響產業", "url": "https://www.creativeboom.com/news/the-state-of-the-creative-industry-2026-what-our-survey-tells-us-about-money-burnout-and-ai/", "source": "Creative Boom", "desc": "882位創意工作者調查。69%經歷倦怠（中期職涯77%最高）。AI採用率86%但正面看法僅10%。收入壓力持續"},
+      {"title": "AC Black Flag Resynced：13年遊戲美術進化的極致展示", "url": "https://www.pcgamer.com/games/assassins-creed/assassins-creed-black-flag-resynced-review/", "source": "PC Gamer", "desc": "2013→2026重製展現次世代美術力。光追暴風雨、物理海洋、寫實皮膚/布料。每個場景都忠實重建但以現代技術重新演繹"},
+      {"title": "AI插畫工作流突破：從「平面圖像時代」進入多層結構化創作", "url": "https://markets.financialcontent.com/wral/article/abnewswire-2026-6-20-ai-digital-illustration-workflow-breakthrough-evaluated-in-new-nikitti-ai-hands-on-report", "source": "Financial Content", "desc": "數位創作產業正式走過「平面輸出」階段。2026年AI圖像工作流強調分層、可編輯結構，而非單一扁平輸出"}
+    ],
+    "design": [
+      {"title": "Figma Config 2026：Code Layers讓設計師直接在畫布上寫程式", "url": "https://www.figma.com/blog/config-2026-recap/", "source": "Figma", "desc": "年度最大更新。Code Layers可clone GitHub repo到畫布。加上Figma Motion動畫時間軸、Shader填充、生成式外掛和Weave工具"},
+      {"title": "iOS 26 Liquid Glass：2026定義性視覺語言的幕後設計思維", "url": "https://solguruz.com/blog/ui-ux-design-trends/?", "source": "SolGuruz", "desc": "Apple iOS 26的Liquid Glass讓介面如物理材質般行為。自適應透明度成為2026定義性設計語言。介面從靜態層變為活材質"},
+      {"title": "Apple TV+創紀錄89項艾美獎提名：設計與視覺敘事獲肯定", "url": "https://applemagazine.com/latest/", "source": "Apple Magazine", "desc": "Apple TV+跨喜劇/戲劇/紀實/科幻和技術類別獲89項提名，創串流平台歷史新高。視覺設計和製作品質持續獲獎項背書"},
+      {"title": "2026 UX設計進化：AI從工具走入介面本體", "url": "https://research.breon.ai/", "source": "Breon AI Research", "desc": "AI不再只是設計師的工具，而是成為介面本身。自動填表、重排元件、浮出情境資訊。環境式AI不需用戶主動要求就提供幫助"}
+    ],
+    "business": [
+      {"title": "Trump宣布伊朗停火結束→Dow週三暴跌577點", "url": "https://www.cnbc.com/2026/07/07/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Trump在NATO稱與伊朗停火「結束了」。油價單日飆漲6.3%。Dow -577點(-1.09%)。但Nasdaq逆勢+0.2%靠AI股撐住"},
+      {"title": "週四反彈：投資人押注衝突不會升級為全面戰爭", "url": "https://www.ktbs.com/news/business/calm-returns-to-financial-markets-worldwide-as-stocks-recover-losses-and-oil-prices-ease/article_ed62505c-088b-51d0-b7a8-931d2687cd11.html", "source": "KTBS/AP", "desc": "儘管美伊互射持續，市場7/9反彈。S&P +0.81%收復前日跌幅。晶片股帶頭。油價回落。投資人賭地緣風險可控"},
+      {"title": "Micron宣布數十億美元美國晶片製造新投資", "url": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html", "source": "CNBC", "desc": "Micron股價2026年已漲250%，5月首度突破$1兆市值。新增美國本土晶片製造投資，呼應產業鏈回流趨勢"},
+      {"title": "油價Brent收$78後回落：美軍稱已護航800+商船通過荷姆茲", "url": "https://www.middleeastmonitor.com/20260709-oil-prices-rise-following-new-us-strikes-on-iran/", "source": "Middle East Monitor", "desc": "Brent兩週高$78.02後因調解努力而回落。美軍稱5月來已護航800+商船/3.8億桶油安全通過海峽"}
+    ],
+    "finance": [
+      {"title": "7/9收盤：S&P +0.81% 7543、Nasdaq +1.30% 26206、Dow +0.27% 52487", "url": "https://www.barchart.com/story/news/3212768/how-major-us-stock-indexes-fared-thursday-7-9-2026", "source": "Barchart", "desc": "三大指數全面收漲完全收復前日跌幅。Nasdaq領漲+336點靠晶片股。Russell 2000 +1.2%。市場恢復風險偏好"},
+      {"title": "Micron +8%領頭晶片反彈：Nasdaq收26,206歷史新高區間", "url": "https://www.aol.com/articles/wall-st-futures-rebound-oil-100621000.html", "source": "Reuters/AOL", "desc": "Micron新增美國投資利多+8%。帶動SanDisk/Marvell/Broadcom/AMD全線上漲。半導體板塊壓過地緣恐慌"},
+      {"title": "油價反轉下跌2%：調解努力+美軍護航緩解供應擔憂", "url": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html", "source": "CNBC", "desc": "Brent盤中曾突破$80但收盤回落。調解方介入+美軍宣布護航成果讓市場認為全面戰爭機率低。WTI也回落"},
+      {"title": "美元走弱、黃金走強、BTC回穩：風險資產情緒修復", "url": "https://www.babypips.com/news/financial-forex-market-recap-2026-07-09", "source": "BabyPips", "desc": "7/9外匯市場回顧：美元對多數主要貨幣走弱。黃金和BTC回穩走強。晶片反彈帶動整體風險偏好回升"}
+    ]
+  }
+}
