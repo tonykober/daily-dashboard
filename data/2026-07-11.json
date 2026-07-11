@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-11",
+  "categories": {
+    "ai": [
+      {"title": "Apple控告OpenAI竊取商業機密：指控挖角400+員工並索取硬體樣品", "url": "https://www.nbcnews.com/tech/tech-news/apple-sues-openai-two-former-employees-trade-secrets-theft-rcna385916", "source": "NBC News", "desc": "Apple在加州北區聯邦法院控告OpenAI及前副總裁Tang Yew Tan等人。指控OpenAI透過面試系統性竊取未發表產品資訊，要求應徵者攜帶硬體樣品做「Show and Tell」"},
+      {"title": "ChatGPT Work正式上線：AI工作代理可跨應用完成複雜任務", "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/", "source": "OpenAI", "desc": "ChatGPT Work由GPT-5.6 Sol驅動，可瀏覽網頁、連接Slack/Teams/Drive、建立簡報/試算表/網頁應用。能持續工作數小時，獨立拆解複雜專案"},
+      {"title": "Meta Muse Image遭好萊塢抵制後緊急下架：CAA/SAG-AFTRA痛批侵權", "url": "https://deadline.com/2026/07/meta-disables-new-ai-image-generator-zuckerberg-1236979706/", "source": "Deadline", "desc": "Meta 7/7推出的Muse Image允許AI改圖他人Instagram公開照片（需主動退出才不被用），CAA和SAG-AFTRA強烈抗議後Meta於7/10移除該功能"},
+      {"title": "OpenAI部署公司收購Northslope：第二起企業AI部署收購案", "url": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition", "source": "Axios", "desc": "OpenAI Deployment Company收購Northslope（應用AI公司），為Tomoro之後第二起收購。擴充前線部署工程團隊，與各實驗室爭奪企業市場"},
+      {"title": "Muse Spark 1.1公開：Meta進軍AI編程和Agent市場挑戰Anthropic", "url": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html", "source": "CNBC", "desc": "Meta發布Muse Spark 1.1並向開發者開放API。定位為「最強agentic和coding模型」，正式加入OpenAI/Anthropic的企業AI競爭"}
+    ],
+    "gaming": [
+      {"title": "Palworld 1.0正式脫離Early Access：Steam同時在線近50萬人", "url": "https://www.polygon.com/palworld-release-pokemon-competition/", "source": "Polygon", "desc": "Pocketpair的寶可夢最大競爭者7/10正式推出1.0版。新增72隻Pal、Sunreach浮空區域、世界樹故事線、飛行翼背包、多人改進。累計4000萬玩家"},
+      {"title": "AC Black Flag Resynced首週評價穩定：系列13年來最佳Metascore 84", "url": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-delivers-the-series-best-reviews-since-2013/", "source": "GameSpot", "desc": "重製版上市後評價持續正面。IGN/PCGamer/Kotaku一致肯定視覺翻新和現代化改進。移除現代線劇情獲好評"},
+      {"title": "7/10新作上線：Digimon Story Time Stranger + Echoes of Aincrad", "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch", "source": "IGN", "desc": "數碼寶貝新作Time Stranger登陸Switch 2/Switch。SAO系列新作Echoes of Aincrad同日上線PS5/Xbox/PC"},
+      {"title": "7月下半預告：Splatoon Raiders(7/23) + Halo Campaign Evolved(7/28)", "url": "https://www.gamesradar.com/video-game-release-dates/", "source": "GamesRadar", "desc": "本月重量級尚未到來。Switch 2獨佔Splatoon Raiders和Halo CE重製版將在月底登場。加上DOOM Dark Ages DLC"}
+    ],
+    "tech": [
+      {"title": "SK Hynix Nasdaq上市首日漲13%：$265億為史上外國公司最大美國上市", "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html", "source": "CNBC", "desc": "韓國記憶體晶片巨頭SK Hynix以ADR形式登陸Nasdaq（代號SKHY）。定價$149/股，首日收$168（+13%）。董事長稱AI晶片「需求巨大」"},
+      {"title": "美伊持續對話：油價回落但荷姆茲海峽通行仍受限", "url": "https://www.worldoil.com/news/2026/7/10/oil-prices-fall-as-u-s-iran-talks-continue-despite-renewed-fighting/", "source": "World Oil", "desc": "美伊在本週互擊後似乎準備繼續談判。油價回落但本週仍錄得漲幅。荷姆茲海峽油輪通行因攻擊仍受阻"},
+      {"title": "美國汽油價升至$3.88/加侖：一週內漲$0.08", "url": "https://www.cbsnews.com/news/gas-prices-rise-us-iran-war/", "source": "CBS News", "desc": "美伊緊張推升油價反映到加油站。全美平均從7/5的$3.80升至$3.88。5月停火前曾超過$4.50"},
+      {"title": "Apple訴訟揭示OpenAI硬體野心：前Apple設計副總裁領軍消費產品", "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/", "source": "Wired", "desc": "Apple與OpenAI 2024年合作整合ChatGPT到iPhone，但關係已破裂。Apple新Siri改用Google Gemini。OpenAI前Apple設計主管正領導消費硬體開發"}
+    ],
+    "crypto": [
+      {"title": "BTC反彈至$64K：漲幅3.5%，24小時成交$280億", "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains", "source": "CoinDesk", "desc": "BTC從$61,850低點反彈至近$64,000。晶片股反彈+日圓走強驅動。$9,600萬空單被清算。加密市場整體漲1.9%"},
+      {"title": "Circle獲OCC最終核准：設立聯邦監管國家信託銀行", "url": "https://investor.circle.com/news/news-details/2026/Circle-Receives-Final-OCC-Approval-to-Establish-National-Trust-Bank/default.aspx", "source": "Circle", "desc": "USDC發行商Circle獲OCC核准設立Circle National Trust。可直接管理$730億+USDC儲備金。股價漲超12%。為BitGo之後第二家獲完整核准"},
+      {"title": "SEC 2026監管議程啟動：「Regulation Crypto」框架將於7月推出", "url": "https://blockonomi.com/secs-regulation-crypto-framework-set-for-july-2026-rollout-under-paul-atkins/", "source": "Blockonomi", "desc": "SEC Regulation Crypto提案將給予加密投資合約發行者臨時註冊豁免。設定募資門檻並為去中心化提供法律保護"},
+      {"title": "DeFi板塊單日漲6.8%：DeXe +16.75%領漲、Arbitrum也大漲", "url": "https://www.coingabbar.com/en/crypto-currency-news/crypto-market-news-july-10-bitcoin-price-defi-market-up-today", "source": "CoinGabbar", "desc": "DeFi板塊表現亮眼，整體漲6.8%。市場從極度恐懼轉向謹慎樂觀。Polymarket考慮推出保證金交易"}
+    ],
+    "dev": [
+      {"title": "JetBrains AI for Teams發布：統一治理多種AI程式工具", "url": "https://blog.jetbrains.com/blog/2026/07/07/jetbrains-ai-for-teams-and-organizations-from-fragmented-ai-usage-to-coordinated-software-development/", "source": "JetBrains", "desc": "JetBrains推出組織級AI統一平台。連接開發者已用的各種AI工具，提供共享context、可重用agentic workflow、成本控管和治理能力"},
+      {"title": "WordPress 7.1 Beta 1將於7/15釋出：開發者月度更新一覽", "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/", "source": "WordPress", "desc": "WordPress 7.1排程：7/15 Beta 1、每週Beta到月底、8/19正式版（配合WordCamp US）。開發者需提前測試相容性"},
+      {"title": "GitHub Copilot用量計費衝擊持續：VS Code新增即時用量警示", "url": "https://devops.com/github-copilot-bills-hit-800-visual-studios-june-update-adds-real-time-usage-alerts-and-mcp-trust-checks/", "source": "DevOps.com", "desc": "6/1轉用量計費後帳單飆升問題持續。Visual Studio 6月更新新增即時用量警示和MCP信任檢查功能，幫助開發者控制成本"},
+      {"title": "下一代IDE需管理多Agent並行：JetBrains Central定位開放系統", "url": "https://www.infoworld.com/software-development/", "source": "InfoWorld", "desc": "IDE主宰的單人開發時代已過。JetBrains Central定位為「開放式agentic軟體開發系統」，讓自動化工作可被監控和管理"}
+    ],
+    "art": [
+      {"title": "Meta Muse Image被迫下架：AI圖像生成工具侵犯創作者權利的警鐘", "url": "https://www.hollywoodreporter.com/business/digital/meta-pulls-opt-out-ai-tool-hollywood-outrage-1236644312/", "source": "Hollywood Reporter", "desc": "Muse Image允許用AI重製他人Instagram公開照片引爆爭議。CAA讚揚Meta「迅速撤除」決定。SAG-AFTRA痛批默認opt-out模式不尊重創作者"},
+      {"title": "Creative Boom 2026創意產業報告：86%使用AI但僅10%正面看待", "url": "https://www.creativeboom.com/news/the-state-of-the-creative-industry-2026-what-our-survey-tells-us-about-money-burnout-and-ai/", "source": "Creative Boom", "desc": "882位創意工作者調查。AI使用率與正面看法的巨大落差。69%經歷倦怠。中期職涯壓力最大（77%倦怠率）"},
+      {"title": "Palworld 1.0美術進化：72隻新Pal + Sunreach浮空區域視覺升級", "url": "https://www.pushsquare.com/news/2026/07/palworld-finally-launches-in-full-today-on-ps5-and-the-patch-notes-are-colossal", "source": "Push Square", "desc": "Palworld正式版帶來大規模視覺升級。新增浮空島嶼Sunreach區域、世界樹和天空島的環境美術。角色和Pal設計持續展現風格化3D功力"},
+      {"title": "新聞媒體要求法院制裁OpenAI：ChatGPT訓練資料版權戰升級", "url": "https://www.latimes.com/business/story/2026-07-10/openai-faces-sanctions-bid-as-newspapers-say-chatgpt-was-trained-on-stolen-news", "source": "LA Times", "desc": "紐約時報/Daily News等媒體要求聯邦法官制裁OpenAI。AI版權大戰持續升溫。創作者權益保護成為2026核心議題"}
+    ],
+    "design": [
+      {"title": "Meta Muse的opt-out設計教訓：預設許可模式如何引爆公關危機", "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/", "source": "TechCrunch", "desc": "Muse Image默認允許他人AI改圖你的照片（需主動退出）的設計選擇，三天內引爆好萊塢級抗議。UX設計中的consent-by-default vs opt-in之爭"},
+      {"title": "ChatGPT Work的Sites功能：AI自動生成互動式儀表板和網頁應用", "url": "https://www.macrumors.com/2026/07/09/openai-chatgpt-work/", "source": "MacRumors", "desc": "ChatGPT Work新功能Sites Beta讓AI直接建立互動式網站和Web App。可做報告、即時儀表板等。對設計師的快速原型工作流程產生直接影響"},
+      {"title": "Apple vs OpenAI硬體設計之爭：前Apple VP領軍OpenAI消費產品", "url": "https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/", "source": "Fortune", "desc": "Apple前設計副總裁Tang Yew Tan跳槽OpenAI主導消費硬體。Apple指控其攜帶機密。兩大科技巨頭的產品設計人才爭奪白熱化"},
+      {"title": "72小時AI產品發布狂潮：Sol/Terra/Luna/Work/Grok 4.5/Muse Spark", "url": "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7", "source": "Business Insider", "desc": "7/7~7/9三天內OpenAI/SpaceXAI/Meta密集發布。產品命名從技術編號轉向品牌化（Sol/Terra/Luna）。設計師需跟上AI工具的更新速度"}
+    ],
+    "business": [
+      {"title": "7/10收盤：三大指數全面收漲，連續第四週在五週中收紅", "url": "https://nbcpalmsprings.com/2026/07/10/dow-sp-500-and-nasdaq-close-higher-to-end-the-week", "source": "NBC Palm Springs", "desc": "S&P +0.42%(7,575)、Dow +0.29%(52,637)、Nasdaq +0.29%(26,281)。SK Hynix上市+財報季樂觀推動。週漲幅約1%"},
+      {"title": "SK Hynix $265億Nasdaq上市：史上外國公司最大美國股票發行", "url": "https://qz.com/sk-hynix-nasdaq-adr-debut-stock-071026", "source": "Quartz", "desc": "SK Hynix以ADR發行1.779億股@$149，募資$265億。首日開盤$170(+14%)、收$168(+13%)。AI記憶體需求驅動"},
+      {"title": "Apple控告OpenAI震動矽谷：$4.6兆對決快速成長AI新創", "url": "https://fortune.com/2026/07/10/apple-openai-lawsuit-trade-secrets-theft-allegations/", "source": "Fortune", "desc": "Apple與OpenAI從2024年合作夥伴變成法庭對手。Apple新Siri已改用Google Gemini。訴訟焦點：OpenAI準備發布的消費硬體是否基於Apple機密"},
+      {"title": "油價回落：美伊準備繼續對話，但本週仍錄得漲幅", "url": "https://www.indexbox.io/blog/oil-prices-fall-as-us-and-iran-continue-talks-despite-ceasefire-collapse/", "source": "IndexBox", "desc": "布倫特原油週五回落，美伊似乎準備延續對話。但本週整體仍因停火破裂而錄得漲幅。市場在地緣風險和談判希望間拉扯"}
+    ],
+    "finance": [
+      {"title": "週五收盤：S&P 7,575(+0.42%)、Nasdaq 26,281(+0.29%)、Dow 52,637(+0.29%)", "url": "https://investorshub.advfn.com/market-news/article/31686/dow-sp-500-and-nasdaq-close-higher-as-sk-hynixs-blockbuster-nasdaq-debut-lifts-chip-stocks", "source": "ADVFN", "desc": "三大指數週五全面收漲。SK Hynix上市帶動晶片股。S&P完成第四個獲利週（五週中）。市場轉向下週財報季（大銀行+ASML/TSM）"},
+      {"title": "SK Hynix首日收$168(+13%)：AI記憶體題材吸引美國投資人", "url": "https://www.morningstar.com/news/marketwatch/20260710367/sk-hynixs-stock-sees-double-digit-pop-in-nasdaq-debut", "source": "Morningstar", "desc": "韓國第二大市值公司成功登陸美國市場。AI記憶體需求題材+$265億超大規模發行。給美國投資人直接參與韓國AI晶片供應鏈的管道"},
+      {"title": "油價週五再跌：調解方介入+談判預期壓低避險溢價", "url": "https://www.the-independent.com/news/business/oil-prices-today-us-iran-ceasefire-war-market-b3012367.html", "source": "The Independent", "desc": "Brent本週從$78高點回落。週五在談判預期下進一步走低。但本週整體仍錄得漲幅。全美汽油均價$3.88"},
+      {"title": "Circle股價漲12%+：OCC信託銀行核准為穩定幣產業里程碑", "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html", "source": "CNBC", "desc": "Circle(CRCL)獲聯邦信託銀行牌照後股價大漲。$730億USDC儲備可直接由聯邦監管管理。加密/傳統金融界線持續模糊"}
+    ]
+  }
+}
