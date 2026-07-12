@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-12",
+  "categories": {
+    "ai": [
+      {"title": "Apple控告OpenAI+Jony Ive的io Products：稱硬體部門「從根爛到核心」", "url": "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/", "source": "Engadget", "desc": "Apple訴訟同時點名OpenAI和Jony Ive領導的io Products。指控「機構層級的協調不當行為」。Apple前VP Tang Yew Tan在Apple工作24年後跳槽io Products"},
+      {"title": "72小時AI狂潮回顧：OpenAI/Meta/SpaceXAI密集發布改變產業格局", "url": "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7", "source": "Business Insider", "desc": "7/7-7/9三天：GPT-5.6 Sol/Terra/Luna、ChatGPT Work、Meta Muse Spark 1.1、SpaceXAI Grok 4.5。AI實驗室間的產品軍備競賽達到新高度"},
+      {"title": "媒體要求法院制裁OpenAI：紐時/Daily News聯手升級版權戰", "url": "https://www.latimes.com/business/story/2026-07-10/openai-faces-sanctions-bid-as-newspapers-say-chatgpt-was-trained-on-stolen-news", "source": "LA Times", "desc": "多家新聞媒體要求聯邦法官制裁OpenAI。指控ChatGPT訓練使用「被盜的新聞」。此案可能決定AI產業和新聞業的未來關係"},
+      {"title": "Accenture+Google Cloud推出中型企業AI Agent預建方案", "url": "https://solutionsreview.com/ai-news-for-the-week-of-july-10-updates-from-accenture-google-cloud-supermicro-more/", "source": "Solutions Review", "desc": "針對年營收$3-30億的中型企業推出預建agentic AI方案。AI從大企業向中型市場滲透。降低部署門檻"}
+    ],
+    "gaming": [
+      {"title": "Palworld 1.0持續火爆：72新Pal+世界樹+Sunreach浮空島詳解", "url": "https://www.gamespot.com/articles/palworlds-massive-1-0-patch-notes-detail-new-sunreach-area-mutations-and-72-more-pals/", "source": "GameSpot", "desc": "正式版帶來史上最大更新。新區域Sunreach+天空島嶼、Pal突變系統、戰鬥大改、繁殖重製、基地升級。4000萬玩家基礎+50萬同時在線"},
+      {"title": "Palworld正式版新機制：翼背包飛行+野生保護區潛行玩法", "url": "https://games.gg/news/palworld-1-0-patch-notes-new/", "source": "Games.GG", "desc": "1.0新增Wing Pack飛行系統和改造後的野生保護區（加入潛行機制和防禦無人機）。7座新小島涵蓋火山/沙漠/遺跡生態"},
+      {"title": "7月中旬遊戲展望：Splatoon Raiders(7/23) + Halo(7/28)即將到來", "url": "https://www.gamesradar.com/video-game-release-dates/", "source": "GamesRadar", "desc": "AC黑旗和Palworld開了個好頭。接下來是Switch 2獨佔Splatoon Raiders和Halo CE重製版。DOOM Dark Ages DLC也在排隊"},
+      {"title": "遊戲業裁員潮持續：本週又有工作室傳出壞消息", "url": "https://gameinformer.com/news", "source": "Game Informer", "desc": "「對產業來說又是艱難的一週」。但仍有好遊戲值得期待。產業在大IP成功和就業壓力之間掙扎"}
+    ],
+    "tech": [
+      {"title": "🔴重大：伊朗IRGC宣布荷姆茲海峽關閉，無視美國週六最後通牒", "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all", "source": "Al Jazeera", "desc": "伊朗革命衛隊海軍宣布荷姆茲海峽關閉「直到美國干預結束」。此前美國要求伊朗週六前公開承諾海峽開放。全球20%石油運輸路線面臨封鎖"},
+      {"title": "美國週六對伊朗發動第三輪空襲：報復伊朗攻擊塞浦路斯籍貨船", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/", "source": "CBS News", "desc": "五角大樓宣布本週第三次對伊朗軍事行動。Trump與伊朗最高領袖互相威脅升級。局勢為2月開戰以來最緊張"},
+      {"title": "SK Hynix CEO警告：2027年將是記憶體產業史上最嚴重短缺", "url": "https://www.techtimes.com/articles/320149/20260711/sk-hynix-sets-nasdaq-foreign-listing-record-ceo-warns-worsening-ai-memory-crunch.htm", "source": "TechTimes", "desc": "CEO Kwak Noh-jung表示需求將持續超過供應能力直到2030年後。SK Hynix掌控全球56.4%高頻寬記憶體市場。$265億募資將用於擴產"},
+      {"title": "IEA：油市預計年底轉為供過於求，但前提是荷姆茲通行恢復", "url": "https://www.usatoday.com/story/news/world/2026/07/10/iran-war-united-states-donald-trump-strait-of-hormuz--live/90869913007/", "source": "USA Today", "desc": "國際能源署表示全球石油需求復甦中，預測年底供應過剩。但警告「持久和平協議是油市正常化的必要條件」"}
+    ],
+    "crypto": [
+      {"title": "BTC穩定在$64K：ETH漲1.6%表現優於大盤", "url": "https://www.coingabbar.com/en/crypto-currency-news/latest-crypto-news-today-july-11-btc-eth-pepe-lab-price", "source": "CoinGabbar", "desc": "7/11市場延續復甦，市值回升至$2.28兆(+1.2%)。BTC $64,114(+0.3%)、ETH $1,794(+1.3%)。情緒從極度恐懼改善中"},
+      {"title": "New Hampshire 3-2否決$1億比特幣擔保債券：州級加密金融實驗受挫", "url": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails", "source": "The Block", "desc": "執行委員會投票否決全美首支以BTC擔保的市政債券。CleanSpark相關融資計畫終止。垃圾評級是主因。對其他州加密實驗形成寒蟬效應"},
+      {"title": "Empery Digital出售1,400 BTC($8,710萬)用於建AI資料中心", "url": "https://www.binance.com/en/square/post/343454500532450", "source": "Binance", "desc": "Nasdaq上市BTC公司Empery Digital清倉半數持倉(1,400 BTC)。資金用於建AI資料中心+還債+法律費用。仍保留1,514 BTC"},
+      {"title": "Virtuals Protocol單日漲17%：AI+加密交叉題材持續受青睞", "url": "https://coincodex.com/article/87391/daily-market-update-for-july-11-2026/", "source": "CoinCodex", "desc": "AI Agent代幣平台Virtuals Protocol在AI熱潮中大漲17%。短線清算$1.65億（空單為主）。加密市場風險偏好改善中"}
+    ],
+    "dev": [
+      {"title": "JetBrains AI for Teams：7-8月滾動上線，統一企業AI開發治理", "url": "https://www.infoworld.com/article/4194091/jetbrains-to-roll-out-ai-capabilities-for-software-development-teams-and-organizations.html", "source": "InfoWorld", "desc": "JetBrains Central+AI for Teams提供共享context/可重用workflow/成本控管。支援雲端agent按repo事件或排程自動觸發。7-8月逐步對企業客戶開放"},
+      {"title": "WordPress 7.1進入Beta週期：7/15首個Beta，8/19配合WordCamp US正式版", "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/", "source": "WordPress", "desc": "7月重點：WordPress 7.1 Beta 1(7/15)起每週迭代到月底。WordPress 7.0的AI基礎架構(AI Client/Abilities API/Command Palette)持續演進"},
+      {"title": "Slack工程團隊分享Agentic Testing：AI驅動的端到端測試自動化", "url": "https://www.infoq.com/architecture-design/news/", "source": "InfoQ", "desc": "Slack引入intent-based測試方法。AI agent根據意圖而非固定腳本執行工作流，能適應UI和系統變更。補充而非取代傳統測試策略"},
+      {"title": "DipTrace 5.3發布：互動式編輯+原生XML格式支援版本控制", "url": "https://business.theeveningleader.com/theeveningleader/article/prlog-2026-7-11-diptrace-53-released-with-interactive-editing-and-xml-projects-for-version-control", "source": "PRLog", "desc": "PCB設計軟體DipTrace更新5.3版。新增互動式編輯、原生XML專案格式（便於Git版控）、整合Mouser元件搜尋"}
+    ],
+    "art": [
+      {"title": "Apple訴訟揭示AI硬體設計的人才爭奪戰：Jony Ive的io Products成焦點", "url": "https://finance.yahoo.com/technology/ai/articles/apple-accuses-openai-former-design-231936659.html", "source": "Yahoo Finance/Fortune", "desc": "Apple前設計長Jony Ive的io Products被列為被告。OpenAI 2025年數十億收購io Products取得其設計團隊。硬體設計人才成為AI時代最稀缺資源"},
+      {"title": "Meta Muse事件後續：好萊塢勝利凸顯AI創作工具的consent設計重要性", "url": "https://www.hollywoodreporter.com/business/digital/meta-pulls-opt-out-ai-tool-hollywood-outrage-1236644312/", "source": "Hollywood Reporter", "desc": "CAA/SAG-AFTRA成功迫使Meta撤除Muse Image的他人照片改圖功能。事件確立了一個先例：AI工具必須以opt-in而非opt-out保護創作者"},
+      {"title": "3D虛擬物品市場年交易數十億：化身商品年購買18億件", "url": "https://sdtimes.com/", "source": "SD Times", "desc": "虛擬市場已成數十億級產業。主要平台用戶單年購買18億件化身物品(40%月活用戶參與)。3D美術資產需求持續增長"},
+      {"title": "Palworld 1.0的美術升級：超過200隻Pal的設計哲學和世界觀建構", "url": "https://mobalytics.gg/news/guides/palworld-1-0-update-new-pals", "source": "Mobalytics", "desc": "1.0版Pal總數超過200隻。每隻都有獨特設計語言和與環境的互動。遊戲美術在保持統一風格下持續擴展世界觀"}
+    ],
+    "design": [
+      {"title": "品牌識別設計的前概念階段：研究→假設驗證→視覺基礎建立", "url": "https://www.smashingmagazine.com/", "source": "Smashing Magazine", "desc": "探索品牌設計中容易被忽視的前概念階段。團隊如何研究品牌context、與利害關係人揭露隱藏假設、在畫第一張概念前建立共同方向"},
+      {"title": "OpenAI vs Apple的產品設計哲學衝突：AI-first裝置挑戰iPhone", "url": "https://uk.pcmag.com/news/166106/apple-sues-openai-alleges-its-hardware-business-is-rotten-to-the-core", "source": "PCMag", "desc": "OpenAI正在開發可能取代iPhone的AI原生消費硬體。Jony Ive+前Apple設計團隊操刀。兩種設計哲學（觸控優先 vs AI優先）的碰撞"},
+      {"title": "虛擬化身經濟的設計需求：40%月活用戶購買數位物品", "url": "https://sdtimes.com/", "source": "SD Times", "desc": "3D化身物品已是核心用戶體驗。設計師需理解虛擬商品的情感價值、社交訊號功能和個性化表達需求"},
+      {"title": "DipTrace 5.3：PCB設計工具擁抱版本控制的XML格式變革", "url": "https://business.theeveningleader.com/theeveningleader/article/prlog-2026-7-11-diptrace-53-released-with-interactive-editing-and-xml-projects-for-version-control", "source": "PRLog", "desc": "PCB設計軟體轉向原生XML格式讓專案可被Git追蹤。硬體設計工具也在走向協作化和版本管理化"}
+    ],
+    "business": [
+      {"title": "🔴荷姆茲海峽危機升級：伊朗宣布關閉+美國第三輪空襲", "url": "https://www.axios.com/2026/07/11/iran-strikes-cargo-ship-in-strait-of-hormuz-defying-us-ultimatum", "source": "Axios", "desc": "伊朗IRGC宣布海峽關閉並攻擊貨船，公然無視美國週六最後通牒。全球20%石油通道面臨封鎖。下週一開盤油價和市場將劇烈反應"},
+      {"title": "上週回顧：S&P週漲近1%，第四個獲利週（五週中）", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-rises-on-trump-iran-remarks-4785239", "source": "Investing.com", "desc": "S&P 500和Nasdaq整週上漲，晶片股反彈+SK Hynix上市壓過地緣風險。但週末伊朗局勢急劇惡化，下週開盤恐面臨壓力"},
+      {"title": "SK Hynix CEO：記憶體需求至少到2030年都超過供應", "url": "https://finance.yahoo.com/technology/articles/sk-hynix-ceo-sees-worst-182328326.html", "source": "Reuters/Yahoo", "desc": "「2027年將是產業史上供應最糟糕的一年」。超過500家機構投資者認購其ADR。$265億募資全部用於擴產仍不夠"},
+      {"title": "Apple vs OpenAI訴訟：$4.6兆 vs 科技業最快成長新創的硬體之爭", "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/", "source": "TechCrunch", "desc": "Apple訴訟揭示OpenAI硬體野心的規模。前Apple合作夥伴轉為法庭對手。此案將影響科技業人才流動和商業機密保護的邊界"}
+    ],
+    "finance": [
+      {"title": "⚠️下週預警：荷姆茲海峽被伊朗宣布關閉，油價和市場恐劇震", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/", "source": "CBS News", "desc": "伊朗IRGC海軍週六宣布海峽關閉。全球20%石油運輸路線。上週油價已漲5%。週一開盤Brent可能突破$80-85。能源股受益/航空股承壓"},
+      {"title": "上週收盤：S&P 7,575(+0.42%)、Nasdaq 26,281(+0.29%)、Dow 52,637(+0.29%)", "url": "https://nbcpalmsprings.com/2026/07/10/dow-sp-500-and-nasdaq-close-higher-to-end-the-week", "source": "NBC", "desc": "週五三大指數全面收漲結束本週。但週末地緣風險急劇升級，下週開盤將面臨重大考驗。ASML/TSM財報+大銀行業績下週登場"},
+      {"title": "SK Hynix Nasdaq首週：控制56.4% HBM市場的AI記憶體巨頭", "url": "https://fortune.com/2026/07/11/sk-hynix-us-stock-listing-nasdaq-second-largest-us-share-sale-ai-boom-hbw-memory/", "source": "Fortune", "desc": "SK Hynix首日漲13%後穩定。Nvidia最強GPU必須使用其HBM晶片。估值仍低於Micron（後者$1.1兆但獲利較少）。投資人新管道"},
+      {"title": "全美汽油均價$3.88→荷姆茲關閉恐推至$4+", "url": "https://www.cbsnews.com/news/gas-prices-rise-us-iran-war/", "source": "CBS News", "desc": "汽油已從7/5的$3.80升至$3.88。若荷姆茲真正關閉，5月高點$4.50可能重現甚至更高。通膨和消費者支出將受直接衝擊"}
+    ]
+  }
+}
