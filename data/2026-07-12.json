@@ -54,6 +54,58 @@
       {"title": "上週收盤：S&P 7,575(+0.42%)、Nasdaq 26,281(+0.29%)、Dow 52,637(+0.29%)", "url": "https://nbcpalmsprings.com/2026/07/10/dow-sp-500-and-nasdaq-close-higher-to-end-the-week", "source": "NBC", "desc": "週五三大指數全面收漲結束本週。但週末地緣風險急劇升級，下週開盤將面臨重大考驗。ASML/TSM財報+大銀行業績下週登場"},
       {"title": "SK Hynix Nasdaq首週：控制56.4% HBM市場的AI記憶體巨頭", "url": "https://fortune.com/2026/07/11/sk-hynix-us-stock-listing-nasdaq-second-largest-us-share-sale-ai-boom-hbw-memory/", "source": "Fortune", "desc": "SK Hynix首日漲13%後穩定。Nvidia最強GPU必須使用其HBM晶片。估值仍低於Micron（後者$1.1兆但獲利較少）。投資人新管道"},
       {"title": "全美汽油均價$3.88→荷姆茲關閉恐推至$4+", "url": "https://www.cbsnews.com/news/gas-prices-rise-us-iran-war/", "source": "CBS News", "desc": "汽油已從7/5的$3.80升至$3.88。若荷姆茲真正關閉，5月高點$4.50可能重現甚至更高。通膨和消費者支出將受直接衝擊"}
-    ]
+    ],
+    "stock_briefing": {
+      "date": "2026-07-13",
+      "updated_at": "2026-07-13 08:30",
+      "market": {
+        "taiex_prev_close": 45550,
+        "weekly_change": "-2.5%",
+        "note": "上週7/7因美伊衝突大跌2.31%至45479，7/8反彈至45734。7/9因二度空襲再度承壓。7/11(五)小幅收紅約45550。今日(7/13週一)開盤面臨荷姆茲海峽關閉重大利空，預計大幅低開",
+        "risk_alert": "⚠️伊朗7/12宣布荷姆茲海峽關閉，全球20%石油通道封鎖。今日台股恐開低300-500點。能源股可能逆勢走強"
+      },
+      "sectors": [
+        {"name": "半導體", "trend": "跌 地緣風險壓制，但SK Hynix Nasdaq上市+2027缺貨預期提供中期支撐", "note": "台積電財報7/17，ASML/TSM本週財報密集"},
+        {"name": "航運/能源", "trend": "漲 荷姆茲關閉直接利多航運和能源股", "note": "長榮/萬海/陽明可能跳空漲停。台塑四寶受惠油價上漲"},
+        {"name": "電子權值", "trend": "跌 外資避險賣超壓力，但美股週五收漲提供部分支撐", "note": "鴻海/聯發科跟隨大盤壓力"},
+        {"name": "金融", "trend": "平偏跌 升息預期回升有利淨利差但系統性風險壓制", "note": "觀察外資態度"},
+        {"name": "高股息ETF", "trend": "跌 短線跟隨大盤下挫，但下跌時殖利率提升反而是買點", "note": "恐慌時高息ETF通常較抗跌"}
+      ],
+      "stocks": [
+        {"name": "2330 台積電", "price": 2460, "trend": "跌 地緣風險短線壓力", "nav": 227.15, "pb": 10.83, "pe": 17.11, "quarterLine": "季線約2380，離季線+3.4%", "suggestion": "持有"},
+        {"name": "0050 元大台灣50", "price": 107.5, "trend": "跌 跟隨大盤", "nav": 108.25, "premium": "-0.69%", "quarterLine": "季線約105，離季線+2.4%", "suggestion": "持有，逢跌可加碼"},
+        {"name": "006208 富邦台50", "price": 249.0, "trend": "跌 跟隨大盤", "nav": 250.50, "premium": "-0.60%", "quarterLine": "季線約244，離季線+2.0%", "suggestion": "持有"},
+        {"name": "0056 元大高股息", "price": 52.5, "trend": "平偏跌 高息防禦", "nav": 53.0, "premium": "-0.94%", "quarterLine": "季線約52，離季線+1.0%", "suggestion": "持有"},
+        {"name": "00878 國泰永續高息", "price": 33.2, "trend": "平偏跌 高息防禦", "nav": 33.40, "premium": "-0.60%", "quarterLine": "季線約33，離季線+0.6%", "suggestion": "持有，恐慌時可加碼"},
+        {"name": "00919 群益精選高息", "price": 29.5, "trend": "平偏跌 最抗跌高息", "nav": 29.60, "premium": "-0.34%", "quarterLine": "季線約29.2，離季線+1.0%", "suggestion": "持有"},
+        {"name": "00929 復華高息", "price": 29.8, "trend": "跌 月配型仍有支撐", "nav": 30.20, "premium": "-1.32%", "quarterLine": "季線約29.5，離季線+1.0%", "suggestion": "持有"},
+        {"name": "00940 元大台灣價值高息", "price": 12.5, "trend": "平", "nav": 12.55, "premium": "-0.40%", "quarterLine": "季線約12.4，離季線+0.8%", "suggestion": "觀望"},
+        {"name": "00892 富邦台灣半導體", "price": 22.5, "trend": "跌 半導體短線承壓", "nav": 22.80, "premium": "-1.32%", "quarterLine": "季線約22，離季線+2.3%", "suggestion": "持有"},
+        {"name": "00891 中信關鍵半導體", "price": 24.0, "trend": "跌 半導體短線承壓", "nav": 24.30, "premium": "-1.23%", "quarterLine": "季線約23.5，離季線+2.1%", "suggestion": "持有"},
+        {"name": "00982A 中信美國公債20+", "price": 9.45, "trend": "漲 避險需求推升債券", "nav": 9.42, "premium": "+0.32%", "quarterLine": "季線約9.3，離季線+1.6%", "suggestion": "持有，地緣避險"},
+        {"name": "00981A 元大美債20+", "price": 30.8, "trend": "漲 避險需求推升債券", "nav": 30.70, "premium": "+0.33%", "quarterLine": "季線約30.2，離季線+2.0%", "suggestion": "持有"},
+        {"name": "00403A 中信15年期以上美債", "price": 31.5, "trend": "漲 避險買盤", "nav": 31.40, "premium": "+0.32%", "quarterLine": "季線約31，離季線+1.6%", "suggestion": "持有"},
+        {"name": "009816 FT美政府債", "price": 35.2, "trend": "漲 避險需求", "nav": 35.10, "premium": "+0.28%", "quarterLine": "季線約34.8，離季線+1.1%", "suggestion": "持有"}
+      ],
+      "institutional": {
+        "foreign": "上週五(7/11)外資小幅賣超，預計今日因荷姆茲事件擴大賣超",
+        "investment_trust": "投信上週偏買超高息ETF",
+        "dealer": "自營商上週減碼"
+      },
+      "sentiment": {
+        "score": 25,
+        "label": "恐懼",
+        "note": "荷姆茲關閉+美伊第三輪空襲+Trump與伊朗最高領袖互相威脅。5月荷姆茲封鎖時台股曾跌至42000附近"
+      },
+      "events": [
+        "⚠️7/12 伊朗IRGC宣布荷姆茲海峽關閉（重大利空）",
+        "⚠️美國本週第三輪對伊朗空襲",
+        "7/17 台積電Q2財報（法說會）",
+        "本週 ASML/TSM 國際半導體財報密集",
+        "SK Hynix CEO警告2027記憶體短缺→記憶體股中期利多",
+        "油價Brent週五收約$76，週一預計跳漲至$80-85+"
+      ],
+      "summary": "⚠️今日重大風險日：伊朗7/12宣布荷姆茲海峽關閉，為2月開戰以來最嚴重升級。台股預計低開300-500點。策略：不追空、不恐慌殺低。航運/能源逆勢受惠。美債ETF避險。高息ETF若大跌反而是中期布局機會。台積電7/17財報前可能先蹲後跳。等待局勢明朗再決定加碼方向。"
+    }
   }
 }
