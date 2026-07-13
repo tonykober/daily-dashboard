@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-13",
+  "categories": {
+    "ai": [
+      {"title": "Apple訴訟關鍵證據曝光：前工程師訊息「LOL我發現我可以存取」", "url": "https://economictimes.indiatimes.com/news/new-updates/apple-sues-openai-after-ex-engineers-lol-i-found-out-i-can-access-message-becomes-key-evidence-in-explosive-trade-secrets-battle/articleshow/132343092.cms", "source": "Economic Times", "desc": "Apple訴訟揭示前工程師Chang Liu內部訊息成為關鍵證據。顯示其在離職後仍存取Apple機密系統。OpenAI被指系統性地利用面試流程獲取競爭情報"},
+      {"title": "Apple vs OpenAI深度解析：AI硬體戰爭的8個關鍵事實", "url": "https://finance.yahoo.com/technology/ai/articles/8-things-know-apple-lawsuit-175633067.html", "source": "Yahoo Finance", "desc": "Apple與OpenAI從2024合作夥伴變法庭對手。Apple新Siri改用Gemini。OpenAI收購io Products(Jony Ive)開發AI裝置。400+前Apple員工現任職OpenAI"},
+      {"title": "美國三天空襲300+目標：AI軍事應用和國防科技受關注", "url": "https://cryptobriefing.com/us-iran-strikes-bitcoin-crypto-market-impact/", "source": "Crypto Briefing", "desc": "美軍7/9-7/11對伊朗進行現代史最密集轟炸之一。精準打擊能力展示AI導引武器和情報分析系統的進步。國防AI股可能受益"},
+      {"title": "Accenture+Google Cloud推中型企業AI Agent：$3-30億營收公司適用", "url": "https://solutionsreview.com/ai-news-for-the-week-of-july-10-updates-from-accenture-google-cloud-supermicro-more/", "source": "Solutions Review", "desc": "預建agentic AI方案針對中型企業。降低AI部署門檻。AI從大企業向中型市場加速滲透的信號"}
+    ],
+    "gaming": [
+      {"title": "LEGO大金剛街機台洩漏：$200、1,367片、8月上市", "url": "https://www.polygon.com/lego-donkey-kong-leak/", "source": "Polygon", "desc": "Nintendo和LEGO合作的Donkey Kong Arcade Set在Reddit洩漏。致敬1981年經典街機。迷你街機台造型，預計充滿隱藏機關。45週年紀念"},
+      {"title": "Ubisoft年報警告：遊戲太晚發售同樣有風險", "url": "https://www.gamefile.news/p/ubisoft-2026-annual-report-changes", "source": "Game File", "desc": "Ubisoft在年報中新增「遊戲發行太晚」的風險因素。當市場期待消退且不再符合競爭標準時，晚發也會傷害成績。反思延期策略的限度"},
+      {"title": "本週新作：Ascend to Zero(時間操控roguelite)+The Alters DLC", "url": "https://www.polygon.com/new-game-releases-july-13/", "source": "Polygon", "desc": "7/13-7/19本週發售：Ascend to Zero(Xbox Game Pass首日)30秒時停roguelite、The Alters Last Variable DLC、多款獨立恐怖合作遊戲"},
+      {"title": "Simpsons配音員對AI保護聲音採取法律行動", "url": "https://www.gamereactor.eu/news/", "source": "Gamereactor", "desc": "為Burns先生/Ned Flanders配音的Harry Shearer已諮詢律師，研究如何在死後保護其聲音不被AI使用。配音員vs AI的權利之爭持續"}
+    ],
+    "tech": [
+      {"title": "🔴荷姆茲海峽正式關閉：油輪通行量崩跌至戰前零頭", "url": "https://www.thenationalnews.com/business/energy/2026/07/12/shipping-through-hormuz-collapses-as-iran-closes-strait/", "source": "The National", "desc": "伊朗IRGC週日正式宣布海峽關閉後，油輪通行量崩跌。兩艘商船試圖通過被攔截。全球20%石油運輸路線實質癱瘓"},
+      {"title": "伊朗擴大攻擊波灣五國：約旦/巴林/科威特/卡達/阿曼均遭打擊", "url": "https://indianexpress.com/article/world/us-iran-war-live-updates-strait-of-hormuz-closed-trump-airstrikes-10782491/", "source": "Indian Express", "desc": "伊朗不僅關閉海峽，更向美國盟友發動攻擊。局勢從美伊雙邊衝突升級為區域戰爭。為2月開戰以來最嚴重升級"},
+      {"title": "美國堅稱海峽仍開放：與伊朗對海峽控制權各執一詞", "url": "https://www.nbcnews.com/world/iran/trump-threatens-iran-attempt-assassinate-open-calls-killing-khamenei-rcna434515", "source": "NBC News", "desc": "五角大廈堅持荷姆茲海峽「仍然開放」。美國中央司令部週末再度出擊回應伊朗攻擊商船。實質上海峽處於交戰狀態"},
+      {"title": "Goldman Sachs恢復$100油價預測：荷姆茲關閉重置供應風險", "url": "https://www.techtimes.com/articles/320220/20260712/iran-re-closes-hormuz-after-striking-cargo-ship-goldman-100-oil-forecast-returns.htm", "source": "TechTimes", "desc": "Goldman Sachs在伊朗宣布海峽關閉後恢復Brent $100/桶預測。此前因6月停火曾下調至$75。供應風險全面回歸"}
+    ],
+    "crypto": [
+      {"title": "BTC在美伊密集交火中保持$63,800：週末唯一定價地緣風險的市場", "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes", "source": "CoinDesk", "desc": "傳統市場週末休市，BTC成為唯一即時反映美伊衝突的大型市場。價格在$61,688-$64,000區間波動。週漲幅+2%顯示韌性"},
+      {"title": "伊朗用BTC和USDT收取荷姆茲海峽通行費：加密成為地緣工具", "url": "https://cryptobriefing.com/gulf-bourses-subdued-us-iran-exchange-strikes/", "source": "Crypto Briefing", "desc": "伊朗自3月起用BTC/USDT/人民幣收取海峽通行費。被制裁政府將加密貨幣「武器化」為國家收入工具。美國已制裁伊朗交易所Nobitex"},
+      {"title": "波灣股市受壓：約旦/巴林/科威特/卡達/阿曼遭伊朗攻擊", "url": "https://cryptobriefing.com/gulf-bourses-subdued-us-iran-exchange-strikes/", "source": "Crypto Briefing", "desc": "伊朗攻擊波灣五國後當地股市承壓。避險情緒升溫但加密市場相對穩定。BTC作為「數位黃金」敘事在地緣危機中受考驗"},
+      {"title": "BTC地緣避險屬性爭論：$62K-$64K區間震盪等待方向", "url": "https://www.fool.com/investing/2026/07/11/the-iran-ceasefire-is-over-which-cryptocurrencies/", "source": "Motley Fool", "desc": "分析師辯論BTC在戰爭中是避險還是風險資產。短線跟跌但快速恢復。伊朗不持有BTC也無大量挖礦。中期走勢取決於油價通膨傳導"}
+    ],
+    "dev": [
+      {"title": "Slack Agentic Testing方法論：AI根據意圖而非腳本執行測試", "url": "https://www.infoq.com/architecture-design/news/", "source": "InfoQ", "desc": "Slack工程團隊分享intent-based端對端測試。AI agent能適應UI和系統變更，減少分散式系統中的脆弱測試。補充而非取代傳統策略"},
+      {"title": "WordPress 7.1 Beta週期本週啟動：7/15 Beta 1", "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/", "source": "WordPress", "desc": "WordPress 7.0的AI基礎架構(AI Client/Abilities API)持續演進。7.1 Beta 1(7/15)→每週Beta→8/19正式版。開發者需提前測試"},
+      {"title": "AWS DevOps Agent新增AI驅動的Release Management：部署前自動驗證程式碼", "url": "https://www.infoq.com/development/news/", "source": "InfoQ", "desc": "AWS擴展DevOps Agent能力，新增AI驅動的release management功能。能在程式碼進入生產前自動驗證。CI/CD流程進一步AI化"},
+      {"title": "虛擬物品市場年交易數十億：開發者需理解3D化身經濟", "url": "https://sdtimes.com/", "source": "SD Times", "desc": "主要平台用戶年購買18億件化身物品。40%月活用戶參與。3D資產開發、虛擬經濟設計成為遊戲和社交平台的核心技能"}
+    ],
+    "art": [
+      {"title": "LEGO大金剛街機台：1981年經典街機的實體藝術致敬", "url": "https://www.videogameschronicle.com/news/nintendos-next-major-lego-set-is-a-200-donkey-kong-arcade-machine/", "source": "VGC", "desc": "1,367片LEGO重現45年前的經典街機造型。迷你化復古街機台設計展現LEGO+Nintendo的產品藝術美學。預計充滿隱藏互動機關"},
+      {"title": "Simpsons配音員捍衛聲音權：AI時代的表演藝術保護", "url": "https://www.gamereactor.eu/news/", "source": "Gamereactor", "desc": "Harry Shearer(Burns先生/Ned Flanders配音)正諮詢法律團隊保護死後聲音不被AI複製。聲音表演作為藝術創作的智財權保護議題"},
+      {"title": "Meta Muse事件一週後：AI圖像生成工具的創作者保護標準確立", "url": "https://www.hollywoodreporter.com/business/digital/meta-pulls-opt-out-ai-tool-hollywood-outrage-1236644312/", "source": "Hollywood Reporter", "desc": "Meta被迫撤除Muse Image他人照片功能已一週。事件確立AI工具必須opt-in保護創作者的產業標準。CAA/SAG-AFTRA的勝利"},
+      {"title": "復古遊戲保存運動：本週長期遺失的經典作品獲數位化保存", "url": "https://www.archyde.com/retro-recap-all-the-classic-gaming-news-from-the-past-week-july-12th-2026/", "source": "Archyde", "desc": "復古遊戲社群本週迎來意外驚喜：多款長期失傳的經典作品被重新發現並數位化保存。遊戲作為文化藝術品的保存工作持續"}
+    ],
+    "design": [
+      {"title": "LEGO Donkey Kong Arcade：產品設計如何致敬經典同時創造新玩法", "url": "https://insider-gaming.com/leaked-lego-donkey-kong-set-honors-nintendos-arcade-classic/", "source": "Insider Gaming", "desc": "桌上型街機台造型融合懷舊和互動設計。LEGO+Nintendo的設計語言：實體重現數位體驗的跨媒體產品設計思維"},
+      {"title": "Ubisoft的「適時發售」設計哲學：產品時機也是設計決策", "url": "https://www.gamefile.news/p/ubisoft-2026-annual-report-changes", "source": "Game File", "desc": "Ubisoft首次在年報警告「太晚發售」的風險。產品設計不只是做什麼，也包含何時交付。市場期待消退=設計價值折損"},
+      {"title": "荷姆茲危機的資訊設計：如何在即時事件中傳達複雜地緣訊息", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis", "source": "Wikipedia", "desc": "2026荷姆茲海峽危機已有Wikipedia專頁。即時事件的資訊架構/時間軸設計/多方敘事整合是資訊設計的重大挑戰"},
+      {"title": "Apple vs OpenAI：兩種產品設計哲學的世紀對決持續發酵", "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-openai-lawsuit-ai-device-trade-secrets-allegations-10782909/", "source": "Indian Express", "desc": "Apple的觸控優先vs OpenAI的AI優先硬體哲學。Tang Yew Tan從Apple VP到OpenAI硬體領導的轉向，代表設計產業典範轉移"}
+    ],
+    "business": [
+      {"title": "🔴伊朗攻擊波灣五國+正式關閉荷姆茲：區域戰爭升級", "url": "https://www.washingtonpost.com/world/2026/07/11/us-strikes-iran-it-declares-strait-hormuz-closed-fires-ship/", "source": "Washington Post", "desc": "美伊週日交換數月來最猛火力。伊朗攻擊約旦/巴林/科威特/卡達/阿曼。從雙邊衝突升級為區域戰爭。商業航運實質癱瘓"},
+      {"title": "Goldman Sachs恢復Brent $100預測：油價風險全面回歸", "url": "https://www.techtimes.com/articles/320220/20260712/iran-re-closes-hormuz-after-striking-cargo-ship-goldman-100-oil-forecast-returns.htm", "source": "TechTimes", "desc": "Goldman在6月停火時下調至$75，現因海峽關閉恢復$100預測。全球供應風險重新定價。能源股/航運股受益，消費股承壓"},
+      {"title": "亞洲週一開盤：日經+0.28%、Kospi+0.58%，但Reuters稱承壓", "url": "https://www.globalbankingandfinance.com/shares-slip-asia-oil-jumps-gulf-attacks/", "source": "Reuters/GBAF", "desc": "亞洲市場週一反應分歧。日韓小幅收漲但幅度有限。油價跳漲+通膨恐懼壓制風險偏好。台股/港股表現待觀察"},
+      {"title": "Brent +3.2%至~$78、WTI +3.4%至$74：油價重啟上漲", "url": "https://www.investing.com/commodities/brent-oil", "source": "Investing.com", "desc": "週一油價跳漲反映海峽關閉。Brent衝向$78，WTI盤中觸$74.19。若封鎖持續，$80-85甚至$100都有可能。5月封鎖時曾飆過$90"}
+    ],
+    "finance": [
+      {"title": "油價跳漲：Brent +3.2%、WTI +3.4%，Goldman重啟$100預測", "url": "https://www.investing.com/commodities/brent-oil", "source": "Investing.com", "desc": "Brent收~$78(+3.2%)、WTI收$74(+3.4%)。Goldman恢復$100目標價。若海峽持續關閉，5月的$90+歷史可能重演"},
+      {"title": "亞洲股市週一分歧：日經+0.28%、Kospi+0.58%但整體承壓", "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html", "source": "CNBC", "desc": "美股期貨小幅下跌。亞洲開盤初期分歧。投資人評估海峽關閉的實質影響vs談判重啟可能。能源股逆勢走強"},
+      {"title": "荷姆茲危機經濟影響：全球20%石油通道癱瘓的連鎖效應", "url": "https://247wallst.com/investing/2026/07/12/after-iran-says-strait-of-hormuz-is-closed-again-oils-risk-to-economy-rises-once-more/", "source": "247 Wall St", "desc": "每日約2100萬桶石油通過荷姆茲。關閉將推升全球通膨、壓縮消費支出、可能迫使各國央行調整利率政策。5月封鎖持續約3週"},
+      {"title": "BTC $63,800穩定：加密成為週末唯一定價地緣風險的大型市場", "url": "https://easternherald.com/2026/07/12/bitcoin-iran-strikes-crypto-resilient/", "source": "Eastern Herald", "desc": "傳統市場週末關閉時，BTC是唯一即時反映地緣事件的大型流動性市場。$62K-$64K區間顯示相對韌性。週一傳統市場開盤後方向待定"}
+    ]
+  }
+}
