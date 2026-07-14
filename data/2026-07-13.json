@@ -54,6 +54,59 @@
       {"title": "亞洲股市週一分歧：日經+0.28%、Kospi+0.58%但整體承壓", "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html", "source": "CNBC", "desc": "美股期貨小幅下跌。亞洲開盤初期分歧。投資人評估海峽關閉的實質影響vs談判重啟可能。能源股逆勢走強"},
       {"title": "荷姆茲危機經濟影響：全球20%石油通道癱瘓的連鎖效應", "url": "https://247wallst.com/investing/2026/07/12/after-iran-says-strait-of-hormuz-is-closed-again-oils-risk-to-economy-rises-once-more/", "source": "247 Wall St", "desc": "每日約2100萬桶石油通過荷姆茲。關閉將推升全球通膨、壓縮消費支出、可能迫使各國央行調整利率政策。5月封鎖持續約3週"},
       {"title": "BTC $63,800穩定：加密成為週末唯一定價地緣風險的大型市場", "url": "https://easternherald.com/2026/07/12/bitcoin-iran-strikes-crypto-resilient/", "source": "Eastern Herald", "desc": "傳統市場週末關閉時，BTC是唯一即時反映地緣事件的大型流動性市場。$62K-$64K區間顯示相對韌性。週一傳統市場開盤後方向待定"}
-    ]
+    ],
+    "stock_briefing": {
+      "date": "2026-07-14",
+      "updated_at": "2026-07-14 08:30",
+      "market": {
+        "taiex_prev_close": 45380,
+        "change": "+25.91 (+0.06%)",
+        "note": "7/13(一)加權收45,380(+25.91/+0.06%)。盤中一度衝高970點但尾盤全數回吐。市場對荷姆茲危機的反應比預期溫和（未低開），但韓國KOSPI暴跌9%形成新的壓力來源",
+        "risk_alert": "⚠️韓國KOSPI 7/13暴跌9%，3週跌27%進入技術性熊市。AI半導體估值泡沫恐慌蔓延。台股半導體權重高，今日恐受波及。7/17台積電法說是關鍵"
+      },
+      "sectors": [
+        {"name": "半導體", "trend": "跌 韓國KOSPI崩盤(-9%)拖累，AI泡沫質疑蔓延", "note": "SK Hynix/Samsung在韓暴跌。台積電7/17法說前短線承壓但基本面穩固"},
+        {"name": "航運/能源", "trend": "漲 荷姆茲關閉+油價跳漲持續利多", "note": "長榮/萬海/陽明受惠。台塑四寶跟隨油價"},
+        {"name": "電子權值", "trend": "跌 韓國賣壓+AI泡沫恐慌外溢", "note": "聯發科/日月光/鴻海跟隨半導體板塊壓力"},
+        {"name": "金融", "trend": "平 油價推升通膨預期有利淨利差但系統性風險壓制", "note": "觀察外資是否從亞洲全面撤出"},
+        {"name": "高股息ETF", "trend": "平偏跌 防禦性較強但仍受大盤拖累", "note": "殖利率提升吸引長線資金，短線仍跟隨"}
+      ],
+      "stocks": [
+        {"name": "2330 台積電", "price": 2420, "trend": "跌 韓國KOSPI崩盤外溢壓力+7/17法說前觀望", "nav": 227.15, "pb": 10.66, "pe": 16.83, "quarterLine": "季線約2380，離季線+1.7%", "suggestion": "持有，7/17法說前不追空"},
+        {"name": "0050 元大台灣50", "price": 106.8, "trend": "跌 跟隨大盤+韓國恐慌", "nav": 107.80, "premium": "-0.93%", "quarterLine": "季線約105，離季線+1.7%", "suggestion": "持有，接近季線可考慮加碼"},
+        {"name": "006208 富邦台50", "price": 247.0, "trend": "跌 跟隨大盤", "nav": 249.50, "premium": "-1.00%", "quarterLine": "季線約244，離季線+1.2%", "suggestion": "持有"},
+        {"name": "0056 元大高股息", "price": 52.3, "trend": "平偏跌 高息防禦", "nav": 52.80, "premium": "-0.95%", "quarterLine": "季線約52，離季線+0.6%", "suggestion": "持有，接近季線是布局區"},
+        {"name": "00878 國泰永續高息", "price": 33.0, "trend": "平偏跌 抗跌", "nav": 33.30, "premium": "-0.90%", "quarterLine": "季線約33，離季線0%", "suggestion": "持有，季線附近可加碼"},
+        {"name": "00919 群益精選高息", "price": 29.3, "trend": "平 最抗跌", "nav": 29.50, "premium": "-0.68%", "quarterLine": "季線約29.2，離季線+0.3%", "suggestion": "持有"},
+        {"name": "00929 復華高息", "price": 29.5, "trend": "平偏跌", "nav": 30.00, "premium": "-1.67%", "quarterLine": "季線約29.5，離季線0%", "suggestion": "持有"},
+        {"name": "00940 元大台灣價值高息", "price": 12.4, "trend": "平", "nav": 12.50, "premium": "-0.80%", "quarterLine": "季線約12.4，離季線0%", "suggestion": "觀望"},
+        {"name": "00892 富邦台灣半導體", "price": 22.0, "trend": "跌 半導體板塊受韓國崩盤拖累", "nav": 22.50, "premium": "-2.22%", "quarterLine": "季線約22，離季線0%", "suggestion": "持有，勿追空"},
+        {"name": "00891 中信關鍵半導體", "price": 23.5, "trend": "跌 半導體承壓", "nav": 24.00, "premium": "-2.08%", "quarterLine": "季線約23.5，離季線0%", "suggestion": "持有"},
+        {"name": "00982A 中信美國公債20+", "price": 9.50, "trend": "漲 避險需求持續", "nav": 9.45, "premium": "+0.53%", "quarterLine": "季線約9.3，離季線+2.2%", "suggestion": "持有，避險配置"},
+        {"name": "00981A 元大美債20+", "price": 31.0, "trend": "漲 避險", "nav": 30.80, "premium": "+0.65%", "quarterLine": "季線約30.2，離季線+2.6%", "suggestion": "持有"},
+        {"name": "00403A 中信15年期以上美債", "price": 31.7, "trend": "漲 避險買盤", "nav": 31.50, "premium": "+0.63%", "quarterLine": "季線約31，離季線+2.3%", "suggestion": "持有"},
+        {"name": "009816 FT美政府債", "price": 35.4, "trend": "漲 避險", "nav": 35.20, "premium": "+0.57%", "quarterLine": "季線約34.8，離季線+1.7%", "suggestion": "持有"}
+      ],
+      "institutional": {
+        "foreign": "7/13外資小幅買超（盤中衝高時進場）。但韓國崩盤後今日恐轉賣超",
+        "investment_trust": "投信持續買超高息ETF",
+        "dealer": "自營商觀望"
+      },
+      "sentiment": {
+        "score": 20,
+        "label": "極度恐懼",
+        "note": "韓國KOSPI暴跌9%(3週-27%)AI泡沫恐慌+荷姆茲關閉+油價飆漲。台股昨日意外守住但今日恐補跌。5月類似情境台股曾跌至42000"
+      },
+      "events": [
+        "⚠️韓國KOSPI 7/13暴跌9%，進入技術性熊市（3週跌27%）",
+        "⚠️AI半導體估值泡沫質疑深化：SK Hynix/Samsung領跌",
+        "荷姆茲海峽仍處於關閉狀態，油輪通行量崩跌",
+        "7/17(四) 台積電Q2法說會（本週最重要事件）",
+        "本週 ASML/TSM 國際半導體財報密集",
+        "Goldman $100油價預測+Brent已漲至$78",
+        "韓國$41億資金流入加密市場（逃離股市）"
+      ],
+      "summary": "⚠️雙重壓力日：韓國KOSPI暴跌9%的AI泡沫恐慌+荷姆茲持續關閉。台股昨日意外僅+0.06%（盤中衝高970點全數回吐），今日恐因韓國崩盤補跌。策略：半導體短線承壓但7/17台積電法說是轉折點。高息ETF在季線附近是中期布局區。美債ETF避險繼續持有。航運/能源是唯一逆勢板塊。不恐慌殺低，等台積電法說給方向。"
+    }
   }
 }
