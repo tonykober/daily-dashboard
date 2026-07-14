@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-14",
+  "categories": {
+    "ai": [
+      {"title": "Meta Iris AI晶片9月量產：目標2027年算力翻倍至14GW", "url": "https://www.straitstimes.com/business/companies-markets/meta-to-put-its-own-ai-chip-into-production-in-september-memo", "source": "Straits Times", "desc": "Meta內部備忘錄揭示代號Iris的自研AI晶片將於9月量產。與Broadcom合作設計、台積電代工。六週測試無重大問題。目標減少對Nvidia/AMD的依賴"},
+      {"title": "全球科技股因AI泡沫質疑承壓：韓國崩盤拖累Nasdaq期貨", "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/13/the-daily-chase-tech-stocks-under-pressure-on-ai-rally-doubts/", "source": "BNN Bloomberg", "desc": "SK Hynix和Samsung暴跌引發全球半導體賣壓。AI驅動的漲幅是否走得太快太遠的質疑正在蔓延。Nasdaq期貨承壓"},
+      {"title": "TCS將1.5%員工轉型為AI部署專家：印度IT業最大防禦行動", "url": "https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/", "source": "Financial Express", "desc": "TCS CEO宣布將1.5%員工轉為客戶端前線AI部署專家。自agentic AI興起以來印度IT業最大規模人力轉型。關乎數十萬人的技能重塑"},
+      {"title": "Man Group分析：AI交易從主題漲勢轉為戰術操作", "url": "https://www.man.com/insights/views-from-the-floor-2026-14-july", "source": "Man Group", "desc": "全球最大上市對沖基金Man Group指出AI交易已從廣泛主題轉為精細戰術。韓國是市場最過度延伸的角落。集中風險凸顯"}
+    ],
+    "gaming": [
+      {"title": "LEGO大金剛街機台詳情確認：可操控搖桿+滾動障礙物+移動Mario", "url": "https://kotaku.com/donkey-kong-lego-cabinet-retro-nintendo-2000715220", "source": "Kotaku", "desc": "洩漏照片確認更多細節：可動搖桿和按鈕、磚塊拼成的遊戲畫面（梯子/桶/槌子）。Mario可手動移動。比Pac-Man版更互動"},
+      {"title": "Palworld 1.0持續主導討論：4000萬玩家基礎+完整版新內容解析", "url": "https://games.gg/news/palworld-1-0-patch-notes-new/", "source": "Games.GG", "desc": "正式版上線後持續是本月最熱門話題。72新Pal+世界樹+Sunreach+翼背包+突變系統。Steam同時在線維持高峰"},
+      {"title": "本週新發售：Ascend to Zero+更多獨立恐怖合作遊戲", "url": "https://www.polygon.com/new-game-releases-july-13/", "source": "Polygon", "desc": "7/13週新作以Ascend to Zero(30秒時停roguelite/Xbox GP首日)領銜。洛夫克拉夫特風格火槍合作遊戲也在本週"},
+      {"title": "遊戲產業面對AI的分裂態度：聲優保護 vs 開發效率", "url": "https://www.gamereactor.eu/news/", "source": "Gamereactor", "desc": "Harry Shearer(Simpsons)正法律保護聲音不被AI複製。同時遊戲開發越來越依賴AI工具。產業在保護創作者權利和擁抱效率間掙扎"}
+    ],
+    "tech": [
+      {"title": "韓國KOSPI正式進入技術性熊市：從6月高點9385暴跌30%", "url": "https://www.ajupress.com/view/20260714074632530", "source": "AJU Press", "desc": "KOSPI 7/14(二)持續下跌，正式從6/19高點9,385跌30%進入熊市。半導體股領跌。AI繁榮是否已見頂的爭論白熱化"},
+      {"title": "SK Hynix -13%、Samsung -9%：記憶體股崩跌引發全球連鎖反應", "url": "https://www.tradingkey.com/analysis/stocks/more/262025472-kospi-samsung-skhynix-ai-adr-skhy-tradingkey", "source": "TradingKey", "desc": "剛在Nasdaq風光上市的SK Hynix在韓國暴跌13.35%至189萬韓圓。Samsung跌9.21%至25.87萬。ADR光環完全失效"},
+      {"title": "Trump提出荷姆茲海峽「美國控制」計畫", "url": "https://beincrypto.com/bitcoin-dips-trump-hormuz-control-plan/", "source": "BeInCrypto", "desc": "Trump提議美國直接控制荷姆茲海峽通行。DP World/UAE同時加速規劃繞過荷姆茲的港口路線。海峽地緣價值面臨結構性重估"},
+      {"title": "Brent原油突破$83：自5月封鎖以來最高", "url": "https://news.bitcoin.com/trump-torches-iran-ceasefire-as-brent-crude-tops-83-and-bitcoin-sinks-below-62k/", "source": "Bitcoin.com", "desc": "Brent衝破$83/桶，為5月荷姆茲封鎖以來最高。Goldman $100目標價看起來越來越可能。全球通膨壓力急劇回升"}
+    ],
+    "crypto": [
+      {"title": "BTC跌至$61,750：油價飆升+KOSPI崩盤雙重壓力", "url": "https://news.bitcoin.com/trump-torches-iran-ceasefire-as-brent-crude-tops-83-and-bitcoin-sinks-below-62k/", "source": "Bitcoin.com", "desc": "BTC跌破$62K至$61,750。Brent突破$83+韓國股市崩盤的風險資產全面承壓。DP World/UAE規劃繞過荷姆茲港口對長線有潛在利多"},
+      {"title": "韓國$41億資金從股市逃入加密：KOSPI崩盤的意外受益者", "url": "https://www.odaily.news/en/post/5211872", "source": "Odaily", "desc": "韓國散戶從暴跌的股市撤出$41億轉入加密市場。KOSPI觸發7次熔斷機制（今年）。散戶在股市和加密間快速輪動"},
+      {"title": "Trump提出荷姆茲控制計畫：地緣政治重塑全球貿易路線", "url": "https://beincrypto.com/bitcoin-dips-trump-hormuz-control-plan/", "source": "BeInCrypto", "desc": "Trump的海峽控制計畫+UAE繞道方案都可能長線改變全球石油和貿易路線。對依賴中東流量的加密基礎設施有間接影響"},
+      {"title": "BTC作為地緣避險失效？油價通膨傳導壓過數位黃金敘事", "url": "https://cryptobriefing.com/us-iran-air-strikes-crypto-market-impact/", "source": "Crypto Briefing", "desc": "BTC本週從$64K跌至$61.7K(-3.5%)。油價飆升→通膨→升息預期的傳導路徑正壓過「數位黃金」避險敘事。短線仍是風險資產"}
+    ],
+    "dev": [
+      {"title": "TCS建「AI軍隊」：1.5%員工轉型為前線AI部署專家", "url": "https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/", "source": "Financial Express", "desc": "TCS CEO Krithivasan宣布印度IT業最大AI人力轉型。將數千名員工從傳統服務轉為客戶端AI部署角色。開發者需理解的產業結構性變化"},
+      {"title": "開源維護者面臨AI生成PR洪流：程式碼品質和維護負擔激增", "url": "https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/", "source": "TechStartups", "desc": "開源專案維護者正在應對大量AI生成的pull request。品質參差、缺乏context理解。社群正討論如何在效率和品質間取得平衡"},
+      {"title": "WordPress 7.1 Beta 1明天(7/15)釋出：最後準備", "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/", "source": "WordPress", "desc": "明天是WordPress 7.1 Beta 1。開發者今天是最後的相容性測試日。AI Client和Abilities API持續演進中"},
+      {"title": "AI在安全關鍵產業的限制：無法承擔法律責任的技術瓶頸", "url": "https://hipther.com/latest-news/2026/07/13/114998/ai-dispatch-daily-trends-and-innovations-july-13-2026-chatgpt-magicschool-gpt-5-6-claude-chinas-ai-safety-benchmark-and-the-council-of-europe/", "source": "Hipther", "desc": "AI可處理技術文件和發現不一致，但無法為危險的建築決策承擔法律責任。安全關鍵產業中AI的價值取決於使用它的人的品質和問責能力"}
+    ],
+    "art": [
+      {"title": "LEGO大金剛街機確認可操控：磚塊角色可在遊戲場景中移動", "url": "https://www.gamesradar.com/toys-collectibles/leaked-lego-donkey-kong-set-looks-like-it-might-continue-a-trend-im-loving-so-far/", "source": "GamesRadar", "desc": "洩漏照確認Mario背後有操控桿可在場景中移動，桶也能滾動。延續LEGO Pac-Man街機的互動美術+實體遊戲設計路線"},
+      {"title": "韓國AI記憶體泡沫破裂對創意產業的啟示：過度估值的風險", "url": "https://www.chosun.com/english/market-money-en/2026/07/13/QTGZNSTYWZF73P7WX53Z6IDXIY/", "source": "Chosun", "desc": "KOSPI從9385跌30%的教訓。AI產業（包含創意工具）估值是否也過度膨脹？對AI美術工具公司估值的反思"},
+      {"title": "Simpsons配音員vs AI：聲音藝術的權利保護戰持續", "url": "https://www.gamereactor.eu/news/", "source": "Gamereactor", "desc": "Harry Shearer正式尋求法律保護死後聲音。聲音作為藝術表演的智慧財產權保護在AI時代成為核心議題"},
+      {"title": "Meta Iris晶片的設計哲學：6週測試完成的快速迭代模式", "url": "https://hwbusters.com/news/metas-in-house-iris-ai-chip-goes-into-production-this-september/", "source": "HWBusters", "desc": "Meta自研AI晶片Iris從測試到量產僅6週。展現科技巨頭在硬體設計上的快速迭代能力。與傳統晶片數年開發週期形成對比"}
+    ],
+    "design": [
+      {"title": "LEGO互動街機設計哲學：從Pac-Man到DK的實體遊戲體驗進化", "url": "https://www.t3.com/entertainment/lego/legos-next-retro-gaming-set-could-well-be-its-best-yet-major-leak-reveals-another-classic-coin-op-build", "source": "T3", "desc": "LEGO街機系列從2023 Pac-Man($270)到2026 DK($200)的設計演進。每代都增加互動性。跨媒體復古遊戲的實體產品設計學"},
+      {"title": "AI泡沫質疑下的產品設計反思：過度承諾vs實際交付", "url": "https://www.man.com/insights/views-from-the-floor-2026-14-july", "source": "Man Group", "desc": "Man Group指出AI從「主題漲勢」轉為「戰術操作」。對設計師意味著：AI工具的價值主張需從炒作回歸到真實的生產力提升證明"},
+      {"title": "DP World/UAE規劃繞過荷姆茲的新港口：全球物流設計重構", "url": "https://beincrypto.com/bitcoin-dips-trump-hormuz-control-plan/", "source": "BeInCrypto", "desc": "UAE加速規劃完全不經荷姆茲的貿易路線。基礎設施設計正因地緣風險而永久改變。供應鏈韌性成為設計核心考量"},
+      {"title": "TCS「AI部署專家」新角色設計：IT服務業的職能重新定義", "url": "https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/", "source": "Financial Express", "desc": "TCS定義全新職能「AI部署專家」：前線進駐客戶、理解業務流程、將AI模型落地。服務設計從代碼交付轉為AI導入顧問"}
+    ],
+    "business": [
+      {"title": "韓國KOSPI進入熊市：從6月高點暴跌30%，AI泡沫質疑深化", "url": "https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html", "source": "CNBC", "desc": "KOSPI從6/19高點9,385跌至7/14約6,500(-30%)正式進入熊市。曾是2026全球最強市場。單股槓桿產品加劇波動。AI盈利峰值疑慮"},
+      {"title": "Brent原油突破$83：Goldman $100目標價接近一半路程", "url": "https://news.bitcoin.com/trump-torches-iran-ceasefire-as-brent-crude-tops-83-and-bitcoin-sinks-below-62k/", "source": "Bitcoin.com", "desc": "Brent從6月停火時$75飆升至$83(+10.7%)。Goldman $100目標意味著還有20%上行空間。能源股持續受益。消費/航空承壓"},
+      {"title": "Meta自研晶片9月量產：AI基建軍備競賽加劇", "url": "https://www.cnbc.com/2026/07/09/meta-to-put-ai-chip-into-production-in-september-report.html", "source": "CNBC", "desc": "Meta年度AI基建支出高達$1,450億。自研Iris晶片是降低Nvidia依賴的戰略舉措。超級雲端玩家(Meta/Google/Amazon)都在自研晶片"},
+      {"title": "Trump提出「美國控制荷姆茲」計畫：地緣政治重塑全球貿易", "url": "https://beincrypto.com/bitcoin-dips-trump-hormuz-control-plan/", "source": "BeInCrypto", "desc": "Trump在海峽關閉後提議美國直接控制通行。同時UAE加速建設繞過荷姆茲的替代路線。石油運輸版圖可能永久改變"}
+    ],
+    "finance": [
+      {"title": "KOSPI正式熊市(-30%)：全球AI半導體估值重估進行中", "url": "https://www.ajupress.com/view/20260714074632530", "source": "AJU Press", "desc": "KOSPI 7/14持續下挫。SK Hynix ADR上市僅4天即在韓暴跌13%。半導體盈利峰值疑慮+槓桿產品清算+外資撤離三重壓力"},
+      {"title": "Brent $83+、全美汽油逼近$4：通膨壓力急劇回升", "url": "https://news.bitcoin.com/trump-torches-iran-ceasefire-as-brent-crude-tops-83-and-bitcoin-sinks-below-62k/", "source": "Bitcoin.com", "desc": "油價自5月封鎖以來最高。若持續上漲將迫使Fed重新考慮利率路徑。CPI數據和Fed決策將成為焦點"},
+      {"title": "BTC跌破$62K至$61,750：油價通膨壓過避險敘事", "url": "https://cryptobriefing.com/us-iran-air-strikes-crypto-market-impact/", "source": "Crypto Briefing", "desc": "BTC本週從$64K跌至$61.7K(-3.5%)。市場正在定價：油價↑→通膨↑→升息預期↑→風險資產全面承壓的傳導鏈"},
+      {"title": "韓國$41億資金逃入加密：散戶棄股轉幣的極端輪動", "url": "https://www.odaily.news/en/post/5211872", "source": "Odaily", "desc": "KOSPI觸發今年第7次熔斷。韓國散戶$41億從股市轉入加密。極端恐慌下的資金流動反映市場結構脆弱性"}
+    ]
+  }
+}
