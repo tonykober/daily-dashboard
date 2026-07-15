@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-15",
+  "categories": {
+    "ai": [
+      {"title": "Meta Hyperion：路易斯安那$500億AI資料中心成為產業規模競賽新標桿", "url": "https://hipther.com/latest-news/2026/07/14/115093/ai-dispatch-microsoft-satya-nadella-meta-hyperion-acuitymd-simform-truemorph-and-the-ai-workforce-july-14-2026/", "source": "Hipther", "desc": "Meta將路易斯安那AI資料中心升級為超過$500億的Hyperion計畫。AI競賽已變成能源、土地、晶片和資本的工業規模競爭"},
+      {"title": "Meta Iris晶片9月量產確認：目標減少對Nvidia依賴", "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/", "source": "TechCrunch", "desc": "在GPU元件嚴重短缺的背景下，Meta加速自研晶片時程。Iris與Broadcom合作設計、台積電代工。2026年AI基建支出達$1,450億"},
+      {"title": "AI CapEx放緩擔憂消退：Meta算力翻倍計畫提振信心", "url": "https://ng.investing.com/news/stock-market-news/us-chip-stocks-rebound-tracking-china-semiconductor-rally-2592465", "source": "Investing.com", "desc": "Meta計畫7GW→14GW算力擴張消除了AI投資放緩的疑慮。此前Bloomberg報導Meta將出租資料中心算力曾引發市場恐慌"},
+      {"title": "TCS建「AI軍隊」：印度IT業最大規模AI人力轉型啟動", "url": "https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/", "source": "Financial Express", "desc": "TCS將1.5%員工轉為客戶端AI部署專家。agentic AI興起後IT服務業面臨根本性轉型壓力。數千人的技能重塑正在進行"}
+    ],
+    "gaming": [
+      {"title": "LEGO大金剛街機台更多細節確認：可互動操控+8月上市$200", "url": "https://kotaku.com/donkey-kong-lego-cabinet-retro-nintendo-2000715220", "source": "Kotaku", "desc": "1,367片LEGO重現1981年經典街機。可動搖桿/按鈕、滾動桶障礙物、可移動Mario。與2023年Pac-Man版($270)形成系列。45週年紀念"},
+      {"title": "Palworld 1.0首週持續火爆：Steam維持高同時在線", "url": "https://games.gg/news/palworld-1-0-patch-notes-new/", "source": "Games.GG", "desc": "正式版上線一週後持續為本月最熱門遊戲。72新Pal+世界樹+Sunreach浮空島+翼背包飛行。4000萬玩家基礎穩固"},
+      {"title": "本週遊戲發售中期：Ascend to Zero + 洛夫克拉夫特風格合作遊戲", "url": "https://www.polygon.com/new-game-releases-july-13/", "source": "Polygon", "desc": "時間操控roguelite Ascend to Zero(Xbox GP首日)表現中等。下週重頭戲：Splatoon Raiders(7/23)+Halo Campaign Evolved(7/28)"},
+      {"title": "遊戲業AI態度持續分裂：Simpsons配音員尋求法律保護聲音", "url": "https://www.gamereactor.eu/news/", "source": "Gamereactor", "desc": "Harry Shearer(Burns先生/Ned Flanders)正式諮詢法律團隊。遊戲/動畫產業在AI效率和創作者保護間的張力持續升高"}
+    ],
+    "tech": [
+      {"title": "🟢美國6月CPI大幅下降0.4%：2020年4月以來最大月跌幅", "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html", "source": "CNBC", "desc": "CPI月減0.4%（預期-0.2%），年率降至3.5%（預期3.8%/前值4.2%）。核心CPI月持平，年率2.6%（預期2.9%）。Fed升息壓力大幅緩解"},
+      {"title": "美國國債收益率因CPI數據急跌：升息預期顯著降溫", "url": "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html", "source": "CNBC", "desc": "6月CPI遠低於預期後國債收益率急跌。此前因油價上漲市場擔心7月升息，但CPI數據大幅緩解該擔憂。利率敏感類股受益"},
+      {"title": "Meta $500億Hyperion資料中心：AI基建進入能源規模競爭", "url": "https://hipther.com/latest-news/2026/07/14/115093/ai-dispatch-microsoft-satya-nadella-meta-hyperion-acuitymd-simform-truemorph-and-the-ai-workforce-july-14-2026/", "source": "Hipther", "desc": "AI競賽不再只是模型和演算法，而是能源(14GW)、土地、晶片和資本的工業規模基建戰。Meta/Google/Microsoft三巨頭各投千億美元"},
+      {"title": "油價WTI突破$80：儘管CPI利好，荷姆茲危機仍推升能源價格", "url": "https://247wallst.com/investing/2026/07/14/stock-market-live-july-14-2026-sp-500-spy-regaining-lost-ground-on-inflation-report/", "source": "247 Wall St", "desc": "WTI升至$80.05(+$1.86)。CPI的下降主要反映6月油價低迷，但7月荷姆茲關閉後油價已重新飆升。未來CPI可能反彈"}
+    ],
+    "crypto": [
+      {"title": "BTC因CPI利好從$62.5K飆升至$64.9K：單日漲4.2%", "url": "https://news.bitcoin.com/bitcoin-bulls-drive-btc-near-65000-despite-middle-east-strikes-as-shorts-collapse/", "source": "Bitcoin.com", "desc": "CPI低於預期→升息壓力消退→風險資產全面反彈。BTC從$62,500低點急漲至$64,913。空單大量清算。加密市值重回$2.3兆+"},
+      {"title": "ETH單日漲6.1%至$1,875：CPI數據引爆山寨幣反彈", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/14/crypto-market-today-july-14-ethereum-soars-6-on-cooler-inflation-data/", "source": "Motley Fool", "desc": "ETH表現優於BTC(+6.1% vs +4.2%)。SOL +2.8%。Curve DAO +10.8%。CPI利好壓制升息預期，利差敏感的DeFi資產漲幅最大"},
+      {"title": "美國政府將$3億被扣押加密資產轉入Coinbase Prime", "url": "https://99bitcoins.com/news/bitcoin-btc/crypto-news-today-july-14-btc-stuck-under-63k-us-government-moves-300m-in-seized-crypto-to-coinbase-prime-and-robinhood-chain-becomes-a-top-5-network/", "source": "99Bitcoins", "desc": "美政府將近$3億BTC和ETH轉入Coinbase Prime平台。市場猜測可能準備出售。但CPI利好已壓過該利空消息"},
+      {"title": "Fed升息預期因CPI大幅降溫：7月升息機率急跌", "url": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes", "source": "CoinDesk", "desc": "CPI前市場定價7月升息機率曾升至60%+。數據公布後急跌。對加密等風險資產是重大利多。但油價持續上漲為未來CPI埋下隱患"}
+    ],
+    "dev": [
+      {"title": "WordPress 7.1 Beta 1今日釋出：AI基礎架構持續演進", "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/", "source": "WordPress", "desc": "WordPress 7.1 Beta 1正式上線。AI Client/Abilities API/Command Palette從7.0延續進化。8/19正式版配合WordCamp US。開發者開始測試"},
+      {"title": "開源維護者面對AI生成PR洪流：品質和維護負擔激增", "url": "https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/", "source": "TechStartups", "desc": "大量AI生成的pull request衝擊開源專案。品質參差、缺乏context。社群正建立新的貢獻品質標準和自動篩選機制"},
+      {"title": "TCS前線AI部署專家：IT服務業職能根本性重定義", "url": "https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/", "source": "Financial Express", "desc": "TCS定義新職能：進駐客戶現場、理解業務流程、將AI模型落地的「AI部署專家」。軟體開發者的角色正從寫碼轉向AI導入顧問"},
+      {"title": "AI在安全關鍵產業的法律責任瓶頸：誰為AI決策負責？", "url": "https://hipther.com/latest-news/2026/07/13/114998/ai-dispatch-daily-trends-and-innovations-july-13-2026-chatgpt-magicschool-gpt-5-6-claude-chinas-ai-safety-benchmark-and-the-council-of-europe/", "source": "Hipther", "desc": "AI可加速文件處理和發現不一致，但無法承擔法律責任。安全關鍵領域（建築/醫療/航空）的AI部署仍受限於問責機制"}
+    ],
+    "art": [
+      {"title": "LEGO大金剛街機：從數位到實體的跨媒體復古美學", "url": "https://www.gamesradar.com/toys-collectibles/leaked-lego-donkey-kong-set-looks-like-it-might-continue-a-trend-im-loving-so-far/", "source": "GamesRadar", "desc": "LEGO用磚塊重現像素風格遊戲畫面。DK/Jumpman/Pauline角色造型。延續Pac-Man街機系列的互動實體遊戲美術設計哲學"},
+      {"title": "AI泡沫質疑對創意工具估值的影響：KOSPI -30%的產業反思", "url": "https://www.chosun.com/english/market-money-en/2026/07/13/QTGZNSTYWZF73P7WX53Z6IDXIY/", "source": "Chosun", "desc": "韓國AI股暴跌30%引發估值反思。AI美術/設計工具公司是否也面臨類似風險？從泡沫到回歸基本面的轉折"},
+      {"title": "Meta Hyperion：AI基建的工業美學——$500億打造的數據殿堂", "url": "https://hipther.com/latest-news/2026/07/14/115093/ai-dispatch-microsoft-satya-nadella-meta-hyperion-acuitymd-simform-truemorph-and-the-ai-workforce-july-14-2026/", "source": "Hipther", "desc": "超大型資料中心已不只是工程設施，更是品牌表達。Meta命名為Hyperion(太陽神之父)，規模和野心可比建築藝術"},
+      {"title": "聲音藝術保護：Simpsons配音員vs AI複製的權利戰持續", "url": "https://www.gamereactor.eu/news/", "source": "Gamereactor", "desc": "Harry Shearer正式推動法律保護死後聲音不被AI使用。聲音表演作為藝術創作的智慧財產保護在AI時代成為焦點議題"}
+    ],
+    "design": [
+      {"title": "CPI數據視覺化：-0.4%月跌幅如何改變Fed政策預期的設計溝通", "url": "https://www.cnbc.com/2026/07/14/inflation-saw-biggest-monthly-decline-in-6-years-what-wall-street-is-saying.html", "source": "CNBC", "desc": "6年最大月跌幅的CPI數據需要清晰的視覺溝通設計。華爾街分析師如何將複雜經濟數據轉化為可操作的投資訊號"},
+      {"title": "AI資料中心的規模設計：從MW到GW的基礎設施思維躍升", "url": "https://hipther.com/latest-news/2026/07/14/115093/ai-dispatch-microsoft-satya-nadella-meta-hyperion-acuitymd-simform-truemorph-and-the-ai-workforce-july-14-2026/", "source": "Hipther", "desc": "AI基建從百MW級升至14GW(14,000MW)的設計挑戰。能源、冷卻、土地、網路的系統設計思維。Meta Hyperion是新標竿"},
+      {"title": "LEGO互動街機系列的產品設計演進：Pac-Man→DK", "url": "https://www.t3.com/entertainment/lego/legos-next-retro-gaming-set-could-well-be-its-best-yet-major-leak-reveals-another-classic-coin-op-build", "source": "T3", "desc": "從Pac-Man($270/2023)到DK($200/2026)的設計進化。更平價+更互動。LEGO持續探索實體+數位體驗融合的產品設計"},
+      {"title": "TCS「AI部署專家」：IT服務業角色設計的典範轉移", "url": "https://www.financialexpress.com/life/technology-tech-ai-news-today-tcs-is-building-ai-army-nadella-shares-new-paradox-and-samsung-hikes-prices-4290414/", "source": "Financial Express", "desc": "從「程式碼交付」到「AI落地顧問」的角色重設計。TCS的新職能定義可能成為全球IT服務業的範本"}
+    ],
+    "business": [
+      {"title": "🟢美國6月CPI -0.4%：6年最大月跌幅，通膨壓力意外大幅緩解", "url": "https://www.cnbc.com/2026/07/14/inflation-saw-biggest-monthly-decline-in-6-years-what-wall-street-is-saying.html", "source": "CNBC", "desc": "年率3.5%(預期3.8%/前值4.2%)。2020年4月以來最大月降。Fed升息壓力大幅消退。但注意：此為6月數據，7月荷姆茲油價飆升尚未反映"},
+      {"title": "美股週二反彈：S&P +0.38%(7543)、Nasdaq +0.9%(26107)", "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html", "source": "CNBC", "desc": "CPI利好推動市場收復前日跌幅。晶片股反彈領漲。但油價WTI仍在$80+。週一曾因KOSPI崩盤+荷姆茲跌S&P -0.79%/Nasdaq -1.55%"},
+      {"title": "Meta Hyperion $500億資料中心：AI基建軍備競賽工業化", "url": "https://hipther.com/latest-news/2026/07/14/115093/ai-dispatch-microsoft-satya-nadella-meta-hyperion-acuitymd-simform-truemorph-and-the-ai-workforce-july-14-2026/", "source": "Hipther", "desc": "Meta在路易斯安那的計畫升級為$500億+。Big Tech年度AI支出合計超$7,000億。規模和能源需求已是工業級別"},
+      {"title": "油價WTI $80+：CPI利好 vs 荷姆茲危機持續的拉鋸", "url": "https://247wallst.com/investing/2026/07/14/stock-market-live-july-14-2026-sp-500-spy-regaining-lost-ground-on-inflation-report/", "source": "247 Wall St", "desc": "CPI低主要反映6月油價低迷時期。7月荷姆茲關閉後油價重新飆升至$80+。下月CPI恐因油價反彈而回升。通膨前景不確定"}
+    ],
+    "finance": [
+      {"title": "🟢CPI大驚喜：年率3.5%(預期3.8%)、月率-0.4%(預期-0.2%)", "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html", "source": "CNBC", "desc": "核心CPI年率2.6%(預期2.9%)也低於預期。6年最大月降幅。Fed 7月升息機率大幅下降。國債收益率急跌。利率敏感資產全面受益"},
+      {"title": "美股收盤：S&P +0.38%(7,543)、Nasdaq +0.9%(26,107)、Dow +0.02%(52,508)", "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html", "source": "CNBC", "desc": "CPI數據公布後市場全面反彈。科技/晶片股領漲。收復前日因KOSPI崩盤+荷姆茲造成的跌幅。但油價仍在$80+壓制進一步上行"},
+      {"title": "BTC +4.2%至$64,900、ETH +6.1%：CPI利好引爆風險資產反彈", "url": "https://news.bitcoin.com/bitcoin-bulls-drive-btc-near-65000-despite-middle-east-strikes-as-shorts-collapse/", "source": "Bitcoin.com", "desc": "加密市場對CPI數據反應劇烈。BTC從$62.5K急漲至$64.9K。空單大規模清算。加密市值重回$2.3兆。升息預期降溫=流動性改善預期"},
+      {"title": "Fed升息預期大幅降溫：國債收益率急跌，7月升息機率驟降", "url": "https://www.fxstreet.com/analysis/us-cpi-report-quietens-fed-rate-hike-expectations-202607141410", "source": "FXStreet", "desc": "CPI前市場曾因油價擔心7月升息(60%+機率)。數據後急降。但分析師警告：6月數據=油價低時期，7月CPI恐因荷姆茲反彈"}
+    ]
+  }
+}
