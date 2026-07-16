@@ -54,6 +54,59 @@
       {"title": "美股收盤：S&P +0.38%(7,543)、Nasdaq +0.9%(26,107)、Dow +0.02%(52,508)", "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html", "source": "CNBC", "desc": "CPI數據公布後市場全面反彈。科技/晶片股領漲。收復前日因KOSPI崩盤+荷姆茲造成的跌幅。但油價仍在$80+壓制進一步上行"},
       {"title": "BTC +4.2%至$64,900、ETH +6.1%：CPI利好引爆風險資產反彈", "url": "https://news.bitcoin.com/bitcoin-bulls-drive-btc-near-65000-despite-middle-east-strikes-as-shorts-collapse/", "source": "Bitcoin.com", "desc": "加密市場對CPI數據反應劇烈。BTC從$62.5K急漲至$64.9K。空單大規模清算。加密市值重回$2.3兆。升息預期降溫=流動性改善預期"},
       {"title": "Fed升息預期大幅降溫：國債收益率急跌，7月升息機率驟降", "url": "https://www.fxstreet.com/analysis/us-cpi-report-quietens-fed-rate-hike-expectations-202607141410", "source": "FXStreet", "desc": "CPI前市場曾因油價擔心7月升息(60%+機率)。數據後急降。但分析師警告：6月數據=油價低時期，7月CPI恐因荷姆茲反彈"}
-    ]
+    ],
+    "stock_briefing": {
+      "date": "2026-07-16",
+      "updated_at": "2026-07-16 08:30",
+      "market": {
+        "taiex_prev_close": 45632,
+        "change": "+893.64 (+2.00%)",
+        "note": "7/15(三)加權收45,631.59(+893.64/+2.00%)。CPI利好推動強勢反彈！收復前日大部分跌幅。盤中最高45,881。成交量$984億。美股隔夜Nasdaq +0.9%帶動買氣",
+        "risk_alert": "🟡明日(7/17)台積電Q2法說會！今日為法說前最後交易日，可能出現觀望或提前佈局行情。法說結果將決定後續方向"
+      },
+      "sectors": [
+        {"name": "半導體", "trend": "漲 CPI利好+法說前期待買盤", "note": "台積電明日法說是最大催化劑。若業績+展望優於預期→台股可能重回46000-47000"},
+        {"name": "航運/能源", "trend": "漲 荷姆茲仍關閉但漲幅收斂（油價暫穩）", "note": "前幾日急漲後短線可能整理"},
+        {"name": "電子權值", "trend": "漲 跟隨半導體+CPI利好", "note": "聯發科/鴻海跟隨大盤反彈"},
+        {"name": "金融", "trend": "漲 CPI降溫暫緩升息壓力", "note": "Fed升息機率下降=金融股壓力減輕"},
+        {"name": "高股息ETF", "trend": "漲 前日恐慌低點反彈+殖利率吸引買盤", "note": "昨日跌破季線的ETF多已反彈回來"}
+      ],
+      "stocks": [
+        {"name": "2330 台積電", "price": 2440, "trend": "漲 法說前樂觀預期", "nav": 227.15, "pb": 10.74, "pe": 16.97, "quarterLine": "季線約2380，離季線+2.5%", "suggestion": "持有（明日法說決定方向）"},
+        {"name": "0050 元大台灣50", "price": 107.5, "trend": "漲 反彈至季線上方", "nav": 108.00, "premium": "-0.46%", "quarterLine": "季線約105，離季線+2.4%", "suggestion": "持有"},
+        {"name": "006208 富邦台50", "price": 248.5, "trend": "漲", "nav": 250.00, "premium": "-0.60%", "quarterLine": "季線約244，離季線+1.8%", "suggestion": "持有"},
+        {"name": "0056 元大高股息", "price": 52.5, "trend": "漲 反彈回季線", "nav": 52.80, "premium": "-0.57%", "quarterLine": "季線約52，離季線+1.0%", "suggestion": "持有（昨日加碼者已獲利）"},
+        {"name": "00878 國泰永續高息", "price": 33.2, "trend": "漲 反彈回季線上方", "nav": 33.40, "premium": "-0.60%", "quarterLine": "季線約33，離季線+0.6%", "suggestion": "持有"},
+        {"name": "00919 群益精選高息", "price": 29.4, "trend": "漲 反彈", "nav": 29.55, "premium": "-0.51%", "quarterLine": "季線約29.2，離季線+0.7%", "suggestion": "持有"},
+        {"name": "00929 復華高息", "price": 29.5, "trend": "漲 折價收窄", "nav": 29.90, "premium": "-1.34%", "quarterLine": "季線約29.5，離季線0%", "suggestion": "持有"},
+        {"name": "00940 元大台灣價值高息", "price": 12.4, "trend": "漲", "nav": 12.50, "premium": "-0.80%", "quarterLine": "季線約12.4，離季線0%", "suggestion": "觀望"},
+        {"name": "00892 富邦台灣半導體", "price": 22.0, "trend": "漲 半導體反彈", "nav": 22.40, "premium": "-1.79%", "quarterLine": "季線約22，離季線0%", "suggestion": "持有（法說後再評估）"},
+        {"name": "00891 中信關鍵半導體", "price": 23.5, "trend": "漲", "nav": 23.90, "premium": "-1.67%", "quarterLine": "季線約23.5，離季線0%", "suggestion": "持有"},
+        {"name": "00982A 中信美國公債20+", "price": 9.50, "trend": "平 CPI後收益率下降但避險需求暫緩", "nav": 9.48, "premium": "+0.21%", "quarterLine": "季線約9.3，離季線+2.2%", "suggestion": "持有"},
+        {"name": "00981A 元大美債20+", "price": 31.0, "trend": "平", "nav": 30.85, "premium": "+0.49%", "quarterLine": "季線約30.2，離季線+2.6%", "suggestion": "持有"},
+        {"name": "00403A 中信15年期以上美債", "price": 31.7, "trend": "平", "nav": 31.55, "premium": "+0.48%", "quarterLine": "季線約31，離季線+2.3%", "suggestion": "持有"},
+        {"name": "009816 FT美政府債", "price": 35.4, "trend": "平", "nav": 35.25, "premium": "+0.43%", "quarterLine": "季線約34.8，離季線+1.7%", "suggestion": "持有"}
+      ],
+      "institutional": {
+        "foreign": "7/15外資轉買超（CPI利好吸引資金回流亞洲）。法說前可能持續偏多",
+        "investment_trust": "投信持續買超高息ETF+台積電",
+        "dealer": "自營商由賣轉買"
+      },
+      "sentiment": {
+        "score": 35,
+        "label": "恐懼偏中性",
+        "note": "從7/14極度恐懼(15)快速回升至35。CPI利好+台股大漲2%改善情緒。但荷姆茲仍關閉+KOSPI仍在熊市→完全復甦需等台積電法說確認"
+      },
+      "events": [
+        "🔥7/17(四) 台積電Q2法說會（明日！本週最重要事件）",
+        "7/15 台股大漲893點(+2.00%)收復CPI利好",
+        "美國6月CPI -0.4%(年率3.5%)遠低於預期，Fed升息壓力大減",
+        "荷姆茲海峽仍然關閉，油價WTI ~$80",
+        "韓國KOSPI仍在熊市但跌幅收窄",
+        "美股 Nasdaq +0.9%/S&P +0.38%帶動亞洲"
+      ],
+      "summary": "🟢轉折確認中：CPI利好推動台股大漲2%收復失地。7/14盤中恐慌低點43,654確認為短線底部。高息ETF多已反彈回季線（昨日加碼者獲利）。今日重點：法說前最後佈局日。台積電若明日法說業績+展望優於預期，台股有望重回46,000-47,000。策略：持有不減碼，法說前可適度加碼台積電和半導體ETF。美債避險持續持有但急迫性下降。"
+    }
   }
+}
 }
