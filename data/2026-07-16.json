@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-16",
+  "categories": {
+    "ai": [
+      {"title": "ASML Q2大幅超越預期：營收€93.3億，全年展望上調至€430-450億", "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html", "source": "CNBC", "desc": "ASML Q2營收€93.3億(估€88億)、淨利€29.2億(估€26.2億)、毛利率54%。全年展望從€360-400億大幅上調至€430-450億。AI晶片需求「不減反增」"},
+      {"title": "ASML承諾產能擴張：緩解AI晶片生產瓶頸擔憂", "url": "https://ca.investing.com/news/stock-market-news/asml-capacity-upgrade-soothes-ai-chip-bottleneck-fears-4734995", "source": "Reuters/Investing.com", "desc": "ASML不僅上調展望，更承諾擴充產能因應AI需求。此舉直接回應市場對「生產瓶頸可能拖慢AI發展」的擔憂。半導體設備供應鏈全面受益"},
+      {"title": "S&P 500距歷史新高僅0.5%：AI基建投資信心恢復", "url": "https://www.latimes.com/business/story/2026-07-15/stocks-rise-within-0-5-of-their-record-even-as-oil-prices-keep-climbing", "source": "LA Times", "desc": "儘管油價持續攀升，S&P 500仍在AI信心和CPI利好推動下逼近6月初的歷史高點。市場選擇聚焦AI成長而非地緣風險"},
+      {"title": "Meta Hyperion $500億+AI資料中心：Big Tech年度AI支出合計$7,000億+", "url": "https://hipther.com/latest-news/2026/07/14/115093/ai-dispatch-microsoft-satya-nadella-meta-hyperion-acuitymd-simform-truemorph-and-the-ai-workforce-july-14-2026/", "source": "Hipther", "desc": "Meta/Google/Microsoft/Amazon的AI基建支出已達工業規模。Meta單家$1,450億。ASML財報證實需求端確實強勁，支撐千億投資合理性"}
+    ],
+    "gaming": [
+      {"title": "Splatoon Raiders玩法深度解析：系列首款動作RPG設計確認", "url": "https://www.techtimes.com/articles/320416/20260714/splatoon-raiders-gameplay-breakdown-confirms-franchise-first-action-rpg-design.htm", "source": "TechTimes", "desc": "遠征後回到隱藏號船艦：Shiver經營道具工坊、Frye管理武器庫。Spirhalite碎片為主要貨幣。深層RPG升級系統+噴墨射擊的創新融合"},
+      {"title": "Splatoon Raiders 7/23上市倒數一週：店內試玩機台已開放", "url": "https://gonintendo.com/contents/62461-splatoon-raiders-demo-available-via-in-store-kiosks", "source": "GoNintendo", "desc": "Nintendo在零售店設置Switch 2試玩台展示Splatoon Raiders。數位/實體雙版本均可預購。7/23全球同步發售"},
+      {"title": "LEGO大金剛街機台持續引發話題：8月$200上市確認", "url": "https://games.gg/news/lego-donkey-kong-arcade-machine-set/", "source": "Games.GG", "desc": "1,367片重現1981年經典。可動搖桿+滾動桶+移動Mario。45週年紀念。跟隨Pac-Man街機系列的互動LEGO復古遊戲路線"},
+      {"title": "Palworld 1.0一週年持續火爆：世界樹+突變系統維持玩家留存", "url": "https://games.gg/news/palworld-1-0-patch-notes-new/", "source": "Games.GG", "desc": "正式版首週結束，Steam同時在線仍維持高位。72新Pal+新區域+新機制的內容量足以支撐長期遊玩。4000萬玩家基礎穩固"}
+    ],
+    "tech": [
+      {"title": "美國重新對伊朗實施海軍封鎖+發動更多空襲", "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-15-2026-b7c592f269d822407dd6b5641602bf25", "source": "AP News", "desc": "美國恢復對伊朗港口的海軍封鎖並加強空襲。Trump稱因伊朗未遵守6月備忘錄而必須採取「強硬行動」。荷姆茲海峽仍處於交戰狀態"},
+      {"title": "Brent原油突破$85-86：Houthis威脅關閉Bab el-Mandeb（$200油價警告）", "url": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907", "source": "NDTV", "desc": "胡塞武裝威脅若沙特繼續攻擊葉門將關閉Bab el-Mandeb海峽。若兩條海峽同時關閉油價可能飆至$200。全球能源供應風險進一步升級"},
+      {"title": "Trump放棄荷姆茲20%通行費計畫：改為與波灣國家簽投資協議", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/", "source": "CBS News", "desc": "Trump原計劃對通過荷姆茲的貨物收取20%費用遭航運業反對後放棄。改為與波灣國家簽署貿易和投資協議。地緣策略持續演變"},
+      {"title": "ASML業績證實AI晶片需求不減：High NA技術里程碑達成", "url": "https://www.techtimes.com/articles/320630/20260715/asml-commits-record-capacity-surge-ai-drives-biggest-guidance-raise-year.htm", "source": "TechTimes", "desc": "ASML的High NA EUV光刻機已達產能里程碑。年度指引上調幅度為歷年最大(+€70-90億)。直接受益台積電/Samsung/Intel先進製程"}
+    ],
+    "crypto": [
+      {"title": "BTC突破$65,500：$2.09億空單被清算，市值重回$1.3兆", "url": "https://news.bitcoin.com/bitcoin-tops-65500-as-209-million-in-crypto-shorts-collapse-across-markets/", "source": "Bitcoin.com", "desc": "BTC在CPI利好+S&P逼近新高的推動下突破$65,500。兩天從$62.5K漲至$65.5K(+5%)。$2.09億空單被清算。加密市場全面反彈"},
+      {"title": "BTC從伊朗衝擊中完全復甦：重回6月底高點", "url": "https://news.bitcoin.com/bitcoin-reclaims-65000-after-iran-selloff/", "source": "Bitcoin.com", "desc": "BTC完成V型反轉：從荷姆茲危機低點$61.7K(7/13)回升至$65.5K(7/15)。兩天漲幅+6%。顯示加密市場對地緣事件的消化速度加快"},
+      {"title": "近$10億代幣被銷毀：山寨幣價值保存機制受關注", "url": "https://en.bitcoinsistemi.com/live/live-july-15-2026-bitcoin-and-crypto-news-daily-highlights/", "source": "Bitcoin Sistemi", "desc": "加密市場重大里程碑：近$10億代幣被銷毀。通縮機制在市場恢復階段獲得更多關注。但某平台也傳出被駭導致交易暫停"},
+      {"title": "加密平台遭駭：損失慘重、交易暫停中", "url": "https://en.bitcoinsistemi.com/live/live-july-15-2026-bitcoin-and-crypto-news-daily-highlights/", "source": "Bitcoin Sistemi", "desc": "一加密貨幣平台報告遭受嚴重駭客攻擊，導致大量損失並暫停所有交易。安全事件在市場復甦中形成局部利空"}
+    ],
+    "dev": [
+      {"title": "WordPress 7.1 Beta 1正式上線：AI Client+Abilities API演進中", "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/", "source": "WordPress", "desc": "7/15 Beta 1如期釋出。WordPress 7.0的AI基礎架構持續演進。每週Beta更新直到月底，8/19正式版配合WordCamp US"},
+      {"title": "ASML產能擴張對開發者的意義：AI晶片供應鏈瓶頸有望緩解", "url": "https://ca.investing.com/news/stock-market-news/asml-capacity-upgrade-soothes-ai-chip-bottleneck-fears-4734995", "source": "Reuters", "desc": "ASML擴產=更多先進晶片=雲端GPU更充足=開發者訓練/推理成本可能下降。AI開發的算力瓶頸中期有望改善"},
+      {"title": "台積電7/17法說會：開發者關注AI晶片產能和定價展望", "url": "https://www.taiwannews.com.tw/en/news/6400736", "source": "Taiwan News", "desc": "明日台積電法說不僅影響股市。其AI晶片產能規劃、先進製程定價、CoWoS封裝產能都直接影響AI開發的算力成本和可用性"},
+      {"title": "Splatoon Raiders的RPG系統設計：遊戲開發中的類型融合挑戰", "url": "https://www.techtimes.com/articles/320416/20260714/splatoon-raiders-gameplay-breakdown-confirms-franchise-first-action-rpg-design.htm", "source": "TechTimes", "desc": "Nintendo首次將Splatoon射擊核心與RPG升級系統融合。道具工坊/武器庫/貨幣系統的設計。對獨立開發者的類型融合參考價值"}
+    ],
+    "art": [
+      {"title": "Splatoon Raiders視覺風格：噴墨射擊+海盜寶藏的美術世界觀", "url": "https://www.nintendo.com/us/whatsnew/splatoon-raiders-direct-spills-the-ink-on-the-treasure-filled-adventure-coming-to-nintendo-switch-2/", "source": "Nintendo", "desc": "Deep Cut三人組(Shiver/Frye/Big Man)的海盜音樂家角色設計。Spirhalite群島的神秘環境美術。Switch 2硬體展現的視覺進化"},
+      {"title": "ASML EUV光刻機：晶片製造的工業藝術", "url": "https://www.techtimes.com/articles/320630/20260715/asml-commits-record-capacity-surge-ai-drives-biggest-guidance-raise-year.htm", "source": "TechTimes", "desc": "每台價值$3.5億+的High NA EUV光刻機是人類精密工程的極致。光學系統需奈米級精度。工業設計和微觀藝術的交匯"},
+      {"title": "LEGO互動街機系列的美術哲學：用磚塊重現像素時代", "url": "https://games.gg/news/lego-donkey-kong-arcade-machine-set/", "source": "Games.GG", "desc": "LEGO用實體磚塊模擬數位像素風格遊戲畫面。梯子/桶/槌子都以磚塊構成。懷舊美學的跨媒體物質化"},
+      {"title": "S&P距新高0.5%的市場情緒：恐懼與貪婪的視覺表達", "url": "https://www.latimes.com/business/story/2026-07-15/stocks-rise-within-0-5-of-their-record-even-as-oil-prices-keep-climbing", "source": "LA Times", "desc": "市場在油價飆升和AI利好間拉鋸卻仍逼近歷史高點。金融數據視覺化如何捕捉這種矛盾的市場心理"}
+    ],
+    "design": [
+      {"title": "Splatoon Raiders的UI/UX設計：射擊+RPG雙系統的介面挑戰", "url": "https://www.techtimes.com/articles/320416/20260714/splatoon-raiders-gameplay-breakdown-confirms-franchise-first-action-rpg-design.htm", "source": "TechTimes", "desc": "如何在快節奏射擊中整合RPG道具/升級/貨幣系統？隱藏號船艦的基地UI設計。Nintendo如何讓複雜系統保持Splatoon的輕鬆調性"},
+      {"title": "Trump「取消通行費改簽投資協議」：政策設計的快速迭代", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/", "source": "CBS News", "desc": "從20%通行費→航運業反對→改為投資協議。政策設計也需要用戶(產業)反饋驅動的敏捷迭代。設計思維在公共政策中的應用"},
+      {"title": "ASML的產品設計哲學：$3.5億/台的極致精密工程", "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html", "source": "CNBC", "desc": "High NA EUV光刻機代表人類精密設計的天花板。光學/機械/軟體的完美整合。ASML如何設計出全球最昂貴且無可替代的產品"},
+      {"title": "金融資訊設計：當S&P距新高0.5%但油價也在飆升時如何呈現", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/15/stock-market-today-july-15-markets-rise-on-cooler-inflation-and-strong-earnings-start/", "source": "Motley Fool", "desc": "CPI利好vs油價飆升的矛盾敘事。財經媒體如何設計資訊架構讓讀者理解複雜多因素市場。數據敘事設計的挑戰"}
+    ],
+    "business": [
+      {"title": "ASML Q2爆發：年度展望上調€70-90億（AI需求不減反增）", "url": "https://www.globalbankingandfinance.com/asml-tops-q2-estimates-ai-chip-demand/", "source": "GBAF/Reuters", "desc": "ASML全年營收展望從€360-400億上調至€430-450億(中位數+16%)。毛利率54-56%。AI驅動的半導體設備需求為有史以來最強"},
+      {"title": "S&P 500距歷史新高僅0.5%：油價和AI利好同時推動", "url": "https://www.latimes.com/business/story/2026-07-15/stocks-rise-within-0-5-of-their-record-even-as-oil-prices-keep-climbing", "source": "LA Times", "desc": "S&P 7,572(+0.38%)、Nasdaq 26,269(+0.62%)、Dow 52,659(+0.29%)。連續三日收漲。ASML業績+CPI利好推動。明日台積電法說"},
+      {"title": "美國重新對伊朗實施海軍封鎖：Brent衝$85-86", "url": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html", "source": "CNBC", "desc": "美國恢復海軍封鎖並持續空襲。Brent $84.95(+$0.22)、WTI $79.60(+$0.26)。Houthis威脅關閉第二條海峽(Bab el-Mandeb)"},
+      {"title": "Trump取消荷姆茲20%通行費：改與波灣國家簽投資協議", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/", "source": "CBS News", "desc": "航運業強烈反對20%費用後Trump改弦更張。轉向與阿聯酋等波灣國家簽訂直接投資和貿易協議。地緣商業策略持續演變"}
+    ],
+    "finance": [
+      {"title": "美股連三漲：S&P 7,572(+0.38%)、Nasdaq 26,269(+0.62%)、Dow 52,659(+0.29%)", "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html", "source": "CNBC", "desc": "ASML業績爆發+CPI利好持續發酵。S&P距6月歷史高點僅0.5%。通訊類股領漲+2.69%。明日焦點：台積電Q2法說"},
+      {"title": "ASML股價因上調展望反跌：「買消息賣事實」？", "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html", "source": "CNBC", "desc": "ASML業績大幅超越但股價收跌。市場在已充分反映利好後出現獲利了結。半導體股整體也因此波動。但基本面毫無疑問強勁"},
+      {"title": "Brent $85、WTI $79.60：美國重啟封鎖令油價維持高位", "url": "https://www.worldoil.com/news/2026/7/15/oil-tops-85-as-u-s-intensifies-strikes-on-iran/", "source": "World Oil", "desc": "Brent連三日上漲衝破$85。美國加強空襲+重啟海軍封鎖。Houthis威脅再關一條海峽。油價高位對消費和通膨形成持續壓力"},
+      {"title": "BTC $65,500+：完成V型反轉，$209M空單被清算", "url": "https://news.bitcoin.com/bitcoin-tops-65500-as-209-million-in-crypto-shorts-collapse-across-markets/", "source": "Bitcoin.com", "desc": "BTC從7/13低點$61.7K到7/15的$65.5K完成V型反轉(+6%)。CPI利好+S&P逼近新高帶動風險偏好。升息預期降溫=流動性改善"}
+    ]
+  }
+}
