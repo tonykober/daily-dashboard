@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-18",
+  "categories": {
+    "ai": [
+      {"title": "AI股全球性崩跌加深：Kioxia從高點跌50%、TSMC再跌3%、日經-5%", "url": "https://www.latimes.com/business/story/2026-07-17/sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping", "source": "LA Times", "desc": "AI贏家的賣壓在週五進一步加深並拖累全球股市。日經跌超5%。TSMC儘管營收年增68%仍再跌3%。Kioxia從上月紀錄高點崩跌50%+"},
+      {"title": "Alphabet延遲AI模型發布：加劇市場對AI估值的質疑", "url": "https://paraliatradingdesk.substack.com/p/daily-brief-july-17-goog-explodes", "source": "Paralia Trading", "desc": "Google原定6月發布的AI模型延遲。工程師被要求用AI寫程式碼但算力不足。Q1 Capex $357億(年增翻倍)。2027年預計更高。下週GOOG財報"},
+      {"title": "TSMC Capex上調引發半導體板塊大跌~4%", "url": "https://the-bell-club.beehiiv.com/p/friday-july-17th-2026", "source": "The Bell Club", "desc": "TSMC Capex $640億的消息讓市場擔心AI投資回報問題。半導體板塊當日跌約4%。然而盤面底下Consumer Staples +2.9%/Healthcare +2.21%→輪動中"},
+      {"title": "AI泡沫vs需求真實：市場在估值修正和需求強勁間掙扎", "url": "https://www.binance.com/si-LK/square/post/07-17-2026-ai-stocks-are-cratering-as-us-iran-war-is-escalating-so-why-is-bitcoin-holding-345659002204034", "source": "Binance", "desc": "AI股崩跌+美伊戰爭升級，但BTC相對持穩。市場正在重新定價：AI需求確實強勁(TSMC/ASML證實)但估值已過度反映未來多年成長"}
+    ],
+    "gaming": [
+      {"title": "Splatoon Raiders下週三(7/23)上市：Switch 2旗艦作最終倒數", "url": "https://www.techtimes.com/articles/320416/20260714/splatoon-raiders-gameplay-breakdown-confirms-franchise-first-action-rpg-design.htm", "source": "TechTimes", "desc": "距上市僅5天。系列首款動作RPG。Deep Cut海盜團+Spirhalite群島探索。Switch 2首批重磅獨佔大作之一"},
+      {"title": "Halo: Campaign Evolved 7/28上市倒數10天（7/23搶先體驗）", "url": "https://www.gamesradar.com/video-game-release-dates/", "source": "GamesRadar", "desc": "Halo CE忠實重製+擴展版。HD畫面/4人Co-op/3個新關卡。Xbox/PS5/Steam。搶先體驗7/23與Splatoon同天"},
+      {"title": "LEGO大金剛街機8月上市：$200復古街機可互動遊玩", "url": "https://games.gg/news/lego-donkey-kong-arcade-machine-set/", "source": "Games.GG", "desc": "Nintendo x LEGO 45週年紀念。1367片/可動搖桿/滾動桶/移動Mario。延續Pac-Man街機系列"},
+      {"title": "Palworld 1.0持續吸引玩家：第二週留存率強勁", "url": "https://games.gg/news/palworld-1-0-patch-notes-new/", "source": "Games.GG", "desc": "正式版上線兩週後仍維持高熱度。世界樹/突變/翼背包提供持續遊玩深度。4000萬玩家基礎"}
+    ],
+    "tech": [
+      {"title": "美國對伊朗發動更多空襲：油價持續跳漲，中東航班取消", "url": "https://theanswerorlando.com/national/slumping-ai-stocks-drag-wall-street-lower-oil-prices-jump-as-us-launches-more-ai/65449e9565fba441a617f9517e097f5a", "source": "AP", "desc": "美軍週五再度空襲伊朗。油價持續攀升。多家航空公司取消中東航線。「三頭怪獸」：晶片賣壓+油價飆漲+Netflix暴跌同時打擊市場"},
+      {"title": "日經指數暴跌5%+：亞洲科技股領跌全球賣壓", "url": "https://invezz.com/au/news/2026/07/17/nikkei-225-leads-asian-markets-rout-as-tsmc-fails-to-restore-confidence/", "source": "Invezz", "desc": "TSMC創紀錄業績無法恢復市場信心。日經跌5%+領跌亞洲。韓國KOSPI持續熊市。全球科技股估值重估加速"},
+      {"title": "半導體估值修正：AI需求確認強勁但股價已過度反映", "url": "https://www.exchangerates.org.uk/news/46535/2026-07-17-global-markets-wrap-july-17-chip-stocks-tumble-as-nasdaq-slides-and-oil-prices-rise.html", "source": "Exchange Rates UK", "desc": "油價接近一個月高點+AI估值擔憂+美伊戰爭持續。投資人陷入AI需求確認vs估值過高的兩難。市場選擇先修正"},
+      {"title": "Netflix財報後暴跌10%：加劇科技股整體賣壓", "url": "https://international.schwab.com/story/stock-market-update-open", "source": "Schwab", "desc": "Netflix Q2財報不及預期跌10%。與晶片賣壓和油價上漲形成「三頭怪獸」共同壓制市場。防禦型板塊(必需品+醫療)逆勢走強"}
+    ],
+    "crypto": [
+      {"title": "BTC跌破$63K：AI股崩+油價漲+中東升級三重壓力", "url": "https://azat.tv/en/bitcoin-ethereum-prices-july-17-2026/", "source": "Azat TV", "desc": "BTC和ETH週五下跌。中東緊張+科技股賣壓+風險偏好下降。BTC從週中$65.5K高點回落至$63K以下。ETH也錄得顯著跌幅"},
+      {"title": "BTC在$63,500-$64,000技術支撐區整理：等待方向", "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-july-17-2026", "source": "KuCoin", "desc": "BTC突破$64K後未能產生持續買量，回落至支撐區。短線技術整理。市場觀望AI股賣壓是否見底和中東局勢演變"},
+      {"title": "AI股崩跌但BTC相對持穩：數位黃金敘事再度被討論", "url": "https://www.binance.com/si-LK/square/post/07-17-2026-ai-stocks-are-cratering-as-us-iran-war-is-escalating-so-why-is-bitcoin-holding-345659002204034", "source": "Binance", "desc": "AI股連續多日崩跌、日經-5%、Nasdaq -1.4%。但BTC僅微幅下跌。「為何AI崩盤+伊朗升級但BTC持穩？」成為熱門討論"},
+      {"title": "加密制裁效力持續：Tether凍結的$1.31億USDT影響分析", "url": "https://cryptobriefing.com/us-strikes-iran-bitcoin-drops-treasury-crypto-sanctions/", "source": "Crypto Briefing", "desc": "美財政部+Tether聯手凍結伊朗相關加密資產的案例效果分析。穩定幣的可封鎖性凸顯。去中心化金融的監管邊界持續演進"}
+    ],
+    "dev": [
+      {"title": "Alphabet AI模型延遲暴露：工程師算力不足無法用AI寫程式碼", "url": "https://paraliatradingdesk.substack.com/p/daily-brief-july-17-goog-explodes", "source": "Paralia Trading", "desc": "Google工程師被要求用AI生成程式碼但內部算力不足。AI開發工具的「吃自己狗糧」面臨基礎設施瓶頸。Big Tech自身也受算力限制"},
+      {"title": "WordPress 7.1 Beta第二週：社群回饋整合中", "url": "https://developer.wordpress.org/news/2026/07/whats-new-for-developers-july-2026/", "source": "WordPress", "desc": "Beta 1釋出後進入每週迭代。AI Client和Abilities API是核心焦點。社群回饋持續整合。8/19正式版"},
+      {"title": "TSMC Capex $640億對開發者的意義：短線算力仍緊、中線改善", "url": "https://xenospectrum.com/en/tsmc-q2-2026-record-margin-capex/", "source": "XenoSpectrum", "desc": "TSMC今年無新產能可分配但$640億Capex投入2nm+CoWoS。開發者短線仍面臨GPU短缺和高成本。2027年後可望改善"},
+      {"title": "市場輪動中的防禦型開發：消費品+醫療科技受關注", "url": "https://the-bell-club.beehiiv.com/p/friday-july-17th-2026", "source": "The Bell Club", "desc": "Consumer Staples +2.9%/Healthcare +2.2%逆勢領漲。資金從AI流向防禦型產業。醫療科技和消費品技術的開發需求可能逆週期成長"}
+    ],
+    "art": [
+      {"title": "Splatoon Raiders倒數5天：Switch 2上的噴墨視覺藝術", "url": "https://www.nintendo.com/us/whatsnew/splatoon-raiders-direct-spills-the-ink-on-the-treasure-filled-adventure-coming-to-nintendo-switch-2/", "source": "Nintendo", "desc": "海盜冒險主題的噴墨射擊美學。Spirhalite群島環境設計。Deep Cut角色的音樂家+海盜雙重形象塑造"},
+      {"title": "AI估值崩跌的視覺敘事：從9000到6000的KOSPI跌幅圖表", "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/17/asian-shares-sink-with-tokyo-down-more-than-5-as-slumping-ai-stocks-drag-world-markets-lower/", "source": "BNN Bloomberg", "desc": "全球AI股崩跌的視覺衝擊。從韓國KOSPI 9385→6500、日經-5%、Nasdaq -2.9%週跌幅。數據視覺化如何傳達市場恐慌"},
+      {"title": "LEGO復古街機的設計藝術：磚塊世界的互動遊戲美學持續", "url": "https://games.gg/news/lego-donkey-kong-arcade-machine-set/", "source": "Games.GG", "desc": "DK街機8月上市進入最終準備。用實體LEGO磚塊重現數位像素畫面。1981→2026的跨時代美術致敬"},
+      {"title": "防禦型板塊逆勢走強的品牌美學：日常消費品+醫療的設計力量", "url": "https://the-bell-club.beehiiv.com/p/friday-july-17th-2026", "source": "The Bell Club", "desc": "科技股暴跌時Consumer Staples +2.9%。日常品牌的設計和包裝在經濟不確定時期反而更受消費者信賴"}
+    ],
+    "design": [
+      {"title": "「三頭怪獸」的資訊設計：如何呈現多重同時衝擊的市場", "url": "https://international.schwab.com/story/stock-market-update-open", "source": "Schwab", "desc": "晶片賣壓+油價跳漲+Netflix暴跌三重打擊。財經媒體如何設計資訊層次讓讀者理解多因素同時作用的市場環境"},
+      {"title": "市場輪動的UX設計隱喻：從成長型到防禦型的用戶行為轉變", "url": "https://the-bell-club.beehiiv.com/p/friday-july-17th-2026", "source": "The Bell Club", "desc": "投資人從科技/AI轉向必需品/醫療的行為，類似用戶從新功能探索轉向核心功能的可靠性需求"},
+      {"title": "Splatoon Raiders上市前的行銷設計衝刺：店內試玩+數位預購", "url": "https://gonintendo.com/contents/62461-splatoon-raiders-demo-available-via-in-store-kiosks", "source": "GoNintendo", "desc": "Nintendo的上市行銷設計：實體店試玩機台體驗+數位/實體雙軌預購。在全球市場動盪中遊戲仍維持發售節奏"},
+      {"title": "全球科技估值重定價的設計思維：從「成長」到「價值」的框架轉換", "url": "https://www.latimes.com/business/story/2026-07-17/sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping", "source": "LA Times", "desc": "AI股從成長型估值轉向價值型重估。設計產業也面臨類似轉變：從「AI加持溢價」到「真正提升生產力的證明」"}
+    ],
+    "business": [
+      {"title": "美股週五收跌結束本週：S&P -1.01%、Nasdaq -1.40%、Dow -0.77%", "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html", "source": "CNBC", "desc": "S&P收7,457.69、Nasdaq 25,520、Dow 52,146。週跌幅：Nasdaq -2.9%、S&P -1.6%、Dow -0.9%。三週來首個負週。AI賣壓+油價+Netflix三重打擊"},
+      {"title": "AI股賣壓蔓延全球：日經-5%、TSMC再-3%、Kioxia -50%自高點", "url": "https://invezz.com/au/news/2026/07/17/nikkei-225-leads-asian-markets-rout-as-tsmc-fails-to-restore-confidence/", "source": "Invezz", "desc": "TSMC創紀錄業績無法止血。亞洲科技股全面崩跌。記憶體股跌幅最慘(Kioxia -50%/SK Hynix持續熊市)。AI投資回報質疑深化"},
+      {"title": "油價持續跳漲+航班取消：中東衝突經濟影響擴大", "url": "https://theanswerorlando.com/national/slumping-ai-stocks-drag-wall-street-lower-oil-prices-jump-as-us-launches-more-ai/65449e9565fba441a617f9517e097f5a", "source": "AP", "desc": "美軍週五再空襲伊朗。多家航空公司取消中東航線。油價繼續攀升。旅遊和運輸業直接受衝擊。通膨壓力再度升溫"},
+      {"title": "板塊輪動明顯：科技-1.77%/通訊-2.85% vs 必需品+2.9%/醫療+2.21%", "url": "https://the-bell-club.beehiiv.com/p/friday-july-17th-2026", "source": "The Bell Club", "desc": "極端的板塊分化。資金從AI/科技全面流出轉入防禦型板塊。市場並非全面恐慌而是結構性輪動。標誌AI交易暫時退潮"}
+    ],
+    "finance": [
+      {"title": "週收盤：S&P 7,458(-1.01%)、Nasdaq 25,520(-1.40%)、Dow 52,146(-0.77%)", "url": "https://www.barchart.com/story/news/3341879/how-major-us-stock-indexes-fared-friday-7-17-2026", "source": "Barchart", "desc": "本週：Nasdaq -2.9%、S&P -1.6%、Dow -0.9%。三週來首個負週。S&P創1週新低、Dow 2.5週低、Nasdaq 5週低"},
+      {"title": "全球科技股估值重定價中：從KOSPI -30%到日經-5%的亞洲熊潮", "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/17/asian-shares-sink-with-tokyo-down-more-than-5-as-slumping-ai-stocks-drag-world-markets-lower/", "source": "BNN Bloomberg", "desc": "亞洲AI股賣壓向全球蔓延。韓國KOSPI熊市(-30%)、日經暴跌、TSMC反跌。投資人質疑AI巨額投資的短期回報能力"},
+      {"title": "油價繼續跳漲：Brent $85+、中東航班取消、通膨壓力升", "url": "https://www.latimes.com/business/story/2026-07-17/sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping", "source": "LA Times", "desc": "美軍持續空襲伊朗。油價維持$85+高位。航空公司取消中東航線。若Bab el-Mandeb也被關閉(Houthis威脅)→$100+油價不是夢"},
+      {"title": "BTC $63K以下：科技股崩+油價漲的雙重壓力，但跌幅遠小於股市", "url": "https://azat.tv/en/bitcoin-ethereum-prices-july-17-2026/", "source": "Azat TV", "desc": "BTC週跌幅約3-4%遠小於Nasdaq -2.9%或日經-5%。「為何AI股崩盤但BTC持穩」成為焦點。加密與傳統科技股相關性可能在降低"}
+    ]
+  }
+}
