@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-20",
+  "categories": {
+    "ai": [
+      {"title": "中國Moonshot AI發布Kimi K3：2.8兆參數開源模型挑戰美國頂尖系統", "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html", "source": "CNBC", "desc": "Moonshot AI於7/16發布Kimi K3，2.8兆參數稀疏MoE架構(896專家中激活16個)、100萬token上下文。為史上最大開源模型，在coding benchmark上擊敗美國旗艦模型"},
+      {"title": "xAI推出Grok Automations：AI助手可自動排程執行重複任務", "url": "https://x.ai/news/grok-automations", "source": "xAI", "desc": "7/16上線。用戶描述任務一次、設定觸發條件(排程或email到達)，Grok自動執行。從聊天機器人進化為主動式AI助手。支援iOS/Android/Web"},
+      {"title": "OpenAI首款硬體產品Codex Micro：$230巨集鍵盤控制AI coding agent", "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-enters-hardware-with-codex-micro-10788753/", "source": "Indian Express", "desc": "與Work Louder合作。13機械鍵+旋鈕+搖桿+觸控感應器。專為Codex平台設計，讓開發者同時監控多個AI agent。Codex全球用戶近900萬。首批已售罄"},
+      {"title": "AI編碼工具2026現狀：從自動補全到自主Agent的激烈競爭", "url": "https://kingy.ai/blog/state-of-ai-coding-tools-2026/", "source": "Kingy AI", "desc": "市場已不再是簡單的autocomplete。IDE、終端機、GitHub、瀏覽器、code review各層都在爭奪開發者工作流。SWE-bench突破80%但集中在同一水平。計費從flat-rate轉向metered"}
+    ],
+    "gaming": [
+      {"title": "7/23將成為今夏最忙碌的遊戲日：Splatoon Raiders + Halo搶先體驗同日上線", "url": "https://www.polygon.com/july-23-video-game-releases/", "source": "Polygon", "desc": "Splatoon Raiders(Switch 2)為系列首款動作RPG，加上Halo: Campaign Evolved搶先體驗(PC/PS5/Xbox)。兩大旗艦同天對撞"},
+      {"title": "Halo: Campaign Evolved確認7/23搶先體驗、7/28正式發售", "url": "https://www.purexbox.com/guides/halo-campaign-evolved-release-date-release-times-and-early-access-details-for-xbox-and-pc", "source": "Pure Xbox", "desc": "Unreal Engine 5重製版。搶先體驗8am PDT開放(Premium Edition $69.99)。Game Pass用戶可$20升級。重新設計關卡+新增任務+4人Co-op"},
+      {"title": "Xbox下週新增26款遊戲：Planet Crafter(Game Pass)和Shift at Midnight", "url": "https://www.trueachievements.com/news/new-xbox-games-july-20-2026", "source": "True Achievements", "desc": "Planet Crafter(生存建造)7/21登陸Xbox+Game Pass。Shift at Midnight(動作)7/22。加上Halo 7/23。本週Xbox陣容豐富"},
+      {"title": "Splatoon Raiders最終預覽匯整：系列首款Roguelite式動作RPG獲好評", "url": "https://www.nintendolife.com/news/2026/07/round-up-the-final-previews-are-in-for-splatoon-raiders", "source": "Nintendo Life", "desc": "媒體試玩一致好評。打破系列傳統的raid-loot-upgrade循環。單人進度深度+co-op挑戰性兼具。距7/23上市剩3天"}
+    ],
+    "tech": [
+      {"title": "半導體股正式進入熊市：SOX指數自6月高點跌逾20%", "url": "https://finbold.com/semiconductor-stocks-enter-bear-market-is-bubble-burst-next/", "source": "Finbold", "desc": "7月累計跌幅超18%。儘管年初至今仍漲65%，已從獲利回吐轉為系統性風險預算收縮。AI投資回報質疑+中東油價+資金轉向價值股"},
+      {"title": "NDAA晶片出口管制法案之戰升溫：三大法案逼近國防授權法案", "url": "https://punchbowl.news/article/tech/ndaa-chips-fight-gets-real/", "source": "Punchbowl News", "desc": "三項重大出口管制法案正式搭載NDAA。對半導體產業衝擊波。限制AI晶片出口中國的立法進入最後階段"},
+      {"title": "油價Brent $88飆漲：美伊衝突升級+科威特設施遭攻擊+本週漲16%", "url": "https://www.indexbox.io/blog/oil-prices-surge-over-4-after-us-strikes-on-iran-and-strait-of-hormuz-closure/", "source": "IndexBox", "desc": "Brent收$88.10(+4.59%)、WTI $82.49(+4.48%)。科威特海水淡化廠遭伊朗攻擊。本週漲幅約16%。若紅海也被關閉→$100+不是夢"},
+      {"title": "Micron/Apple/AMD聯合承諾$430億+給供應商：產業從訂產能轉為融資產能", "url": "https://www.smartkarma.com/home/weekly-top-ten/tech-hardware-and-semiconductor/weekly-top-ten-tech-hardware-and-semiconductor-jul-19-2026/", "source": "SmartKarma", "desc": "半導體產業結構性轉變。大廠不再只是下訂單，而是直接融資供應商的產能建設。風險從供應商轉移到買方"}
+    ],
+    "crypto": [
+      {"title": "BTC穩守$64,500：恐懼貪婪指數脫離極度恐懼區域", "url": "https://blockchainreporter.net/crypto-market-today/", "source": "Blockchain Reporter", "desc": "7/19加密市場整體穩定。BTC $64,497、總市值約$2.3兆。情緒改善中。美伊衝突本週曾抹去$800億市值但已恢復"},
+      {"title": "CLARITY Act談判進入關鍵時刻：參議院8月休會前僅剩兩週窗口", "url": "https://cryptobriefing.com/clarity-act-negotiations-critical-week/", "source": "Crypto Briefing", "desc": "該法案定義數位資產歸SEC或CFTC管轄。眾議院2025年7月已通過(294-134)。參議院銀行委員會5/14通過(15-9)。7/20和7/27週為最後機會"},
+      {"title": "GENIUS Act滿一週年：監管機構錯過首個規則制定截止日", "url": "https://walletinvestor.com/news/crypto-news/us-regulators-miss-genius-act-deadline-as-clarity-act-nears-senate-floor-vote/", "source": "Wallet Investor", "desc": "穩定幣法已簽署一年但具體規則仍未定案。監管機構發布10項擬議規則但未有約束性版本。CLARITY Act即將進入參議院表決"},
+      {"title": "Bitcoin ETF連續兩週淨流入：BlackRock IBIT單日$136.5M領先", "url": "https://coinstats.app/news/c217b277fb4e9d711eeaf9a897a173d8d1643659fa3089706a3f25579626676d_Latest-Crypto-News-Update--July-19-2026", "source": "CoinStats", "desc": "7/17現貨ETF淨流入$132.3M，扭轉7/13的$424.7M流出。機構持續佈局長期部位。ETH $1,870附近。Quantum防禦和Polymarket鯨魚成話題"}
+    ],
+    "dev": [
+      {"title": "AI編碼工具半年大變局：Agent進入終端機和雲端、SWE-bench 80%但趨平", "url": "https://theaiengineer.substack.com/p/ai-coding-tools-what-changed-in-the", "source": "The AI Engineer", "desc": "6個月內AI coding tools從自動補全競爭轉為自主性競爭。每家主要廠商都出了自己的模型。計費從固定制轉計量制。採用率上升但信任度下降"},
+      {"title": "OpenAI Codex Micro實測：$230買的不是快捷鍵，是減少審批延遲的工具", "url": "https://www.techtimes.com/articles/320670/20260716/openai-codex-micro-ships-today-agent-keys-only-work-chatgpt-desktop.htm", "source": "TechTimes", "desc": "Agent Keys只能搭配ChatGPT Desktop使用。核心價值是縮短「Codex完成任務→開發者決策」間的死時間。13個低矮鍵+搖桿。目前僅支援Mac"},
+      {"title": "Kimi K3開源模型技術分析：MXFP4量化與社群意義", "url": "https://huggingface.co/blog/ResterChed/kimi-k3-model-overview-mxfp4-quantization-open-wei", "source": "Hugging Face", "desc": "7/16發布、7/27完整開源權重。2.8T參數為首個接近3兆級的開源模型。MXFP4量化讓推理成本大幅降低。MLOps社群的結構化技術概述"},
+      {"title": "2026年AI開發者工具全景：從IDE Copilot到自主多步驟Agent", "url": "https://letsdatascience.com/news/topic/ai-developer-tools", "source": "Let's Data Science", "desc": "涵蓋IDE copilot、CLI coding agent、自主多步驟agent、model API基礎設施。每個主要供應商都圍繞開發者工作流重新定價"}
+    ],
+    "art": [
+      {"title": "2026創意產業現狀調查：69%職業倦怠、86%使用AI但僅10%認為正面", "url": "https://www.creativeboom.com/news/the-state-of-the-creative-industry-2026-what-our-survey-tells-us-about-money-burnout-and-ai/", "source": "Creative Boom", "desc": "882位創意專業人士回應。中堅創作者倦怠率最高(77%)。AI採用率極高(86%)但幾乎無人認為AI對產業有正面影響。工作量增加但報酬未跟上"},
+      {"title": "插畫師定價調查2026：403位藝術家談日薪、授權費與僅20%覺得合理", "url": "https://www.creativeboom.com/insight/illustrator-pricing-in-2026/", "source": "Creative Boom", "desc": "日薪(day rate)不是主要問題——是授權費和使用範圍的談判。只有20%插畫師認為報酬公平。AI對市場價格形成下行壓力"},
+      {"title": "數位藝術趨勢2026：創作者如何回應AI壓力——擴展新媒體和技能", "url": "https://www.creativebloq.com/art/digital-art/digital-art-trends-2026-reveal-how-creatives-are-responding-to-ai-pressure", "source": "Creative Bloq", "desc": "藝術家正重塑自身——觸及新媒體、跨創意領域、學習新技能。2026是擴張之年。尋找AI無法取代的收入來源"},
+      {"title": "英國政府尋求平衡AI成長與創意產業版權保護", "url": "https://completeaitraining.com/news/uk-government-seeks-to-balance-ai-growth-with-creative/", "source": "Complete AI Training", "desc": "73%英國創作者表示AI已整合或不可或缺。42%認為AI讓他們對未來更安心。政府試圖在促進AI發展與保護創作者著作權間找到平衡"}
+    ],
+    "design": [
+      {"title": "2026 UX/UI設計三大力量：AI自適應介面、個人化減摩擦、無障礙基線化", "url": "https://agencypartner.com/ux-ui-design-trends-2026", "source": "Agency Partner", "desc": "AI讓介面具有生成式和自適應能力。用戶要求更多個人化但更少摩擦。無障礙和隱私從可選功能變為基本期望"},
+      {"title": "電力公司正用徵收權奪取土地建資料中心：70%美國人反對", "url": "https://fortune.com/section/artificial-intelligence/", "source": "Fortune", "desc": "AI資料中心對土地和電力的需求驅使電力公司動用eminent domain。七成美國人表示「不要在我家後院」。引發社區vs科技巨頭的新衝突"},
+      {"title": "MIT AI專家警告：自動化Z世代入門工作可能適得其反——企業將失去未來人才", "url": "https://fortune.com/section/artificial-intelligence/", "source": "Fortune", "desc": "AI取代入門級工作看似節省成本，但將切斷人才培養管道。企業需要重新設計職涯路徑和培訓系統"},
+      {"title": "NNGroup：UX 2026現狀——從裁員和AI炒作中穩定下來，差異化和商業影響力成關鍵", "url": "https://www.nngroup.com/articles/state-of-ux-2026/", "source": "NN/g", "desc": "UX領域經歷裁員潮和AI炒作後正在穩定。但差異化與證明商業影響力變得至關重要。UX團隊應報告商業成果而非活動量"}
+    ],
+    "business": [
+      {"title": "美股週跌：S&P -1.6%、Nasdaq -2.9%、半導體ETF(SMH)跌近9%", "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html", "source": "CNBC", "desc": "晶片股壓制市場情緒。VIX上升。SMH連續四週中第三週下跌。但90%已報告的S&P 500公司超出預期。本週財報季全面展開"},
+      {"title": "本週美股6大看點：Alphabet/GE Vernova/Capital One等重磅財報", "url": "https://www.cnbc.com/2026/07/19/here-are-the-6-big-things-were-watching-in-the-stock-market-this-week.html", "source": "CNBC", "desc": "財報季進入高峰。Alphabet(週三盤後)為AI資本回報關鍵測試。Tesla(週三)、TI(週三)、Intel(週四)。Capital One(週二)。GE Vernova(週三晨)"},
+      {"title": "半導體財報週：SOX熊市後，AI投資回報成為市場核心問題", "url": "https://ts2.tech/en/us-stock-market-outlook-earnings-to-be-tested-after-semiconductor-selloff/", "source": "TS2 Tech", "desc": "半導體股約跌10%。但9成S&P 500公司超出預期。市場需要GOOG/INTC/TXN的指引來判斷這輪修正是健康重估還是AI交易持續惡化"},
+      {"title": "晶片股崩跌引發槓桿交易擔憂：韓國投資人成全球焦點", "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/chip-stock-pullback-sparks-worries-about-ai-rally-strength-leveraged-trades/132477071", "source": "ET Manufacturing", "desc": "SOX週跌約10%為一年多來最大。槓桿交易和韓國散戶湧入AI股成為系統性風險。「我們現在都是韓國投資人了」—PineBridge基金經理"}
+    ],
+    "finance": [
+      {"title": "油價本週飆漲16%：Brent $88.10為一個月高點、美伊衝突全面升級", "url": "https://wenewsenglish.com/oil-ends-week-up-16pc-as-iran-conflict-escalates/", "source": "WeNews", "desc": "科威特設施遭伊朗攻擊。荷姆茲海峽持續關閉。美軍持續空襲。本週漲幅為近年罕見。若紅海也關閉將衝擊全球貿易航線"},
+      {"title": "Fed維持利率3.5%-3.75%：強勁經濟vs通膨風險的兩難", "url": "https://simplywall.st/news", "source": "Simply Wall St", "desc": "Fed官員態度分歧。部分強調經濟韌性和通膨風險不支持過早寬鬆。6月CPI利好已被7月油價飆漲抵消。高利率環境持續"},
+      {"title": "資金大轉向：成長基金週流出$71.8億、價值基金連三週流入$30億", "url": "https://www.patreon.com/BerryNews/posts/2026-7-18-daily-164137610", "source": "花花美股投資", "desc": "投資人正在降低久期、提高現金流確定性。債券基金吸引$98.9億。這不是個股輪動而是估值體制轉變。直接影響AI板塊估值中樞"},
+      {"title": "外匯與加密預測7/20-25：Brent $88、Fed鷹派壓金價、BTC整理中", "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-july-20-25-2026-1784470346", "source": "TalkMarkets", "desc": "地緣風險推升油價。ECB會議在即。EUR/USD整理。BTC和黃金在高利率+高油價環境中尋找方向。本週財報和央行政策為關鍵"}
+    ]
+  }
+}
