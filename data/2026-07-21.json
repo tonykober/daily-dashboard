@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-21",
+  "categories": {
+    "ai": [
+      {"title": "Kimi K3需求爆量暫停註冊：Moonshot AI GPU基礎設施不堪負荷", "url": "https://www.financialexpress.com/life/technology/daily-tech-and-ai-wrap-july-20-alibaba-qwen-3-8-max-taking-on-kimi-k3-apple-hiking-subscription-prices-and-more/4297472/", "source": "Financial Express", "desc": "2.8兆參數Kimi K3上線後需求完全吃掉GPU算力。被迫暫停新用戶註冊、拆分訂閱為通用和coding兩個獨立工作流。凸顯AI服務規模化的基礎設施挑戰"},
+      {"title": "AMD+Microsoft擴大戰略合作：Helios機架方案將為Azure AI推理提供動力", "url": "https://ir.amd.com/news-events/press-releases/detail/1291/microsoft-to-deploy-next-gen-amd-instinct-and-amd-epyc-processors-as-the-companies-expand-their-long-term-strategic-partnership", "source": "AMD", "desc": "7/20宣布。Microsoft將部署AMD Helios(MI455X GPU+Venice CPU+Pensando網路)。2026下半年出貨。正面挑戰Nvidia在AI推理的壟斷。AMD股價+1.6%"},
+      {"title": "Grok進入Excel：xAI推出免費Microsoft 365 Add-in", "url": "https://www.timesofai.com/news/", "source": "Times of AI", "desc": "SpaceX旗下xAI將Grok帶入Excel。用自然語言問問題、寫公式、建圖表、跑預測。免費365插件。AI從獨立聊天工具滲透到日常辦公軟體"},
+      {"title": "阿里巴巴Qwen 3.8 Max應戰Kimi K3：中國AI大模型競賽白熱化", "url": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/", "source": "TechStartups", "desc": "阿里巴巴緊急推出Qwen 3.8 Max回應Kimi K3。AI競爭不再只看benchmark分數——穩定運行服務、控制推理成本、確保算力才是關鍵"}
+    ],
+    "gaming": [
+      {"title": "PS Plus 7月新增遊戲今日上線：Avatar: Frontiers of Pandora領銜", "url": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-july-2026-revealed/", "source": "GameSpot", "desc": "7/21 Extra/Premium新增Avatar: Frontiers of Pandora、Firefighting Simulator: Ignite、Psi-Ops: The Mindgate Conspiracy、Indigo Prophecy等"},
+      {"title": "Planet Crafter今日登陸Xbox+Game Pass：生存建造類佳作", "url": "https://einnews.com/article/927698377/S5YCxLIrwn7OGvhb", "source": "EINNews", "desc": "7/21 Xbox/Game Pass三款新遊戲。Planet Crafter(改造行星生態系統)為本週最大Game Pass新增。緊接Halo 7/23+Splatoon同日"},
+      {"title": "7/23遊戲雙巨頭對決倒數2天：Splatoon Raiders vs Halo搶先體驗", "url": "https://www.polygon.com/july-23-video-game-releases/", "source": "Polygon", "desc": "Switch 2旗艦Splatoon Raiders(動作RPG) + Halo Campaign Evolved(UE5重製版搶先體驗)同日上線。今夏最激烈的一天"},
+      {"title": "7月遊戲大作總覽：AC Black Flag重製、Halo、Splatoon Raiders多平台爆發", "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/", "source": "GameSpot", "desc": "7月下旬密集發售。Assassin's Creed Black Flag Resynced、Halo Campaign Evolved、Splatoon Raiders、Jurassic World Evolution 2 Switch 2版"}
+    ],
+    "tech": [
+      {"title": "美軍第10夜連續空襲伊朗：伊朗威脅「飛彈會持續落下數年」", "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297", "source": "AP", "desc": "美軍繼續推進重開荷姆茲海峽行動。伊朗宣稱將「多年持續打擊美國目標」。外交談判完全停滯。3名美軍陣亡。Trump誓言伊朗「付出多倍代價」"},
+      {"title": "油價Brent升破$89：Houthi對沙特宣布海上禁運、油輪被攻擊", "url": "https://www.finnewsnetwork.com.au/archives/finance_news_network5313231.html", "source": "FNN", "desc": "Brent +1.3%收$89.22、WTI +0.9%收$83.23。葉門Houthi對沙特阿拉伯宣布海上禁運。荷姆茲一油輪遭攻擊。衝突向波斯灣鄰國擴散"},
+      {"title": "半導體股小反彈：AMD/MU/NVDA盤前+3.5%、SMH微漲", "url": "https://ts2.tech/en/us-stock-futures-advance-chip-sector-bounce-leads-dow-ahead-of-earnings/", "source": "TS2 Tech", "desc": "經歷SOX -20%熊市後首見技術反彈。AMD因Microsoft合作漲1.6%。但漲幅僅7倍於S&P期貨波動=仍屬小反彈而非趨勢反轉"},
+      {"title": "韓國KOSPI有望反彈：半導體引領、但地緣政治不確定性仍高", "url": "https://www.ajupress.com/view/20260721082070660", "source": "Aju Press", "desc": "韓國市場預計今日嘗試反彈。半導體領漲。但美伊持續交火+油價飆升壓制整體風險偏好。Samsung/SK Hynix為關鍵觀察"}
+    ],
+    "crypto": [
+      {"title": "白宮與CLARITY Act達成倫理條款協議：加密監管突破性進展", "url": "https://bitcoinworld.co.in/white-house-clarity-act-ethics-provision-agreement/", "source": "Bitcoin World", "desc": "白宮已將協議細節分享給共和黨參議員。倫理條款一直是主要障礙。修訂版法案語言可能數日內公布。參議院8月休會前為最後窗口"},
+      {"title": "Coinbase轉向支持CLARITY Act：銀行妥協+消費者保護改寫了法案", "url": "https://walletinvestor.com/news/crypto-news/crypto-rules-advance-in-the-us-russia-and-nigeria-as-genius-act-deadline-slips/", "source": "Wallet Investor", "desc": "Coinbase 1月曾反對但現在支持。法案經銀行業妥協和消費者保護條款重新起草。GENIUS Act規則制定截止日已過但仍未最終確定"},
+      {"title": "BTC穩守$64,500：監管噪音中展現韌性、流動性收緊", "url": "https://www.interactivecrypto.com/bitcoin-s-quiet-resilience-amid-regulatory-noise-and-liquidity-squeeze-jul-2026", "source": "Interactive Crypto", "desc": "本週眾議院金融服務小組委員會FinCEN聽證。監管審查加強但BTC不為所動。機構持倉穩固。8/10為CLARITY非正式截止日但非法律強制"},
+      {"title": "CLARITY Act第604條若被刪除恐引發第一修正案訴訟：業界警告", "url": "https://news.bitcoin.com/removal-of-clarity-acts-section-604-could-spark-first-amendment-battle-industry-executives-warn/", "source": "Bitcoin.com", "desc": "該條款保護開源開發者。若被刪除將驅使開發者離開美國並觸發言論自由法律挑戰。銀行業反對vs科技業支持的拉鋸持續"}
+    ],
+    "dev": [
+      {"title": "AMD Helios對開發者的意義：Azure AI推理基礎設施選擇擴大", "url": "https://www.amd.com/en/blogs/2025/Microsoft-Azure-Expanding-AI-Infra-Choice-with-AMD-Helios.html", "source": "AMD Blog", "desc": "MI455X GPU+Venice CPU+ROCm軟體棧。開發者獲得Nvidia以外的生產級AI推理選擇。開放整合機架平台設計。2026下半年可用"},
+      {"title": "73%開發者每日使用AI工具（2026年4月調查）：從輔助到日常基建", "url": "https://fungies.io/best-ai-coding-agents-2026/", "source": "Fungies", "desc": "一年前僅44%→現在73%日常使用。AI coding已不是選項而是基本配備。但「最佳」取決於你要駕駛、監督還是委派"},
+      {"title": "AI Coding Agent 2026完整排名：Claude Code居首、Codex/Grok Build/Cursor緊追", "url": "https://mightybot.ai/blog/coding-ai-agents-for-accelerating-engineering-workflows/", "source": "MightyBot", "desc": "Claude Code(Opus 4.8)在多檔案推理上最強。Codex(GPT-5.6 Sol)、Grok Build、GLM 5.2、Gemini CLI各有優勢。真正的agentic工作表現比較"},
+      {"title": "AI Agent vs Autocomplete：2026開發者工具不再是簡單的code completion", "url": "https://agentic.ai/best/coding-agents", "source": "Agentic AI", "desc": "最佳工具可從自然語言描述寫整個功能、跨codebase除錯、信心重構legacy code、甚至自行部署。從「建議」進化到「行動」"}
+    ],
+    "art": [
+      {"title": "SIGGRAPH 2026以AI為創意夥伴：橫跨研究、藝術和產業的全面整合", "url": "https://www.prnewswire.com/news-releases/siggraph-2026-puts-ai-to-work-as-a-creative-partner-across-research-art-and-industry-302828862.html", "source": "PR Newswire", "desc": "大會主席強調AI不是取代而是增強。「AI出現在從研究到藝術的各個層面，由才華橫溢的藝術家和技術人員引導」。業界態度從恐懼轉向融合"},
+      {"title": "Midjourney V9預覽中：三次迭代評估、社群期待與第一版最受好評", "url": "https://geekycuriosity.substack.com/p/creativity-ai-83-midjourney-teases", "source": "Geeky Curiosity", "desc": "三個版本已評估。第一版反應最好、第二版較差、第三版改善但仍在與第一版比較。開發團隊正選擇最佳基線。ElevenMusic也推出新工具"},
+      {"title": "AI for Creatives本週觀察：工具從實驗轉向日常工作流實作", "url": "https://dongiannatti.substack.com/p/ai-for-creatives-week-of-july-17", "source": "Don Giannatti", "desc": "每週精選對創作者和企業家有用的AI工具和想法。不談估值八卦——只談今天就能用的東西。實用導向的創意AI觀點"},
+      {"title": "73%英國創作者：AI已整合或不可或缺——但產業仍在找平衡", "url": "https://completeaitraining.com/news/uk-government-seeks-to-balance-ai-growth-with-creative/", "source": "Complete AI Training", "desc": "英國政府試圖在AI成長與版權保護間取得平衡。42%創作者認為AI讓他們對未來更安心。產業從恐慌轉向務實接受"}
+    ],
+    "design": [
+      {"title": "12款AI設計工具2026年7月實測比較：同一份Brief跑出來差異巨大", "url": "https://www.krumzi.com/blog/best-ai-design-tools-in-2026-12-picks-for-stunning-visuals-without-design-skills", "source": "Krumzi", "desc": "用同一個Instagram貼文Brief測試12款工具。比較品質、品牌一致性、速度和免費額度。從單一prompt生成完整設計的能力是2026新標準"},
+      {"title": "Canva 2026設計趨勢：「不完美設計年」——想像力統治、AI彎曲為個人風格", "url": "https://www.canva.com/newsroom/news/design-trends-2026/", "source": "Canva", "desc": "2026是Imperfect by Design之年。創意反叛：想像力統治、好奇心擴張、創作者將AI彎曲為自己的風格。更人性化的視覺表達時代"},
+      {"title": "5款最佳AI圖像生成器（設計師版）：Adobe Firefly因原生整合勝出", "url": "https://northpennnow.com/news/2026/jul/18/the-5-best-ai-image-generators-for-designers-in-2026/", "source": "North Penn Now", "desc": "Firefly直接在Photoshop/Illustrator內運作無需切換工具。付費版$9.99/月無限標準生成。學習曲線最低為推薦首選"},
+      {"title": "電力公司用徵收權奪土地建資料中心：70%美國人說「不要在我家後院」", "url": "https://fortune.com/section/artificial-intelligence/", "source": "Fortune", "desc": "AI資料中心的土地和電力饑渴推動eminent domain使用。社區反彈強烈。設計師需面對AI基礎設施對實體環境衝擊的新議題"}
+    ],
+    "business": [
+      {"title": "美股小跌收場：油價攀升抵消晶片反彈、S&P -0.19%", "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html", "source": "CNBC", "desc": "S&P 7,443.28(-0.19%)、Nasdaq 25,508(-0.05%)、Dow -307(-0.59%/Apple -2%拖累)。SMH小漲。油價上升壓制整體風險偏好"},
+      {"title": "Tesla週三財報預覽：Wall Street預期EPS +25%、但好消息可能已反映", "url": "https://247wallst.com/investing/2026/07/20/tesla-is-still-down-17-in-2026-can-wednesdays-earnings-event-get-tsla-stock-back-on-track/", "source": "247 Wall St", "desc": "YTD -17%。預期Q2 EPS $0.50-0.54、營收$25.7B。Options定價±8%波動。重點：汽車毛利率、Robotaxi部署、Cybercab時間表。339.5x PE建在自駕預期上"},
+      {"title": "Alphabet/Tesla領銜：本週77家S&P 500公司發布Q2財報", "url": "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html", "source": "CNBC", "desc": "財報季進入高峰。GOOG(週三盤後)：AI資本回報/Cloud/廣告。TSLA(週三)。TI(週三)：類比晶片周期。Intel(週四)：18A/代工進度"},
+      {"title": "全球股市微漲：晶片股修復部分跌幅、油價因波斯灣緊張續升", "url": "https://live.euronext.com/en/financial-news/equities-inch-higher-semi-stocks-oil-amid-further-iran-tensions", "source": "Reuters/Euronext", "desc": "全球指數週一微漲。半導體修復上週急跌。但投資人對波斯灣局勢保持謹慎。AMD+Microsoft合作消息提振晶片信心"}
+    ],
+    "finance": [
+      {"title": "油價Brent $89.22(+1.3%)：3名美軍陣亡、Trump誓言伊朗「付出多倍代價」", "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-strikes-nuclear-site-oil-prices-today-hormuz-blockade/4296781/", "source": "Financial Express", "desc": "WTI $83.23(+0.9%)。Houthi對沙特宣布海上禁運。荷姆茲油輪遭攻擊。衝突擴大至鄰國。若沙特航線也被切斷→$100油價在望"},
+      {"title": "Fed維持3.5-3.75%：強經濟+高油價=降息空間極小", "url": "https://simplywall.st/news", "source": "Simply Wall St", "desc": "美10年期殖利率4.558%微升。油價飆漲重燃通膨擔憂。6月CPI利好已被7月荷姆茲危機抵消。高利率環境持續壓制成長股估值"},
+      {"title": "Tesla EPS預期$0.52/營收$26.4B：週三盤後為汽車+AI+自駕的綜合測試", "url": "https://seekingalpha.com/article/4923315-wall-street-brunch-tesla-reports-with-earnings-in-full-swing", "source": "Seeking Alpha", "desc": "分析師預期Q2汽車毛利率(含credits)略高於18%。上季beat($0.41 vs預期$0.35)但股價未漲。本季需要自駕進展突破才能改變敘事"},
+      {"title": "伊朗威脅「飛彈將持續數年落下」：外交徹底停滯、衝突無退路", "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-strait-hormuz-oil-crisis-b3017902.html", "source": "The Independent", "desc": "伊朗攻擊代管美軍基地的國家。美國第10夜空襲。雙方都在升級而非降級。全球能源供應鏈面臨70年代以來最大威脅"}
+    ]
+  }
+}
