@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-22",
+  "categories": {
+    "ai": [
+      {"title": "Alphabet今晚Q2財報：AI資本回報的關鍵時刻（預期$117B營收/EPS $2.87）", "url": "https://www.morningstar.com/news/marketwatch/2026072138/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off", "source": "Morningstar", "desc": "Google Cloud backlog近翻倍至$462B。2026全年Capex預期$180-190B。市場要看AI巨額投資是否產生回報。上季營收+22%連續第四季加速"},
+      {"title": "SpaceX工程數據將訓練Grok下一代模型：Musk排除軍事出口管制資料", "url": "https://tech.yahoo.com/ai/gemini/articles/elon-musk-says-spacex-engineering-093204319.html", "source": "Yahoo Tech", "desc": "Musk宣布SpaceX工程數據加入Grok訓練集（排除ITAR管制項目）。火箭/衛星/製造數據或讓Grok在工程推理上獲得獨特優勢"},
+      {"title": "Alphabet股價反彈推升Google共同創辦人財富增$150億", "url": "https://www.forbes.com/sites/tylerroush/2026/07/20/alphabet-rally-boosts-google-cofounder-fortunes-by-15-billion-heres-why-shares-are-up/", "source": "Forbes", "desc": "Q1 EPS超預期94.1%($5.11 vs $2.63)。Google Cloud +63%至$200億。市場正定價AI投資即將回報。今晚Q2為最大驗證"},
+      {"title": "Anthropic能否推升Alphabet財報？Google投資的AI獨角獸效應分析", "url": "https://247wallst.com/investing/2026/07/20/will-anthropic-boost-alphabets-earnings-to-the-stratosphere/", "source": "247 Wall St", "desc": "Alphabet持有Anthropic大量股份。Claude的成功是否反映在Google財報？AI生態系投資組合的價值重估"}
+    ],
+    "gaming": [
+      {"title": "Xbox Game Pass 7月Wave 2公布：Halo Campaign Evolved+Beast of Reincarnation+Mistfall Hunter", "url": "https://www.polygon.com/xbox-game-pass-july-2026-new-games-halo-remake/", "source": "Polygon", "desc": "7/22-8/4期間7款新遊戲加入。Halo重製版(7/23)、Game Freak新作Beast of Reincarnation(首日)、Mistfall Hunter(7/30)。三款首日登場"},
+      {"title": "Splatoon Raiders今晚解鎖：東岸午夜/西岸9PM開放下載", "url": "https://gamerant.com/splatoon-raiders-release-times/", "source": "Game Rant", "desc": "Switch 2旗艦作系列首款動作RPG。7/23 12AM ET解鎖。預載已開放。最終預覽一致好評的raid-loot-upgrade循環"},
+      {"title": "Shift at Midnight今日登陸Xbox Game Pass：病毒式恐怖合作遊戲", "url": "https://store.steampowered.com/app/3722330/Shift_At_Midnight/", "source": "Steam", "desc": "3人線上合作偵探恐怖。在加油站夜班工作，辨別哪些顧客是人類、哪些是偽裝者。隨機生成班次。Steam爆紅→今日Xbox+Game Pass"},
+      {"title": "本週遊戲發售總覽：Splatoon/Halo/Shift at Midnight/DragonSword/Avatar Legends格鬥", "url": "https://www.gematsu.com/2026/07/this-weeks-japanese-game-releases-splatoon-raiders-the-angel-next-door-spoils-me-rotten-memorial-vacation-more", "source": "Gematsu", "desc": "7/22-7/28本週密集。Splatoon Raiders(Switch 2)、Halo Campaign Evolved(全平台)、Avatar Legends格鬥(PS5/Xbox/Switch 2/PC)等"}
+    ],
+    "tech": [
+      {"title": "半導體股反彈+5.2%：Micron +12%、AMD +1.6%帶動Wall Street三連跌後首漲", "url": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-higher-on-chip-stocks-recovery-earnings-in-focus", "source": "Straits Times", "desc": "SOX結束連跌。投資人在科技財報前積極佈局。AMD因Microsoft Helios合作受惠。但漲幅範圍窄、參與度低=可能只是空頭回補"},
+      {"title": "Brent油價突破$91：Trump威脅攻擊伊朗新核設施、Houthi對沙特海上禁運", "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-strikes-nuclear-site-oil-prices-today-hormuz-blockade/4296781/", "source": "Financial Express", "desc": "美伊每日互擊持續。Trump稱伊朗「渴望談判」但行動升級。Houthi封鎖可能擴大至沙特航運。全球能源供應面臨更大威脅"},
+      {"title": "台灣6月外銷訂單創歷史新高：AI需求驅動半導體出口爆發", "url": "https://focustaiwan.tw/business/202607210015", "source": "Focus Taiwan", "desc": "AI時代推動台灣半導體出口持續創紀錄。TSMC/聯發科/日月光等供應鏈訂單滿載。基本面強勁支撐台股反彈"},
+      {"title": "美伊第10+天連續空襲：伊朗稱「飛彈雨將持續多年」、外交完全停滯", "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297", "source": "AP", "desc": "美軍連續10+夜空襲。3名美軍陣亡。伊朗攻擊代管美軍基地國家。雙方均在升級。全球能源和通膨風險持續攀升"}
+    ],
+    "crypto": [
+      {"title": "BTC突破$66,000！CLARITY Act倫理條款達成協議引爆機構+鯨魚+期權同步買入", "url": "https://www.binance.com/en/square/post/07-21-2026-clarity-act-clears-its-last-hurdle-bitcoin-hits-66k-as-institutions-whales-and-options-traders-all-buy-at-once-347074580690465", "source": "Binance", "desc": "7/22 BTC $66,600為6月中以來最高。白宮倫理條款協議+亞洲晶片反彈+ETF持續流入=多重利多共振。Fed 78/104經濟學家預計今年不降息"},
+      {"title": "CLARITY Act清除最後障礙：白宮達成倫理條款協議、參議院投票在即", "url": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound", "source": "CoinDesk", "desc": "報導指Trump政府已與部分共和黨參議員分享協議細節。倫理條款一直是最大爭議點。修訂版法案可能數日內公布。加密市場全面上漲"},
+      {"title": "CLARITY Act解析：CFTC管現貨、SEC管證券型代幣、DeFi安全港", "url": "https://www.crypto-news-flash.com/bitcoin-clarity-act-deal-pushes-btc-toward-67000/", "source": "Crypto News Flash", "desc": "該法案核心：CFTC主管現貨加密市場、SEC管證券型代幣、交易所客戶資金破產保護、DeFi開發者安全港。通過將根本改變美國加密格局"},
+      {"title": "加密監管跑道見底：CLARITY Act 8月休會前僅剩兩週窗口", "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-market-regulation-is-running-out-time-finish-line/", "source": "PYMNTS", "desc": "參議院8月第一週後休會。CLARITY若本月未投票將再延半年。市場正在定價法案通過。但銀行業阻力+黨派摩擦仍是風險"}
+    ],
+    "dev": [
+      {"title": "Grok Build開源(Apache 2.0)：SpaceXAI直接對抗Claude Code和OpenAI Codex", "url": "https://techgig.com/news/ai/musk-open-sources-grok-build-competes-with-anthropic-on-ai-coding-agents/132504255", "source": "TechGig", "desc": "終端機coding agent免費開源。直接挑戰收費的Claude Code和Codex。開發者獲得又一個免費的全功能agentic工具選擇"},
+      {"title": "Grok 4.5技術實測：1.5T MoE參數、Cursor聯合訓練、Terminal-Bench 83.3%", "url": "https://writingmate.ai/blog/grok-45-writingmate-release-2026", "source": "Writingmate", "desc": "7/8發布。500K token context。必開reasoning。用Cursor互動數據聯合訓練。比Claude Opus 4.8少約1/4 output tokens。真正的agentic工作實測"},
+      {"title": "SpaceX工程數據訓練下一代Grok：火箭/衛星製造數據帶來工程推理優勢", "url": "https://tech.yahoo.com/ai/gemini/articles/elon-musk-says-spacex-engineering-093204319.html", "source": "Yahoo Tech", "desc": "Musk排除ITAR管制資料。SpaceX的工程挑戰數據可能讓Grok在物理推理和工程問題解決上獲得獨特能力。對開發者的潛在影響巨大"},
+      {"title": "Tesla Q2財報今晚：開發者關注FSD自駕軟體進展和Robotaxi部署", "url": "https://electrek.co/2026/07/21/tesla-tsla-q2-2026-earnings-preview/", "source": "Electrek", "desc": "預期EPS $0.52/營收$26.4B。重點不是交車量（已知）而是FSD軟體進展、Cybercab時間表、AI訓練算力部署。對自駕AI開發有指標意義"}
+    ],
+    "art": [
+      {"title": "SIGGRAPH 2026以AI為創意夥伴：從研究到藝術的全面整合而非取代", "url": "https://www.prnewswire.com/news-releases/siggraph-2026-puts-ai-to-work-as-a-creative-partner-across-research-art-and-industry-302828862.html", "source": "PR Newswire", "desc": "大會主席：「AI不是取代手段而是增強工具，由才華橫溢的藝術家和技術人員引導」。研究、藝術、產業三軌並進"},
+      {"title": "Splatoon Raiders視覺設計突破：海盜+噴墨的獨特美學明天解鎖", "url": "https://www.polygon.com/splatoon-raiders-release-time-edt-pdt-preorder-preload/", "source": "Polygon", "desc": "Switch 2硬體帶來的視覺提升。Deep Cut海盜團+Spirhalite群島的獨特藝術方向。系列首次從對戰射擊轉向冒險RPG的美術重塑"},
+      {"title": "Halo Campaign Evolved UE5重製：經典藝術風格的現代化重生", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "2001年原版的Unreal Engine 5完全重製。保留經典Halo藝術DNA同時提升至2026標準。新增3個任務展現擴展的藝術設計"},
+      {"title": "Game Freak Beast of Reincarnation：寶可夢團隊的新IP藝術方向首次亮相", "url": "https://www.purexbox.com/news/2026/07/these-seven-games-are-coming-to-xbox-game-pass-july-22-august-4", "source": "Pure Xbox", "desc": "Game Freak（寶可夢開發商）的全新IP登陸Game Pass首日。暗黑奇幻風格與寶可夢截然不同的美術設計。團隊藝術能力的新展現"}
+    ],
+    "design": [
+      {"title": "Tesla隱含波動率為一年最大：財報前Options定價±5.76%為設計決策參考", "url": "https://www.cnbc.com/2026/07/21/tesla-shares-poised-for-biggest-earnings-move-in-a-year.html", "source": "CNBC", "desc": "Options市場隱含波動為2025年10月以來最大。資訊設計如何傳達不確定性。金融產品的風險視覺化設計挑戰"},
+      {"title": "Shift at Midnight：隨機生成系統的UX設計——如何在恐怖遊戲中保持新鮮感", "url": "https://store.steampowered.com/app/3722330/Shift_At_Midnight/", "source": "Steam", "desc": "每次班次隨機生成。玩家需辨別人類vs偽裝者。遊戲設計如何在重複遊玩中維持緊張感和新鮮度。Steam爆紅→Xbox/Game Pass"},
+      {"title": "Xbox Game Pass介面如何處理「首日遊戲」的資訊優先級設計", "url": "https://www.purexbox.com/news/2026/07/these-seven-games-are-coming-to-xbox-game-pass-july-22-august-4", "source": "Pure Xbox", "desc": "Wave 2同時7款遊戲。如何在UI中突出day-one首發(Halo/Beast of Reincarnation/Mistfall)vs後續加入。訂閱服務的內容發現設計"},
+      {"title": "Alphabet $180-190B AI Capex的規模設計：全球最大基礎設施投資的挑戰", "url": "https://eciks.org/14723-28767-alphabet-q2-earnings-july-22-ai-spending", "source": "ECIKS", "desc": "2026全年$180-190B資本支出。Big Tech $6000億AI投資的規模如何設計和部署？從矽谷到全球的資料中心設計思維"}
+    ],
+    "business": [
+      {"title": "美股結束三連跌：S&P +0.89%/Nasdaq +1.29%/Dow +385（半導體+5.2%領漲）", "url": "https://www.cnbc.com/2026/07/20/stock-market-today-live-updates.html", "source": "CNBC", "desc": "結束三日連跌。Micron +12%。AMD +1.6%(Microsoft合作)。晶片股反彈帶動。但參與面窄。今晚Alphabet/Tesla/TI財報為持續性關鍵"},
+      {"title": "Tesla今晚財報：YTD -17%、options定價±5.76%為一年最大波動", "url": "https://electrek.co/2026/07/21/tesla-tsla-q2-2026-earnings-preview/", "source": "Electrek", "desc": "預期Q2 EPS $0.52/營收$26.4B(+15% YoY)。交車量已知→重點是毛利率、Robotaxi、Cybercab。339.5x PE全靠自駕預期支撐"},
+      {"title": "Dow漲380點結束連跌：晶片修復+財報期待壓過中東風險", "url": "https://invezz.com/au/news/2026/07/21/dow-jumps-380-points-as-chip-rally-lifts-wall-street-ahead-of-big-tech-earnings/", "source": "Invezz", "desc": "投資人在波動開局後選擇做多科技財報。美伊衝突和油價仍是背景風險但暫時被忽略。財報季結果將決定方向"},
+      {"title": "台灣6月外銷訂單創歷史新高：AI半導體需求火爆驗證基本面", "url": "https://focustaiwan.tw/business/202607210015", "source": "Focus Taiwan", "desc": "台灣外銷訂單在AI時代持續破紀錄。TSMC/聯發科/日月光等供應鏈表現強勁。台股史上最大單日漲幅的基本面支撐"}
+    ],
+    "finance": [
+      {"title": "Brent突破$91：Houthi威脅沙特航運+Trump揚言攻擊新核設施", "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-strikes-nuclear-site-oil-prices-today-hormuz-blockade/4296781/", "source": "Financial Express", "desc": "Brent $91+為近期新高。荷姆茲持續關閉。若Houthi封鎖擴至沙特→$100油價幾乎確定。通膨壓力持續升溫"},
+      {"title": "BTC突破$66,000：CLARITY Act進展+ETF流入+亞洲晶片反彈三重利多", "url": "https://www.interactivecrypto.com/bitcoin-pushes-above-66-000-on-etf-inflows-and-regulatory-progress-but-risks-remain-jul-2026", "source": "Interactive Crypto", "desc": "24小時+2.2%。自6月中以來首次站穩$66K上方。機構、鯨魚、期權交易者同步買入。但Fed不降息=長期壓力仍在"},
+      {"title": "Alphabet Capex $180-190B：AI投資回報今晚揭曉、決定整個AI板塊估值", "url": "https://www.fool.com/investing/2026/07/21/buy-alphabet-stock-july-22-wall-street-has-answer/", "source": "Motley Fool", "desc": "Q1營收+22%連四季加速。Google Cloud backlog $462B。Wall Street 31位分析師中30位給買入。今晚結果將影響全球AI供應鏈估值"},
+      {"title": "Fed 78/104經濟學家預計2026年不降息：高利率環境確認持續全年", "url": "https://www.binance.com/en/square/post/07-21-2026-clarity-act-clears-its-last-hurdle-bitcoin-hits-66k-as-institutions-whales-and-options-traders-all-buy-at-once-347074580690465", "source": "Binance", "desc": "儘管6月CPI利好，75%經濟學家認為全年不會降息。油價$91+重燃通膨擔憂。利率3.5-3.75%維持。成長股估值壓力持續"}
+    ]
+  }
+}
