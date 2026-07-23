@@ -55,5 +55,60 @@
       {"title": "Alphabet Capex $180-190B：AI投資回報今晚揭曉、決定整個AI板塊估值", "url": "https://www.fool.com/investing/2026/07/21/buy-alphabet-stock-july-22-wall-street-has-answer/", "source": "Motley Fool", "desc": "Q1營收+22%連四季加速。Google Cloud backlog $462B。Wall Street 31位分析師中30位給買入。今晚結果將影響全球AI供應鏈估值"},
       {"title": "Fed 78/104經濟學家預計2026年不降息：高利率環境確認持續全年", "url": "https://www.binance.com/en/square/post/07-21-2026-clarity-act-clears-its-last-hurdle-bitcoin-hits-66k-as-institutions-whales-and-options-traders-all-buy-at-once-347074580690465", "source": "Binance", "desc": "儘管6月CPI利好，75%經濟學家認為全年不會降息。油價$91+重燃通膨擔憂。利率3.5-3.75%維持。成長股估值壓力持續"}
     ]
+  },
+  "stock_briefing": {
+    "date": "2026-07-23",
+    "updated_at": "2026-07-23 08:30",
+    "market": {
+      "taiex_prev_close": 44825.78,
+      "change": "+592.91 (+1.34%)",
+      "note": "7/22(三)加權收44,825.78(+592.91/+1.34%)。連兩日累漲2,376點！盤中一度破45,000。外資結束13天賣超→轉買超$173.4億🎉關鍵轉折！TSMC尾盤回落收2,400(-0.41%)。MediaTek +4.9%。光通訊族群漲停(Nvidia暗光纖需求)。成交$982.65億",
+      "risk_alert": "🟡Alphabet Q2超預期(Cloud+82%!)但Capex上調$195-205B→盤後跌。Tesla營收超但EPS大miss($0.32 vs $0.49)→盤後跌3%。今日台股可能承壓（TSMC昨已提前反映尾盤回落）。軍工概念反轉跌停（在野提案砍無人機）"
+    },
+    "sectors": [
+      {"name": "半導體", "trend": "漲但TSMC尾盤回落", "note": "TSMC -0.41%收2400(盤中漲→尾盤獲利了結)。MediaTek +4.9%。光通訊漲停。Alphabet Cloud+82%確認AI需求但Capex上調=短線利空"},
+      {"name": "AI/光通訊", "trend": "爆發漲停", "note": "Nvidia暗光纖需求帶動。Wistron漲停+9.7%。光通訊族群多檔漲停。AI基礎設施持續擴張"},
+      {"name": "高股息ETF", "trend": "全面上漲+2~3%", "note": "0056+2.83%/00878+2.09%/00919+1.59%/00929+2.58%。資金從恐慌逐步回流"},
+      {"name": "軍工概念", "trend": "暴跌跌停🔴", "note": "在野黨提案暫停無人機產業計畫、刪除預算。漢翔跌停/亞航-9%+/雷虎-6%+。政策風險突發"},
+      {"name": "被動元件/矽晶圓", "trend": "強勢反彈", "note": "國巨+4.93%。矽晶圓台勝科+7.96%。前期修正深的價格受惠族群回血"}
+    ],
+    "stocks": [
+      {"name": "2330 台積電", "price": 2400, "trend": "平盤微跌-0.41%（盤中漲→尾盤獲利了結）", "nav": 227.19, "pb": 10.57, "pe": 16.11, "quarterLine": "季線約2450，離季線-2.0%（接近但未突破）", "suggestion": "持有（Alphabet Cloud+82%確認AI需求。但Capex上調+Tesla miss可能短線壓制。等Intel今晚財報再評估）"},
+      {"name": "0050 元大台灣50", "price": 103.92, "trend": "漲+1.32%", "nav": 103.85, "premium": "-0.07%（幾乎平價）", "quarterLine": "季線約105，離季線-1.0%（接近突破！）", "suggestion": "持有/加碼（從-5.8%→-1.0%快速修復。外資轉買=關鍵正面信號）"},
+      {"name": "006208 富邦台50", "price": 238.11, "trend": "漲+1.22%", "nav": 237.40, "premium": "-0.30%", "quarterLine": "季線約244，離季線-2.4%", "suggestion": "持有/加碼"},
+      {"name": "0056 元大高股息", "price": 51.08, "trend": "漲+2.83%🔥", "nav": 50.95, "premium": "-0.25%", "quarterLine": "季線約52，離季線-1.8%（大幅修復！）", "suggestion": "持有（接近季線、殖利率佳、外資轉買利多）"},
+      {"name": "00878 國泰永續高息", "price": 32.83, "trend": "漲+2.09%", "nav": 32.72, "premium": "-0.34%", "quarterLine": "季線約33，離季線-0.5%（幾乎回到季線！）", "suggestion": "持有（即將回季線、長期存股佳）"},
+      {"name": "00919 群益精選高息", "price": 29.54, "trend": "漲+1.59%", "nav": 29.46, "premium": "-0.27%", "quarterLine": "季線約29.2，離季線+0.9%（已站回季線上方！🎉）", "suggestion": "持有（最快回季線的高息ETF，確認修復完成）"},
+      {"name": "00929 復華高息", "price": 29.07, "trend": "漲+2.58%", "nav": 29.00, "premium": "-0.24%", "quarterLine": "季線約29.5，離季線-1.5%（接近季線）", "suggestion": "持有（科技含量高彈性好，快回季線）"},
+      {"name": "00940 元大台灣價值高息", "price": 12.35, "trend": "漲+1.49%", "nav": 12.28, "premium": "-0.57%（折價）", "quarterLine": "季線約12.4，離季線-0.4%（接近季線）", "suggestion": "觀望（仍折價但快速接近季線）"},
+      {"name": "00892 富邦台灣半導體", "price": 40.14, "trend": "漲+2.17%突破季線40🎉", "nav": 39.99, "premium": "-0.37%", "quarterLine": "季線約40，離季線+0.4%（突破季線！）", "suggestion": "持有（已站回季線上方！半導體修復確認。但今晚Intel財報仍有風險）"},
+      {"name": "00891 中信關鍵半導體", "price": 35.26, "trend": "漲+2.51%", "nav": 35.10, "premium": "-0.45%", "quarterLine": "季線約35.5，離季線-0.7%（接近季線）", "suggestion": "持有（即將回季線，修復中）"},
+      {"name": "00982A 中信美國公債20+", "price": 9.48, "trend": "微跌（風險偏好上升）", "nav": 9.45, "premium": "+0.32%", "quarterLine": "季線約9.3，離季線+1.9%（季線上方）", "suggestion": "持有（避險部位維持，不需加碼）"},
+      {"name": "00981A 元大美債20+", "price": 30.95, "trend": "微跌", "nav": 30.80, "premium": "+0.49%", "quarterLine": "季線約30.2，離季線+2.5%（季線上方）", "suggestion": "持有"},
+      {"name": "00403A 中信15年期以上美債", "price": 31.65, "trend": "微跌", "nav": 31.50, "premium": "+0.48%", "quarterLine": "季線約31，離季線+2.1%（季線上方）", "suggestion": "持有"},
+      {"name": "009816 FT美政府債", "price": 35.35, "trend": "平盤", "nav": 35.20, "premium": "+0.43%", "quarterLine": "季線約34.8，離季線+1.6%（季線上方）", "suggestion": "持有"}
+    ],
+    "institutional": {
+      "foreign": "7/22外資轉買超$173.4億！🎉結束13天連續賣超(累計賣超逾$3000億)。AI相關個股為主要買入標的。關鍵轉折信號",
+      "investment_trust": "投信持續買超中",
+      "dealer": "自營商買超"
+    },
+    "sentiment": {
+      "score": 55,
+      "label": "中性偏樂觀",
+      "note": "從極度恐懼(10)→中性偏樂觀(55)只用了3天。外資轉買+連三日反彈恢復信心。但Alphabet/Tesla盤後跌=今日可能小幅回檔整理。分析師預期42000-46000震盪3-5週"
+    },
+    "events": [
+      "7/22 台股+592(+1.34%)連兩日累漲2,376點",
+      "🎉外資結束13天賣超→轉買超$173.4億（關鍵轉折）",
+      "Alphabet Q2: $119.8B(+24%)/EPS $9.11超預期/Cloud+82%🔥",
+      "⚠️Alphabet Capex上調$195-205B→盤後跌",
+      "⚠️Tesla Q2: 營收超$28.24B但EPS miss $0.32→盤後跌3%",
+      "光通訊漲停(Nvidia暗光纖需求)",
+      "🔴軍工概念反轉跌停(在野黨提案砍無人機預算)",
+      "今晚Intel財報/Splatoon Raiders+Halo上市",
+      "分析師預期42000-46000震盪3-5週"
+    ],
+    "summary": "🟢外資轉買確認V型反轉！連三日累漲2,376點，外資結束13天賣超→轉買$173.4億。Alphabet Q2 Cloud+82%確認AI需求火爆，但Capex上調+Tesla EPS miss可能讓今日小幅回檔。00892突破季線40!00919已站回季線上方。策略：修復進入中段，持有部位不動。今日若回檔為正常整理（不是重跌），可在42000-43000區間再加碼。高息ETF接近或已回季線→持有。半導體ETF突破季線→正面。美債ETF縮減比重（風險偏好回升）。注意軍工概念風險（政策利空）。"
   }
 }
