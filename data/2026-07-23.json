@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-23",
+  "categories": {
+    "ai": [
+      {"title": "Alphabet Q2：Google Cloud營收+82%至$24.8B、Gemini MAU達9.5億——但Capex上調至$195-205B", "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/", "source": "TechCrunch", "desc": "AI需求爆發推動Cloud歷史最強成長。90%財富100強使用Gemini Enterprise。但全年Capex從$180-190B上調至$195-205B嚇壞投資人→盤後跌5%"},
+      {"title": "Alphabet盤後跌5%：$205B Capex讓FCF轉負(-$5.9B)嚇壞市場", "url": "https://easternherald.com/2026/07/23/alphabet-q2-2026-earnings-capex-cloud-stock/", "source": "Eastern Herald", "desc": "營收$119.8B(+24%)大超預期。EPS $9.11。營業利益$40.8B(+30%)。但FCF從$10.1B→-$5.9B。投資人質疑AI投資何時回收"},
+      {"title": "Google Cloud利潤三倍增至$8.8B：AI基礎設施支出的最佳辯護", "url": "https://www.fool.com/investing/2026/07/22/alphabet-just-tripled-profit-in-this-ai-centric-ca/", "source": "Motley Fool", "desc": "Cloud營業利益從前年$2.8B→$8.8B三倍增。證明AI支出確實帶來回報。但市場關注的是$205B Capex何時見頂？"},
+      {"title": "Google Cloud增速82%卻不夠：Alphabet的AI Capex問題持續膨脹", "url": "https://www.fierce-network.com/cloud/google-cloud-surges-alphabets-ai-capex-problem-grows", "source": "Fierce Network", "desc": "淨利$112B。但AI基建投資如同無底洞。Big Tech 2026年合計$6000億+AI支出。投資人開始要求看到FCF改善的時間表"}
+    ],
+    "gaming": [
+      {"title": "Splatoon Raiders今日上線！Metacritic 80分：「令人難以置信的引人入勝」", "url": "https://gamerant.com/splatoon-raiders-reviews-scores-round-up/", "source": "Game Rant", "desc": "65家媒體評測Metacritic 80(Generally Favorable)。OpenCritic 81/71%推薦。IGN:「驚人的動作RPG」。系列成功轉型"},
+      {"title": "Splatoon Raiders評測：噴墨版Diablo+Doom+DK的歡樂混亂", "url": "https://www.polygon.com/splatoon-raiders-review/", "source": "Polygon", "desc": "Nintendo式Borderlands。100+武器、多難度可重玩任務、線上co-op。核心循環極度上癮。IGN/TechRadar/Nintendo Life一致好評(8-9分)"},
+      {"title": "Halo: Campaign Evolved搶先體驗今日開放：UE5重製版的爭議與期待", "url": "https://www.purexbox.com/guides/halo-campaign-evolved-release-date-release-times-and-early-access-details-for-xbox-and-pc", "source": "Pure Xbox", "desc": "4PM BST/11AM EDT開放搶先體驗(Premium Edition)。首次Halo使用Unreal Engine 5。評測禁令今日17:00 CET解除。Game Pass首日"},
+      {"title": "Halo Campaign Evolved：UE5引擎轉換背後的開發哲學——保留經典還是革新？", "url": "https://www.thegamer.com/halo-campaign-evolved-unreal-engine-5-preview/", "source": "The Gamer", "desc": "開發團隊展示UE5幕後。引擎轉換不只是畫面升級——重塑了Halo的未來。新增衝刺、登車、能量劍等現代化機制。3個新前傳任務"}
+    ],
+    "tech": [
+      {"title": "Alphabet Capex上調至$195-205B：AI基建投資規模達歷史新高", "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html", "source": "CNBC", "desc": "上季$180-190B→本次$195-205B。AI需求太強迫使持續加碼。數據中心、自研TPU、GPU部署全面擴張。對TSMC/AMD/NVDA供應鏈為長期利多"},
+      {"title": "Tesla Q2營收超但利潤miss：淨利-5%、FCF轉負、毛利率壓縮", "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html", "source": "CNBC", "desc": "營收$28.24B(+26%超預期)但EPS $0.32(miss $0.49)。汽車毛利率壓縮。FCF轉負。盤後跌3%。市場對339.5x PE的自駕故事產生質疑"},
+      {"title": "美股7/22微跌等財報：S&P -0.1%、Nasdaq -0.2%、油價續升", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-tech-rebound-tesla-alphabet-earnings-in-focus-4804544", "source": "Investing.com", "desc": "交易者在Alphabet/Tesla財報前觀望。油價因紅海緊張續升。10年期殖利率攀升增添通膨擔憂。今晚Intel財報為另一關鍵"},
+      {"title": "台灣6月外銷訂單創歷史新高：AI需求驅動半導體出口（補充資訊）", "url": "https://www.taiwannews.com.tw/en/news/6405889", "source": "Taiwan News", "desc": "外銷訂單創紀錄。Alphabet $195-205B Capex代表TSMC/台灣AI供應鏈的長期訂單持續成長。Google Cloud +82%直接利好先進製程需求"}
+    ],
+    "crypto": [
+      {"title": "CLARITY Act最終草案公布：禁止總統/副總統/國會議員發行加密貨幣（2029年到期）", "url": "https://www.cnbc.com/2026/07/22/senate-crypto-bill-would-ban-federal-officials-from-issuing-digital-assets.html", "source": "CNBC", "desc": "參議員Lummis領銜。首次對聯邦官員加密活動設限。禁止發行/贊助數位資產。倫理條款設2029日落條款(暫時性)。CFTC管現貨/SEC管證券"},
+      {"title": "BTC從$66,921回落至$65,700：CLARITY草案釋出後獲利了結", "url": "https://news.bitcoin.com/senate-republicans-push-clarity-act-with-15-days-left-as-bitcoin-struggles-near-66k/", "source": "Bitcoin.com", "desc": "參議院休會前僅剩15天。共和黨全力推動但仍面臨民主黨反對。BTC在$66K附近整理。市場正在消化利多後的獲利回吐壓力"},
+      {"title": "加密產業花$2億推動CLARITY Act通過參議院", "url": "https://cryptobriefing.com/crypto-industry-spends-200m-to-push-clarity-act-through-us-senate/", "source": "Crypto Briefing", "desc": "產業有史以來最大政治遊說投入。包括競選捐款、遊說活動、媒體廣告。Polymarket通過機率從32%→43%。距8月休會僅15天"},
+      {"title": "Polymarket CLARITY Act通過機率跳升至43%：白宮倫理協議為關鍵催化劑", "url": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal", "source": "CoinDesk", "desc": "週五32%→週一43%(+11pts)。Trump同意倫理條款=清除最大障礙。但民主黨被排除在協商外引發不滿。最終投票仍不確定"}
+    ],
+    "dev": [
+      {"title": "Halo: Campaign Evolved的UE5引擎轉換：首次離開自研引擎的Halo", "url": "https://www.thegamer.com/halo-campaign-evolved-unreal-engine-5-preview/", "source": "The Gamer", "desc": "Halo Studios展示UE5幕後開發。從BlAM!→Slipspace→UE5的歷程。引擎轉換對開發流程的根本性影響。新引擎如何實現Sprint/登車等新機制"},
+      {"title": "Alphabet $195-205B Capex對開發者意義：更多AI基建=更多算力供給", "url": "https://in.investing.com/news/company-news/alphabet-q2-2026-slides-24-revenue-growth-cloud-surges-despite-capex-93CH-5509092", "source": "Investing.com", "desc": "Google Cloud +82%代表AI推理需求爆發。$205B投入TPU/GPU/資料中心。開發者將獲得更多雲端AI算力和更低延遲的推理服務"},
+      {"title": "Tesla FSD自駕系統：Q2 EPS miss背後是Robotaxi/Cybercab投資的代價", "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/", "source": "Electrek", "desc": "營收+26%但利潤被自駕AI投資吃掉。Tesla正從EV公司轉型為Cybercab/Megapack/Optimus機器人多元AI公司。軟體開發密度急增"},
+      {"title": "Splatoon Raiders技術成就：Switch 2硬體上的100+武器系統和隨機生成設計", "url": "https://www.techradar.com/gaming/splatoon-raiders-review", "source": "TechRadar", "desc": "大量可重玩任務+多難度+100+武器的系統設計。在Switch 2有限硬體上實現looter-shooter級別的隨機性和深度。技術和遊戲設計的結合"}
+    ],
+    "art": [
+      {"title": "Splatoon Raiders視覺評價：噴墨海盜美學獲得媒體一致讚賞", "url": "https://www.polygon.com/splatoon-raiders-review/", "source": "Polygon", "desc": "「正面意義上的混亂」。墨水飛濺的視覺爽快感。Deep Cut海盜團角色設計隨劇情加深。Nintendo招牌視覺魅力在新類型中依然閃耀"},
+      {"title": "Halo: Campaign Evolved的UE5視覺重塑——經典美學的現代化", "url": "https://halopedia.org/Halo:_Campaign_Evolved", "source": "Halopedia", "desc": "完全重製藝術、重新錄製配音和音樂、新過場動畫。目標是為新玩家提供現代化入口同時保留經典Halo的環境設計語言"},
+      {"title": "Splatoon Raiders深度評測：Nintendo如何在RPG類型中保持視覺身份", "url": "https://screenrant.com/splatoon-raiders-review/", "source": "Screen Rant", "desc": "從對戰射擊轉型冒險RPG的美術挑戰。保持Splatoon「不可否認的魅力」同時適應新類型。顏色運用和角色動畫的設計哲學"},
+      {"title": "Wccftech評Splatoon Raiders：比表面看起來更深入的Looter-Shooter美學", "url": "https://wccftech.com/review/splatoon-raiders/", "source": "Wccftech", "desc": "視覺敘事較薄但最終走向史詩結局。武器造型多樣化設計(100+種)。每種武器獨特的視覺回饋系統。Switch 2的圖形表現力"}
+    ],
+    "design": [
+      {"title": "Splatoon Raiders的遊戲設計哲學：如何將PvP射擊轉化為PvE RPG循環", "url": "https://za.ign.com/splatoon-raiders/237082/splatoon-raiders-review", "source": "IGN", "desc": "IGN：「精心設計的動作RPG，深度自訂和有挑戰性的戰鬥」。raid-loot-upgrade循環設計。讓核心動作永遠保持新鮮感的關卡設計方法"},
+      {"title": "CLARITY Act的資訊架構設計：如何將複雜監管法案傳達給大眾", "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary", "source": "CoinDesk", "desc": "CFTC/SEC分工、倫理條款日落條款(2029)、DeFi安全港、交易所破產保護。複雜法案如何被結構化溝通。政策設計的UX"},
+      {"title": "Alphabet財報的數據視覺化挑戰：$205B Capex vs $24.8B Cloud收入的比例傳達", "url": "https://en.sedaily.com/international/2026/07/23/google-burns-through-cash-on-ai-spending-as-cloud-booms", "source": "Seoul Economic Daily", "desc": "如何傳達「投資遠大於收入但增速驚人」的複雜訊息？財經媒體的資訊設計如何影響投資人決策（盤後跌5%就是結果）"},
+      {"title": "Tesla產品線轉型的設計思維：從單一EV到Cybercab/Semi/Optimus多元生態", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-today-july-22-nasdaq-slides-prior-to-tesla-and-alphabet-s-earnings-after-market-close/", "source": "Motley Fool", "desc": "Tesla正從EV公司重新設計為AI+自駕+能源+機器人平台。產品組合的設計邏輯轉變。如何在轉型期維持投資人信心的敘事設計"}
+    ],
+    "business": [
+      {"title": "Alphabet Q2大勝但盤後跌5%：Cloud+82%不夠、$205B Capex嚇壞市場", "url": "https://www.chosun.com/english/industry-en/2026/07/23/YEHCQBMO6RFJHPV5WE76I32VBI/", "source": "Chosun", "desc": "營收$119.8B(+24%)、EPS $9.11超預期。但Capex從$180-190B→$195-205B。FCF -$5.9B。市場要求看到AI投資回報的時間表"},
+      {"title": "Tesla Q2：營收超$28.24B但EPS大miss $0.32→盤後跌3%", "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/", "source": "Electrek", "desc": "營收+26%超預期。但淨利-5%($1.11B)、FCF轉負、毛利率壓縮。服務收入+50%亮眼。正轉型為多元AI公司但短期獲利犧牲"},
+      {"title": "美股7/22等財報微跌：S&P -0.1%、Nasdaq -0.7%→盤後GOOGL -5%/TSLA -3%", "url": "https://www.businesstoday.com.my/2026/07/23/wall-street-slips-as-tech-earnings-oil-rally-keep-investors-on-edge/", "source": "Business Today", "desc": "交易者在財報前觀望。油價續升增添通膨擔憂。盤後Alphabet和Tesla均下跌。今晚Intel財報為半導體板塊下一關鍵"},
+      {"title": "今晚Intel Q2財報：半導體熊市後的18A/代工進展測試", "url": "https://www.msn.com/en-us/money/other/big-tech-earnings-live-alphabet-tesla-and-ibm-results-coming-shortly/ar-AA28tj96", "source": "MSN", "desc": "Intel在SOX熊市中的表現。重點：18A先進製程、Foundry代工業務、PC/伺服器CPU需求。任何下修都可能放大波動"}
+    ],
+    "finance": [
+      {"title": "Alphabet FCF轉負(-$5.9B)：AI投資「燒現金」模式引發估值質疑", "url": "https://www.fierce-network.com/cloud/google-cloud-surges-alphabets-ai-capex-problem-grows", "source": "Fierce Network", "desc": "Q1 $10.1B→Q2 -$5.9B。$205B Capex吃掉所有營運現金流。Big Tech AI支出何時見頂？投資人開始要求具體的回收時間表"},
+      {"title": "Tesla淨利-5%/FCF轉負：高估值+利潤惡化的危險組合", "url": "https://in.investing.com/news/company-news/tesla-q2-2026-slides-revenue-beats-amid-margin-pressure-heavy-capex-93CH-5509158", "source": "Investing.com", "desc": "營收$28.24B(+26%)但EPS miss 32.65%。汽車毛利率壓縮。能源+13%、服務+50%為亮點。但339.5x PE在利潤下滑時格外脆弱"},
+      {"title": "油價Brent $91+持穩：紅海緊張+美伊衝突無緩解跡象", "url": "https://www.businesstoday.com.my/2026/07/23/wall-street-slips-as-tech-earnings-oil-rally-keep-investors-on-edge/", "source": "Business Today", "desc": "Houthi威脅沙特航運。荷姆茲海峽持續關閉。美伊第11+天空襲。油價維持$91高位對通膨和消費者支出構成壓力"},
+      {"title": "BTC從$66.9K回落至$65.7K：CLARITY草案公布後buy-the-rumor-sell-the-news", "url": "https://news.bitcoin.com/senate-republicans-push-clarity-act-with-15-days-left-as-bitcoin-struggles-near-66k/", "source": "Bitcoin.com", "desc": "最終草案公布=利多出盡。參議院休會前15天。通過機率43%仍有不確定性。$66K阻力需要更多催化劑才能突破"}
+    ]
+  }
+}
