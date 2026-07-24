@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-24",
+  "categories": {
+    "ai": [
+      {"title": "Alphabet盤後暴跌7.1%：$205B Capex恐慌壓過Cloud +82%的利多", "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html", "source": "CNBC", "desc": "Tesla -14.5%+Alphabet -7.1%合計蒸發數千億美元市值。AI支出恐慌(Capex上調$15B)讓投資人質疑巨額投入何時回收。CFO稱「加速產能交付以滿足成長需求」"},
+      {"title": "Intel Q2大勝：營收$16.1B(+25%)為15年來最強成長、Data Center AI +59%", "url": "https://www.investing.com/news/earnings/intel-posts-strongest-revenue-growth-in-over-15-years-on-ai-demand-4809889", "source": "Investing.com", "desc": "EPS $0.42(預期$0.21翻倍！)。DC&AI營收$6.3B(+59%YoY/+24% QoQ)。Foundry $5.8B(+31%)。18A進展順利。盤後漲11%。Q3展望$15.8-16.8B超預期"},
+      {"title": "Gemini MAU達9.5億超預期：Google AI應用正快速滲透日常使用", "url": "https://en.sedaily.com/international/2026/07/23/google-burns-through-cash-on-ai-spending-as-cloud-booms", "source": "Seoul Economic Daily", "desc": "Gemini應用月活9.5億(預期9.2億)。90%財富100強使用Gemini Enterprise。AI不再只是基建投資——用戶端已在爆發"},
+      {"title": "為什麼堅持持有Alphabet？Cloud利潤三倍增證明AI投資正在回收", "url": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html", "source": "CNBC", "desc": "Cloud營業利益$8.8B(前年$2.8B三倍增)。搜尋+YouTube持續成長。$205B Capex雖嚇人但「需求確實超過供給」。長線投資人仍看好"}
+    ],
+    "gaming": [
+      {"title": "Halo: Campaign Evolved評測出爐！Metacritic 81-86好評：「經典的頂級重製」", "url": "https://gamerant.com/halo-campaign-evolved-reviews-scores/", "source": "Game Rant", "desc": "Xbox 86/PS5 80/PC 77。OpenCritic 83/88%推薦。UE5重製+4人co-op+分割畫面回歸+3新任務。「Halo配得擁有的頂級重製」(Windows Central)"},
+      {"title": "Halo Campaign Evolved：「PS5上的Halo感覺比以往更好，這很奇怪」", "url": "https://www.gamespot.com/reviews/it-feels-wrong-for-halo-to-feel-better-than-ever-on-ps5/", "source": "GameSpot", "desc": "首次Halo登陸PS5。UE5帶來的視覺衝擊。比2011年Anniversary重製「更徹底的變革」。保留經典核心戰鬥同時全面現代化"},
+      {"title": "Splatoon Raiders持續好評+Halo雙作同日上線：7/23成為今夏最盛大遊戲日", "url": "https://www.polygon.com/halo-campaign-evolved-remake-review-roundup/", "source": "Polygon", "desc": "Splatoon Metacritic 80 + Halo Metacritic 81-86。兩大旗艦同日上線均獲好評。Nintendo和Xbox各自證明品牌IP的持久力"},
+      {"title": "Halo UE5重製的開發哲學：「懷舊與現代精煉的完美橋樑」", "url": "https://www.manofmany.com/entertainment/halo-campaign-evolved-review-is-the-ps5-and-xbox-remake-worth-playing", "source": "Man of Many", "desc": "升級視覺+擴展劇情+重新錄製表演+保留經典核心戰鬥不變。提供「體驗遊戲Icon的最終方式」"}
+    ],
+    "tech": [
+      {"title": "🔴Brent原油突破$100！兩個月來首次——美伊衝突全面升級", "url": "https://www.msn.com/en-us/money/markets/markets-news-july-23-2026-stocks-close-sharply-lower-as-alphabet-tesla-shares-sink-oil-prices-surge/ar-AA28w6on", "source": "MSN", "desc": "Brent首破$100大關為兩個月新高。荷姆茲海峽持續關閉+Houthi威脅沙特+B1轟炸機部署。全球能源供應危機加深。通膨壓力驟升"},
+      {"title": "Intel營收+25%為15年最強：Data Center AI需求「超過供給」", "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html", "source": "CNBC", "desc": "YTD +170%(含去年+84%)。DC&AI $6.3B(+59%)。Client Computing $8.9B(+13%)。Foundry $5.8B(+31%)。18A製程進展順利。盤後+11%逆勢大漲"},
+      {"title": "美股大跌：Nasdaq -2.15%、S&P -1.21%——Tesla -14.5%創2025年3月來最慘", "url": "https://www.stl.news/stock-market-today-thursday-july-23-2026/", "source": "STL News", "desc": "Dow -507(-1.0%)收51,712。AI Capex恐慌+油價$100+中東升級三重打擊。Tesla史上最慘日之一(-14.5%)。Alphabet -7.1%。整體風險偏好急凍"},
+      {"title": "Tesla暴跌14.5%：史上最慘交易日之一——EPS miss+FCF負+毛利率壓縮", "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html", "source": "CNBC", "desc": "蒸發超$1000億市值。Q2營收超但EPS大miss $0.32(預期$0.49)。自駕故事無法支撐339.5x PE在利潤惡化時。Musk願景vs現實的殘酷落差"}
+    ],
+    "crypto": [
+      {"title": "BTC跌至$64,800：CLARITY Act通過機率降至38%+油價$100+股市暴跌三重壓", "url": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38", "source": "CoinDesk", "desc": "Polymarket從43%→38%。B1轟炸機部署伊朗+殖利率新高+美股暴跌=全面風險迴避。BTC從$66.9K高點回落至$64.8K。但跌幅仍遠小於股市"},
+      {"title": "CLARITY Act談判停滯：參議院民主黨不滿被排除在倫理條款協商外", "url": "https://news.bitcoin.com/bitcoin-slides-below-64700-as-senate-clarity-act-talks-stall-and-oil-tops-101/", "source": "Bitcoin.com", "desc": "油價破$100+CLARITY停滯雙重打擊。BTC跌破$64,700。民主黨抗議倫理條款僅與共和黨協商。距休會僅15天窗口急劇縮窄"},
+      {"title": "BTC表現出「異常韌性」：面對$100油價和股市暴跌僅跌1.8%", "url": "https://walletinvestor.com/news/crypto-news/bitcoin-holds-near-65000-through-iran-strike-oil-spike-and-clarity-act-vote/", "source": "Wallet Investor", "desc": "以往這種衝擊會讓BTC暴跌10%+。這次僅-1.8%。機構持倉穩固+ETF持續流入=結構性支撐。BTC與傳統風險資產的脫鉤持續進行中"},
+      {"title": "加密市場整體下跌：BTC -1.6%/ETH -2.6%/SOL -2.4%、市值$2.30兆", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/23/crypto-market-today-july-23-bitcoin-slides-as-odds-of-passing-clarity-act-fall/", "source": "Motley Fool", "desc": "宏觀+政策雙重逆風。CLARITY通過機率下降。但跌幅遠小於Nasdaq(-2.15%)。加密正從「高Beta風險資產」轉向「數位黃金」定位"}
+    ],
+    "dev": [
+      {"title": "Intel Data Center AI營收$6.3B(+59%)：開發者AI算力供給持續擴張", "url": "https://qz.com/intel-second-quarter-earnings-revenue-ai-growth-072326", "source": "Quartz", "desc": "Intel 15年來最強成長。18A先進製程+Foundry代工($5.8B/+31%)同步推進。「AI需求持續超過供給」。開發者可預期更多Xeon/Gaudi算力可用"},
+      {"title": "Halo: Campaign Evolved的UE5技術實現：4人Co-op+分割畫面如何在新引擎跑", "url": "https://www.shacknews.com/article/150095/halo-campaign-evolved-review-score", "source": "Shacknews", "desc": "首次Halo支援4人線上co-op+2人分割畫面。UE5的Lumen/Nanite如何支撐大規模場景的多人同時運算。引擎選擇對開發效率的影響"},
+      {"title": "Alphabet $205B Capex的基建佈局：TPU/GPU/資料中心對開發者生態的長期影響", "url": "https://www.axios.com/2026/07/23/ai-alphabet-google-earnings", "source": "Axios", "desc": "Google承認「仍沒有足夠算力滿足AI需求」。$205B用於加速產能。對GCP開發者=更多推理算力+更低延遲。但FCF轉負=服務定價可能調整"},
+      {"title": "Intel Foundry +31%成長：18A製程為第三方客戶提供先進製造選擇", "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-intel-tops-q2-2026-estimates-as-shares-rebound-after-hours-93CH-4810201", "source": "Investing.com", "desc": "Foundry營收$5.8B。18A量產進展符合預期。開發者關注：Intel Foundry能否成為TSMC以外的可靠先進製程選擇？盤後+11%=市場投信任票"}
+    ],
+    "art": [
+      {"title": "Halo Campaign Evolved：UE5視覺重現Halo環世界的震撼——「值得注目的一刻」", "url": "https://checkpointgaming.net/reviews/2026/07/halo-campaign-evolved-review-finishing-the-fight-again/", "source": "Checkpoint Gaming", "desc": "「踏出墜毀的救生艙，看到UE5重新詮釋的Halo世界——那是一個值得注目的時刻」。經典場景在新引擎下煥發新生"},
+      {"title": "Halo PS5版評測：「經典的最終體驗方式」——升級視覺+重錄表演+擴展劇情", "url": "https://powerup-gaming.com/halo-campaign-evolved-review-ps5-pro/", "source": "PowerUp Gaming", "desc": "PS5 Pro增強版體驗。全新過場動畫、重新錄製的配音和音樂。保留經典核心同時用現代標準重新詮釋Halo的藝術DNA"},
+      {"title": "Splatoon Raiders的商業藝術成功：噴墨美學+動作RPG的完美融合持續獲讚", "url": "https://www.polygon.com/splatoon-raiders-review-roundup/", "source": "Polygon", "desc": "「Diablo+Doom+Donkey Kong的融合」。100+武器的獨特視覺設計。Nintendo如何在全新類型中保持品牌美學一致性的範例"},
+      {"title": "Windows Central：「Xbox傳奇旗艦配得擁有的頂級重製」——藝術方向的勝利", "url": "https://www.windowscentral.com/gaming/halo/halo-campaign-evolved-review", "source": "Windows Central", "desc": "比Anniversary「更徹底的變革」。不是簡單的高清化而是完全重新構思的視覺呈現。保留氛圍DNA同時用UE5表現力提升沉浸感"}
+    ],
+    "design": [
+      {"title": "Tesla -14.5%的設計啟示：當「願景公司」遇上利潤現實", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-alphabet-slides-7-after-announcing-2026-capex-of-roughly-usd200-billion/", "source": "Motley Fool", "desc": "Tesla正從EV→Cybercab/Semi/Optimus轉型。但339.5x PE在EPS miss時崩潰。產品設計願景vs商業模式設計現實的衝突"},
+      {"title": "Halo Campaign Evolved的remake設計決策：保留多少vs改變多少的精確平衡", "url": "https://www.thegamer.com/halo-campaign-evolved-unreal-engine-5-preview/", "source": "The Gamer", "desc": "「遊戲最困難的走鋼索之一」。加入Sprint/登車/能量劍但保留核心戰鬥節奏。UE5新引擎如何同時服務懷舊玩家和新玩家的設計挑戰"},
+      {"title": "Brent $100的數據視覺化挑戰：如何傳達「兩個月新高」的衝擊力", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "AI支出+油價$100+中東升級=三重壓力。財經媒體如何在一張圖中呈現多重同時衝擊？資訊優先級的設計決策"},
+      {"title": "Intel品牌復興設計：從「失落巨人」到「15年最強成長」的敘事轉變", "url": "https://www.businessinsider.com/intels-ai-business-helps-fuel-strongest-revenue-growth-15-years-2026-7", "source": "Business Insider", "desc": "2024年被視為衰落中的巨人。18個月後+170% YTD。品牌如何設計「復興敘事」？從政府注資→AI需求→Foundry成長的故事弧線設計"}
+    ],
+    "business": [
+      {"title": "美股大跌：S&P -1.21%/Nasdaq -2.15%/Dow -507——Tesla -14.5%史上最慘日之一", "url": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Tesla蒸發$1000億+市值。Alphabet -7.1%。AI Capex恐慌+油價$100+美伊B1轟炸機三重打擊。Intel盤後+11%為唯一亮點"},
+      {"title": "Intel Q2大勝逆勢：營收$16.1B(+25%)/EPS $0.42(翻倍預期)/盤後+11%", "url": "https://qz.com/intel-second-quarter-earnings-revenue-ai-growth-072326", "source": "Quartz", "desc": "15年最強季度成長。DC&AI +59%。Foundry +31%。Q3展望$15.8-16.8B超預期。在Tesla/Alphabet暴跌日逆勢飆升——AI需求確認但受惠者在轉移"},
+      {"title": "Tesla蒸發超$1000億市值：-14.5%為2025年3月以來最慘日", "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html", "source": "CNBC", "desc": "營收超但EPS大miss+FCF轉負。339.5x PE無法承受利潤惡化。Musk的Robotaxi/Optimus願景需要更長時間兌現。市場耐心用盡"},
+      {"title": "Alphabet -7.1%：Cloud +82%利多完全被$205B Capex恐慌蓋過", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-alphabet-slides-7-after-announcing-2026-capex-of-roughly-usd200-billion/", "source": "Motley Fool", "desc": "FCF -$5.9B。投資人問：「何時停止加碼？」。但Cloud利潤三倍增($8.8B)證明回報已在來。短線恐慌vs長線價值的拉鋸"}
+    ],
+    "finance": [
+      {"title": "🔴Brent原油突破$100！兩個月新高——全球通膨壓力驟升", "url": "https://www.msn.com/en-us/money/markets/markets-news-july-23-2026-stocks-close-sharply-lower-as-alphabet-tesla-shares-sink-oil-prices-surge/ar-AA28w6on", "source": "MSN", "desc": "荷姆茲+紅海雙重封鎖。美B1轟炸機部署。Houthi擴大攻擊沙特。$100油價對Fed降息路徑=致命打擊。高利率+高油價雙重壓力"},
+      {"title": "Intel盤後+11%逆勢飆漲：AI需求確認、受惠者從「大客戶」轉向「供應商」", "url": "https://www.proactiveinvestors.co.uk/companies/news/1095965/intel-second-quarter-earnings-top-estimates-on-ai-driven-demand-growth-1095965.html", "source": "Proactive", "desc": "Alphabet/Tesla暴跌但Intel飆漲=市場信號：AI需求沒問題，問題是花太多錢的公司。「供給方」(Intel/TSMC/AMD)優於「需求方」(GOOGL/TSLA)"},
+      {"title": "BTC跌至$64,800但韌性驚人：面對$100油價+股市暴跌僅跌1.8%", "url": "https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade", "source": "CoinDesk", "desc": "Nasdaq -2.15%但BTC僅-1.8%。機構+ETF持續持有。「數位黃金」敘事在地緣衝突中獲得驗證。CLARITY通過機率38%仍為短線壓力"},
+      {"title": "美國殖利率攀升至2026新高：油價$100+Fed不降息+AI Capex恐慌的完美風暴", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "10年期殖利率續升。油價破$100重燃通膨。Alphabet/Tesla FCF均轉負。高利率環境持續壓制成長股。資金從AI大客戶流向AI供應商"}
+    ]
+  }
+}
