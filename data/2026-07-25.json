@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-25",
+  "categories": {
+    "ai": [
+      {"title": "Magnificent Seven單日蒸發$797B：AI Capex恐慌為2025年4月以來最大單日跌幅", "url": "https://www.implicator.ai/magnificent-seven-loses-797-billion-after-alphabet-and-tesla-raise-ai-spending/", "source": "Implicator AI", "desc": "Alphabet($300B)+Tesla($200B)為主要失血源。三年來華爾街獎勵AI支出→如今開始懲罰。FCF轉負+Capex無上限=投資人耐心用盡。Morgan Stanley仍維持Tesla $400目標價"},
+      {"title": "CNBC分析：為何堅持持有Alphabet——1 hyperscaler down, 3 to go", "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html", "source": "CNBC", "desc": "Alphabet歷史首次FCF轉負(-$5.8B)。Capex上調至$195-205B且「2027年更高」。但Cloud+82%/利潤三倍增證明回報已在來。下週Microsoft/Amazon/Meta將跟進"},
+      {"title": "Intel Q2：15年最強成長確認AI供給方受惠——但隔日獲利了結跌6.5%", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/", "source": "Motley Fool", "desc": "盤後+12%→隔日-6.5%的典型「買謠言賣事實」。YTD仍+170%。DC&AI $6.3B(+59%)確認需求火爆。但投資人開始對整個半導體Capex週期產生疑慮"},
+      {"title": "Alphabet/Tesla考驗投資人耐心：AI支出壓過成長、FCF均為負", "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html", "source": "CNBC", "desc": "兩家都報營收超預期但FCF轉負。投資人問：「何時停止花錢？」。Alphabet CFO：「加速產能交付以滿足需求」。市場從「獎勵願景」轉向「要求回報」"}
+    ],
+    "gaming": [
+      {"title": "Halo首次登陸PlayStation！25年獨佔後的歷史性時刻", "url": "https://www.gamespot.com/articles/after-25-years-halo-is-finally-on-playstation/", "source": "GameSpot", "desc": "2001年Xbox起家的旗艦IP。Campaign Evolved成為系列首款PS版。Xbox戰略轉型的重要里程碑。意味著Microsoft不再以獨佔限制玩家觸及"},
+      {"title": "Halo: Campaign Evolved發售前被破解！MS帳號問題讓部分玩家無法遊玩", "url": "https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out", "source": "TechPowerUp", "desc": "正式發售前4天就被破解。破解版無需MS/Steam帳號。同時正版玩家遭遇帳號登入問題。DRM反盜版vs玩家體驗的老議題再度浮現"},
+      {"title": "Splatoon Raiders正式上線：$49.99數位/$59.99實體——系列30M+玩家的新冒險", "url": "https://www.techtimes.com/articles/321417/20260723/nintendo-sdcc-2026-splatoon-raiders-launches-switch-sports-resort-gets-us-debut.htm", "source": "TechTimes", "desc": "全球7/23正式上線Switch 2獨佔。$49.99低於一般$59.99首方價=定位為類型實驗。11年3000萬份銷量的系列首次PvE冒險"},
+      {"title": "Game Informer封面故事：Onimusha新作+Halo/Splatoon雙作討論", "url": "https://gameinformer.com/video-podcast/2026/07/24/onimusha-way-of-the-sword-cover-story-plus-halo-and-splatoon-the-game", "source": "Game Informer", "desc": "Capcom的Onimusha: Way of the Sword即將推出(日本實地取材)。加上Halo/Splatoon雙作評測。遊戲媒體本週內容爆滿"}
+    ],
+    "tech": [
+      {"title": "油價從$100急跌至$96.78(-4%)：巴基斯坦/中國斡旋美伊和平談判出現外交窗口", "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html", "source": "CNBC", "desc": "Reuters引3名巴基斯坦消息人士稱中國支持的斡旋正在進行。但「與美國對話的障礙仍高」。Brent從$100→$96.78。Trump仍考慮「史上最大攻擊」"},
+      {"title": "Trump考慮對伊朗發動「史上最大攻擊」：與閣僚開會決策中", "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Axios專訪：「我正考慮史上最大攻擊。比之前任何都大。接近做決定了。」紐時報導Trump與高級顧問和內閣開會中。軍事升級vs外交的十字路口"},
+      {"title": "Big Tech財報週總結：Intel贏、Alphabet/Tesla輸——AI受惠者在轉移", "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earnings-week-over-210754123.html", "source": "Yahoo Finance", "desc": "Intel營收+25%(最乾淨的beat)。Alphabet Cloud+82%但被Capex蓋過。Tesla營收超但EPS大miss。結論：AI「供給方」>「需求方」"},
+      {"title": "Alphabet Capex $205B vs FCF -$5.8B：AI基建的「無底洞」何時見底？", "url": "https://www.axios.com/2026/07/23/ai-alphabet-google-earnings", "source": "Axios", "desc": "Capex上調$15B。營業利潤率34%(季減)。下週Microsoft/Amazon/Meta跟進→若全部上調=AI支出共識可能整體上修至$8000億+"}
+    ],
+    "crypto": [
+      {"title": "🔴CLARITY Act預計將MISS 8月休會窗口！參議院多數黨領袖確認", "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says", "source": "CoinDesk", "desc": "參議院多數黨領袖Thune暗示法案不會在8/7前投票。原定8月休會前通過的計畫破局。加密產業$2億遊說可能白費。法案延至秋季或更晚"},
+      {"title": "BTC週五收$64,148：CLARITY法案破局+油價波動+Mag7蒸發$797B三重壓", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News", "desc": "從週一$66.9K高點→週五$64.1K。CLARITY通過希望破滅為最大利空。但BTC面對如此動盪僅跌4%=機構底部仍穩固"},
+      {"title": "CLARITY Act通過希望渺茫：Fortune分析拖延原因和Trump倫理爭議", "url": "https://fortune.com/2026/07/24/hopes-for-key-crypto-bill-fade-amid-delays-trump-ethics-controversy/", "source": "Fortune", "desc": "產業推動1.5年。眾議院早已通過。參議院銀行委員會也過了。但60票門檻+民主黨反對+倫理條款爭議=看不到盡頭。秋季最樂觀"},
+      {"title": "油價回落$96.78後BTC持穩：和平談判信號為風險資產帶來一絲喘息", "url": "https://news.bitcoin.com/bitcoin-slides-below-64700-as-senate-clarity-act-talks-stall-and-oil-tops-101/", "source": "Bitcoin.com", "desc": "週五油價從$100→$96.78給市場喘息。BTC在$64-65K整理。雖CLARITY破局但市場並未恐慌拋售=顯示$64K有強支撐"}
+    ],
+    "dev": [
+      {"title": "Intel Data Center AI +59%/Foundry +31%：開發者AI算力供給持續擴張的確認", "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html", "source": "CNBC", "desc": "Q2確認「AI需求仍超過供給」。Q3展望$15.8-16.8B再超預期。18A量產+Foundry成長=Intel作為第二AI算力供應商的地位確立"},
+      {"title": "Halo被破解引發DRM辯論：正版玩家MS帳號問題vs盜版流暢運行", "url": "https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out", "source": "TechPowerUp", "desc": "正版需要MS帳號登入但伺服器問題→無法遊玩。盜版繞過帳號系統流暢運行。DRM是否反而懲罰付費玩家？遊戲軟體工程的永恆難題"},
+      {"title": "Alphabet $205B Capex + 2027更高：對GCP開發者生態的長期影響預測", "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html", "source": "CNBC", "desc": "Google承認算力仍不足以滿足AI需求。$205B用於TPU/GPU/資料中心。開發者可預期2027年GCP推理成本下降+容量擴大。但短期定價可能調整"},
+      {"title": "本週Big Tech財報的開發者結論：供給方(Intel/AMD)比需求方(GOOGL/TSLA)更安全", "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earnings-week-over-210754123.html", "source": "Yahoo Finance", "desc": "Intel「最乾淨的beat」。AMD Helios合作。但Alphabet/Tesla都FCF轉負。對開發者：用AI工具OK，但依賴單一hyperscaler有風險"}
+    ],
+    "art": [
+      {"title": "Halo首登PlayStation的歷史意義：25年品牌美學如何跨平台傳達", "url": "https://www.gamespot.com/articles/after-25-years-halo-is-finally-on-playstation/", "source": "GameSpot", "desc": "Xbox的視覺識別符號登陸敵對陣營。Master Chief的頭盔、Halo環世界的壯闊——這些視覺元素如何在PS5上保持品牌一致性"},
+      {"title": "Onimusha: Way of the Sword封面故事：Capcom日本實地取材的美術設計", "url": "https://gameinformer.com/video-podcast/2026/07/24/onimusha-way-of-the-sword-cover-story-plus-halo-and-splatoon-the-game", "source": "Game Informer", "desc": "開發團隊造訪日本歷史場所。將真實地點融入遊戲美術。戰國時代的視覺考究。Capcom系列復活的藝術野心"},
+      {"title": "Splatoon Raiders作為「視覺實驗」的成功：$49.99定價反映類型探索定位", "url": "https://www.techtimes.com/articles/321030/20260720/splatoon-raiders-launches-thursday-nintendo-switch-2-first-ever-pve-looter-shooter.htm", "source": "TechTimes", "desc": "低於$59.99標準首方價。Nintendo將其定位為「類型實驗」而非正統續作。噴墨美學在PvE RPG中的成功轉化。11年30M銷量的品牌保護策略"},
+      {"title": "本週遊戲美學雙峰：噴墨狂歡(Splatoon) vs 科幻史詩(Halo) 的風格對比", "url": "https://www.polygon.com/splatoon-raiders-review-roundup/", "source": "Polygon", "desc": "同日上線的兩作代表完全不同的美學取向。Nintendo的色彩爆炸vs Halo Studios的科幻寫實。各獲80+分=證明多元視覺方向都能成功"}
+    ],
+    "design": [
+      {"title": "Halo DRM設計失敗：正版玩家被鎖vs盜版流暢——使用者體驗的反面教材", "url": "https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out", "source": "TechPowerUp", "desc": "MS帳號強制登入→伺服器超載→正版無法玩。盜版跳過帳號→流暢。DRM設計的核心矛盾：安全性vs使用者體驗的平衡"},
+      {"title": "Splatoon Raiders的$49.99定價設計：如何用價格傳達「這是實驗不是續作」", "url": "https://www.techtimes.com/articles/321030/20260720/splatoon-raiders-launches-thursday-nintendo-switch-2-first-ever-pve-looter-shooter.htm", "source": "TechTimes", "desc": "低$10的定價是刻意的產品定位設計。告訴消費者：「這是新嘗試，降低你的風險」。Nintendo的價格作為溝通工具"},
+      {"title": "油價$100→$96的視覺敘事：和平談判如何在金融數據中體現", "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html", "source": "CNBC", "desc": "單一Reuters報導引發-4%下跌。資訊如何設計才能傳達地緣政治對市場的即時影響？財經媒體的速度vs準確度設計取捨"},
+      {"title": "$797B蒸發的資訊設計挑戰：如何視覺化「史上最大科技股單日失血」", "url": "https://www.implicator.ai/magnificent-seven-loses-797-billion-after-alphabet-and-tesla-raise-ai-spending/", "source": "Implicator AI", "desc": "Mag7單日-$797B。如何讓讀者「感受」到這個數字的重量？比較法(=整個巴西GDP)、時間軸(2025年4月以來最慘)、組成分析(TSLA$200B+GOOGL$300B)"}
+    ],
+    "business": [
+      {"title": "週五收盤混合：S&P +0.05%/Nasdaq -0.64%/Dow +236（Apple +3.5%撐盤）", "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html", "source": "CNBC", "desc": "巴基斯坦/中國斡旋美伊和平談判→油價回落→市場喘息。Apple +3.5%撐Dow。Intel -6.5%(獲利了結)。Alphabet +0.58%(微復)。本週Mag7蒸發$797B"},
+      {"title": "本週財報總結：Intel贏家(+25%營收)、Alphabet/Tesla輸家(Capex恐慌)", "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earnings-week-over-210754123.html", "source": "Yahoo Finance", "desc": "Intel「最乾淨的beat」翻倍EPS。Alphabet Cloud+82%但$205B Capex嚇壞市場。Tesla -14.5%最慘。結論：AI供給商>AI花費商"},
+      {"title": "油價從$100回落至$96.78：和平談判希望+Trump「接近做決定」的混合信號", "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html", "source": "CNBC", "desc": "巴基斯坦(中國支持)正斡旋。但Trump稱考慮「史上最大攻擊」。市場在外交vs軍事升級間搖擺。Brent -4%但仍在$96高位"},
+      {"title": "Dow反彈+236靠Apple +3.5%：科技板塊在恐慌後出現選擇性復甦", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/", "source": "Motley Fool", "desc": "Apple/Microsoft等「花錢較少」的科技股反彈。Intel/Sandisk(-11%)等半導體繼續獲利了結。市場正重新區分「穩健科技」vs「高支出科技」"}
+    ],
+    "finance": [
+      {"title": "油價Brent $96.78(-4%)：和平談判出現但Trump仍考慮「史上最大攻擊」", "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html", "source": "CNBC", "desc": "從$100→$96.78。巴基斯坦/中國斡旋為首個正式外交訊號。但美軍仍在攻擊。紅海新戰場開啟。市場反映「希望」但尚非「確認」"},
+      {"title": "本週Magnificent Seven蒸發$797B：自2025年4月關稅恐慌以來最大單日跌幅", "url": "https://www.implicator.ai/magnificent-seven-loses-797-billion-after-alphabet-and-tesla-raise-ai-spending/", "source": "Implicator AI", "desc": "Tesla -$200B/Alphabet -$300B/其餘-$297B。「三年來華爾街獎勵AI支出→如今開始懲罰」。下週Microsoft/Amazon/Meta跟進→可能引發第二波"},
+      {"title": "BTC週五$64,148：CLARITY破局但機構底部穩固——面對暴風僅跌4%", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News", "desc": "從週一$66.9K→週五$64.1K(-4%)。CLARITY miss August+油價$100+Mag7暴跌=三重壓力。但跌幅遠小於Nasdaq週跌(-3.8%)。機構+ETF持續持有"},
+      {"title": "Apple +3.5%週五領漲Dow：「花錢少的科技股」成為新避風港", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/", "source": "Motley Fool", "desc": "不需要$200B Capex的科技股反彈。Apple/Microsoft回升。市場正重新定價：「有AI需求」≠「需要花天文數字」。穩健獲利>願景支出"}
+    ]
+  }
+}
