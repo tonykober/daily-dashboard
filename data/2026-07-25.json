@@ -55,5 +55,60 @@
       {"title": "BTC週五$64,148：CLARITY破局但機構底部穩固——面對暴風僅跌4%", "url": "https://investingnews.com/cryptocurrency-market-recap/", "source": "Investing News", "desc": "從週一$66.9K→週五$64.1K(-4%)。CLARITY miss August+油價$100+Mag7暴跌=三重壓力。但跌幅遠小於Nasdaq週跌(-3.8%)。機構+ETF持續持有"},
       {"title": "Apple +3.5%週五領漲Dow：「花錢少的科技股」成為新避風港", "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/", "source": "Motley Fool", "desc": "不需要$200B Capex的科技股反彈。Apple/Microsoft回升。市場正重新定價：「有AI需求」≠「需要花天文數字」。穩健獲利>願景支出"}
     ]
+  },
+  "stock_briefing": {
+    "date": "2026-07-27",
+    "updated_at": "2026-07-27 08:30",
+    "market": {
+      "taiex_prev_close": 43654.84,
+      "change": "-1170.94 (-2.67%)",
+      "note": "7/24(五)加權收43,654.84(-1,170.94/-2.67%)暴跌1100+點。Alphabet盤後-7%/Tesla-14.5%的衝擊波延燒亞洲。Brent $100衝擊。TSMC -2.29%收2,350。MediaTek -3.23%/Delta -5.05%/ASE -5.55%。但美股週五油回落+和平談判→收穩。本週加權仍+2.30%(因7/21史上最大漲幅)",
+      "risk_alert": "🟡美股週五微穩(S&P +0.05%/油回落$96.78)。巴基斯坦/中國斡旋美伊和平談判出現外交窗口→今日台股有機會止穩反彈。但Trump仍考慮「史上最大攻擊」=不確定性仍高。本週Microsoft/Amazon/Meta財報接力"
+    },
+    "sectors": [
+      {"name": "半導體", "trend": "修正 Alphabet Capex恐慌+油價$100壓制", "note": "TSMC -2.29%收2350。Alphabet Cloud+82%確認需求但$205B Capex嚇壞市場。Intel Q2大勝(+25%)但隔日獲利了結-6.5%"},
+      {"name": "AI/電子權值", "trend": "大跌 跟隨美股科技賣壓", "note": "MediaTek -3.23%/Delta -5.05%/ASE -5.55%。Tesla -14.5%/Alphabet -7.1%帶動全球科技恐慌"},
+      {"name": "高股息ETF", "trend": "小跌但極度抗跌", "note": "0056 -0.89%/00878 -0.37%/00919 僅-0.03%！高息ETF在暴風中表現穩健"},
+      {"name": "油價/航運", "trend": "先漲後回 油從$100→$96.78", "note": "和平談判信號出現→油價回落-4%。但荷姆茲仍關閉。若談判成功油價可能大跌"},
+      {"name": "美債ETF", "trend": "微跌（殖利率升）", "note": "油價$100推升通膨預期→殖利率升→美債小跌。避險功能短暫減弱"}
+    ],
+    "stocks": [
+      {"name": "2330 台積電", "price": 2350, "trend": "跌-2.29%（Alphabet Capex恐慌拖累）", "nav": 227.19, "pb": 10.35, "pe": 15.97, "quarterLine": "季線約2450，離季線-4.1%（再度拉開距離）", "suggestion": "持有（美股週五止穩+Intel大勝=AI需求無虞。Capex恐慌是短線情緒非基本面問題。但需等今日開盤確認方向）"},
+      {"name": "0050 元大台灣50", "price": 101.29, "trend": "跌-2.12%", "nav": 101.70, "premium": "+0.40%（溢價）", "quarterLine": "季線約105，離季線-3.5%（從-1%回拉）", "suggestion": "持有（短線修正但趨勢未破。美股週五止穩為正面）"},
+      {"name": "006208 富邦台50", "price": 232.08, "trend": "跌-2.06%", "nav": 233.00, "premium": "+0.40%", "quarterLine": "季線約244，離季線-4.9%", "suggestion": "持有（同0050邏輯）"},
+      {"name": "0056 元大高股息", "price": 50.06, "trend": "僅跌-0.89%（抗跌）", "nav": 50.20, "premium": "+0.28%", "quarterLine": "季線約52，離季線-3.7%", "suggestion": "持有（暴風中極度抗跌。高殖利率護城河）"},
+      {"name": "00878 國泰永續高息", "price": 32.53, "trend": "僅跌-0.37%（極度抗跌）", "nav": 32.61, "premium": "+0.25%", "quarterLine": "季線約33，離季線-1.4%（仍接近季線！）", "suggestion": "持有/加碼（跌幅極小、接近季線、存股首選）"},
+      {"name": "00919 群益精選高息", "price": 29.52, "trend": "幾乎平盤-0.03%🔥（最抗跌）", "nav": 29.49, "premium": "-0.10%（微折價）", "quarterLine": "季線約29.2，離季線+1.1%（仍在季線上方！）", "suggestion": "持有（大盤暴跌但00919幾乎不動=最穩健的高息ETF）"},
+      {"name": "00929 復華高息", "price": 28.66, "trend": "跌-1.10%", "nav": 28.78, "premium": "+0.42%", "quarterLine": "季線約29.5，離季線-2.8%", "suggestion": "持有（科技含量高波動大於純高息ETF）"},
+      {"name": "00940 元大台灣價值高息", "price": 12.24, "trend": "跌-0.57%", "nav": 12.20, "premium": "-0.33%（折價）", "quarterLine": "季線約12.4，離季線-1.3%", "suggestion": "觀望（折價中、波動小）"},
+      {"name": "00892 富邦台灣半導體", "price": 38.89, "trend": "跌-2.89%（跌回季線下方）", "nav": 38.98, "premium": "+0.23%", "quarterLine": "季線約40，離季線-2.8%（從+0.4%→-2.8%回落）", "suggestion": "持有（從突破季線又跌回。短線波動大但AI需求未變）"},
+      {"name": "00891 中信關鍵半導體", "price": 33.86, "trend": "跌-2.91%", "nav": 34.09, "premium": "+0.68%", "quarterLine": "季線約35.5，離季線-4.6%", "suggestion": "持有（同00892邏輯，波動大等止穩）"},
+      {"name": "00982A 中信美國公債20+", "price": 9.48, "trend": "微跌（殖利率上升壓力）", "nav": 9.45, "premium": "+0.32%", "quarterLine": "季線約9.3，離季線+1.9%（季線上方）", "suggestion": "持有（油價回落若持續→殖利率可能回落→美債受惠）"},
+      {"name": "00981A 元大美債20+", "price": 30.90, "trend": "微跌", "nav": 30.75, "premium": "+0.49%", "quarterLine": "季線約30.2，離季線+2.3%（季線上方）", "suggestion": "持有"},
+      {"name": "00403A 中信15年期以上美債", "price": 31.60, "trend": "微跌", "nav": 31.45, "premium": "+0.48%", "quarterLine": "季線約31，離季線+1.9%（季線上方）", "suggestion": "持有"},
+      {"name": "009816 FT美政府債", "price": 35.30, "trend": "微跌", "nav": 35.15, "premium": "+0.43%", "quarterLine": "季線約34.8，離季線+1.4%（季線上方）", "suggestion": "持有"}
+    ],
+    "institutional": {
+      "foreign": "7/24外資動態待確認（7/22轉買$173.4億後可能因油價$100再度轉賣）。關注今日外資動向",
+      "investment_trust": "投信持續買超高息ETF中",
+      "dealer": "自營商動態待確認"
+    },
+    "sentiment": {
+      "score": 35,
+      "label": "恐懼",
+      "note": "從55回落至35。Alphabet Capex恐慌+Tesla -14.5%+油$100三重打擊重燃恐懼。但週五美股止穩+油回落$96.78+和平談判=今日可能反彈。本週波動極大(7/21最大漲→7/24暴跌1100)=市場仍在尋找方向"
+    },
+    "events": [
+      "7/24 台股-1,171點(-2.67%)收43,655（油$100+GOOGL/TSLA暴跌衝擊）",
+      "TSMC -2.29%收2,350/MediaTek -3.23%/Delta -5.05%",
+      "美股7/24: Tesla -14.5%(史上最慘)/Alphabet -7.1%/Mag7蒸發$797B",
+      "Intel Q2大勝(+25%營收/EPS翻倍)盤後+11%→隔日-6.5%獲利了結",
+      "🔴油價Brent曾破$100→週五回落至$96.78(-4%)",
+      "🟢巴基斯坦/中國斡旋美伊和平談判（外交窗口出現！）",
+      "⚠️Trump考慮「史上最大攻擊」（軍事vs外交十字路口）",
+      "美股週五止穩(S&P +0.05%/Dow +236/Apple +3.5%)",
+      "本週: Microsoft/Amazon/Meta財報接力"
+    ],
+    "summary": "🟡震盪整理中：本週台股經歷史上最大漲幅(7/21 +1783)→再遭暴跌(7/24 -1171)的極端波動。7/24收43,655是因Alphabet Capex $205B恐慌+Tesla -14.5%+油$100三重衝擊。但基本面未變：AI需求確認(Cloud+82%/Intel+25%)、外資已轉買(7/22)。美股週五止穩+油從$100回落至$96.78+和平談判信號→今日台股有望止穩。策略：高息ETF(00878/00919)表現極度抗跌、持有不動。半導體ETF(00892)從突破季線又跌回=等待再次確認。台積電$2,350仍在合理區間。觀察今日外資動向和油價走勢。本週Microsoft/Meta/Amazon財報將決定AI Capex恐慌是否持續。"
   }
 }
