@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-28",
+  "categories": {
+    "ai": [
+      {"title": "超級週來臨：Microsoft/Meta(週三)+Apple/Amazon(週四) AI財報大考驗", "url": "https://www.forbes.com/sites/bill_stone/2026/07/26/big-earnings-week-tests-wall-streets-ai-spending-fears/", "source": "Forbes", "desc": "175家S&P500公司報告。4/7 Mag7同週發布。市場緊盯：Alphabet $205B Capex衝擊後，其他hyperscaler是否跟進上調？AI支出恐慌能否被營收成長抵消？"},
+      {"title": "AI相關債券市場出現裂痕：2026上半年$1.2兆高評級發行為2021年來最多", "url": "https://www.morningstar.com/news/marketwatch/20260727408/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom", "source": "Morningstar", "desc": "其中約$2000億為hyperscaler AI基建債券。在Alphabet FCF轉負後，信用市場開始質疑AI企業的償債能力。Meta/Microsoft財報前的關鍵壓力測試"},
+      {"title": "Big Tech財報撞上「市場AI支出反叛」：Fortune分析投資人耐心崩潰", "url": "https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/", "source": "Fortune", "desc": "Alphabet $205B+Tesla FCF轉負已引發「花太多錢」的集體焦慮。本週MSFT/META若同樣上調Capex→可能引發第二波$800B級賣壓"},
+      {"title": "韓媒觀點：Fed可能考慮意外升息——油價+AI支出雙重通膨壓力", "url": "https://en.sedaily.com/international/2026/07/27/korea-us-mega-earnings-loom-as-fed-weighs-surprise-rate-hike", "source": "Seoul Economic Daily", "desc": "韓國AI股+美國Mag7同週報告。Fed週三決議。部分觀點認為油價曾破$100+AI Capex推升殖利率=Fed可能暗示鷹派。但停戰後油跌-7%改變局面"}
+    ],
+    "gaming": [
+      {"title": "🎮Halo: Campaign Evolved今日正式全面發售！Game Pass首日、全平台", "url": "https://en.wikipedia.org/wiki/Halo:_Campaign_Evolved", "source": "Wikipedia", "desc": "7/28全面發售(PS5/Xbox/PC)。5天搶先體驗結束。Metacritic 81-86。UE5重製+4人co-op+分割畫面。系列25年來首次登陸PlayStation！Game Pass Day 1"},
+      {"title": "Ask the Developer: Splatoon Raiders開發者訪談——系列如何轉型PvE冒險", "url": "https://www.nintendo.com/au/news-and-articles/ask-the-developer-vol-22-splatoon-raiders-chapter-1/", "source": "Nintendo", "desc": "Nintendo官方開發者訪談Vol.22。開發團隊分享從PvP射擊→PvE冒險的設計決策。如何保持Splatoon DNA同時開創新類型。武器系統和raid循環的設計哲學"},
+      {"title": "Halo Campaign Evolved完整指南：版本差異、Game Pass、與原版有何不同？", "url": "https://www.g2a.com/news/features/halo-campaign-evolved-guide/", "source": "G2A", "desc": "Standard $49.99/Premium $69.99(含搶先體驗+額外內容)。Game Pass Ultimate/PC可免費玩標準版。3個新前傳任務、現代化機制、UE5視覺重製"},
+      {"title": "Xbox Game Pass 7月Wave 2全陣容確認：Halo+Beast of Reincarnation+Mistfall Hunter", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "Halo今日(7/28)/Beast of Reincarnation(Game Freak新IP/8/4)/Mistfall Hunter(7/30)。三款首日遊戲撐起7月下旬至8月初的Game Pass陣容"}
+    ],
+    "tech": [
+      {"title": "🟢美伊雙方暫停攻擊！油價Brent暴跌-7%至$84——地緣風險重大降溫", "url": "https://www.morningstar.com/news/marketwatch/2026072629/oil-prices-sink-stock-futures-rally-as-us-and-iran-pause-attacks-wall-street-awaits-busy-week", "source": "Morningstar", "desc": "Reuters:伊朗將在美方持續暫停條件下停止攻擊。WSJ:Trump取消升級計畫(Pentagon彈藥庫存不足)。Brent從$96→$84(-7%)。殖利率和美元同步下跌"},
+      {"title": "Trump取消對伊朗大規模攻擊計畫：Pentagon武器庫存不足為決策關鍵", "url": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html", "source": "CNBC", "desc": "NYT:Trump與高級顧問開會後決定不升級。原因是防空飛彈庫存耗盡。伊朗否認10天停火協議但事實上雙方已暫停。巴基斯坦/中國持續斡旋"},
+      {"title": "Apple超越Nvidia重回全球市值王：「花錢少的科技股」成新避風港", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-27-2026-105610851.html", "source": "Yahoo Finance", "desc": "Nvidia -5%被拋售(AI Capex恐慌受害者)。Apple不需$200B Capex仍穩健獲利→成為資金避風港。市場正重新區分「穩健科技」vs「高支出科技」"},
+      {"title": "殖利率和美元雙跌：停戰降低通膨預期、Fed升息壓力緩解", "url": "https://www.morningstar.com/news/dow-jones/202607271334/bond-yields-dollar-fall-as-trump-pauses-iran-strikes-and-oil-prices-slide", "source": "Morningstar/DJ", "desc": "油價從$100→$84代表通膨壓力大減。10年期殖利率下降。美元走軟。對成長股和新興市場均為利多。Fed週三決議態度可能更鴿"}
+    ],
+    "crypto": [
+      {"title": "BTC +1%至$65K：美伊停戰提振風險偏好、油價-7%緩解通膨壓力", "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-65k-as-easing-middle-east-tensions-lift-risk-appetite-4812982", "source": "Investing.com", "desc": "停戰→油跌→殖利率降→風險偏好升→BTC受惠。DeFi代幣也同步上漲。但Fed週三決議和CLARITY Act仍是關注焦點"},
+      {"title": "Bitcoin穩守$65K等待Fed：停戰+油價暴跌為正面但升息疑慮未消", "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets", "source": "CoinDesk", "desc": "Brent -7%後BTC保持穩定。市場等Fed週三決議(維持3.5-3.75%預期)。停戰若持續→通膨壓力長期下降→Fed可能暗示降息路徑=BTC大利多"},
+      {"title": "Fed利率決議週三揭曉：維持不變預期、但停戰後態度可能更鴿", "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-amazon-apple-124000801.html", "source": "Yahoo Finance", "desc": "78/104經濟學家預計全年不降息。但油價從$100→$84代表通膨預期大幅改善。Fed聲明措辭可能釋放更多鴿派信號。對加密和風險資產有利"},
+      {"title": "CLARITY Act仍在等待：停戰+財報週佔據所有注意力、法案進度暫擱", "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets", "source": "CoinDesk", "desc": "參議院多數黨領袖暗示法案不會在8月前通過。但停戰+油跌的宏觀利好暫時壓過法規利空。BTC在$64-66K區間整理"}
+    ],
+    "dev": [
+      {"title": "本週Microsoft/Meta/Amazon財報：開發者AI生態系的下一步", "url": "https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/", "source": "Fortune", "desc": "MSFT(Azure AI/Copilot)/META(Llama/雲計算新業務)/AMZN(AWS/Bedrock)。三大平台的Capex指引將決定開發者未來1-2年的AI工具成本和可用性"},
+      {"title": "Meta可能推出雲計算業務：出售過剩AI算力或模型存取權", "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-amazon-apple-124000801.html", "source": "Yahoo Finance", "desc": "Meta據報正考慮推出雲計算業務。可能出售多餘算力或AI模型存取。若成真=開發者多了一個AWS/Azure/GCP以外的選擇。週三財報可能揭曉"},
+      {"title": "AI債券$1.2兆高評級發行：對開發者平台穩定性的潛在風險", "url": "https://www.morningstar.com/news/marketwatch/20260727408/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom", "source": "Morningstar", "desc": "Hyperscaler大量舉債建AI基建。若營收無法跟上→可能被迫縮減服務或漲價。開發者應注意對單一雲平台的過度依賴風險"},
+      {"title": "Halo Campaign Evolved今日全面發售：UE5跨平台開發的里程碑", "url": "https://en.wikipedia.org/wiki/Halo:_Campaign_Evolved", "source": "Wikipedia", "desc": "首款用UE5開發的Halo。PS5/Xbox/PC同步發售=Unreal Engine跨平台能力的最大規模驗證。對遊戲開發者選擇引擎有參考價值"}
+    ],
+    "art": [
+      {"title": "Nintendo Ask the Developer: Splatoon Raiders藝術設計的轉型挑戰", "url": "https://www.nintendo.com/au/news-and-articles/ask-the-developer-vol-22-splatoon-raiders-chapter-1/", "source": "Nintendo", "desc": "官方開發訪談揭示PvP→PvE的美術轉型思考。如何保持噴墨視覺DNA同時適應冒險RPG的場景需求。100+武器的獨特視覺回饋設計過程"},
+      {"title": "Halo Campaign Evolved正式發售日：UE5對經典Halo視覺美學的最終呈現", "url": "https://www.g2a.com/news/features/halo-campaign-evolved-guide/", "source": "G2A", "desc": "今日全球玩家首次體驗完整版。搶先體驗5天的社群反饋已融入日一更新。2001年經典在2026年UE5引擎下的最終藝術表現"},
+      {"title": "Game Freak Beast of Reincarnation(8/4)：寶可夢團隊暗黑奇幻新IP預熱", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "Game Pass首日。寶可夢開發商的全新IP和全新美術方向。從可愛精靈→暗黑奇幻的風格轉型。8/4上線前的最後期待"},
+      {"title": "油價暴跌-7%的視覺衝擊：從$100→$84的市場敘事如何被媒體呈現", "url": "https://www.morningstar.com/news/marketwatch/2026072629/oil-prices-sink-stock-futures-rally-as-us-and-iran-pause-attacks-wall-street-awaits-busy-week", "source": "Morningstar", "desc": "單日-7%是罕見的價格變動。財經媒體如何用視覺元素傳達「停戰→油崩→通膨緩解→股市反彈」的連鎖反應？資訊設計的即時性挑戰"}
+    ],
+    "design": [
+      {"title": "「超級週」的資訊架構：如何設計同時呈現Fed+4家Mag7+175家財報的介面", "url": "https://www.chosun.com/english/market-money-en/2026/07/28/CFYMIHO3Y5CKRILY2RA5VIK2IM/", "source": "Chosun", "desc": "Fed(週三)+MSFT/META(週三盤後)+AAPL/AMZN(週四盤後)+175家S&P500。財經產品如何設計資訊層次讓用戶不被淹沒？"},
+      {"title": "Halo跨平台設計決策：25年Xbox獨佔IP如何為PS5用戶設計首次體驗", "url": "https://vice.com/en/article/halo-campaign-evolved-release-date-times-early-access/", "source": "Vice", "desc": "搶先體驗(5天)+全面發售(今日)的雙日期設計。Standard/Premium版本差異的定價設計。Game Pass vs 買斷的商業模式設計"},
+      {"title": "油價從$100→$84的UX設計隱喻：系統在壓力下突然釋放的用戶心理", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "連日高壓→突然和平信號→市場急速反轉。類似高壓力用戶流程中突然解除負擔的體驗設計。如何在產品中創造「釋放感」"},
+      {"title": "Apple重回市值王的品牌設計啟示：不需要$200B Capex的穩健價值", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-27-2026-105610851.html", "source": "Yahoo Finance", "desc": "Apple vs Nvidia的市值交替。品牌設計如何傳達「穩健」vs「爆發」的不同價值主張？在AI狂熱中保持克制反而成為優勢"}
+    ],
+    "business": [
+      {"title": "超級週！175家S&P500報告+Fed+4家Mag7：本週將決定下半年方向", "url": "https://www.chosun.com/english/market-money-en/2026/07/28/CFYMIHO3Y5CKRILY2RA5VIK2IM/", "source": "Chosun", "desc": "4家Mag7佔S&P500的17%。Fed(週三)+MSFT/META(週三)+AAPL/AMZN(週四)。Alphabet $205B Capex衝擊後其他hyperscaler如何回應？"},
+      {"title": "美伊暫停攻擊→油價-7%→航空/旅遊股受惠：Brent從$96→$84", "url": "https://247wallst.com/investing/2026/07/27/stock-market-live-july-27-2026-sp-500-spy-rallying-on-u-s-iran-war-pause/", "source": "247 Wall St", "desc": "停戰推動S&P500盤中一度漲近1%。航空和郵輪股大漲。Nvidia -5%但整體市場受益。油價下跌=消費者支出壓力減輕"},
+      {"title": "美股7/27混合收：Dow +263/S&P +0.02%/Nasdaq -0.18%（Nvidia -5%拖累）", "url": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html", "source": "CNBC", "desc": "停戰利多被Nvidia -5%部分抵消。市場在「油價利好」vs「半導體調整」間拉鋸。本週財報+Fed將打破僵局"},
+      {"title": "Meta據報擬推出雲計算業務：出售AI算力或模型存取權", "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-amazon-apple-124000801.html", "source": "Yahoo Finance", "desc": "週三財報可能宣布。若成真=第四大雲平台(AWS/Azure/GCP之外)。可能出售過剩GPU算力或Llama模型服務。AI供給市場競爭加劇"}
+    ],
+    "finance": [
+      {"title": "🟢油價Brent暴跌-7%至$84：美伊停戰為兩個月來最大單日跌幅", "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets", "source": "CoinDesk", "desc": "從$100高點→$84。荷姆茲海峽可能重新開放。通膨預期大幅下降。殖利率和美元雙跌。若停戰持續→油可能回$70s。全球經濟壓力大減"},
+      {"title": "Fed週三決議：維持3.5-3.75%預期、但停戰後措辭可能更鴿", "url": "https://au.investing.com/news/economy-news/us-stocks-face-tests-from-fed-decision-techled-earnings-deluge-4552737", "source": "Reuters/Investing", "desc": "油從$100→$84=通膨壓力驟降。Fed可能在聲明中釋放更多降息可能性。但核心通膨仍高。市場觀察措辭變化和未來指引"},
+      {"title": "殖利率下降+美元走軟：停戰改變Fed政策路徑預期", "url": "https://www.morningstar.com/news/dow-jones/202607271334/bond-yields-dollar-fall-as-trump-pauses-iran-strikes-and-oil-prices-slide", "source": "Morningstar", "desc": "10年期殖利率從2026高點回落。美元同步走軟。對成長股估值=正面(折現率下降)。對新興市場/加密=利多(美元弱化)"},
+      {"title": "Apple重回全球市值王：Nvidia失冠——AI Capex恐慌的象徵性轉折", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-27-2026-105610851.html", "source": "Yahoo Finance", "desc": "Apple不需$200B Capex仍穩健獲利。Nvidia -5%(AI花費者被拋售)。市場重新定價：「穩健獲利」>「巨額願景」。風格從Growth→Quality轉移"}
+    ]
+  }
+}
