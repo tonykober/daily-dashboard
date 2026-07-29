@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-29",
+  "categories": {
+    "ai": [
+      {"title": "今晚Microsoft/Meta AI財報：Azure $37B AI run rate(+123%) vs Meta $56B營收(+33%)", "url": "https://247wallst.com/investing/2026/07/27/speed-kills-and-what-that-means-for-microsoft-and-meta-on-july-29/", "source": "247 Wall St", "desc": "MSFT Azure +40%/AI run rate $37B(+123%YoY)/backlog $627B。META廣告+19%/價格+12%/營收$56.3B(+33%)。Meta Superintelligence Labs為「里程碑季度」。今晚盤後公布"},
+      {"title": "Hyperscaler面臨嚴峻考驗：Alphabet Capex恐慌後MSFT/META/AMZN如何回應？", "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html", "source": "CNBC", "desc": "Alphabet -7%後Amazon/Meta/Microsoft同跌。市場對AI基建投資極度敏感。Meta Capex $125-145B(上調)。MSFT「可能不被懲罰」因Capex有客戶訂單附帶"},
+      {"title": "分析：市場不太可能懲罰Microsoft的Capex——因為每一分錢都有客戶買單", "url": "https://247wallst.com/investing/2026/07/27/the-market-is-unlikely-to-punish-microsofts-capex-on-july-29-for-an-obvious-reason/", "source": "247 Wall St", "desc": "MSFT YTD -20.72%但分析師持續加碼。唯一一家「Capex=客戶訂單」的AI megacap。Azure commercial backlog $627B幾乎翻倍。今晚是否驗證？"},
+      {"title": "Fed利率決議今日2PM ET：維持3.5-3.75%預期、停戰後措辭可能更鴿", "url": "https://au.investing.com/news/stock-market-news/ai-anxiety-sparks-tech-rout-broad-selloff-in-asian-markets-4555334", "source": "Reuters/Investing", "desc": "油價從$100→$84(停戰)大幅減緩通膨壓力。Fed可能在聲明中釋放降息可能性。但核心通膨仍高+伊朗再攻擊=不確定性持續"}
+    ],
+    "gaming": [
+      {"title": "Halo: Campaign Evolved已正式全面發售——但內部人士爆料：沒有下一款Halo在開發中", "url": "https://metro.co.uk/2026/07/20/no-new-halo-games-currently-production-console-reveals-insider-29180674/", "source": "Metro", "desc": "YouTuber Rebs Gaming爆料：Halo Studios在Campaign Evolved之後沒有正式量產中的專案。原定多人射擊「Ekur」已於去年取消。系列未來不明"},
+      {"title": "Halo Campaign Evolved正式發售日後首週：UE5重製版的全平台體驗", "url": "https://collider.com/halo-campaign-evolved-gone-gold-release-date-july-2026/", "source": "Collider", "desc": "7/28全面發售。Standard $49.99/Premium $69.99。Game Pass首日。PS5/Xbox/PC。Metacritic 81-86。4人co-op+分割畫面回歸"},
+      {"title": "Xbox Game Pass 7月Wave 2持續：Halo已上線、Mistfall Hunter(7/30)即將加入", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "Halo(7/28✅)/Mistfall Hunter暗黑奇幻抽取ARPG(7/30)/Beast of Reincarnation(Game Freak/8/4)。Game Pass月底至8月初持續有大作"},
+      {"title": "Splatoon Raiders開發者訪談：Nintendo分享PvP→PvE轉型設計決策", "url": "https://www.nintendo.com/au/news-and-articles/ask-the-developer-vol-22-splatoon-raiders-chapter-1/", "source": "Nintendo", "desc": "Ask the Developer Vol.22。如何保持Splatoon DNA同時創建全新PvE冒險。武器系統100+設計過程。raid-loot-upgrade循環的開發哲學"}
+    ],
+    "tech": [
+      {"title": "⚠️伊朗「突襲式」飛彈攻擊美軍被攔截：停戰脆弱、油價回漲至$87+", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/", "source": "CBS News", "desc": "IRGC發射多枚彈道飛彈→全數被美軍攔截。停火僅維持一天。Trump-Netanyahu會面後將做最終決定。油價WTI從$79回漲至$82+、Brent $87+"},
+      {"title": "Trump-Netanyahu會面「正面且有成果」：伊朗最終決定待下一步", "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-iranian-strikes-pause-ceasefire-hormuz-b3021934.html", "source": "The Independent", "desc": "討論伊朗/黎巴嫩/亞伯拉罕協議擴展。Trump「會後將做最終決定」。巴基斯坦/埃及/卡達持續斡旋荷姆茲爭端。局勢仍極不穩定"},
+      {"title": "美股7/28反彈：Dow +1.03%/S&P +0.22%——非科技股領漲、波音可口可樂撐盤", "url": "https://au.investing.com/news/stock-market-news/ai-anxiety-sparks-tech-rout-broad-selloff-in-asian-markets-4555334", "source": "Reuters", "desc": "Nasdaq -0.22%(晶片續跌)但Dow +1.03%。市場輪動：價值>成長。GDP穩健+就業持續=消費股反彈。今晚Fed+MSFT/META決定科技方向"},
+      {"title": "台股7/28暴跌2,031點(-4.65%)史上第三大跌幅：AI恐慌全球蔓延", "url": "https://focustaiwan.tw/business/202607280015", "source": "Focus Taiwan", "desc": "日韓同步重挫帶動台灣科技股恐慌性拋售。TAIEX跌至41,603兩月新低。成交$809.48億。半導體ETF -6%。等今晚MSFT/META結果定方向"}
+    ],
+    "crypto": [
+      {"title": "BTC穩守$65K等Fed：停戰→油跌利多 vs 伊朗再攻擊的拉鋸", "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets", "source": "CoinDesk", "desc": "Brent從$100→$84(停戰)→$87(伊朗再攻擊)。BTC在波動中維持$65K。今日Fed決議+MSFT/META財報=風險資產方向確認。DeFi代幣因停戰上漲"},
+      {"title": "加密市場本週：Trump伊朗暫停+監管+DeFi發展三主線交織", "url": "https://tokenpost.com/news/insights/22356", "source": "Token Post", "desc": "俄羅斯新框架：公開交易加密限於流動性/市值門檻以上資產。國內支付仍禁。CLARITY Act暫擱。Trump伊朗決策影響全市場風險偏好"},
+      {"title": "Microsoft AI run rate $37B(+123%)：雲端AI需求對加密基建的間接影響", "url": "https://www.bitrue.com/blog/microsoft-earnings-july-29-azure-ai-revenue", "source": "Bitrue", "desc": "MSFT Azure backlog $627B翻倍。AI算力需求持續爆發。對加密mining/DeFi的潛在影響：更多算力供給→成本下降→利好PoW鏈"},
+      {"title": "Fed今日決議：維持利率預期但措辭鴿鷹將影響BTC方向", "url": "https://au.investing.com/news/economy-news/us-stocks-face-tests-from-fed-decision-techled-earnings-deluge-4552737", "source": "Reuters", "desc": "油價回落理論上減輕通膨壓力→Fed可能暗示降息。但伊朗攻擊+油回漲$87複雜化局面。BTC等風險資產在Fed「鴿」信號中有望上漲"}
+    ],
+    "dev": [
+      {"title": "Microsoft Azure backlog $627B+AI run rate $37B(+123%)：今晚結果定開發者AI成本走向", "url": "https://phemex.com/blogs/microsoft-earnings-july-29-azure-ai-revenue", "source": "Phemex", "desc": "MSFT fiscal Q4報告。Azure +40%上季。AI商業化加速。若Azure成長維持/加速→開發者AI工具成本可能穩定或下降。Backlog翻倍=長期需求確認"},
+      {"title": "Meta Capex $125-145B(上調)：是否推出雲計算業務影響開發者選擇", "url": "https://www.barchart.com/story/news/3503056/dear-meta-platforms-stock-fans-mark-your-calendars-for-july-29", "source": "Barchart", "desc": "Meta可能在今晚宣布雲計算業務（出售過剩算力/模型存取）。若成真=第四大雲平台。Llama模型+Meta AI推理服務可能成為AWS/Azure/GCP外新選擇"},
+      {"title": "Halo Studios在UE5 Campaign Evolved後沒有下一款遊戲量產中", "url": "https://metro.co.uk/2026/07/20/no-new-halo-games-currently-production-console-reveals-insider-29180674/", "source": "Metro", "desc": "內部人士爆料。原定3年3款計畫已變更。多人射擊Ekur取消。對UE5遊戲開發者而言=Halo Studios資源可能重新分配到新方向"},
+      {"title": "Mistfall Hunter(7/30)暗黑奇幻抽取ARPG：Game Pass首日的技術架構", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "暗黑奇幻extraction ARPG。多人PvPvE架構。Game Pass首日代表Microsoft對此類型的投資。對獨立開發者：extraction genre持續受到平台青睞"}
+    ],
+    "art": [
+      {"title": "Halo系列「沒有下一款在開發」：Campaign Evolved可能是Halo美學的句點", "url": "https://metro.co.uk/2026/07/20/no-new-halo-games-currently-production-console-reveals-insider-29180674/", "source": "Metro", "desc": "25年Halo視覺遺產的不確定未來。Campaign Evolved的UE5藝術方向可能是Halo Studios目前最後的藝術產出。系列美學DNA何去何從"},
+      {"title": "Splatoon Raiders開發者訪談：100+武器視覺回饋設計的幕後揭秘", "url": "https://www.nintendo.com/au/news-and-articles/ask-the-developer-vol-22-splatoon-raiders-chapter-1/", "source": "Nintendo", "desc": "Nintendo官方Ask the Developer。每種武器獨特的墨水飛濺視覺效果。PvE場景的美術設計如何與PvP不同。Switch 2硬體驅動的視覺提升"},
+      {"title": "Mistfall Hunter暗黑奇幻美學：7/30 Game Pass首日的新IP視覺方向", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "Dark fantasy extraction ARPG的藝術設計。暗黑+中世紀奇幻的視覺組合。與Diablo/Path of Exile等genre leader的美學差異化"},
+      {"title": "全球AI股崩跌的「視覺恐慌」：台股-4.65%日韓同步的媒體敘事", "url": "https://focustaiwan.tw/business/202607280015", "source": "Focus Taiwan", "desc": "亞洲三大市場同日重挫的視覺報導。紅色版面、下跌箭頭、恐慌指標——財經媒體如何用視覺元素放大或緩和市場恐懼"}
+    ],
+    "design": [
+      {"title": "Fed+MSFT+META同日揭曉的資訊時序設計：投資人如何消化連續衝擊", "url": "https://phemex.com/blogs/microsoft-earnings-july-29-azure-ai-revenue", "source": "Phemex", "desc": "Fed 2PM→MSFT/META盤後。三個重磅事件在3小時內連續發生。金融產品如何設計即時通知和優先級？用戶認知負載的設計挑戰"},
+      {"title": "Meta Capex $125-145B的視覺化：如何設計呈現「可怕但合理」的AI投資", "url": "https://www.barchart.com/story/news/3503056/dear-meta-platforms-stock-fans-mark-your-calendars-for-july-29", "source": "Barchart", "desc": "Alphabet $205B讓市場恐慌。Meta $125-145B如何被「框架」將決定市場反應。資訊設計中「錨定效應」的實際應用"},
+      {"title": "伊朗飛彈攻擊被攔截的「安全感設計」：如何傳達「威脅存在但被處理」", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/", "source": "CBS", "desc": "「所有飛彈成功攔截」vs「伊朗發動攻擊」——同一事件的兩種框架如何影響市場反應？安全產品的通知措辭設計"},
+      {"title": "Game Pass波段式遊戲加入的UX設計：如何維持訂閱者的持續興奮感", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "Halo(7/28)→Mistfall Hunter(7/30)→Beast of Reincarnation(8/4)。每2-4天一款大作的「滴灌式」內容節奏設計。訂閱服務的留存策略"}
+    ],
+    "business": [
+      {"title": "美股7/28：Dow +1.03%(52,748)/S&P +0.22%——非科技反彈、等Fed+財報", "url": "https://au.investing.com/news/stock-market-news/ai-anxiety-sparks-tech-rout-broad-selloff-in-asian-markets-4555334", "source": "Reuters", "desc": "Boeing/Coca-Cola撐盤。Nasdaq -0.22%(晶片續跌)。市場風格持續從Growth→Value。今晚Fed 2PM+MSFT/META盤後=「超級星期三」"},
+      {"title": "今晚Microsoft Q4FY2026：MSFT YTD -20%但Azure backlog $627B=底部?", "url": "https://247wallst.com/investing/2026/07/27/the-market-is-unlikely-to-punish-microsofts-capex-on-july-29-for-an-obvious-reason/", "source": "247 Wall St", "desc": "唯一Capex有客戶訂單附帶的hyperscaler。Azure +40%/AI run rate $37B(+123%)。若維持+不上調Capex→可能被市場獎勵(vs Alphabet被懲罰)"},
+      {"title": "今晚Meta Q2：營收$56.3B(+33%)+Capex $125-145B——廣告機器vs AI燒錢", "url": "https://247wallst.com/investing/2026/07/28/earnings-showdown-is-microsoft-or-meta-more-at-risk-when-july-29-earnings-drop/", "source": "247 Wall St", "desc": "Meta的AI直接轉化為廣告收入(Advantage+ +19%曝光/+12%單價)。Reality Labs仍虧$4B。Zuckerberg稱「里程碑季度」。能否證明AI花費=立即回報？"},
+      {"title": "台股7/28暴跌2,031點(-4.65%)：全球第三大跌幅後等今晚方向", "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/29/2003861538", "source": "Taipei Times", "desc": "亞洲AI恐慌蔓延。TAIEX 41,603兩月新低。但今晚MSFT/META若不上調Capex或營收超預期→全球AI股可能再次V型反轉（7/17-21劇本）"}
+    ],
+    "finance": [
+      {"title": "油價波動加劇：停戰→$84→伊朗攻擊→$87——和平談判仍脆弱", "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-netanyahu-meet-oil-price-today-hormuz-blockade/4304314/", "source": "Financial Express", "desc": "Brent從$84因伊朗飛彈攻擊回升至$87+。WTI $82+。全數攔截但顯示停火極脆弱。Trump-Netanyahu會後將做最終決定。油價雙向波動中"},
+      {"title": "Fed今日決議：維持3.5-3.75%幾乎確定、聲明措辭為關鍵", "url": "https://phemex.com/blogs/microsoft-earnings-july-29-azure-ai-revenue", "source": "Phemex", "desc": "停戰+油跌理論上給Fed鴿派空間。但伊朗再攻擊+油回漲複雜化。78/104經濟學家預計全年不降息。關注聲明是否暗示9月可能行動"},
+      {"title": "Microsoft AI run rate $37B(+123%)：AI商業化「速度殺死一切」", "url": "https://247wallst.com/investing/2026/07/27/speed-kills-and-what-that-means-for-microsoft-and-meta-on-july-29/", "source": "247 Wall St", "desc": "Meta廣告AI「本週花、本週賺」vs MSFT企業雲「簽約到交付需數季」。兩種AI商業化速度決定今晚市場反應。Meta可能被獎勵、MSFT需更多耐心"},
+      {"title": "MSFT YTD -20%/META入場時機？AI Capex恐慌是否已過度定價", "url": "https://247wallst.com/investing/2026/07/28/earnings-showdown-is-microsoft-or-meta-more-at-risk-when-july-29-earnings-drop/", "source": "247 Wall St", "desc": "MSFT -20%/META約-10%。Alphabet -7%已消化最壞預期。若今晚不重複Alphabet的Capex上調震撼→超跌反彈可能性高。但風險仍存"}
+    ]
+  }
+}
