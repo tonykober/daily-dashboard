@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-30",
+  "categories": {
+    "ai": [
+      {"title": "Microsoft Q4大勝！Azure +43%/AI run rate $37B(+123%)/M365 Copilot 30M付費席位", "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html", "source": "CNBC", "desc": "營收$90B(+18%)超預期$87.6B。EPS $4.74超$4.24。Azure首次超過$100B年度營收。AI支出指引「音樂般悅耳」——市場獎勵而非懲罰Capex。盤後+7%"},
+      {"title": "CNBC：Microsoft的AI支出指引是「音樂般悅耳」——暫時讓空頭閉嘴", "url": "https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html", "source": "CNBC", "desc": "Capex上調但有$627B backlog支撐=每一分錢都有客戶買單。vs Alphabet「花了但不確定回報」=天壤之別。AI Capex恐慌暫時解除"},
+      {"title": "Satya Nadella：「Azure年度營收破$100B、Copilot 3000萬付費席位=客戶信任確認」", "url": "https://www.microsoft.com/en-us/investor/earnings/FY-2026-Q4/press-release-webcast", "source": "Microsoft IR", "desc": "年度Cloud營收$214B(+27%)。Azure超$100B里程碑。M365 Copilot付費席位3000萬反映企業AI轉型信心。Anthropic投資帶來$3.2B收益"},
+      {"title": "Apple今晚Q3財報：Tim Cook最後一次以CEO身份主持——繼任者Ternus接棒", "url": "https://www.fool.com/investing/2026/07/28/apple-reports-q3-earnings-on-july-30-heres-what-in/", "source": "Motley Fool", "desc": "Tim Cook最後一場CEO財報。John Ternus(硬體SVP)接任。Apple已破$5T市值。在AI Capex風暴中Apple因「不花大錢」反而成為避風港。今晚揭曉"}
+    ],
+    "gaming": [
+      {"title": "Mistfall Hunter今日登陸Xbox Game Pass：暗黑奇幻extraction ARPG首日", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "7/30 Game Pass首日。暗黑奇幻extraction ARPG。多人PvPvE。繼Halo(7/28)後本週第二款Game Pass大作。8/4還有Game Freak Beast of Reincarnation"},
+      {"title": "Halo: Campaign Evolved正式版首週體驗持續累積——PS5/Xbox/PC三平台", "url": "https://www.cnbc.com/2026/07/29/its-a-big-48-hours-for-the-bull-market-starting-now.html", "source": "CNBC", "desc": "7/28全面發售後首個完整營業日。Game Pass帶動玩家人數。Metacritic 81-86。UE5重製25年經典。社群反應持續觀察中"},
+      {"title": "Splatoon Raiders上市首週：Switch 2獨佔的動作RPG持續積累玩家口碑", "url": "https://www.nintendo.com/au/news-and-articles/splatoon-raiders-launches-exclusively-on-nintendo-switch-2-today/", "source": "Nintendo", "desc": "7/23上線後進入第二週。Metacritic 80好評。100+武器+raid-loot-upgrade循環。$49.99低定價策略吸引嘗試型玩家"},
+      {"title": "7月遊戲月末盤點：Splatoon+Halo+Planet Crafter+Shift at Midnight+Mistfall Hunter密集上線", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "7月下旬遊戲爆發。Game Pass本月新增超過10款。8月初Beast of Reincarnation(Game Freak)將延續熱度。2026夏季遊戲季豐收"}
+    ],
+    "tech": [
+      {"title": "Azure年度營收破$100B里程碑：雲端AI成為Microsoft最強引擎", "url": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798", "source": "The Register", "desc": "Azure +43%。Cloud $59.3B單季(+27%)。年度Cloud $214B。AI推動企業雲遷移加速。TSMC/AMD/NVIDIA供應鏈直接受惠"},
+      {"title": "Fed維持利率3.5-3.75%：Chairman Warsh記者會態度中性、等更多數據", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-market-today-kevin-warsh-fomc-meet-rate-decision-earnings-stock-price-news-29-july-2026/liveblog/132712349.cms", "source": "ET", "desc": "如期維持不變。Warsh態度中性。油價從$100回落至$84-87=通膨壓力減輕但核心仍高。市場對9月降息的定價可能微幅上升"},
+      {"title": "Apple市值破$5兆+創歷史新高：在AI Capex恐慌中成為「穩健科技」代表", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-28-2026-104409667.html", "source": "Yahoo Finance", "desc": "7/28 Apple創歷史新高/+$5T市值。不需$200B Capex仍穩健獲利。市場獎勵「克制」。今晚財報+CEO交接=雙重焦點"},
+      {"title": "今晚Apple/Amazon Q2：Tim Cook最後CEO財報+AWS AI成長驗證", "url": "https://www.fxleaders.com/news/2026/07/29/forex-signals-july-30-apple-amazon-amzn-mastercard-and-shell-earnings-preview/", "source": "FX Leaders", "desc": "Apple預期營收~$94B。Amazon預期$196.4B(+17%)/EPS $1.82。AWS雲AI成長為觀察重點。兩者今晚盤後揭曉"}
+    ],
+    "crypto": [
+      {"title": "BTC升破$64K等Fed結果：風險偏好因MSFT利多和停戰略有回升", "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision", "source": "CoinDesk", "desc": "Fed前BTC穩在$64K。MSFT盤後+7%提振科技信心。油價回落減輕通膨壓力。但Fed不降息=中長期壓力仍在。今晚Apple/Amazon可能進一步影響"},
+      {"title": "Fed維持利率+MSFT大勝=加密市場觀望中偏正面", "url": "https://cryptobriefing.com/stocks-muted-fed-decision-tech-earnings/", "source": "Crypto Briefing", "desc": "FOMC如期維持3.5-3.75%。MSFT/Apple財報為真正波動催化劑。BTC和整體加密在$64K附近整理。CLARITY Act延至秋季=短線無監管催化"},
+      {"title": "Microsoft Cloud營收暗示加密基建需求：Azure AI +43%推動算力擴張", "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html", "source": "CNBC", "desc": "MSFT AI run rate $37B(+123%)。更多雲AI算力上線=mining/DeFi計算成本長期可能下降。但短期BTC更受Fed和地緣政治驅動"},
+      {"title": "加密市場本週：Fed+4家Mag7財報+伊朗停戰/攻擊反覆——多重因素交織", "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision", "source": "CoinDesk", "desc": "MSFT利多vs伊朗反覆vs Fed不降息。BTC在$63-66K區間整理兩週。需要更明確的催化劑突破。今晚Apple/Amazon+本週五就業數據為下一波"}
+    ],
+    "dev": [
+      {"title": "Azure年度破$100B+Copilot 3000萬席位：開發者AI工具生態進入主流", "url": "https://www.microsoft.com/en-us/investor/earnings/FY-2026-Q4/press-release-webcast", "source": "Microsoft", "desc": "M365 Copilot 3000萬付費席位=企業大規模採用AI開發輔助。Azure AI run rate $37B(+123%)=開發者可用AI算力持續擴張。GitHub Copilot的商業驗證"},
+      {"title": "Microsoft Cloud backlog $627B：對開發者平台長期穩定性的最強保證", "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-q4-earnings-call-highlights-000355148.html", "source": "Yahoo Finance", "desc": "已簽約未交付的服務backlog幾乎翻倍。代表開發者不需擔心Azure突然縮減服務。未來2-3年的算力供給已有保障"},
+      {"title": "Tim Cook最後CEO決策：Apple開發者生態系的下一步由Ternus定調", "url": "https://www.fool.com/investing/2026/07/28/apple-reports-q3-earnings-on-july-30-heres-what-in/", "source": "Motley Fool", "desc": "硬體SVP John Ternus接任CEO。可能更重視Apple Silicon+Vision Pro+AI on-device路線。對iOS/macOS開發者的策略方向可能微調"},
+      {"title": "Amazon今晚Q2：AWS AI成長率為開發者雲端選擇的風向標", "url": "https://www.geekwire.com/2026/amazon-earnings-preview-wall-street-looks-for-more-cloud-growth-as-ai-spending-hits-a-record/", "source": "GeekWire", "desc": "預期營收$196.4B(+17%)。AWS AI成長是否匹配Azure +43%？Bedrock/SageMaker的商業化進度。開發者在三大雲平台間的配置可能因此調整"}
+    ],
+    "art": [
+      {"title": "Mistfall Hunter暗黑奇幻美學今日首發：extraction ARPG的視覺設計新嘗試", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "7/30 Game Pass首日。暗黑中世紀奇幻美術風格。extraction genre的視覺氛圍設計如何與Diablo/PoE差異化？首日玩家視覺反應觀察中"},
+      {"title": "Microsoft Cloud「帶來收入雨」的視覺隱喻：The Register的財報標題設計", "url": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798", "source": "The Register", "desc": "「Cloud brings revenue rain」=將雲和雨的雙關語融入財經標題。科技媒體如何用視覺化語言讓枯燥的營收數字變得生動"},
+      {"title": "Apple $5兆市值的品牌視覺力量：極簡設計如何成為市場最強護城河", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-28-2026-104409667.html", "source": "Yahoo Finance", "desc": "在AI Capex恐慌中Apple反而創新高。品牌視覺的「克制美學」傳達穩健信心。設計語言作為投資者信號"},
+      {"title": "7月遊戲美術回顧：Splatoon噴墨/Halo科幻/Mistfall暗黑三種風格同月爭艷", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "7月遊戲美術多元爆發。Nintendo噴墨色彩爆炸+Xbox科幻寫實UE5+獨立暗黑奇幻。每種風格都獲好評=市場接受多元視覺方向"}
+    ],
+    "design": [
+      {"title": "Apple CEO交接的品牌延續設計：Tim Cook→John Ternus如何維持設計DNA", "url": "https://www.fool.com/investing/2026/07/28/apple-reports-q3-earnings-on-july-30-heres-what-in/", "source": "Motley Fool", "desc": "硬體SVP接任=Apple設計優先的文化延續。Ternus主導Apple Silicon/Vision Pro的硬體設計哲學。對產品設計方向的信號"},
+      {"title": "MSFT盤後+7%的資訊設計對比：如何呈現「同是Capex上調但市場反應相反」", "url": "https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html", "source": "CNBC", "desc": "Alphabet +Capex→-7% vs Microsoft +Capex→+7%。差異在backlog。財經產品如何設計讓用戶一眼看出「為什麼同樣花錢但結果不同」"},
+      {"title": "Mistfall Hunter的PvPvE extraction設計：如何平衡恐懼、貪婪和合作", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "Extraction genre的核心設計張力：探索越深→越多獎勵→越大風險。如何讓玩家在「再探一層」vs「安全撤退」間做出有趣選擇"},
+      {"title": "Fed記者會的資訊設計：如何在2分鐘內傳達利率不變但態度微妙變化", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-market-today-kevin-warsh-fomc-meet-rate-decision-earnings-stock-price-news-29-july-2026/liveblog/132712349.cms", "source": "ET", "desc": "FOMC聲明的每一個字都被市場解讀。「maintain」vs「hold」的措辭差異。中央銀行溝通的極致資訊設計"}
+    ],
+    "business": [
+      {"title": "Microsoft盤後+7%：AI Capex恐慌正式解除（至少暫時）——市場獎勵有backlog的支出", "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-microsoft-q4-2026-beats-forecasts-stock-jumps-8-93CH-4822020", "source": "Investing.com", "desc": "EPS $4.74超$4.24。營收$90B(+18%)。Azure +43%。Cloud $59.3B(+27%)。Capex上調但市場歡呼=因有$627B backlog。vs Alphabet被懲罰=天壤之別"},
+      {"title": "今晚Apple/Amazon：Tim Cook最後CEO秀+AWS AI成長驗證", "url": "https://www.fxleaders.com/news/2026/07/29/forex-signals-july-30-apple-amazon-amzn-mastercard-and-shell-earnings-preview/", "source": "FX Leaders", "desc": "Apple($5T市值/CEO交接)/Amazon($196.4B預期/AWS AI)。加上Mastercard/Shell同日。今晚結果若正面=本週從恐慌轉為全面反彈"},
+      {"title": "Fed維持3.5-3.75%：Warsh態度中性、油價回落給鴿派空間但核心通膨仍高", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-market-today-kevin-warsh-fomc-meet-rate-decision-earnings-stock-price-news-29-july-2026/liveblog/132712349.cms", "source": "ET", "desc": "如期不動。聲明態度平衡。油從$100→$84-87減輕壓力。但核心通膨仍頑固。市場對9月降息預期可能微幅上升"},
+      {"title": "這是「多頭市場的關鍵48小時」——CNBC分析本週財報+Fed的市場影響", "url": "https://www.cnbc.com/2026/07/29/its-a-big-48-hours-for-the-bull-market-starting-now.html", "source": "CNBC", "desc": "Fed(週三)+MSFT/META(週三盤後)+AAPL/AMZN(週四盤後)。48小時內連續重磅事件。MSFT已交出漂亮答卷。接下來看今晚"}
+    ],
+    "finance": [
+      {"title": "Microsoft雲端營收「帶來收入雨」但現金流因AI支出減少23%", "url": "https://www.chosun.com/english/industry-en/2026/07/30/N2VWAS53YVBPNPS7JS6CUQ4BCM/", "source": "Chosun", "desc": "營收大超預期但FCF YoY -23%。AI基建投資吃掉現金流。與Alphabet類似的Capex壓力但市場接受=因growth trajectory更清晰"},
+      {"title": "Fed維持3.5-3.75%後市場展望：油價回落+停戰=9月可能暗示降息", "url": "https://cryptobriefing.com/stocks-muted-fed-decision-tech-earnings/", "source": "Crypto Briefing", "desc": "Warsh沒有升息暗示=利多。油從$100→$84-87代表通膨壓力減輕。若伊朗停戰持續→Fed 9月可能開始暗示降息路徑。對所有資產正面"},
+      {"title": "Amazon今晚Q2預期：營收$196.4B(+17%)/EPS $1.82/AWS AI成長為關鍵", "url": "https://www.geekwire.com/2026/amazon-earnings-preview-wall-street-looks-for-more-cloud-growth-as-ai-spending-hits-a-record/", "source": "GeekWire", "desc": "AWS是否匹配Azure +43%？AI支出是否創紀錄？若正面=完成本週「AI財報全過關」。若miss=可能部分抵消MSFT利多"},
+      {"title": "Apple $5兆市值財報：穩健獲利+CEO交接+「不花大錢的AI路線」", "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-28-2026-104409667.html", "source": "Yahoo Finance", "desc": "Apple在AI Capex風暴中創新高=市場獎勵「克制」。不需$200B Capex。Apple Intelligence on-device路線。Tim Cook最後秀+繼任者首次亮相"}
+    ]
+  }
+}
