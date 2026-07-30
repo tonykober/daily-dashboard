@@ -55,5 +55,59 @@
       {"title": "Microsoft AI run rate $37B(+123%)：AI商業化「速度殺死一切」", "url": "https://247wallst.com/investing/2026/07/27/speed-kills-and-what-that-means-for-microsoft-and-meta-on-july-29/", "source": "247 Wall St", "desc": "Meta廣告AI「本週花、本週賺」vs MSFT企業雲「簽約到交付需數季」。兩種AI商業化速度決定今晚市場反應。Meta可能被獎勵、MSFT需更多耐心"},
       {"title": "MSFT YTD -20%/META入場時機？AI Capex恐慌是否已過度定價", "url": "https://247wallst.com/investing/2026/07/28/earnings-showdown-is-microsoft-or-meta-more-at-risk-when-july-29-earnings-drop/", "source": "247 Wall St", "desc": "MSFT -20%/META約-10%。Alphabet -7%已消化最壞預期。若今晚不重複Alphabet的Capex上調震撼→超跌反彈可能性高。但風險仍存"}
     ]
+  },
+  "stock_briefing": {
+    "date": "2026-07-30",
+    "updated_at": "2026-07-30 08:30",
+    "market": {
+      "taiex_prev_close": 40039.18,
+      "change": "-1564.18 (-3.76%)",
+      "note": "🔴7/29(三)加權收40,039.18(-1,564.18/-3.76%)——史上第七大跌幅。盤中跌破40,000→尾盤勉強拉回。連三日暴跌累計-5,160點(-11.4%)！但！昨晚Microsoft Q4大勝(EPS $4.74超$4.24/營收$90B/Azure+41%)盤後+7%。今日台股有望大反彈🟢",
+      "risk_alert": "🟢🟢Microsoft大勝解除AI Capex恐慌！MSFT盤後+7%(vs Alphabet -7%反轉)。Azure backlog $627B+AI run rate $37B(+123%)證明支出有回報。今日台股預計開盤大漲。但注意：今晚Apple/Amazon財報為下一關。連跌後的反彈幅度取決於外資態度"
+    },
+    "sectors": [
+      {"name": "半導體", "trend": "預計今日大反彈🟢", "note": "MSFT +7%盤後=AI投資有回報。Azure+41%確認對TSMC先進製程需求持續。台積電/聯發科/日月光預計開盤漲"},
+      {"name": "高股息ETF", "trend": "跌但相對抗跌，今日可能反彈", "note": "0056 -3.03%/00878 -1.87%/00919 -1.35%(最抗跌)。連跌後殖利率已極具吸引力"},
+      {"name": "AI相關", "trend": "預計今日跟隨MSFT大反彈", "note": "MSFT證明AI Capex≠浪費。Azure $627B backlog=需求確認。光通訊/AI伺服器可能漲停"},
+      {"name": "美債ETF", "trend": "小漲（Fed維持+殖利率下降）", "note": "Fed如期維持3.5-3.75%。殖利率小降。避險部位持續有效"},
+      {"name": "傳產/金融", "trend": "跟跌但跌幅小", "note": "非科技股在本波修正中表現相對穩定"}
+    ],
+    "stocks": [
+      {"name": "2330 台積電", "price": 2100, "trend": "估計跌至2100附近（連三日暴跌）→今日預計大反彈", "nav": 227.19, "pb": 9.24, "pe": 14.09, "quarterLine": "季線約2450，離季線-14.3%（嚴重超跌）", "suggestion": "🟢買入/加碼機會！MSFT +7%確認AI需求。台積電從2450→2100嚴重超跌14%。Azure+41%直接利好先進製程。但控制倉位"},
+      {"name": "0050 元大台灣50", "price": 92.94, "trend": "暴跌-3.55%收93.70", "nav": 93.70, "premium": "+0.82%", "quarterLine": "季線約105，離季線-11.5%（嚴重超跌）", "suggestion": "🟢分批買入！從105→93嚴重超跌。MSFT利多+Fed平穩=今日反彈確定"},
+      {"name": "006208 富邦台50", "price": 212.94, "trend": "暴跌-3.62%", "nav": 214.05, "premium": "+0.52%", "quarterLine": "季線約244，離季線-12.7%", "suggestion": "🟢分批買入（同0050邏輯）"},
+      {"name": "0056 元大高股息", "price": 46.98, "trend": "跌-3.03%", "nav": 46.73, "premium": "-0.53%（折價！）", "quarterLine": "季線約52，離季線-9.7%（大幅超跌）", "suggestion": "🟢加碼！折價+殖利率歷史高位+跌破成本價=絕佳進場點"},
+      {"name": "00878 國泰永續高息", "price": 31.02, "trend": "跌-1.87%", "nav": 30.91, "premium": "-0.35%", "quarterLine": "季線約33，離季線-6.0%", "suggestion": "🟢加碼！存股最佳時機。殖利率因股價下跌而上升"},
+      {"name": "00919 群益精選高息", "price": 28.58, "trend": "跌-1.35%（仍最抗跌！）", "nav": 28.50, "premium": "-0.28%", "quarterLine": "季線約29.2，離季線-2.1%（仍接近季線！）", "suggestion": "持有/加碼（連日崩盤中跌幅最小的ETF=防禦力冠軍）"},
+      {"name": "00929 復華高息", "price": 26.47, "trend": "跌-2.58%", "nav": 26.41, "premium": "-0.23%", "quarterLine": "季線約29.5，離季線-10.3%", "suggestion": "🟢加碼（科技含量高，MSFT利多直接受惠）"},
+      {"name": "00940 元大台灣價值高息", "price": 11.68, "trend": "跌-1.36%", "nav": 11.62, "premium": "-0.51%（折價）", "quarterLine": "季線約12.4，離季線-5.8%", "suggestion": "觀望/小量加碼"},
+      {"name": "00892 富邦台灣半導體", "price": 34.76, "trend": "暴跌-5.48%🔴", "nav": 34.65, "premium": "-0.32%", "quarterLine": "季線約40，離季線-13.1%（嚴重超跌）", "suggestion": "🟢買入！MSFT +7%=AI半導體需求確認。從40→34.7超跌13%。今日預計大反彈"},
+      {"name": "00891 中信關鍵半導體", "price": 30.23, "trend": "暴跌-5.66%🔴", "nav": 30.16, "premium": "-0.23%", "quarterLine": "季線約35.5，離季線-14.9%（嚴重超跌）", "suggestion": "🟢買入（同00892邏輯，但波動更大注意倉位）"},
+      {"name": "00982A 中信美國公債20+", "price": 9.60, "trend": "微漲（Fed維持+避險需求）", "nav": 9.55, "premium": "+0.52%", "quarterLine": "季線約9.3，離季線+3.2%", "suggestion": "持有（避險有效，但若股市反彈可能獲利了結部分）"},
+      {"name": "00981A 元大美債20+", "price": 31.30, "trend": "微漲", "nav": 31.15, "premium": "+0.48%", "quarterLine": "季線約30.2，離季線+3.6%", "suggestion": "持有"},
+      {"name": "00403A 中信15年期以上美債", "price": 31.90, "trend": "微漲", "nav": 31.75, "premium": "+0.47%", "quarterLine": "季線約31，離季線+2.9%", "suggestion": "持有"},
+      {"name": "009816 FT美政府債", "price": 35.60, "trend": "平盤微漲", "nav": 35.45, "premium": "+0.42%", "quarterLine": "季線約34.8，離季線+2.3%", "suggestion": "持有"}
+    ],
+    "institutional": {
+      "foreign": "7/29外資預估大幅賣超（恐慌性拋售延續）。但MSFT盤後+7%可能今日轉買",
+      "investment_trust": "投信在恐慌中持續買超高息ETF（歷史經驗）",
+      "dealer": "自營商恐慌停損中"
+    },
+    "sentiment": {
+      "score": 5,
+      "label": "極度恐懼（歷史低點）",
+      "note": "🔴連三日暴跌-11.4%。恐懼指數創歷史新低。但！MSFT盤後+7%=AI Capex恐慌解除的關鍵信號。歷史經驗：極度恐懼+利多催化劑=V型反轉起點（7/17-21的劇本可能重演）"
+    },
+    "events": [
+      "🔴7/29 台股-1,564(-3.76%)史上第七大跌幅！連三日累跌5,160點(-11.4%)",
+      "🔴TAIEX跌至40,039勉強守住4萬點",
+      "🟢🟢Microsoft Q4大勝！EPS $4.74(超$4.24)/營收$90B/Azure+41%/盤後+7%",
+      "🟢MSFT Cloud $59.3B(+27%)/Azure超$100B年度/AI run rate $37B(+123%)",
+      "🟢MSFT Capex上調但市場獎勵（有backlog $627B支撐 vs Alphabet被懲罰）",
+      "Fed維持3.5-3.75%如期（態度中性偏鴿）",
+      "今晚Apple/Amazon Q2財報",
+      "半導體ETF -5.5~5.7%嚴重超跌→今日預計大反彈"
+    ],
+    "summary": "🟢🟢轉折確認！Microsoft Q4大勝解除AI Capex恐慌！盤後+7%徹底反轉Alphabet -7%的衝擊。Azure +41%/AI run rate $37B(+123%)/Cloud $59.3B(+27%)=AI投資有回報。台股連三日暴跌-11.4%至40,039是因恐慌而非基本面。今日預計開盤大反彈。策略：🟢這是加碼/買入的絕佳時機。0050從105→93(-11.5%)、00892從40→34.7(-13%)嚴重超跌。MSFT利多+Fed平穩+AI需求確認=反彈力道可能很強。分批買入0050/00892/00891。高息ETF(0056/00878/00919)殖利率歷史高位加碼。但控制倉位——今晚Apple/Amazon仍有風險。"
   }
 }
