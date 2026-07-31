@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-31",
+  "categories": {
+    "ai": [
+      {"title": "Microsoft暴漲16%！AI Capex恐慌完全解除——Nasdaq創6月以來最佳日(+2.8%)", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-microsoft-surges-on-strong-earnings-4822170", "source": "Investing.com", "desc": "MSFT +16%帶動全場。Azure +43%確認AI投資有回報。SOXX半導體ETF +8%。AI從「恐慌賣出」轉為「積極買入」。KOSPI +13%觸發熔斷！"},
+      {"title": "Apple Q3：營收$109.4B(+16%)/EPS $2.02(+29%)——Tim Cook最後CEO財報完美收官", "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/", "source": "MacRumors", "desc": "超預期$108.65B。iPhone+Mac創6月季紀錄。毛利率50.1%。裝機量2.5B+。Tim Cook最後一季以創紀錄營收謝幕。盤後反應待確認"},
+      {"title": "Amazon/Apple雙雙超預期：Mag7本週財報「全過關」", "url": "https://www.zacks.com/stock/news/2965226/amazon-apple-beat-earnings-head-separate-ways", "source": "Zacks", "desc": "Amazon Capex $200B維持不變（不上調！）。Apple穩健+16%成長。本週MSFT/META/AAPL/AMZN四家全beat=AI財報恐慌時代暫時結束"},
+      {"title": "CNBC：Microsoft的AI支出指引讓AI交易「重獲新生」——Nasdaq最佳日在一個月", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Nasdaq +679點/+2.8%。MSFT +16%後帶動AMD/NVDA/半導體全面反彈。從Alphabet -7%恐慌→MSFT +16%狂歡僅隔一週。市場情緒劇烈翻轉"}
+    ],
+    "gaming": [
+      {"title": "Mistfall Hunter上線首日(7/30)：Game Pass暗黑extraction ARPG初步反應", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "7/30 Game Pass首日上線。暗黑奇幻PvPvE extraction。首批玩家體驗中。下週8/4 Beast of Reincarnation(Game Freak)接力"},
+      {"title": "7月遊戲月總結：Splatoon Raiders(80分)+Halo Campaign Evolved(81-86分)雙旗艦成功", "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/", "source": "多來源", "desc": "7月是2026年最豐收的遊戲月。Switch 2旗艦+Xbox旗艦同月上線均獲好評。Game Pass持續擴充。8月將有更多大作"},
+      {"title": "KOSPI +13%觸發交易熔斷：全球科技股V型反轉連帶韓國遊戲股爆發", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "韓國市場暴漲13%觸發熔斷。Samsung/SK Hynix等科技股飆漲。韓國遊戲公司(Krafton/NCSoft/Nexon)預計跟隨受惠"},
+      {"title": "Apple裝機量破2.5B：對Apple Arcade和遊戲生態系的長期支撐", "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/", "source": "Apple", "desc": "25億台裝機量意味Apple平台遊戲的潛在用戶基礎巨大。Apple Arcade+Vision Pro遊戲在Ternus時代可能獲得更多資源"}
+    ],
+    "tech": [
+      {"title": "🟢Nasdaq +2.8%/MSFT +16%/SOXX +8%：AI股完全反轉！6月以來最佳日", "url": "https://www.kiplinger.com/investing/stocks/nasdaq-soars-679-points-as-microsoft-pops-stock-market-today", "source": "Kiplinger", "desc": "Nasdaq +679點。Microsoft創史上單日最大漲幅+16%。半導體ETF +8%。AI從恐慌→狂歡僅一週。全球科技股同步V型反轉"},
+      {"title": "KOSPI +13%觸發交易熔斷！全球AI股V型反轉最強信號", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "韓國KOSPI暴漲13%觸發交易熔斷機制。Samsung/SK Hynix領漲。台積電ADR也大漲。亞洲科技股從崩跌-30%→一日反彈13%的極端波動"},
+      {"title": "Apple Q3創紀錄：營收$109.4B(+16%)/毛利率50.1%/iPhone+Mac季度新高", "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/", "source": "Apple", "desc": "Tim Cook最後CEO季度。營收超預期。含2%關稅退款利好毛利率。裝機量2.5B+。Apple在AI風暴中保持穩健=「不需$200B Capex」的典範"},
+      {"title": "Amazon也超預期+Capex $200B維持不變：「全過關」的財報週完美收尾", "url": "https://www.msn.com/en-us/money/top-stocks/tech-earnings-today-sales-profits-at-amazon-apple-beat-estimates-as-mag-7-results-continue/ar-AA295cSN", "source": "MSN", "desc": "Amazon Capex維持$200B不上調（vs Alphabet上調$15B）。AWS AI持續成長。MSFT/META/AAPL/AMZN四家全beat=本週從恐慌轉為全面狂歡"}
+    ],
+    "crypto": [
+      {"title": "BTC受惠科技股V型反轉：Nasdaq +2.8%/MSFT +16%提振風險偏好", "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision", "source": "CoinDesk", "desc": "AI恐慌解除→科技股暴漲→風險偏好回升→BTC有望跟漲。MSFT +16%+SOXX +8%=市場「risk on」模式啟動。週末可能測試$66K+"},
+      {"title": "Fed維持+AI財報全過關+油價穩定=加密市場短線最有利環境", "url": "https://cryptobriefing.com/stocks-muted-fed-decision-tech-earnings/", "source": "Crypto Briefing", "desc": "三重利多：Fed不升息+AI公司營收證明成長+油價從$100→$84-87穩定。BTC/ETH/SOL等風險資產預計跟隨股市反彈"},
+      {"title": "Amazon Capex $200B不變=AI支出恐慌見頂？對加密mining基建的影響", "url": "https://www.msn.com/en-us/money/top-stocks/tech-earnings-today-sales-profits-at-amazon-apple-beat-estimates-as-mag-7-results-continue/ar-AA295cSN", "source": "MSN", "desc": "MSFT上調但市場接受。AMZN維持不變。Alphabet的$205B可能是個案而非趨勢。雲AI算力擴張持續=mining算力成本長期利好"},
+      {"title": "KOSPI +13%熔斷對加密市場的啟示：極端波動環境下BTC的表現", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "韓國散戶大量參與加密。KOSPI +13%代表韓國風險偏好極端回升。可能帶動韓國加密交易量爆增。全球「risk on」模式利好BTC"}
+    ],
+    "dev": [
+      {"title": "Microsoft +16%：Azure +43%/Copilot 30M席位——開發者AI工具採用率的終極確認", "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html", "source": "CNBC", "desc": "3000萬M365 Copilot付費席位=企業全面擁抱AI開發輔助。Azure AI run rate $37B(+123%)=開發者雲AI算力持續擴張。股價+16%=市場投票"},
+      {"title": "Apple CEO交接確認：Tim Cook最後財報以紀錄營收謝幕→Ternus接棒", "url": "https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/", "source": "Variety", "desc": "營收$109.4B(+16%)/淨利$29.8B(+27%)。Cook以完美一季結束15年CEO生涯。Ternus(硬體SVP)接任=Apple Silicon+Vision Pro開發路線可能加速"},
+      {"title": "Amazon Capex $200B維持：AWS開發者平台穩定性不受影響", "url": "https://www.geekwire.com/2026/amazon-earnings-preview-wall-street-looks-for-more-cloud-growth-as-ai-spending-hits-a-record/", "source": "GeekWire", "desc": "不上調=AWS定價和服務不會因Capex壓力而漲價。Bedrock/SageMaker開發者可安心。vs Alphabet FCF轉負可能影響GCP定價"},
+      {"title": "SOXX +8%：半導體開發工具和EDA公司同步受惠AI反彈", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Synopsys/Cadence等EDA公司跟漲。半導體開發生態系整體回暖。AI晶片設計需求確認持續成長。開發者工具鏈投資者信心恢復"}
+    ],
+    "art": [
+      {"title": "Apple毛利率50.1%的設計溢價：極簡美學如何創造半數營收為利潤", "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/", "source": "Apple", "desc": "50.1%毛利率=每$100營收有$50是利潤。Apple設計語言的終極商業證明。在AI花大錢的時代，Apple用「設計」而非「算力」獲利"},
+      {"title": "Tim Cook 15年CEO視覺遺產：從iPhone到Vision Pro的設計哲學演進", "url": "https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/", "source": "Variety", "desc": "Cook最後CEO季。在他任內Apple從iPod公司→$5T生態系。設計DNA如何在CEO交接中延續？Ternus的硬體導向是否改變美學方向"},
+      {"title": "KOSPI +13%的「極端美學」：金融市場觸發熔斷時的視覺呈現", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "從-30%崩跌→+13%熔斷反彈。韓國市場的極端波動如何被視覺化。綠色/紅色的文化差異（亞洲紅=漲、西方綠=漲）在全球報導中的設計挑戰"},
+      {"title": "Mistfall Hunter暗黑extraction美學首日反應：與Diablo/Path of Exile的視覺定位", "url": "https://in.ign.com/beast-of-reincarnation/266776/halo-campaign-evolved-and-game-freaks-beast-of-reincarnation-lead-xbox-game-pass-july-2026-wave-2-li", "source": "IGN", "desc": "暗黑奇幻extraction ARPG。首日玩家對視覺氛圍的反應。如何在「暗黑」genre中找到自己的美術識別度"}
+    ],
+    "design": [
+      {"title": "MSFT +16% vs Alphabet -7%：同為AI Capex上調卻相反反應的UX啟示", "url": "https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html", "source": "CNBC", "desc": "差異在「backlog」=已簽約客戶。產品設計中如何傳達「可信度」？MSFT有$627B backlog=用戶已付費。Alphabet只有願景=用戶還沒買單"},
+      {"title": "Apple CEO交接的「無感設計」：如何讓數十億用戶不察覺領導層變動", "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/", "source": "MacRumors", "desc": "Cook→Ternus的交接設計目標=用戶完全無感。產品延續性。組織變革的「透明設計」。對比其他公司CEO換人的震盪"},
+      {"title": "KOSPI熔斷機制的系統設計：當市場漲13%時如何保護投資人", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "韓國交易所的circuit breaker設計。暴漲也觸發（不只暴跌）。系統設計如何在極端情況保護用戶而非阻礙用戶？"},
+      {"title": "Nasdaq +679的資訊衝擊設計：如何在一天內傳達「恐慌完全翻轉」", "url": "https://www.kiplinger.com/investing/stocks/nasdaq-soars-679-points-as-microsoft-pops-stock-market-today", "source": "Kiplinger", "desc": "從連跌到+2.8%最佳日。財經應用如何設計情緒轉換的視覺表達？從紅到綠的過渡。通知疲勞vs關鍵時刻的提醒設計"}
+    ],
+    "business": [
+      {"title": "🟢Nasdaq +2.8%/Dow +607/S&P +1.7%：Microsoft +16%帶動全面反彈！", "url": "https://wtop.com/news/2026/07/how-major-us-stock-indexes-fared-thursday-7-30-2026/", "source": "WTOP", "desc": "MSFT +16%創史上最大單日漲幅。SOXX +8%。Nasdaq 6月以來最佳日。從週三-1.5%→週四+2.8%的極端翻轉。AI財報恐慌正式結束"},
+      {"title": "Apple Q3大勝：$109.4B(+16%)/EPS $2.02(+29%)——Tim Cook完美收官", "url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/", "source": "Apple", "desc": "iPhone+Mac季度紀錄。毛利率50.1%。裝機量2.5B+。Cook最後CEO季以歷史最佳營收謝幕。「不花大錢的AI路線」持續被市場獎勵"},
+      {"title": "Amazon/Apple雙beat：Mag7本週4/4全過關——財報恐慌時代暫結束", "url": "https://www.zacks.com/stock/news/2965226/amazon-apple-beat-earnings-head-separate-ways", "source": "Zacks", "desc": "MSFT✅META✅AAPL✅AMZN✅。Amazon Capex $200B不變（不上調=利多）。本週從Alphabet -7%恐慌→MSFT +16%狂歡=市場情緒180度翻轉"},
+      {"title": "KOSPI +13%觸發熔斷：全球AI股V型反轉確認、亞洲科技最強反彈", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "韓國市場從-30%熊市暴漲13%單日。Samsung/SK Hynix飆漲。台積電ADR大漲。今日台股預計開盤大幅跳漲。全球AI股V型反轉成型"}
+    ],
+    "finance": [
+      {"title": "Microsoft +16%帶動$1.7兆市值增加：AI投資回報獲市場確認", "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html", "source": "CNBC", "desc": "單日市值增加超$5000億。Azure $100B年度+backlog $627B=每一分Capex都有回報。從「AI泡沫」恐慌→「AI確認」狂歡僅一週"},
+      {"title": "Apple毛利率50.1%/營收$109.4B：$5T市值的穩健獲利基礎", "url": "https://www.apple.com/ca/newsroom/2026/07/apple-reports-third-quarter-results/", "source": "Apple", "desc": "含2%關稅退款效果。iPhone和Mac同創季度紀錄。Cook交棒Ternus。Apple證明「不需$200B Capex也能$5T」=另一種AI策略的勝利"},
+      {"title": "SOXX半導體ETF單日+8%：AI供應鏈從恐慌底部強力反彈", "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html", "source": "CNBC", "desc": "MSFT利多直接利好TSMC/AMD/NVDA/Broadcom等AI晶片供應商。SOXX +8%代表半導體估值修復開始。台股今日預計大漲"},
+      {"title": "7月美股「瘋狂月」總結：Mag7蒸發$797B→一週後全部反彈的過山車", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-microsoft-surges-on-strong-earnings-4822170", "source": "Investing.com", "desc": "7/17最大跌→7/21最大漲→7/23-29連跌→7/30 Nasdaq +2.8%。AI Capex恐慌從出現到解除僅一週。結論：AI基本面無虞、市場只是在測試耐心"}
+    ]
+  }
+}
