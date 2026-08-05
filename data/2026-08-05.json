@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-05",
+  "categories": {
+    "ai": [
+      {"title": "S&P 500創6月新高7,736(+1.8%)/Dow歷史新高54,086：AI交易全面復活", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-with-iran-talks-q2-earnings-in-focus-4832672", "source": "Investing.com", "desc": "7月AI Capex恐慌已完全消退。S&P創6月以來新高、Dow歷史新高。AI stocks重新領漲。Palantir +29%帶動AI主題。從恐慌→狂歡僅兩週"},
+      {"title": "Palantir暴漲29%：AI軟體公司獲利超預期帶動情緒翻轉", "url": "https://www.msn.com/en-us/money/top-stocks/markets-news-aug-4-2026-s-p-500-dow-close-at-records-as-palantir-caterpillar-shares-jump-oil-drops-on-us-iran-deal-optimism/ar-AA29np5q", "source": "MSN", "desc": "Palantir單日+29%成為AI反彈領頭羊。證明AI不只是花錢也能賺錢。NVIDIA +2.5%也反彈。AI從「Capex恐慌」轉為「獲利確認」"},
+      {"title": "AMD盤後-8%：EPS僅微超預期、市場對AI晶片供應商期望更高", "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html", "source": "CNBC", "desc": "AMD盤後跌8%。EPS微超但不夠亮眼(vs MSFT大超)。SpaceX也-7%(Capex $18.4B)。市場獎勵「大超」但懲罰「微超」=標準提高"},
+      {"title": "Palantir+AMD+SpaceX：AI三種商業模式的市場考驗", "url": "https://www.home.saxo/content/articles/equities/palantir-spacex-and-amd-earnings-preview-03082026", "source": "Saxo", "desc": "Palantir(軟體/數據)+AMD(晶片)+SpaceX(發射/衛星/AI計算)。三種AI商業路徑各獲不同評價。軟體勝→晶片平→硬體/發射壓"}
+    ],
+    "gaming": [
+      {"title": "🎮Beast of Reincarnation昨日正式上線！Game Freak(寶可夢團隊)全新動作RPG", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "8/4發售。PS5/Xbox/PC+Game Pass首日。末日後日本舞台。「1人1犬」雙主角系統。Emma+小狗Ku的動作RPG。Game Freak首款非寶可夢大作"},
+      {"title": "Beast of Reincarnation評測：「像Stellar Blade般專注速度和靈巧」", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "科幻動作RPG。格檔系統為核心。開放但線性。專注於速度和靈巧的戰鬥設計。PC Gamer評測中"},
+      {"title": "Game Freak新IP完整指南：Beast of Reincarnation末日後日本冒險", "url": "https://www.gamesradar.com/beast-of-reincarnation-guide/", "source": "GamesRadar", "desc": "劍術即時動作+Ku技能回合指令的雙系統。人類與狗的羈絆故事。Xbox Game Pass + Play Anywhere支援。寶可夢團隊的成熟化轉型"},
+      {"title": "8月遊戲首發：Beast of Reincarnation領銜+7月Splatoon/Halo持續發酵", "url": "https://www.polygon.com/beast-reincarnation-release-soon-game-freak/", "source": "Polygon", "desc": "原名Project Bloom(2023年公開)。Fictions Inc.(原Private Division)發行。7月Splatoon 80分+Halo 81-86分後，8月由Game Freak接棒"}
+    ],
+    "tech": [
+      {"title": "🟢Brent原油跌破$80！美伊和平協議進展推動油價持續下跌", "url": "https://www.msn.com/en-us/money/top-stocks/markets-news-aug-4-2026-s-p-500-dow-close-at-records-as-palantir-caterpillar-shares-jump-oil-drops-on-us-iran-deal-optimism/ar-AA29np5q", "source": "MSN", "desc": "Brent跌破$80為數月新低。美伊deal optimism持續。荷姆茲可能重開。全球通膨壓力顯著減輕。對Fed降息路徑=正面"},
+      {"title": "美股全面新高：S&P 7,736(+1.8%)/Dow 54,086(+907)/Nasdaq +2.6%", "url": "https://wtop.com/news/2026/08/how-major-us-stock-indexes-fared-tuesday-8-4-2026/", "source": "WTOP", "desc": "S&P自6月以來首創新高。Dow連續第二日歷史新高。Nasdaq +671點。Palantir+Caterpillar強勁財報帶動。7月修正完全收復"},
+      {"title": "台股8/4平盤收43,361：盤中波動1000+點、TSMC弱但Delta撐盤", "url": "https://focustaiwan.tw/business/202608040014", "source": "Focus Taiwan", "desc": "盤中42,896-43,913。TSMC下跌壓力vs產業輪動支撐。成交$1.036兆。今日美股新高利多→預計開盤大漲"},
+      {"title": "SpaceX盤後-7%：Q2 Capex $18.4B引發花費疑慮(Alphabet效應延續)", "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html", "source": "CNBC", "desc": "SpaceX Capex $18.4B高於預期。市場對高支出仍敏感(Alphabet陰影)。但SpaceX=私有公司、對公開市場直接影響有限"}
+    ],
+    "crypto": [
+      {"title": "油價跌破$80+美股新高+Iran deal：風險偏好全面回升利好加密市場", "url": "https://www.msn.com/en-us/money/top-stocks/markets-news-aug-4-2026-s-p-500-dow-close-at-records-as-palantir-caterpillar-shares-jump-oil-drops-on-us-iran-deal-optimism/ar-AA29np5q", "source": "MSN", "desc": "三重利多：油價$80以下(通膨降)+美股歷史新高(risk on)+Iran deal(地緣緩和)。BTC有望突破$66K+測試$68K阻力"},
+      {"title": "S&P新高+Nasdaq +2.6%：加密市場通常跟隨科技股的risk-on模式", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-with-iran-talks-q2-earnings-in-focus-4832672", "source": "Investing.com", "desc": "歷史上S&P創新高後BTC在1-2週內通常跟漲。AI交易復活=科技風險偏好回升=加密受惠。CLARITY Act雖延後但宏觀環境轉佳"},
+      {"title": "Palantir +29%對加密AI概念幣的潛在影響：AI敘事重新啟動", "url": "https://www.home.saxo/content/articles/equities/palantir-spacex-and-amd-earnings-preview-03082026", "source": "Saxo", "desc": "Palantir(AI軟體)暴漲29%=AI narrative回歸。RENDER/FET/AGIX等AI加密概念幣可能跟漲。AI泡沫恐慌→AI確認行情"},
+      {"title": "油價$80以下=Fed降息預期上升=加密長期利多", "url": "https://wtop.com/news/2026/08/how-major-us-stock-indexes-fared-tuesday-8-4-2026/", "source": "WTOP", "desc": "Brent $80以下代表通膨壓力大減。Fed 9月可能開始暗示降息路徑。低利率環境=流動性增加=加密資產受惠。結構性利多"}
+    ],
+    "dev": [
+      {"title": "Beast of Reincarnation技術架構：Game Freak從2D→3D動作RPG的引擎轉型", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "寶可夢團隊首次製作全3D動作RPG。即時戰鬥+AI指令的雙系統。從Game Boy→Switch→PS5/PC的技術進化。Game Freak的引擎能力驗證"},
+      {"title": "AMD EPS微超但盤後-8%：對開發者GPU算力市場的信號", "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html", "source": "CNBC", "desc": "AMD業績OK但不夠亮眼。Helios/MI455X等AI加速器需求確認但成長率放緩？對開發者：GPU算力供給持續但價格可能不會再大降"},
+      {"title": "Palantir +29%：企業AI軟體平台的開發者生態系獲市場獎勵", "url": "https://www.home.saxo/content/articles/equities/palantir-spacex-and-amd-earnings-preview-03082026", "source": "Saxo", "desc": "Palantir的AIP(AI Platform)讓企業用戶無需深度ML知識即可部署AI。對開發者：低程式碼AI平台正成為主流。企業AI工具市場持續擴張"},
+      {"title": "SpaceX Capex $18.4B：衛星互聯網和太空AI計算對開發者的長期影響", "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html", "source": "CNBC", "desc": "SpaceX持續投入Starlink+太空計算。長期：全球低延遲連接+太空邊緣計算。對開發者=新的部署環境和挑戰即將出現"}
+    ],
+    "art": [
+      {"title": "Beast of Reincarnation美術方向：末日後日本的科幻+傳統融合視覺", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "Game Freak首款非寶可夢大作。末日後日本=廢墟+自然的美術衝突。人與犬的情感視覺設計。從可愛像素風→寫實動作的藝術轉型"},
+      {"title": "「1人1犬」角色設計：Emma和Ku的視覺互補關係", "url": "https://blog.playstation.com/2026/02/12/beast-of-reincarnation-launches-on-ps5-august-4-2026/", "source": "PlayStation Blog", "desc": "Emma以劍術為核心、Ku以技能指令為核心。兩個角色在視覺上的動態對比設計。人類的精確vs動物的野性"},
+      {"title": "Palantir品牌視覺的勝利：從「神秘政府承包商」到「AI平台明星」的形象轉變", "url": "https://www.msn.com/en-us/money/top-stocks/markets-news-aug-4-2026-s-p-500-dow-close-at-records-as-palantir-caterpillar-shares-jump-oil-drops-on-us-iran-deal-optimism/ar-AA29np5q", "source": "MSN", "desc": "+29%單日。品牌從爭議性→市場寵兒的視覺形象轉型。財報設計和投資者溝通的成功案例"},
+      {"title": "S&P新高的視覺慶祝：財經媒體如何設計「破紀錄」的視覺衝擊", "url": "https://wtop.com/news/2026/08/how-major-us-stock-indexes-fared-tuesday-8-4-2026/", "source": "WTOP", "desc": "6月以來首創新高。媒體用什麼視覺元素傳達「從恐慌到狂歡」的轉折？圖表設計、顏色選擇、標題排版的策略"}
+    ],
+    "design": [
+      {"title": "Beast of Reincarnation「1人1犬」的遊戲設計：劍術即時+指令回合的雙系統融合", "url": "https://blog.playstation.com/2026/02/12/beast-of-reincarnation-launches-on-ps5-august-4-2026/", "source": "PlayStation Blog", "desc": "Emma即時動作戰鬥+Ku回合式技能指令。兩種玩法如何無縫融合？Game Freak如何設計讓玩家同時操控人和犬的UX"},
+      {"title": "美股從恐慌到新高僅兩週的市場心理設計：如何設計「情緒反轉」的產品體驗", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-with-iran-talks-q2-earnings-in-focus-4832672", "source": "Investing.com", "desc": "7/23 Mag7蒸發$797B→8/4 S&P新高。兩週內180度翻轉。金融產品如何設計讓用戶在極端波動中保持理性？"},
+      {"title": "台股盤中1000+點波動的交易介面設計挑戰", "url": "https://focustaiwan.tw/business/202608040014", "source": "Focus Taiwan", "desc": "8/4台股42,896-43,913(1017點差)→最終收平。交易介面如何在極端波動中提供清晰資訊而不引發恐慌操作？"},
+      {"title": "Game Pass「首日遊戲」的持續設計策略：Halo→Mistfall→Beast of Reincarnation", "url": "https://wccftech.com/roundup/beast-of-reincarnation-everything-we-know-game-freak-action-rpg/", "source": "Wccftech", "desc": "連續每週都有首日大作。訂閱服務如何設計「永遠有新東西」的期待感？內容節奏的設計心理學"}
+    ],
+    "business": [
+      {"title": "🟢美股8/4全面新高：S&P 7,736(+1.8%)/Dow 54,086(+907)/Nasdaq 26,585(+2.6%)", "url": "https://wtop.com/news/2026/08/how-major-us-stock-indexes-fared-tuesday-8-4-2026/", "source": "WTOP", "desc": "S&P自6月首創新高。Dow連兩日歷史新高。Palantir +29%/Caterpillar強勁。7月修正完全收復。AI交易+Iran deal+油價下跌三重利多"},
+      {"title": "Beast of Reincarnation首日：Game Freak非寶可夢IP的商業驗證", "url": "https://en.wikipedia.org/wiki/Beast_of_Reincarnation", "source": "Wikipedia", "desc": "8/4發售。PS5/Xbox/PC+Game Pass首日。Game Freak(寶可夢年營收$10B+)的品牌能否在新IP中延伸？商業多元化測試"},
+      {"title": "Bezos出售Amazon 1500萬股($41億)：創辦人持續減持信號", "url": "https://www.msn.com/en-us/money/top-stocks/markets-news-aug-4-2026-s-p-500-dow-close-at-records-as-palantir-caterpillar-shares-jump-oil-drops-on-us-iran-deal-optimism/ar-AA29np5q", "source": "MSN", "desc": "Amazon -2%因Bezos賣股消息。1500萬股≈$41億。但市場整體不受影響(Dow仍創新高)。創辦人定期減持已成常態"},
+      {"title": "油價Brent跌破$80(Iran deal optimism)：全球經濟壓力大減", "url": "https://wtop.com/news/2026/08/how-major-us-stock-indexes-fared-tuesday-8-4-2026/", "source": "WTOP", "desc": "從7月$100→8月$80以下(-20%)。美伊和平協議進展。荷姆茲可能重開。殖利率下降。Fed降息窗口打開。消費者支出壓力減輕"}
+    ],
+    "finance": [
+      {"title": "S&P 500創6月以來新高7,736：7月修正(-5%)兩週內完全收復", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-with-iran-talks-q2-earnings-in-focus-4832672", "source": "Investing.com", "desc": "從7/23的7,408低點→8/4的7,736(+4.4%)。AI Capex恐慌完全消退。MSFT/META/AAPL/AMZN全beat+Iran deal=完美反彈環境"},
+      {"title": "Brent $80以下：從$100到$80(-20%)僅10天——地緣風險溢價快速消退", "url": "https://www.msn.com/en-us/money/top-stocks/markets-news-aug-4-2026-s-p-500-dow-close-at-records-as-palantir-caterpillar-shares-jump-oil-drops-on-us-iran-deal-optimism/ar-AA29np5q", "source": "MSN", "desc": "7/23 Brent $100→8/4跌破$80。和平談判進展+荷姆茲重開預期。殖利率同步下降。Fed 9月降息預期上升。通膨見頂確認"},
+      {"title": "AMD盤後-8%/SpaceX -7%：AI供應商在「微超」環境中被懲罰", "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html", "source": "CNBC", "desc": "AMD EPS微超但不如MSFT驚艷→-8%。SpaceX Capex $18.4B高→-7%。市場標準提高：「不是超就好，要大超」。AI股分化持續"},
+      {"title": "Dow連兩日歷史新高+Palantir +29%：AI牛市2.0正式啟動？", "url": "https://www.zacks.com/stock/news/2967146/stock-market-news-for-aug-4-2026", "source": "Zacks", "desc": "Nasdaq +2.1%/540點。AI回歸領漲。但7大板塊中仍有7個收負=漲幅集中在AI。市場是「AI牛市2.0」還是只是超跌反彈？待觀察"}
+    ]
+  }
+}
