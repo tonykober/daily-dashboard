@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-06",
+  "categories": {
+    "ai": [
+      {"title": "S&P/Dow續創歷史新高：AI財報確認需求+估值已重設=進一步上漲空間", "url": "https://ca.investing.com/news/stock-market-news/analysisus-stock-market-could-ride-earnings-strength-to-more-gains-after-sp-500-hits-record-4778586", "source": "Reuters/Investing", "desc": "分析師認為：強勁獲利引擎+AI股估值修正後+合理估值水平=可繼續上漲。MSFT/AMZN/META確認AI投資回報。市場從「AI泡沫恐慌」回到「AI成長確認」"},
+      {"title": "AMD/SpaceX盤後跌拖累Nasdaq：「超預期但不夠亮眼」成為新標準", "url": "https://techflowpost.com/en-US/article/33021", "source": "TechFlow", "desc": "AMD和SpaceX都超預期但股價下跌=市場標準已提高。「強勁財報無法阻止賣壓」的劇本。AI供應商需要「大超」才能被獎勵"},
+      {"title": "Dow再創歷史新高：Iran deal進展+AI財報+油價下跌三重支撐", "url": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-inch-up-as-mideast-hopes-offset-spacex-amd-drag-4836813", "source": "Reuters", "desc": "Dow收盤歷史新高(連續三日)。S&P盤中也觸新高。中東和平進展持續。但Nasdaq因AMD/SpaceX首度五日來下跌"},
+      {"title": "台股8/5大漲1,251點(+2.88%)收復季線！美股新高帶動亞洲全面反彈", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "TAIEX 44,611.60(+1,251)。盤中漲超1,600點。收復月線和季線。油價下跌+中東和平+美股新高=三重利多同步推動"}
+    ],
+    "gaming": [
+      {"title": "Beast of Reincarnation已發售：Game Freak末日日本動作RPG首週體驗", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "「像Stellar Blade般專注速度和靈巧」。科幻動作RPG格檔核心。開放但線性。Game Pass首日。PS5/Xbox/PC。首批評測陸續出爐"},
+      {"title": "Beast of Reincarnation完整指南：Game Freak寶可夢團隊的成熟化轉型", "url": "https://www.gamesradar.com/beast-of-reincarnation-guide/", "source": "GamesRadar", "desc": "1人1犬雙系統。Emma劍術即時+Ku技能指令。末日日本設定。從2023年Project Bloom到2026年8月正式發售的三年開發歷程"},
+      {"title": "「1人1犬」動作RPG系統設計：Emma和Ku的雙主角戰鬥解析", "url": "https://blog.playstation.com/2026/02/12/beast-of-reincarnation-launches-on-ps5-august-4-2026/", "source": "PlayStation Blog", "desc": "Emma即時劍術戰鬥+Ku技能回合指令的融合。人類精確操控vs動物AI行為的互補設計。Game Freak首次3D動作遊戲"},
+      {"title": "8月遊戲開局：Beast of Reincarnation(Game Freak)+7月Splatoon/Halo持續長尾效應", "url": "https://www.polygon.com/beast-reincarnation-release-soon-game-freak/", "source": "Polygon", "desc": "7月Splatoon 80分/Halo 81-86分已建立8月基礎。Game Freak新IP為8月首發重頭戲。接下來還有更多大作"}
+    ],
+    "tech": [
+      {"title": "台股8/5暴漲1,251點(+2.88%)：收復季線44,612、五日反彈11.4%", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "從7/29低點40,039→8/5收44,612=五日+11.4%。收復月線和季線。油價下跌+美股新高+中東和平=完美反彈環境"},
+      {"title": "美股8/5：Dow再創歷史新高但Nasdaq首日下跌(AMD/SpaceX拖累)", "url": "https://www.streetinsider.com/Market+Check/Mideast+deal+hopes+lift+Dow,+S&P+to+records;+SpaceX,+AMD+drag+Nasdaq/26869121.html", "source": "Street Insider", "desc": "S&P/Dow盤中觸新高。但Nasdaq因AMD -8%和SpaceX拖累五日來首跌。市場分化：「傳統大型股」漲 vs「AI硬體供應商」跌"},
+      {"title": "油價持續下跌：Brent維持$80以下、Iran deal進展推動通膨預期改善", "url": "https://www.taiwanplus.com/news/taiwan-news/politics/260805015/taiwan-stocks-rally-as-tech-shares-rise-amid-optimism-for-middle-east-peace", "source": "Taiwan Plus", "desc": "油價三週低點。中東和平談判+荷姆茲可能重開。殖利率下降。全球通膨壓力顯著改善。Fed降息路徑更清晰"},
+      {"title": "亞洲股市全面上漲：中東和平+油價下跌帶動風險偏好", "url": "https://www.asahi.com/ajw/articles/16786779", "source": "Asahi", "desc": "台股+2.88%領漲亞洲。油價下跌利好亞洲進口國。中東和平進展減少地緣風險溢價。全球資金重新流入亞洲科技"}
+    ],
+    "crypto": [
+      {"title": "S&P/Dow連創新高+油$80以下：加密市場宏觀環境持續改善", "url": "https://www.investing.com/news/stock-market-news/sp-500-hits-record-high-on-strong-ailinked-earnings-mideast-deal-hopes-4834636", "source": "Investing.com", "desc": "美股新高=risk on。油$80以下=通膨降。Fed降息預期升。三者均利好BTC和加密資產。市場環境為數月來最佳"},
+      {"title": "AMD/SpaceX盤後跌但大盤創新高：加密市場跟隨大盤而非個股", "url": "https://www.streetinsider.com/Market+Check/Mideast+deal+hopes+lift+Dow,+S&P+to+records;+SpaceX,+AMD+drag+Nasdaq/26869121.html", "source": "Street Insider", "desc": "BTC跟隨S&P整體趨勢而非單一個股。Dow/S&P新高=正面。AMD/SpaceX跌=局部不影響整體。加密維持偏多格局"},
+      {"title": "Iran deal推動油價下跌→通膨預期改善→Fed降息窗口打開→BTC利多", "url": "https://www.taiwanplus.com/news/taiwan-news/politics/260805015/taiwan-stocks-rally-as-tech-shares-rise-amid-optimism-for-middle-east-peace", "source": "Taiwan Plus", "desc": "油價$100→$80(-20%)在三週內。若Iran deal正式簽署→油可能跌至$70以下。Fed 9月降息機率上升。降息=流動性增加=加密受惠"},
+      {"title": "AI牛市2.0確認：Palantir +29%/MSFT +16%後加密AI概念幣有望跟漲", "url": "https://ca.investing.com/news/stock-market-news/analysisus-stock-market-could-ride-earnings-strength-to-more-gains-after-sp-500-hits-record-4778586", "source": "Reuters", "desc": "AI narrative回歸。股市AI牛→加密AI概念幣(RENDER/FET/AGIX)通常1-2週後跟漲。整體risk-on環境利好所有風險資產"}
+    ],
+    "dev": [
+      {"title": "Game Freak Beast of Reincarnation技術：從寶可夢2D→全3D動作RPG引擎", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "Game Freak歷史性引擎轉型。從GameBoy像素→3DS/Switch 3D→PS5/PC全3D即時動作。「1人1犬」AI系統的技術挑戰"},
+      {"title": "AMD業績超但股價跌8%：對開發者GPU算力市場的信號", "url": "https://techflowpost.com/en-US/article/33021", "source": "TechFlow", "desc": "AMD成長但不如市場期望→股價壓力。對開發者：AMD GPU供給持續但價格競爭力可能不如預期。NVIDIA仍佔優勢地位"},
+      {"title": "SpaceX Capex $18.4B：太空計算和全球連接對開發者的長期影響", "url": "https://www.streetinsider.com/Market+Check/Mideast+deal+hopes+lift+Dow,+S&P+to+records;+SpaceX,+AMD+drag+Nasdaq/26869121.html", "source": "Street Insider", "desc": "SpaceX持續投入Starlink衛星互聯網。全球低延遲覆蓋→新的邊緣計算場景。開發者準備：太空計算APIs可能2027年可用"},
+      {"title": "台股收復季線代表的訊號：AI供應鏈(TSMC/聯發科)基本面未變", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "五日反彈11.4%收復季線。TSMC/聯發科等AI供應鏈的訂單持續。開發者觀點：AI算力供給持續擴張、工具成本中期預計下降"}
+    ],
+    "art": [
+      {"title": "Beast of Reincarnation末日日本美術：廢墟×自然×科幻的視覺融合", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "末日後日本。文明廢墟與自然重生的對比美學。Emma(人類精確)和Ku(動物野性)的視覺互補。Game Freak美術團隊的成熟化"},
+      {"title": "Game Freak從可愛→成熟：寶可夢美學DNA如何在Beast of Reincarnation中轉化", "url": "https://www.polygon.com/beast-reincarnation-release-soon-game-freak/", "source": "Polygon", "desc": "20+年可愛精靈設計→暗黑末日動作。角色設計的情感張力。保留Game Freak的「生物設計」基因但轉向寫實化"},
+      {"title": "S&P新高的持續視覺敘事：從「恐慌紅」到「突破綠」的媒體設計轉變", "url": "https://www.nbcnews.com/business/markets/sp-500-dow-hit-new-highs-ai-earnings-iran-rcna590834", "source": "NBC News", "desc": "7月恐慌→8月新高。財經媒體如何用視覺語言傳達「修正結束、新高開始」？圖表顏色、標題語氣的系統性轉變"},
+      {"title": "台股+1,251點的「勝利視覺」：電子看板綠色數字的社會心理效應", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "台灣紅=跌、綠=漲。+2.88%大漲日的視覺衝擊。號子和新聞畫面中滿版綠色數字的集體情緒效果"}
+    ],
+    "design": [
+      {"title": "Beast of Reincarnation「1人1犬」UX設計：雙主角同時操控的介面挑戰", "url": "https://blog.playstation.com/2026/02/12/beast-of-reincarnation-launches-on-ps5-august-4-2026/", "source": "PlayStation Blog", "desc": "即時操控Emma+下達指令給Ku。如何在一個手把上同時表達兩種操控模式？HUD設計如何區分人類狀態和犬隻狀態？"},
+      {"title": "市場從「恐慌」到「新高」的UX隱喻：產品如何設計「從負面轉正面」的過渡", "url": "https://ca.investing.com/news/stock-market-news/analysisus-stock-market-could-ride-earnings-strength-to-more-gains-after-sp-500-hits-record-4778586", "source": "Reuters", "desc": "7月底極度恐懼→8月初歷史新高。用戶體驗中的情緒反轉設計。如何讓使用者「相信轉折是真的」而非「害怕又會跌」？"},
+      {"title": "AMD「超預期但跌」的預期管理設計：如何設定和傳達「成功」的標準", "url": "https://techflowpost.com/en-US/article/33021", "source": "TechFlow", "desc": "AMD EPS超預期→股價-8%。「超」了但「不夠超」=失敗。產品設計中的expectation management。如何設定用戶預期使結果被感知為正面"},
+      {"title": "Iran deal對全球市場UX的影響：「和平」如何被轉化為「數字」", "url": "https://www.streetinsider.com/Market+Check/Mideast+deal+hopes+lift+Dow,+S&P+to+records;+SpaceX,+AMD+drag+Nasdaq/26869121.html", "source": "Street Insider", "desc": "地緣政治→油價→殖利率→股價→指數新高。抽象的「和平進展」如何在金融產品中被量化和視覺化？"}
+    ],
+    "business": [
+      {"title": "美股8/5：Dow再創歷史新高、S&P盤中新高——Iran deal+AI財報雙引擎", "url": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-inch-up-as-mideast-hopes-offset-spacex-amd-drag-4836813", "source": "Reuters", "desc": "Dow連三日歷史新高。S&P盤中觸新高。但Nasdaq五日來首跌(AMD/SpaceX拖累)。市場分化持續：傳統大型>AI硬體供應"},
+      {"title": "台股8/5大漲1,251點：五日反彈11.4%完成V型反轉、收復季線", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "TAIEX 44,612(+2.88%)。從40,039→44,612僅五日。月線+季線全收復。美股新高+油$80以下+Iran deal=完美外部環境"},
+      {"title": "Beast of Reincarnation首日上線：Game Freak品牌多元化商業實驗", "url": "https://en.wikipedia.org/wiki/Beast_of_Reincarnation", "source": "Wikipedia", "desc": "寶可夢年營收$10B+的團隊。首款非寶可夢大型遊戲。$49.99/Game Pass首日。能否在新IP中複製品牌效應？"},
+      {"title": "分析：美股可能繼續漲——強勁獲利+估值重設+合理水平=動力充足", "url": "https://ca.investing.com/news/stock-market-news/analysisus-stock-market-could-ride-earnings-strength-to-more-gains-after-sp-500-hits-record-4778586", "source": "Reuters", "desc": "AI股7月修正20%+→已重設估值。現在重回新高=重新出發而非泡沫。獲利確認+Iran deal+油降=多重順風。還有上漲空間"}
+    ],
+    "finance": [
+      {"title": "Dow連三日歷史新高/S&P盤中新高：7月修正完全收復、新多頭確認", "url": "https://www.nbcnews.com/business/markets/sp-500-dow-hit-new-highs-ai-earnings-iran-rcna590834", "source": "NBC News", "desc": "AI財報(MSFT/META/AAPL/AMZN)+Palantir+Caterpillar=獲利確認。油價下跌+Iran deal=通膨壓力減。完美組合推動連續新高"},
+      {"title": "油價Brent持續在$80以下：Iran deal若正式簽署→可能跌至$70以下", "url": "https://www.taiwanplus.com/news/taiwan-news/politics/260805015/taiwan-stocks-rally-as-tech-shares-rise-amid-optimism-for-middle-east-peace", "source": "Taiwan Plus", "desc": "三週前$100→現在$80以下。若荷姆茲重開+伊朗恢復出口→全球原油供給大增。$70油價不是夢。通膨時代可能接近尾聲"},
+      {"title": "台股五日+11.4%：從極度恐懼(40,039)→收復季線(44,612)的完美V型", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "7/29恐懼指數5(歷史新低)→8/5已回到樂觀區間。MSFT +16%為轉折點。AI需求確認+地緣緩和+油降=結構性反彈而非技術反彈"},
+      {"title": "AMD -8%但大盤創新高：AI投資轉向「軟體/平台」而非「硬體/晶片」", "url": "https://techflowpost.com/en-US/article/33021", "source": "TechFlow", "desc": "Palantir +29%(軟體) vs AMD -8%(硬體)。市場偏好：能立即變現AI的公司>提供AI基建的公司。投資風格從「鏟子股」→「淘金者」轉移"}
+    ]
+  }
+}
