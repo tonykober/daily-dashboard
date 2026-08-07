@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-07",
+  "categories": {
+    "ai": [
+      {"title": "美股暫歇：Dow終止5連漲(-454)、SanDisk展望令晶片股集體回落", "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html", "source": "CNBC", "desc": "S&P -0.18%(7,710)/Nasdaq -0.06%(26,348)/Dow -464(-0.85%收53,885)。SanDisk展望令失望→晶片全面回落。但僅是新高後正常獲利了結"},
+      {"title": "Business Insider分析：市場兩大恐懼已消退——AI財報+Iran戰爭→股市回歷史新高", "url": "https://www.businessinsider.com/stock-market-today-record-high-dow-spx-ndx-iran-tech-2026-8", "source": "Business Insider", "desc": "7月兩大恐懼：①AI Capex是否浪費 ②Iran戰爭升級。兩者均已消退。MSFT/META/AAPL/AMZN確認AI回報。Iran deal進展中。結構性多頭確認"},
+      {"title": "晶片股「蹺蹺板」：SanDisk展望失望拖累整個科技板塊", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "SanDisk (SNDK)展望不及預期→晶片弱勢蔓延幾乎整個科技板塊。但這是個股問題非系統性風險。週五就業數據為下一焦點"},
+      {"title": "週五就業數據前市場觀望：Fed降息路徑取決於勞動力市場", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-peace-deal-crude-oil-fed-warsh-rate-micron-western-digital-amd-marvell-chip-stock-price-news-6th-august-2026/liveblog/133004391.cms", "source": "ET", "desc": "投資人在就業報告前觀望。若就業放緩→Fed 9月降息機率上升→利多。若仍強勁→降息延後。油價繼續壓制Dow"}
+    ],
+    "gaming": [
+      {"title": "Beast of Reincarnation上線第三天：Game Freak新IP玩家反饋持續積累", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "8/4發售後進入第三天。Game Pass驅動初期大量玩家嘗試。社群對「1人1犬」系統和末日日本美術正面反應。長期留存待觀察"},
+      {"title": "8月上旬遊戲新聞：Beast of Reincarnation+Splatoon/Halo持續社群討論", "url": "https://www.polygon.com/beast-reincarnation-release-soon-game-freak/", "source": "Polygon", "desc": "7月遊戲雙旗艦(Splatoon 80分/Halo 81-86分)進入第二週長尾。Beast of Reincarnation為8月焦點。Game Pass持續提供價值"},
+      {"title": "SanDisk展望失望可能影響遊戲主機儲存成本：NAND市場信號", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "SanDisk/NAND展望令市場失望=記憶體需求放緩？若NAND價格下跌→PS5/Xbox SSD擴充更便宜。對玩家短期利多但對產業長期存疑"},
+      {"title": "Game Freak從寶可夢到Beast的商業意義：IP多元化是否成功待銷量確認", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "Game Pass首日=難以從銷量判斷成功。需等玩家留存率+付費轉化。但評測方向正面。Game Freak品牌效應在非寶可夢IP上的驗證"}
+    ],
+    "tech": [
+      {"title": "Dow終止5連漲跌454點：油價回升+SanDisk展望壓制、但仍接近歷史高位", "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html", "source": "CNBC", "desc": "收53,885。離54,086歷史高僅200點。油價回升施壓。SanDisk NAND展望不佳→晶片全面走弱。週五就業數據為關鍵"},
+      {"title": "晶片板塊回落：SanDisk展望+AMD盤後效應持續、但結構性多頭未改", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "SanDisk展望失望拖累NAND/Memory全線。但這是NAND特有問題(需求放緩)、非AI晶片系統性風險。NVIDIA/TSMC AI需求仍確認"},
+      {"title": "Iran和平進展持續：Trump示意Hormuz deal、油價雖回升但趨勢向下", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-peace-deal-crude-oil-fed-warsh-rate-micron-western-digital-amd-marvell-chip-stock-price-news-6th-august-2026/liveblog/133004391.cms", "source": "ET", "desc": "Trump示意Hormuz deal進展。巴基斯坦/中國斡旋持續。油價雖因短期因素回升但中期趨勢向$70+。通膨壓力持續改善中"},
+      {"title": "台股昨日+2.88%收復季線後今日面臨美股回落考驗", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "8/5大漲1,251點至44,612。但美股8/6跌(Dow -454/Nasdaq小跌)。今日台股可能小幅回落整理。但結構未破、季線仍有效"}
+    ],
+    "crypto": [
+      {"title": "美股新高後獲利了結：BTC通常在大盤「健康回調」中保持穩定", "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Dow -454但離新高僅200點=正常獲利了結。BTC在大盤健康回調中通常不跟跌(或跌幅遠小)。若就業報告利好Fed降息→BTC利多"},
+      {"title": "就業數據將決定Fed路徑：對加密市場的直接影響", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-peace-deal-crude-oil-fed-warsh-rate-micron-western-digital-amd-marvell-chip-stock-price-news-6th-august-2026/liveblog/133004391.cms", "source": "ET", "desc": "週五就業數據若放緩→Fed 9月降息→BTC漲。若仍強→降息延後→短線壓力。加密市場等待方向確認"},
+      {"title": "市場兩大恐懼消退後加密受惠：AI確認+Iran deal=risk-on環境延續", "url": "https://www.businessinsider.com/stock-market-today-record-high-dow-spx-ndx-iran-tech-2026-8", "source": "Business Insider", "desc": "AI Capex恐慌消退+Iran戰爭降溫=全球risk-on。BTC在此環境中有結構性支撐。$66-68K區間為短期目標"},
+      {"title": "NAND/Memory走弱對加密mining的正面：儲存成本可能下降", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "SanDisk展望失望=NAND供過於求=價格可能下跌。對加密：區塊鏈節點的儲存成本可能降低。長期利好全節點運營者"}
+    ],
+    "dev": [
+      {"title": "SanDisk展望失望對開發者的信號：NAND儲存需求放緩可能降價", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "若NAND價格下跌→SSD更便宜→開發環境儲存成本降低。但也意味著某些AI工作負載(需要高速儲存)的需求可能不如預期"},
+      {"title": "就業報告將影響科技業招聘：若放緩=Fed降息但也可能裁員", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-peace-deal-crude-oil-fed-warsh-rate-micron-western-digital-amd-marvell-chip-stock-price-news-6th-august-2026/liveblog/133004391.cms", "source": "ET", "desc": "就業放緩的兩面性：Fed降息(利好估值)但可能伴隨科技業放慢招聘。開發者市場需關注週五數據"},
+      {"title": "Beast of Reincarnation技術反饋：Game Freak 3D引擎首週穩定性觀察", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "PS5/Xbox/PC三平台首週。Game Pass雲遊戲表現。UE5(推測)的效能和bug報告。Game Freak引擎團隊的成熟度驗證中"},
+      {"title": "AI開發仍是結構性多頭：Business Insider確認兩大恐懼消退", "url": "https://www.businessinsider.com/stock-market-today-record-high-dow-spx-ndx-iran-tech-2026-8", "source": "Business Insider", "desc": "AI Capex恐慌+Iran戰爭兩大恐懼均消退。對開發者：AI工具投資/採用持續。MSFT/META/AMZN AI平台不會縮減服務。放心用"}
+    ],
+    "art": [
+      {"title": "Beast of Reincarnation首週視覺反饋：末日日本美學獲玩家社群好評", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "玩家對廢墟+自然的美術設計反應正面。Emma和Ku的動態視覺表現獲讚。Game Freak證明有能力做非寶可夢風格的高品質美術"},
+      {"title": "市場從恐慌到新高的視覺敘事完整弧線：7月紅→8月綠的一個月", "url": "https://www.businessinsider.com/stock-market-today-record-high-dow-spx-ndx-iran-tech-2026-8", "source": "Business Insider", "desc": "完整敘事弧：恐慌(7月)→V型反轉(8月初)→歷史新高(本週)。財經媒體如何用視覺回顧一個月的市場情緒變化"},
+      {"title": "SanDisk品牌危機中的視覺溝通：如何在「展望失望」時管理投資人預期", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "展望不佳→全板塊被拖累。企業如何在不利消息中用視覺設計(報告格式/圖表選擇)管理敘事？IR設計的藝術"},
+      {"title": "Dow -454的「正常回調」視覺vs恐慌暴跌：數字相同但意義不同", "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html", "source": "CNBC", "desc": "-454點在7月是恐慌、在8月是健康獲利了結。同樣的數字在不同context下的視覺和心理感受完全不同。設計如何傳達context"}
+    ],
+    "design": [
+      {"title": "「健康回調」vs「恐慌暴跌」的UX區別：金融產品如何區分傳達", "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Dow -454在歷史新高附近=健康。同樣-454在低點=恐慌。金融App如何在UI中加入context讓用戶不誤判？顏色/措辭/圖表設計"},
+      {"title": "就業數據發布前的「等待UI」設計：如何在不確定性中安撫用戶", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-peace-deal-crude-oil-fed-warsh-rate-micron-western-digital-amd-marvell-chip-stock-price-news-6th-august-2026/liveblog/133004391.cms", "source": "ET", "desc": "「等待重要數據」的市場情緒如何在產品中設計？倒數計時?預期範圍?歷史對照?減少用戶焦慮的設計模式"},
+      {"title": "Beast of Reincarnation Game Pass首日的下載→遊玩轉化UX", "url": "https://www.gamesradar.com/beast-of-reincarnation-guide/", "source": "GamesRadar", "desc": "Game Pass用戶免費嘗試→決定是否繼續玩。首日UX(教學/引導/前30分鐘)如何設計以最大化留存？Game Freak的onboarding設計"},
+      {"title": "「蹺蹺板」市場的資訊設計：同時呈現Dow新高和Nasdaq下跌的複雜性", "url": "https://www.zacks.com/stock/news/2969501/stock-market-news-for-aug-6-2026", "source": "Zacks", "desc": "Dow漲但Nasdaq跌。S&P微跌。三指數不同方向如何在一個介面中清晰呈現？混合信號的資訊層次設計"}
+    ],
+    "business": [
+      {"title": "美股8/6微跌：Dow -464結束5連漲、S&P -0.18%、Nasdaq -0.06%", "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Dow收53,885離新高僅200點。正常獲利了結。SanDisk展望拖累晶片。油價回升壓制。週五就業數據為下一方向"},
+      {"title": "Business Insider：兩大市場恐懼已消退、回到歷史新高不是泡沫", "url": "https://www.businessinsider.com/stock-market-today-record-high-dow-spx-ndx-iran-tech-2026-8", "source": "Business Insider", "desc": "①AI Capex恐慌(MSFT/META已解)②Iran戰爭(deal進行中)。兩者消退後市場回新高有基本面支撐。不是泡沫、是合理重估"},
+      {"title": "SanDisk展望失望拖累Memory晶片全線：NAND需求放緩信號", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "SanDisk outlook令失望→NAND/Memory全線回落。但這是NAND特有的周期問題、非AI系統性風險。HBM/DRAM需求(AI用)仍強"},
+      {"title": "台股8/5收復季線44,612後今日面臨美股小跌考驗——但結構未破", "url": "https://taiwannews.com.tw/en/news/6415502", "source": "Taiwan News", "desc": "8/5大漲+2.88%收復季線。今日美股小跌可能帶來短線獲利了結壓力。但Dow離新高僅200點=不是恐慌。預計小跌整理"}
+    ],
+    "finance": [
+      {"title": "Dow結束5連漲(-464)但距歷史新高僅200點：健康回調而非轉折", "url": "https://www.zacks.com/stock/news/2969501/stock-market-news-for-aug-6-2026", "source": "Zacks", "desc": "S&P 7,710(離新高7,737僅0.3%)。Nasdaq 26,348。正常獲利了結+SanDisk拖累。結構性多頭格局未改。週五就業為關鍵"},
+      {"title": "就業報告預覽：若放緩→Fed 9月降息機率大增→利好所有風險資產", "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-peace-deal-crude-oil-fed-warsh-rate-micron-western-digital-amd-marvell-chip-stock-price-news-6th-august-2026/liveblog/133004391.cms", "source": "ET", "desc": "週五非農就業數據。若就業增長放緩→Fed有理由9月降息→股市/加密/債市均利多。若仍強→高利率持續但經濟韌性也正面"},
+      {"title": "油價回升但中期趨勢仍向下：Iran deal若簽署→$70以下不是夢", "url": "https://news.net/news/us-stocks-hold-near-records-on-hopes-of-an-agreement-with-iran/", "source": "News.net", "desc": "短期油價因空頭回補微升。但荷姆茲重開+伊朗恢復出口=中期供給大增。$80→$70的路徑清晰。通膨持續改善"},
+      {"title": "NAND/Memory走弱但AI晶片(HBM/GPU)仍強：半導體板塊分化持續", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "SanDisk NAND弱≠AI弱。HBM(SK Hynix/Micron)和GPU(NVIDIA/AMD)的AI需求仍確認。投資需區分NAND周期vs AI結構性成長"}
+    ]
+  }
+}
