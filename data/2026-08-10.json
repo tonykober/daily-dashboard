@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-10",
+  "categories": {
+    "ai": [
+      {"title": "S&P 500創歷史新高7,754：弱就業報告=不升息→AI股全面受惠", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "S&P收歷史新高7,753.92(+0.6%)。Nasdaq +1.3%(26,691)。就業-23,000意外轉負→Fed升息off the table。AI股在利率友善環境中全面反彈"},
+      {"title": "本週為4月以來最佳週表現：AI財報+Iran deal+弱就業三重順風", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html", "source": "Yahoo Finance", "desc": "S&P本週最佳。三重利多：①AI財報全過(MSFT/META/AAPL/AMZN) ②Iran deal進展 ③就業轉負=不升息。完美風暴推動歷史新高"},
+      {"title": "弱就業對AI產業的利好：低利率環境=AI Capex融資成本不升", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "就業轉負(-23,000)代表經濟放緩→Fed不會升息。對AI：hyperscaler的$200B+ Capex融資成本不會上升。AI投資週期不受利率壓制"},
+      {"title": "台股上週+2.57%(+1,106點)：全球AI股反彈+地緣緩和帶動", "url": "https://taiwannews.com.tw/en/news/6417394", "source": "Taiwan News", "desc": "台股週漲1,106點。TSMC/聯發科等AI供應鏈受惠全球科技反彈。美股新高+油$80以下+就業弱→今日台股預計繼續走高"}
+    ],
+    "gaming": [
+      {"title": "Beast of Reincarnation首週結束：Game Freak新IP在Game Pass上累積玩家", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "8/4發售後首週完整。PS5/Xbox/PC。Game Pass驅動大量初期嘗試。1人1犬動作RPG。末日日本設定。社群反應持續正面"},
+      {"title": "8月遊戲第二週：Beast of Reincarnation+7月Splatoon/Halo長尾持續", "url": "https://www.polygon.com/beast-reincarnation-release-soon-game-freak/", "source": "Polygon", "desc": "7月雙旗艦(Splatoon 80/Halo 81-86)進入長尾期。Beast為8月焦點。Game Pass價值持續。下一波大作待公布"},
+      {"title": "SanDisk/NAND走弱可能帶來SSD降價：對玩家的正面影響", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "NAND供過於求=價格下跌趨勢。PS5/Xbox儲存擴充可能更便宜。對大量安裝遊戲的玩家=利多。年底假期可能見到SSD促銷"},
+      {"title": "遊戲產業受惠低利率環境：Fed不升息=遊戲公司融資成本穩定", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "弱就業→不升息。遊戲公司(尤其獨立和中型)的開發融資成本不會上升。有利於更多遊戲專案獲得投資"}
+    ],
+    "tech": [
+      {"title": "美國7月就業意外-23,000！2月來首次轉負——Fed升息完全off the table", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "非農就業-23,000(預期+83,000)。失業率降至4.1%(勞動參與率下降)。2月來首次就業減少。Fed 9月升息機率歸零"},
+      {"title": "殖利率大跌+美元走軟：弱就業改變整個利率前景", "url": "https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/", "source": "BNN Bloomberg", "desc": "國債殖利率下跌。美元走軟。利率預期從「可能升」→「確定不升」。對科技股估值=正面(折現率下降)。對新興市場=利多"},
+      {"title": "台股週漲1,106點(+2.57%)收44,226：季線上方多頭格局確認", "url": "https://focustaiwan.tw/business/202608070015", "source": "Focus Taiwan", "desc": "8/7收44,226。60日均線上方。成交$819億。整理中但趨勢未破。美股週五大漲→今日台股預計開高"},
+      {"title": "油價持續在$80以下：通膨壓力已大幅減輕、消費者支出改善", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html", "source": "Yahoo Finance", "desc": "Brent持續$80以下。Iran deal持續進展。通膨→利率→經濟的連鎖效應全面正面。全球貿易環境改善"}
+    ],
+    "crypto": [
+      {"title": "弱就業=Fed不升息→BTC利多：流動性環境不會收緊", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "就業-23,000=經濟放緩→Fed不會升息→流動性不收緊→風險資產受惠。BTC在S&P新高環境中有望突破$68K+"},
+      {"title": "S&P歷史新高+殖利率跌：加密市場面臨數月來最佳宏觀環境", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "S&P新高=risk on。殖利率跌=美元弱。油$80以下=通膨降。三者組合=BTC最有利環境。歷史經驗：此組合下BTC通常1-3週內突破"},
+      {"title": "美元走軟利好加密：就業轉負後DXY下跌趨勢可能延續", "url": "https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/", "source": "BNN Bloomberg", "desc": "弱就業→美元走軟→以美元計價的加密資產相對升值。DXY下跌通常與BTC上漲正相關。結構性利多"},
+      {"title": "4月以來最佳週表現：全球risk-on模式確認、加密跟隨", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html", "source": "Yahoo Finance", "desc": "本週美股為4月來最強。AI確認+Iran deal+不升息=完美組合。加密在此環境中通常跟漲。$66-68K為短期目標"}
+    ],
+    "dev": [
+      {"title": "弱就業對科技招聘的雙面影響：不升息利好估值但可能放慢招聘", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "就業轉負=部分企業放慢招聘。但不升息=科技股估值上升。開發者市場：大廠可能維持招聘但startup/中型公司需觀察"},
+      {"title": "低利率持續=AI工具投資週期延長：開發者生態系不受壓縮", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "Fed不升息=MSFT/AMZN/META的AI平台不需要因利率壓力縮減服務。Azure/AWS/GCP定價穩定。開發者可安心長期投資AI工具"},
+      {"title": "Beast of Reincarnation首週技術穩定性：Game Freak跨平台表現觀察", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "PS5/Xbox/PC三平台。Game Pass雲端+本地。首週無重大技術事故報告。Game Freak 3D動作引擎能力獲初步驗證"},
+      {"title": "S&P新高代表的開發者信心：科技投資環境持續正面", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "S&P歷史新高=VC/PE對科技的投資信心上升。開發者創業環境改善。AI startup融資可能加速。整體正面"}
+    ],
+    "art": [
+      {"title": "Beast of Reincarnation末日日本美學持續獲讚：首週社群美術討論熱烈", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "廢墟+自然+科幻的視覺融合持續被討論。Emma和Ku的角色設計獲讚。Game Freak證明有非寶可夢的美術能力"},
+      {"title": "S&P歷史新高的「慶祝」視覺vs「警示」視覺：媒體如何選擇", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "新高=好消息但就業轉負=壞消息。財經媒體如何在同一畫面傳達「股市漲因為經濟弱」的矛盾？視覺語言的挑戰"},
+      {"title": "台股週漲千點的「綠色海」視覺：投資人情緒從7月恐慌完全翻轉", "url": "https://taiwannews.com.tw/en/news/6417394", "source": "Taiwan News", "desc": "從7月底「紅色恐慌」到8月「綠色狂歡」。號子和新聞畫面的色彩完全翻轉。視覺如何反映和放大集體情緒"},
+      {"title": "Game Freak品牌延伸的美術策略：從寶可夢可愛到Beast成熟的跨度", "url": "https://www.polygon.com/beast-reincarnation-release-soon-game-freak/", "source": "Polygon", "desc": "20+年建立的「可愛」品牌如何成功延伸到「成熟暗黑」？視覺風格的跨度管理。保留DNA(生物設計)但改變情緒基調"}
+    ],
+    "design": [
+      {"title": "就業轉負但股市新高的「反直覺」UX設計挑戰：如何解釋壞消息=好結果", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "「經濟失業增加」=「股市歷史新高」。普通人難以理解。金融教育產品如何設計讓用戶理解「弱數據→不升息→利多」的邏輯？"},
+      {"title": "4月來最佳週的資訊回顧設計：如何用一張圖總結一週的多重事件", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html", "source": "Yahoo Finance", "desc": "AI財報+Iran+就業在一週內連續發生。財經App如何設計「週回顧」讓用戶3秒內抓到重點？資訊密度的設計取捨"},
+      {"title": "Beast of Reincarnation首週留存設計：Game Pass免費嘗試→長期玩家的轉化", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "Game Pass降低嘗試門檻但也降低commitment。首週後多少玩家繼續？遊戲onboarding和前期鉤子的UX設計如何影響留存"},
+      {"title": "殖利率下跌的視覺化設計：「利率向下」如何在產品中傳達為正面信號", "url": "https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/", "source": "BNN Bloomberg", "desc": "殖利率「下跌」在語感上像壞事但對股市是好事。顏色/方向/措辭如何設計讓用戶正確感知方向？金融UX的語義挑戰"}
+    ],
+    "business": [
+      {"title": "🟢S&P 7,754歷史新高！弱就業→不升息→股市狂歡（4月來最佳週）", "url": "https://stl.news/u-s-stock-market-today-friday-august-7-2026/", "source": "STL News", "desc": "就業-23,000為2月來首次轉負。但市場解讀：不升息=利多。S&P +0.6%收歷史新高。科技股領漲(Nasdaq +1.3%)。殖利率下跌"},
+      {"title": "台股週漲1,106點(+2.57%)：8月開局強勁、季線上方多頭確認", "url": "https://taiwannews.com.tw/en/news/6417394", "source": "Taiwan News", "desc": "7/29低點40,039→8/7收44,226=反彈+10.5%。季線收復。美股新高+就業弱→今日台股預計開高。結構性多頭格局確認"},
+      {"title": "就業轉負但失業率降：勞動參與率下降=退出勞動市場而非被裁", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "失業率4.1%(降)但就業-23K。矛盾？因為勞動參與率降至5年低。人們主動退出工作(提早退休/回學校等)。非經濟崩潰信號"},
+      {"title": "本週美股成績：AI恐慌消退+Iran deal+就業弱=歷史性的「完美週」", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html", "source": "Yahoo Finance", "desc": "Palantir +29%、S&P/Dow連創新高、Nasdaq接近歷史高。所有headwind同時消退。8月continuation rally可能延續"}
+    ],
+    "finance": [
+      {"title": "美國7月非農-23,000(預期+83,000)：2月來首次就業減少→Fed升息off the table", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "經濟意外失業。但市場慶祝：不升息=利多。S&P歷史新高。殖利率暴跌。美元走軟。「壞消息=好消息」的經典劇本"},
+      {"title": "S&P收歷史新高7,753.92：從7月低點7,317(7/29)→8/7新高=+6%反彈", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "7/29 S&P 7,317(恐慌底)→8/7 S&P 7,754(歷史新高)=9個交易日+6%。AI Capex恐慌完全消退。結構性多頭確認"},
+      {"title": "殖利率下跌+美元走軟：弱就業改變全球資金流向→新興市場受惠", "url": "https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/", "source": "BNN Bloomberg", "desc": "10年期殖利率大跌。美元走軟。資金從美債流向股市和新興市場。台股/韓股等亞洲科技市場直接受惠"},
+      {"title": "油價$80以下+不升息：通膨時代正式結束的雙重確認", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html", "source": "Yahoo Finance", "desc": "油從$100→$80以下。就業弱→不升息。雙重確認通膨壓力時代結束。消費者+企業+政府的借貸成本都不會再升高"}
+    ]
+  }
+}
