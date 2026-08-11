@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-11",
+  "categories": {
+    "ai": [
+      {"title": "台股接近歷史高：TSMC+Intel投資協議推動AI供應鏈重估", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "Nikkei報導TSMC與Intel從MOU走向正式投資協議。2029年可能開始量產。台股8/10漲703點至44,929。距歷史高點45,632僅400點"},
+      {"title": "S&P歷史新高後穩固：就業轉負確認不升息、AI投資環境最佳", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "S&P 7,754歷史新高。AI Capex恐慌完全消退。就業弱→不升息→融資成本穩定。MSFT/META/AAPL/AMZN全beat。結構性多頭確認"},
+      {"title": "就業轉負對AI產業的深層意義：勞動力不足→AI自動化需求加速", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "就業-23,000+勞動參與率5年低=人力短缺。企業更需AI自動化填補缺口。長期利好AI需求。Palantir/MSFT Copilot等AI工具需求結構性增長"},
+      {"title": "台股10日反彈+12.2%：全球AI股V型反轉最完整的亞洲代表", "url": "https://focustaiwan.tw/business/202608100015", "source": "Focus Taiwan", "desc": "40,039→44,929。TSMC/聯發科/日月光帶動。AI供應鏈基本面從未改變。7月恐慌僅是情緒面修正。現回歸基本面定價"}
+    ],
+    "gaming": [
+      {"title": "Beast of Reincarnation第二週：Game Freak新IP口碑持續發酵", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "8/4上線後進入第二週。Game Pass持續帶動新玩家。末日日本+1人1犬設計獲正面評價。長期留存觀察中"},
+      {"title": "8月中遊戲展望：Beast of Reincarnation+Splatoon/Halo長尾+秋季預告期", "url": "https://www.polygon.com/beast-reincarnation-release-soon-game-freak/", "source": "Polygon", "desc": "7-8月大作集中發售期結束。9月Gamescom後續+TGS預告開始。目前為消化期。Game Pass持續月度更新"},
+      {"title": "遊戲產業受惠不升息環境：中小型開發商融資壓力不增", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "就業弱→Fed不升息。遊戲開發studio的營運資金成本維持穩定。有利於更多專案獲得green light。產業投資環境正面"},
+      {"title": "NAND價格走弱趨勢持續：遊戲主機SSD可能年底降價", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "SanDisk展望令失望後NAND供過於求趨勢確認。PS5/Xbox儲存擴充年底可能見到明顯降價。對玩家=利多"}
+    ],
+    "tech": [
+      {"title": "TSMC+Intel正式投資協議推進中：從MOU到量產可能2029年開始", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "Nikkei週一報導。2026年5月簽MOU→現正走向definitive agreement。對全球半導體供應鏈=重大利多。台股8/10 TSMC帶動大漲"},
+      {"title": "台股8/10暴漲703點(+1.59%)收44,929：盤中觸45,219距歷史高僅400點", "url": "https://focustaiwan.tw/business/202608100015", "source": "Focus Taiwan", "desc": "美國就業轉負→不升息→全球科技漲。TSMC+Intel利多加持。成交$847B。10日反彈+12.2%。季線穩固上方"},
+      {"title": "美股S&P歷史新高穩固：就業弱+AI確認+Iran deal=完美組合", "url": "https://stl.news/u-s-stock-market-today-friday-august-7-2026/", "source": "STL News", "desc": "S&P 7,754。4月以來最佳週。科技領漲Nasdaq +1.3%。所有headwind同時消退。8月continuation rally中"},
+      {"title": "殖利率下降趨勢確認：10年期從高位回落、科技股估值獲支撐", "url": "https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/", "source": "BNN Bloomberg", "desc": "弱就業→殖利率跌→折現率下降→成長股估值上升。對TSMC/NVIDIA等高PE科技股=直接利多。趨勢可能持續到9月Fed會議"}
+    ],
+    "crypto": [
+      {"title": "S&P新高+殖利率跌+美元弱：BTC面臨突破$68K的最佳環境", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "三重利多持續：①美股新高=risk on ②殖利率跌=美元弱 ③油$80以下=通膨降。BTC在此環境歷史上通常突破前高"},
+      {"title": "就業轉負→Fed不升息=2026全年流動性不收緊：加密結構性利多", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "非農-23,000確認Fed不會升息。意味著2026剩餘時間流動性環境不會惡化。對BTC/ETH等=長期支撐底部抬高"},
+      {"title": "全球risk-on持續：台股+12.2%/S&P新高/Dow連創歷史→加密跟進", "url": "https://focustaiwan.tw/business/202608100015", "source": "Focus Taiwan", "desc": "全球主要股市同步創新高或大幅反彈。風險偏好極高。加密作為「高beta risk asset」在此環境中通常表現優異"},
+      {"title": "TSMC+Intel協議對加密mining硬體的長期影響：更多先進製程選擇", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "TSMC+Intel合作=半導體供給擴張。長期：更多先進製程產能→ASIC mining晶片成本可能下降。利好PoW鏈mining效率"}
+    ],
+    "dev": [
+      {"title": "TSMC+Intel投資協議對開發者的意義：更多晶片製造選擇和供給", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "TSMC+Intel合作=先進製程產能擴張。對AI晶片/GPU供給=利多。開發者長期可預期更多算力可用、成本可能下降"},
+      {"title": "不升息確認=AI工具投資週期不受干擾：Azure/AWS/GCP穩定運營", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "Fed不升息=hyperscaler融資成本穩定=不需要因利率壓力調整定價。開發者可安心使用雲AI服務。長期規劃不受干擾"},
+      {"title": "就業轉負對開發者招聘市場：大廠穩定但中小型可能觀望", "url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html", "source": "CNBC", "desc": "就業弱但科技股估值升=矛盾。大型科技公司(MSFT/AMZN/META)仍在擴招AI人才。但中小型startup可能因經濟放緩而觀望"},
+      {"title": "Beast of Reincarnation第二週穩定性：Game Freak跨平台引擎經受考驗", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "PS5/Xbox/PC+Game Pass雲端。第二週無重大技術事故。Game Freak的3D動作引擎能力持續獲驗證。對開發者：引擎轉型可行"}
+    ],
+    "art": [
+      {"title": "台股從恐慌底部到接近新高的完整視覺弧線：40,039→44,929", "url": "https://taiwannews.com.tw/en/news/6418494", "source": "Taiwan News", "desc": "10個交易日+12.2%。從滿版紅色恐慌→接近新高的綠色期待。財經視覺敘事的完整循環。市場情緒的色彩表達"},
+      {"title": "Beast of Reincarnation第二週美術社群討論：末日日本風格的持久吸引力", "url": "https://www.invenglobal.com/lol/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4", "source": "Inven Global", "desc": "第二週後美術討論從「首印象」轉向「細節欣賞」。場景設計、角色動畫品質、特效表現持續被社群肯定"},
+      {"title": "TSMC品牌的全球擴張視覺：從台灣本土→美日歐全球佈局的品牌形象", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "TSMC+Intel合作=品牌從「台灣冠軍」→「全球半導體霸主」的進化。企業品牌視覺如何傳達「全球化」和「不可或缺」"},
+      {"title": "S&P歷史新高的持續性視覺設計：如何表達「穩定創新高」vs「一次性突破」", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987", "source": "Investing.com", "desc": "連續多日在歷史高位附近=「穩定」而非「衝高回落」。財經圖表如何用橫向延伸vs尖刺形態傳達不同意義"}
+    ],
+    "design": [
+      {"title": "台股「距歷史高僅400點」的預期管理設計：如何設定目標不引發追高", "url": "https://taiwannews.com.tw/en/news/6418494", "source": "Taiwan News", "desc": "「接近新高」=吸引但也危險。投資產品如何設計讓用戶理解「接近≠一定突破」？目標設定的UX心理學"},
+      {"title": "TSMC+Intel協議的複雜性傳達：如何將「MOU→正式協議→量產」簡化給大眾", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "半導體產業的時間軸(2026 MOU→2029量產)對一般投資人=太抽象。金融產品如何設計將多年計畫視覺化為可理解的進度條"},
+      {"title": "「壞消息=好消息」的反直覺設計持續：就業弱=股市漲的用戶教育", "url": "https://www.schwab.com/learn/story/stock-market-update-open", "source": "Schwab", "desc": "就業-23,000=「壞」但股市新高=「好」。連續第二週這種反直覺。金融教育產品如何設計讓用戶內化這個邏輯而非每次驚訝"},
+      {"title": "Beast of Reincarnation第二週UX觀察：首週鉤子→第二週深度的設計過渡", "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/", "source": "PC Gamer", "desc": "首週：教學+初期爽感(鉤子)。第二週：系統深度展開+挑戰升級。Game Freak如何設計讓玩家從「嘗試」轉為「投入」"}
+    ],
+    "business": [
+      {"title": "台股8/10暴漲703點收44,929：10日反彈+12.2%、距歷史高僅400點", "url": "https://focustaiwan.tw/business/202608100015", "source": "Focus Taiwan", "desc": "美就業轉負→不升息→全球科技漲。TSMC+Intel協議利多。盤中觸45,219。目標：挑戰7/15歷史高45,632"},
+      {"title": "TSMC+Intel從MOU走向正式投資協議：2029量產目標推進", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "Nikkei報導。5月MOU→現正式化。全球半導體供應鏈重組的重大一步。對台灣/美國/日本半導體生態系均為正面"},
+      {"title": "S&P歷史新高穩固+最佳週表現：8月continuation rally持續", "url": "https://stl.news/u-s-stock-market-today-friday-august-7-2026/", "source": "STL News", "desc": "4月來最佳週。AI恐慌消退+Iran deal+就業弱→不升息。所有headwind同時消退。市場進入「什麼都漲」模式"},
+      {"title": "全球市場2026年8月狀態：AI確認、地緣緩和、通膨降、不升息=歷史最佳組合", "url": "https://www.businessinsider.com/stock-market-today-record-high-dow-spx-ndx-iran-tech-2026-8", "source": "Business Insider", "desc": "所有利多同時到位。AI需求確認(MSFT Cloud+82%)。地緣緩和(Iran deal)。通膨降(油$80以下)。不升息(就業弱)。罕見的完美風暴"}
+    ],
+    "finance": [
+      {"title": "台股距歷史高僅400點(44,929 vs 45,632)：10日+12.2%的強勁反彈", "url": "https://taiwannews.com.tw/en/news/6418494", "source": "Taiwan News", "desc": "8/10盤中觸45,219(距高點僅413點)。外資回補+AI供應鏈基本面+殖利率下降=三重推力。本週可能挑戰歷史高"},
+      {"title": "殖利率下降趨勢=債券漲+科技股估值升：雙贏環境", "url": "https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/", "source": "BNN Bloomberg", "desc": "就業弱→殖利率跌。債券持有者獲利(價格漲)。科技股估值獲支撐(折現率降)。兩類資產同時受惠的罕見環境"},
+      {"title": "油價持續$80以下+就業弱：通膨時代結束的第三週確認", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-120529843.html", "source": "Yahoo Finance", "desc": "油$100(7月)→$80以下(8月)。就業從+到-。雙重確認通膨壓力結束。消費者+企業借貸成本不再上升。經濟軟著陸路徑"},
+      {"title": "TSMC+Intel協議=全球半導體供給擴張：長期利好整個AI生態系", "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-gaining-today-93CH-4847820", "source": "Investing.com", "desc": "更多先進製程產能→AI晶片不再短缺→成本下降→更多企業能用AI→AI adoption加速。正循環啟動"}
+    ]
+  }
+}
