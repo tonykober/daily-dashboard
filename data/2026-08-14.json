@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-14",
+  "categories": {
+    "ai": [
+      {"title": "Claude Code 今日起預設啟用 Auto Mode：Pro/Max/Team 使用者自動切換", "url": "https://claude.com/blog/auto-mode-default-in-claude-code", "source": "Anthropic", "desc": "8/14起新session預設auto mode，不再逐一確認tool call。背景classifier即時判斷哪些操作安全可執行。Enterprise/API仍opt-in"},
+      {"title": "Google Gemini 3.7 Flash 發布：程式碼生成大幅提升，價格砍半", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/", "source": "Google Blog", "desc": "8/13推出。FrontierCode 1.1表現43.6%(vs前代34.4%)。12月底前token價格減半。Google稱在商業workflow完成度超越Claude Sonnet 5和GPT-5.6 Terra"},
+      {"title": "Meta 發布 Muse Code 終端AI編程代理：多代理協作、完整可觀測性", "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2", "source": "Meta AI", "desc": "8/5推出beta。基於Muse Spark 1.2模型。可在大型repo規劃變更、撰寫程式碼、驗證結果。支援spawning多個子代理並行工作。macOS/Linux終端安裝"},
+      {"title": "加密思維鏈遭破解：研究者發現簡單攻擊可解密私有推理過程", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-august-11-2026/", "source": "The Neuron", "desc": "Anthropic/OpenAI/Google隱藏的加密CoT被意外簡單的方法破解。引發對AI安全性和知識產權保護的擔憂。模型推理透明度vs商業機密的矛盾加劇"}
+    ],
+    "gaming": [
+      {"title": "Madden NFL 27 全球上市：全新 Persona Engine 讓 Franchise 模式活起來", "url": "https://www.ea.com/news/madden-27-launch-ea-sports", "source": "EA Sports", "desc": "8/13全球發售。登陸PS5/Xbox/Switch 2/PC/Mobile/Apple Arcade。Persona Engine讓每個決策影響聯盟發展，球員個性更突出"},
+      {"title": "Hell Let Loose: Vietnam 正式發售：50v50硬核越戰射擊體驗", "url": "https://gamesbeat.com/hell-let-loose-vietnam-debuts-on-thursday-impressions/", "source": "GamesBeat", "desc": "8/13推出。Expression Games開發。承襲WWII版超$1億銷售的基礎。主打歷史擬真、大規模團隊配合。無英雄主義，每人只是團隊中的一兵"},
+      {"title": "Mortal Shell II 確認8/20全球發售：開放世界、8種Shell、60+地牢", "url": "https://www.ldshop.gg/blog/action-games/mortal-shell-ii-release-date.html", "source": "LD Shop", "desc": "Cold Symmetry大幅擴展。取消體力條、更快戰鬥。緊湊互聯的開放世界。Devout Edition可提前72小時(8/17)遊玩。PS5/Xbox/Steam"},
+      {"title": "Star Wars: Zero Company 8/27發售：XCOM式回合戰術遇上星戰宇宙", "url": "https://news.xbox.com/en-us/2026/08/11/star-wars-zero-company-preview/", "source": "Xbox News", "desc": "EA確認8/27全球同步發售。回合制戰術遊戲。Xbox Series X|S/PS5/PC。Gamescom前最受矚目的策略遊戲新作"}
+    ],
+    "tech": [
+      {"title": "Google 發表 Pixel 11 系列：Tensor G6 晶片、相機大升級、40%更薄相機模組", "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/", "source": "Google Blog", "desc": "8/12紐約發表。Pro版新5x 48MP長焦多30%進光量。Camera Bar薄40%。Super Actua螢幕亮度達3,600nits。抗刮塗層提升2倍。8/20開賣"},
+      {"title": "鴻海Q2獲利創同期新高：淨利600億台幣(+35%)，AI伺服器營收首度超過50%", "url": "https://focustaiwan.tw/business/202608120018", "source": "Focus Taiwan", "desc": "雲端網路產品事業群(含AI伺服器)首度佔營收51%。智慧消費電子(含iPhone)降至29%。2026年資本支出預計年增30%聚焦AI擴產"},
+      {"title": "Google Gemini 3.7 Flash 以半價搶攻開發者市場：宣稱coding超越Claude/GPT", "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/", "source": "SiliconAngle", "desc": "上代推出僅3週就迭代。9項benchmark稱超越Anthropic和OpenAI同級模型。12月底前半價推廣。鎖定AI agent專案和軟體工程任務"},
+      {"title": "Pixel 11 Pro 相機評測：新主鏡48MP 1/1.56吋感光元件帶來質的飛躍", "url": "https://www.dpreview.com/news/google-pixel-11-pro-announcement-camera-improvements/", "source": "DPReview", "desc": "主鏡從Pixel 10的縮小感光元件回歸大型48MP感測器。5x長焦也換新1/1.95吋感光元件。120x AI超級變焦。相機硬體終於追上計算攝影實力"}
+    ],
+    "crypto": [
+      {"title": "SEC/CFTC聯合五分類框架出爐：數位商品/收藏品/工具/穩定幣/證券", "url": "https://cryptonews.com/news/crypto-regulation-clarity-act-sec-cftc-framework/", "source": "CryptoNews", "desc": "不等國會CLARITY Act，監管機構自行建立管轄權劃分。給交易所和發行方一個可操作的地圖。但屬解釋而非法規，法律效力有限"},
+      {"title": "Kalshi 獲准推出美國首個受監管的BTC永續期貨合約", "url": "https://defirate.com/news/kalshi-wins-cftc-approval-first-us-regulated-bitcoin-perps-opens-waitlist/", "source": "DeFi Rate", "desc": "CFTC核准。Kalshi從預測市場跨入衍生品。美國首個受監管的BTC perp futures。已開放候補名單。DeFi結構逐漸被傳統金融吸收"},
+      {"title": "CLARITY Act 推遲至9月投票：加密市場結構法案本會期通過希望減退", "url": "https://bitcoinfoundation.org/news/regulation/congress-crypto-bill-delay-clarity-act-vote-pushed-to-september-as-2026-passage-hopes-fade/", "source": "Bitcoin Foundation", "desc": "參議院多數黨領袖Thune設定9/15程序投票。原定暑休前通過計畫落空。SEC趁空窗自行推進替代路徑。8/14開會討論加密註冊替代方案"},
+      {"title": "BTC持續在$63,200-64,500區間盤整：CPI利好未能突破，量能萎縮", "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-august-13-2026", "source": "KuCoin", "desc": "CPI公布後短暫觸及$64,500隨即回落。交易量持續收縮。低波動盤整格局。等待新催化劑。ETH約$1,877-1,915同步低迷"}
+    ],
+    "dev": [
+      {"title": "Claude Code Auto Mode 今日預設啟用：開發者工作流程大轉變", "url": "https://www.vibecodingacademy.ai/blog/is-claude-code-auto-mode-safe", "source": "Vibe Coding Academy", "desc": "8/14起Pro/Max/Team預設auto mode。classifier即時判斷安全性。89%操作可自動執行(vs舊版僅14%手動確認)。Enterprise仍opt-in。安全性分析"},
+      {"title": "Meta Muse Code：多代理AI編程工具進入終端，挑戰Claude Code生態", "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/", "source": "TechCrunch", "desc": "基於Muse Spark 1.2。支援persistent subagents並行處理。完整event log可觀測性。macOS/Linux。定價$1.25/1M input tokens。若允許Meta訓練可享20x折扣"},
+      {"title": "Stack Overflow 2026調查：開發者花更多時間review AI程式碼(11.4小時)而非寫新碼(9.8小時)", "url": "https://www.ibtimes.sg/developers-now-spend-more-time-reviewing-ai-code-writing-it-survey-finds-91734", "source": "IBTimes", "desc": "兩年前writing仍佔大宗。現在review/validate/integrate成為核心。軟體工程師角色從「寫每一行」轉向「評估生成內容」。職業重心根本性轉移"},
+      {"title": "TIOBE 8月指數：Java逼近C++、Rust穩守第10、MATLAB跌出前20", "url": "https://www.techrepublic.com/article/news-tiobe-august-2026-java-nears-c-plus-plus/", "source": "TechRepublic", "desc": "前10名排序不變但差距縮小。Java持續回升接近C++。Rust維持第10穩固地位。MATLAB十年來首度跌出前20。Python仍居第2"}
+    ],
+    "art": [
+      {"title": "Art Basel 2026 數位平台 Zero 10 歐洲首秀：AI生成藝術到沉浸式裝置", "url": "https://www.financialexpress.com/life/technology/moving-images-from-ai-generated-masterpieces-to-immersive-installationsnbsp/4313699/", "source": "Financial Express", "desc": "繼邁阿密和香港後首度在歐洲亮相。展示數位藝術日益增長的重要性。AI生成傑作與沉浸式裝置並列。當代藝術博覽會擁抱科技創作"},
+      {"title": "Pixel 11 設計語言：40%更薄Camera Bar開創手機工業設計新美學", "url": "https://petapixel.com/2026/08/12/googles-redesigned-pixel-11-phones-features-major-camera-upgrades/", "source": "PetaPixel", "desc": "全玻璃Camera Bar大幅變薄。satin metal框架。拋光玻璃背板。4色(Pistachio/Hibiscus/Frost/Obsidian)。實用性與美感兼顧的產品設計標竿"},
+      {"title": "2026設計趨勢「Imperfect by Design」：手工質感反擊AI合成完美", "url": "https://www.canva.com/newsroom/news/design-trends-2026/", "source": "Canva", "desc": "Canva年度趨勢報告。AI能秒生完美視覺→設計師反向擁抱不完美、手做紋理、人性優先美學。想像力主導，好奇心擴展，AI被彎曲至個人風格"},
+      {"title": "2026八月藝術設計趨勢：小空間/離網/傳承工藝定義本季美學", "url": "https://www.trendhunter.com/slideshow/august-2026-art-and-design", "source": "Trend Hunter", "desc": "小型住宅設計、製錶工藝、沉浸式旅宿概念。吸引設計意識消費者。compactness與heritage-inspired設計成為2026夏末主旋律"}
+    ],
+    "design": [
+      {"title": "Pixel 11 Pro 產品設計解析：更薄模組、霧面金屬、人機互動新思路", "url": "https://www.phonearena.com/google-pixel-11-pro-release-date-price-specs-features-news", "source": "Phone Arena", "desc": "8/12發表。Camera Bar薄40%配殼後幾乎消失。Super Actua 3,600nits。抗刮2倍。4色選擇。$100漲價歸咎於記憶體供應鏈。設計語言兼顧Pro感與親和力"},
+      {"title": "Designer Fund「AI in Design 2026」報告：900+設計師調查顯示拐點已到", "url": "https://designerfund.com/blog/ai-in-design-2026", "source": "Designer Fund", "desc": "60+國家900+設計師+25深度訪談。Anthropic/Framer/Linear/Notion/Shopify/Sierra/Stripe案例。AI工具從實驗品變為設計流程核心。拐點確認"},
+      {"title": "Adobe 2026創意趨勢：多感官體驗、情感連結、文化真實性定義新視覺語言", "url": "https://business.adobe.com/resources/creative-trends-report.html", "source": "Adobe", "desc": "年度報告。創意面臨完美風暴：內容需求飆升/資源減少/AI崛起。沉浸式視覺突破邊界。真實性和人性連結重要性超越技術完美"},
+      {"title": "12大2026平面設計趨勢：AI成為探索工具而非執行工具", "url": "https://digitalsynopsis.com/design/graphic-design-trends-2026/", "source": "Digital Synopsis", "desc": "AI角色成熟為「生成協作者」。最佳作品用AI浮現意外形式/構圖/紋理，再由人類判斷精煉。從shortcuts走向exploration的範式轉移"}
+    ],
+    "business": [
+      {"title": "S&P 500 創歷史新高收盤：PPI溫和+油價下跌支撐Fed不升息預期", "url": "https://www.bnnbloomberg.ca/markets/2026/08/13/global-shares-mostly-rise-after-buying-of-ai-related-shares-and-oil-prices-fall/", "source": "BNN Bloomberg", "desc": "8/13美股創紀錄。PPI數據溫和確認通膨降溫。油價持續回落提供額外支撐。市場確信9月Fed不升息"},
+      {"title": "鴻海Q2淨利年增35%至600億台幣：AI伺服器營收首超50%、2026資本支出增30%", "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-35-rise-062345360.html", "source": "Yahoo Finance", "desc": "AI伺服器業務佔營收51%歷史首次超越消費電子(29%)。CEO指CoWoS封裝為2027 AI伺服器產能天花板。全球研發與美國產能擴張加速"},
+      {"title": "Stripe 洽談收購 OpenRouter：估值約$100億、從$13億五月估值暴增", "url": "https://aiweekly.co/alerts/stripe-in-talks-to-buy-ai-marketplace-openrouter-for-10b", "source": "AI Weekly", "desc": "WSJ報導。OpenRouter聚合60+供應商300+模型。年化營收$5,000萬。Stripe佈局AI支付基礎設施。tokens正在表現得像貨幣"},
+      {"title": "美國CPI降至3.4%(前值3.5%)、PPI溫和：通膨降溫趨勢確認", "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--13-august-2026-13082026", "source": "Saxo Markets", "desc": "7月CPI月增0.1%。Core CPI年率2.5%(前2.6%)。能源壓力緩解。住房和食品各+0.1%。支持Fed維持利率不變的決策"}
+    ],
+    "finance": [
+      {"title": "S&P 500 收盤歷史新高：通膨降溫確認Fed 9月不升息", "url": "https://spectrumlocalnews.com/us/snplus/business/2026/08/13/stock-market-august-13-2026", "source": "Spectrum News", "desc": "8/13收盤7,748+。SanDisk等科技權值帶動。PPI溫和數據為9月利率決策定調。油價下跌提供額外通膨降溫證據"},
+      {"title": "全球市場概覽8/13：黃金$4,414、10年期殖利率4.701%、VIX下跌4.78%", "url": "https://www.riotimesonline.com/global-economy-briefing-august-13-2026/", "source": "Rio Times Online", "desc": "黃金續創高。美債殖利率穩定偏低。VIX恐慌指數下降顯示市場風險偏好升溫。全球資金持續流向風險資產"},
+      {"title": "美國CPI 3.4% vs 前期3.5%：通膨放緩趨勢延續、油價回落為主因", "url": "https://www.babypips.com/news/financial-forex-market-recap-2026-08-13", "source": "BabyPips", "desc": "PPI溫和強化Fed不升息預期。美元走弱。油價在Hormuz海峽情勢反覆中走低。債券市場已完全定價9月按兵不動"},
+      {"title": "鴻海AI伺服器營收首度佔比過半：半導體供應鏈AI轉型指標", "url": "https://www.straitstimes.com/business/taiwans-foxconn-reports-35-per-cent-rise-in-q2-profit-on-ai-demand-beats-forecasts", "source": "Straits Times", "desc": "Q2淨利NT$600億超預期。AI伺服器>50%營收=業務結構質變。iPhone代工降至29%。產業從消費電子製造商轉型為AI基礎設施供應商"}
+    ]
+  }
+}
