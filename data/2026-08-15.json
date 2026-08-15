@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-15",
+  "categories": {
+    "ai": [
+      {"title": "OpenAI 年化營收突破$400億：月收入7月增長逾20%、IPO加速準備", "url": "https://walletinvestor.com/news/ai-news/openai-hits-40-billion-revenue-run-rate-as-executives-depart-and-ipo-prep-accelerates/", "source": "WalletInvestor", "desc": "Bloomberg報導。較2025年底翻倍。ChatGPT訂閱+AI coding工具+新興廣告業務三管齊下。營收長同時CRO離職。IPO前最後衝刺"},
+      {"title": "SpaceXAI 完成$600億收購Cursor：史上最大新創併購案正式生效", "url": "https://www.vktr.com/ai-market/spacex-completes-60-billion-cursor-acquisition/", "source": "VKTR", "desc": "SEC備案確認8/14完成。Cursor年營收已超$30億、估值從$293億暴升。Morgan Stanley預計可為SpaceX帶來2027年$130億額外營收。全股票交易"},
+      {"title": "Apple 自訓中國市場AI模型：阿里巴巴協助、成首家獲准在華部署自有模型的外企", "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/", "source": "MacRumors", "desc": "Reuters獨家。Apple Intelligence將隨iOS更新在中國上線。北京批准=重大里程碑。阿里Qwen也將整合進Apple Intelligence中國版"},
+      {"title": "Claude 已撰寫 Anthropic 超過80%合併程式碼：工程師每日merge量為2024年的8倍", "url": "https://quasa.io/media/anthropic-co-founder-reveals-70-90-of-company-code-is-written-by-claude", "source": "Quasa", "desc": "Anthropic Institute內部工程數據分析。2026年Q2數據。同時警告：代碼量高估了真實生產力提升。人類review成為新瓶頸"},
+      {"title": "美政府要求OpenAI延遲GPT-5.6公開發布：改採政府審查後限量釋出", "url": "https://quasa.io/media/us-government-urges-openai-to-stagger-gpt-5-6-release-over-cybersecurity-concerns", "source": "Quasa", "desc": "The Information報導。川普政府以網路安全為由要求分階段釋出。GPT-5.6-Cyber已於8/10先供政府使用。開放發布時間未定"}
+    ],
+    "gaming": [
+      {"title": "本週遊戲推薦：Agent 64、Wild Blue Skies、Duskfade—致敬經典的獨立新作", "url": "https://gameinformer.com/opinion/2026/08/14/the-video-games-and-more-you-should-play-this-weekend-august-14-2026", "source": "Game Informer", "desc": "Agent 64致敬GoldenEye/Perfect Dark。Wild Blue Skies致敬Star Fox 64。Duskfade有原版Kingdom Hearts風格。加上Madden和Mario持續熱門"},
+      {"title": "本週遊戲回顧：CoD MW4 campaign預告、1666: Amsterdam揭露、多款新作上線", "url": "https://aggrogamer.com/article/12951/This-Week-In-Video-Games-81026--81426", "source": "AggroGamer", "desc": "8/10-14週報。Call of Duty: Modern Warfare 4新campaign預告。1666: Amsterdam公布。Hell Let Loose: Vietnam和Madden本週發售熱度延續"},
+      {"title": "Pokémon Pokopia 全球突破500萬套銷量、首個付費DLC已上線", "url": "https://game8.co/articles/latest", "source": "Game8", "desc": "上市數月即達500萬里程碑。首個DLC章節正式推出。寶可夢系列持續證明IP號召力。Switch 2旗艦作品地位穩固"},
+      {"title": "八月遊戲大爆發：Beast of Reincarnation、Marvel Tōkon到Mortal Shell II一路接力", "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-august-2026/", "source": "GameSpot", "desc": "2026八月回顧。Game Freak新IP開路、Arc System Works格鬥、Cold Symmetry魂系、EA戰術星戰。下週Mortal Shell II (8/20)、月底Star Wars Zero Company (8/27)"}
+    ],
+    "tech": [
+      {"title": "Google確認Tensor G6採用TSMC改良3nm製程（非傳聞中的2nm）", "url": "https://www.gadgets360.com/mobiles/news/google-pixel-11-tensor-g6-chipset-3nm-tsmc-process-report-11908942", "source": "Gadgets360", "desc": "Google硬體副總裁彭宇淳向CNA確認。此前廣泛推測將是TSMC首款2nm處理器。實際為增強版3nm。驅動Pixel 11全系列和Pro Fold"},
+      {"title": "TSMC CoWoS封裝良率突破98%：AI晶片製造瓶頸持續突破", "url": "https://wccftech.com/tsmc-exec-makes-big-announcement-confirms-98-yield-for-cowos-packaged-ai-chips/", "source": "WCCFTech", "desc": "TSMC先進封裝VP何春確認。5.5 reticle CoWoS已量產。規劃14 reticle版本可整合約10顆大型運算die+20組HBM。AI晶片供給瓶頸快速解除"},
+      {"title": "Sony/TSMC簽署$47億合資協議：熊本建次世代手機影像感測器廠(2029量產)", "url": "https://pr.tsmc.com/english/news/3333", "source": "TSMC", "desc": "8/11簽署正式協議。Sony出資4,650億日圓+資產移轉、TSMC出資2,820億日圓。設於熊本合志市。Advanced Vision Semiconductor Manufacturing Corp"},
+      {"title": "Nvidia Feynman 世代加速布局2028下半年：TSMC訂單鏈再掀新一波", "url": "https://www.digitimes.com/topic/semiconductors/", "source": "DIGITIMES", "desc": "即使Vera Rubin正在量產ramp up，Nvidia已在對齊Feynman供應鏈。將推動TSMC和全球設備材料鏈的又一波升級訂單"}
+    ],
+    "crypto": [
+      {"title": "SEC 突然取消8/14 Reg Crypto會議：加密監管希望受挫、無新日期", "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date", "source": "CoinDesk", "desc": "原定投票新創加密募資規則。8/13晚間發聲明取消(稱「不可預見排程問題」)。Reg Crypto本可建立不需完整證券註冊的加密發行途徑"},
+      {"title": "BTC跌破$63,000：SEC取消會議+零售銷售暴跌雙重打擊", "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-regulatory-hopes-dashed-152533318.html", "source": "Yahoo Finance", "desc": "監管希望落空+消費數據疲弱=雙重壓力。BTC從$63,700跌破$63K。市場情緒轉為觀望。CFTC 8/20會議成為下一個催化劑"},
+      {"title": "Tokenization概念股集體下跌：Bullish/Coinbase/Circle受SEC延遲影響", "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push", "source": "CoinDesk", "desc": "SEC同時延遲tokenized證券「創新豁免」。華爾街和白宮有顧慮。Bullish/Figure/Coinbase/Circle股價下跌。加密進入華爾街的速度放緩"},
+      {"title": "CFTC 8/20將開會討論加密創新：接棒SEC成為近期監管主導力量", "url": "https://www.techtimes.com/articles/324492/20260814/sec-cancels-reg-crypto-vote-cftc-steps-power-over-digital-assets-shifts.htm", "source": "TechTimes", "desc": "SEC退縮之際CFTC主動補位。已核准首個受監管BTC永續期貨(Kalshi)。8/20會議聚焦加密創新。監管權力從SEC向CFTC傾斜的趨勢明確"}
+    ],
+    "dev": [
+      {"title": "SpaceXAI完成$600億Cursor收購：AI coding工具格局劇變", "url": "https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/", "source": "9to5Mac", "desc": "8/14正式完成。Cursor已有$30億ARR。將與Grok Bot和Grok 4.6整合。開發者生態從獨立工具走向巨頭平台化。Claude Code/Meta Muse Code的最大競爭對手易主"},
+      {"title": "Claude寫了Anthropic 80%以上程式碼：工程師merge效率8倍提升但review成瓶頸", "url": "https://quasa.io/media/anthropic-co-founder-reveals-70-90-of-company-code-is-written-by-claude", "source": "Quasa", "desc": "內部Q2數據。代碼量≠真實生產力(Anthropic自己承認)。人類review成為新bottleneck。「AI寫AI」正式進入主流工程實踐"},
+      {"title": "Claude Code Auto Mode正式生效：89%操作自動執行、開發者工作流程重塑", "url": "https://tech-insider.org/ie/claude-code-auto-mode-default-2026/", "source": "Tech Insider", "desc": "8/14起Pro/Max/Team新session預設auto mode。背景classifier判斷安全性。僅「不可逆、破壞性、或超出環境範圍」的操作才需確認。Enterprise仍opt-in"},
+      {"title": "GLM-5.3發布：743B參數、CyberGym和AutomationBench領先、開源權重分階段釋出", "url": "https://explainx.ai/blog/glm-5-3-launch-cyber-defense-benchmarks-august-2026", "source": "ExplainX", "desc": "Z.ai 8/14推出。基於743B參數基礎模型post-training。網路安全和自動化benchmark領先。開放權重將分階段提供。定價和完整benchmark已公布"}
+    ],
+    "art": [
+      {"title": "Pixel 11 Pro HiLight LED設計：手機背面指示燈的回歸與重新詮釋", "url": "https://www.androidcentral.com/phones/google-pixel-11", "source": "Android Central", "desc": "Pro系列背面新增HiLight LED。結合更薄全玻璃Camera Bar和光亮金屬框架。Google讓Pixel看起來「閃亮華麗」。功能性光源變成設計語彙"},
+      {"title": "Pixel 11四色美學：Pistachio/Hibiscus活潑+Frost/Obsidian優雅的雙軌策略", "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/", "source": "Google Blog", "desc": "兩款活力色(開心果綠/芙蓉紅)+兩款中性色(霜白/曜石黑)。satin metal框架+拋光玻璃背板。用色彩區分消費者族群的產品設計策略"},
+      {"title": "Art Basel 2026 Zero 10數位平台：AI藝術與沉浸式裝置的當代藝術定位", "url": "https://www.financialexpress.com/life/technology/moving-images-from-ai-generated-masterpieces-to-immersive-installationsnbsp/4313699/", "source": "Financial Express", "desc": "繼邁阿密和香港後歐洲首秀。數位藝術在頂級當代藝術博覽會中的重要性持續增長。AI生成作品與沉浸式體驗並列展出"},
+      {"title": "2026設計趨勢：不完美反擊—手工質感、人性優先美學對抗AI合成完美", "url": "https://www.canva.com/newsroom/news/design-trends-2026/", "source": "Canva", "desc": "Canva年度報告。AI能秒生完美圖像→設計師反向擁抱不完美。想像力主導、好奇心擴展、AI被彎曲至個人風格。「Year of Imperfect by Design」"}
+    ],
+    "design": [
+      {"title": "Pixel 11系列設計全解析：Camera Bar薄40%、前邊框更窄、整體更精煉", "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/", "source": "TechCrunch", "desc": "全新全玻璃Camera Bar橫跨機身寬度。Pro版Super Actua 3,600nits。抗刮塗層提升2倍。Pixel Watch 5和Pixel Tag(AirTag對手)同步發表"},
+      {"title": "分析師：Google Pixel 11正逐步逼近Samsung/Apple的旗艦地位", "url": "https://futurumgroup.com/insights/can-googles-pixel-11-series-redefine-the-smartphone-experience/", "source": "Futurum Group", "desc": "Pixel 9→10→11連續三代穩定進化。效能提升+設計精煉。Google正在縮小與Samsung和Apple的產品感知差距。品牌認知從「Google手機」升級為「旗艦」"},
+      {"title": "Made by Google 2026發表會產品設計：Pixel Tag追蹤器與生態系擴展", "url": "https://www.digitaltrends.com/computing/everything-announced-at-made-by-google-2026-pixel-11-lineup-pixel-watch-5-and-pixel-tag/", "source": "Digital Trends", "desc": "Pixel 11全系+Pixel Watch 5+Pixel Tag。生態系產品語言統一。起價$899(全線漲$100歸咎記憶體供應鏈)。8/20開賣"},
+      {"title": "Adobe 2026創意趨勢報告：多感官、情感、文化真實性定義新設計語言", "url": "https://business.adobe.com/resources/creative-trends-report.html", "source": "Adobe", "desc": "年度報告。內容需求飆升+資源減少+AI崛起的完美風暴。沉浸式視覺突破邊界。從spark到impact的路徑完全改變。人性連結重於技術完美"}
+    ],
+    "business": [
+      {"title": "S&P 500週五微跌0.2%但仍收穫三週連漲：零售銷售暴跌抑制漲勢", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html", "source": "Yahoo Finance", "desc": "S&P收7,786(-0.17%)。8/14曾觸歷史高7,800。週線仍為正。零售銷售-0.6%+消費者信心暴跌8%=消費轉弱信號。但整體多頭格局未改"},
+      {"title": "SpaceX完成史上最大新創併購：$600億全股票收購Cursor", "url": "https://pitchbook.com/news/articles/2-charts-spacex-closes-60b-acquisition-of-cursor", "source": "PitchBook", "desc": "8/14正式完成。Cursor(Anysphere)從$13億(2025/5)到$293億再到$600億收購價。SpaceXAI整合Grok生態系。Morgan Stanley目標$300"},
+      {"title": "OpenAI年化營收跑步破$400億：較2025年底翻倍、CRO離職引關注", "url": "https://startupfortune.com/openais-revenue-run-rate-tops-40-billion-just-months-after-doubling/", "source": "Startup Fortune", "desc": "Bloomberg報導。7月月收入增長20%+。ChatGPT訂閱為基礎+coding工具+廣告新業務。高管離職潮中仍在加速增長。Anthropic已在5月報$470億"},
+      {"title": "美國零售銷售7月暴跌0.6%：超過一年最大跌幅、消費者信心同步崩跌", "url": "https://www.pbs.org/newshour/economy/u-s-retail-sales-unexpectedly-post-largest-drop-in-more-than-a-year", "source": "PBS", "desc": "商務部8/14公布。預期小幅增長結果大跌。密西根消費者信心8月暴跌8%。伊朗戰爭影響+退稅效應消退。經濟學家下調Q3成長預估"}
+    ],
+    "finance": [
+      {"title": "美國零售銷售-0.6%+消費者信心跌8%：經濟放緩信號加強但Fed不升息", "url": "https://finance.yahoo.com/economy/articles/us-retail-sales-weakest-over-133017202.html", "source": "Yahoo Finance", "desc": "7月零售跌0.6%(2025/5以來最差)。密西根信心指數結束兩個月回升。消費者因中東戰爭+生活成本擔憂縮減開支。通膨預期上升"},
+      {"title": "S&P 500收盤三週連漲：8/14歷史高7,800後週五微幅回落", "url": "https://www.seattletimes.com/business/how-major-us-stock-indexes-fared-friday-8-14-2026/", "source": "Seattle Times", "desc": "S&P -0.2%收7,786。Dow -0.2%收53,732。Nasdaq -0.3%收26,729。弱消費數據暫停漲勢但未改變趨勢。PPI平坦確認Fed不升息"},
+      {"title": "PPI持平(0.0% MoM)：最終需求年率從5.5%降至4.7%、通膨確認放緩", "url": "https://www.home.saxo/content/articles/macro/market-quick-take---new-sp-500-all-time-high---14-august-2026-14082026", "source": "Saxo Markets", "desc": "生產者物價月增0.0%(預期+0.2%)。Core PPI+0.2%(預期+0.3%)。年率4.7%(前5.5%大幅下降)。強化9月不升息預期。利好債券和成長股"},
+      {"title": "Broadcom跌6%領跌科技：消費數據疲弱引發半導體需求擔憂", "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-today-aug-14-stocks-slip-as-consumer-data-disappoints-broadcom-falls-6/", "source": "Motley Fool", "desc": "零售暴跌引發連鎖反應。Broadcom-6%帶動半導體板塊走弱。消費轉弱→企業IT支出疑慮→半導體估值承壓。但結構性AI需求論述未被動搖"}
+    ]
+  }
+}
