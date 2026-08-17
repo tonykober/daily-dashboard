@@ -182,5 +182,61 @@
       }
     ],
     "summary": "台股8/12收45,518距歷史高-5.6%。半導體反彈強勁(20年最佳8月)。TSMC基本面極強(Q2 EPS$27.25、7月營收+44.7%)。美股S&P三週連漲但消費數據惡化(零售-0.6%)。油價逼近$100(Hormuz封鎖)推升通膨擔憂。Fed不升息確認利好債券ETF。本週策略：持有為主，半導體類短線漲多不追高，債券ETF可加碼，等指數/個股回測季線時加碼核心持倉(0050/006208)。主動型ETF(00981A/00982A)折價較大有吸引力。"
+  },
+  "categories": {
+    "ai": [
+      {"title": "Stripe確定以$70億+收購OpenRouter：AI模型路由成為支付基礎設施", "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/", "source": "TechCrunch", "desc": "Bloomberg 8/16報導確認。OpenRouter路由400+模型(OpenAI/Anthropic/Google/Meta/DeepSeek)。從5月$13億估值→$70億+收購價。Stripe將坐擁AI消費的「收費站」"},
+      {"title": "EU AI Act Article 50生效+Anthropic全球啟用Claude浮水印(SynthID技術)", "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/", "source": "TechCrunch", "desc": "8/2起生效。不合規罰€1,500萬或全球營收3%。Anthropic採用Google DeepMind的SynthID-Text。全球適用(非僅EU)。將推出watermark偵測API"},
+      {"title": "OpenAI解散Preparedness團隊：評估模型風險的核心部門被拆分", "url": "https://the-decoder.com/artificial-intelligence-news/ai-practice/", "source": "The Decoder", "desc": "FT報導。Preparedness團隊7月底被關閉。負責評估AI模型是否構成「嚴重或災難性風險」。生物和網路風險工作分散到其他團隊。安全承諾質疑加深"},
+      {"title": "國會民主黨正式致函Anthropic/OpenAI要求說明AI失控事件", "url": "https://www.yahoo.com/news/politics/articles/house-democrats-press-anthropic-openai-222120564.html", "source": "Yahoo News", "desc": "29位眾議員致函OpenAI(Casar/Matsui主導)、22位致函Anthropic。要求交出測試日誌、解釋安全協議失效原因。視為國家安全等級問題而非實驗室好奇"}
+    ],
+    "gaming": [
+      {"title": "Mortal Shell 2 Devout Edition今日搶先上線+評論解禁：玩家期待爆棚", "url": "https://gamerant.com/mortal-shell-2-release-time-date-pdt-edt/", "source": "Game Rant", "desc": "8/17 UTC 13:00(ET 9AM)開放。比正式發售(8/20)提前72小時。評論禁令同步解除。beta破百萬下載+「GOAT魂系」好評延續。PS5/Xbox/Steam"},
+      {"title": "STALKER 2 Update 2.0「Back to the Zone」8/20推出：UE5.5.4引擎大翻新", "url": "https://www.gematsu.com/2026/08/stalker-2-heart-of-chornobyl-version-2-0-update-detailed", "source": "Gematsu", "desc": "GSC Game World公布細節。免費更新+同日推出Cost of Hope DLC。引擎升級UE5.5.4。光照/陰影/反射全面強化。AI行為更智慧。新增4武器+3望遠鏡"},
+      {"title": "本週遊戲密集發售8/17-20：Black Flower/Sinking City 2/STALKER 2 DLC/Mortal Shell 2", "url": "https://jeu.video/en/article/next-week-on-xbox-august-2026-releases", "source": "Jeu.Video", "desc": "8/17 Black Flower+Mortal Shell 2搶先。8/18 Backyard Baseball+Sinking City 2。8/19 Arcade Archives。8/20 STALKER 2 Update+DLC+Mortal Shell 2正式+Berry Bury Berry"},
+      {"title": "Mortal Shell 2美術與設計全面進化：視覺清晰度+動畫流暢度大幅提升", "url": "https://gamingbolt.com/mortal-shell-2-everything-thats-changing-from-the-original", "source": "GamingBolt", "desc": "相較前作幾乎面目全非。更乾淨的動態、更明確的打擊回饋。暗黑調性保持但不再妨礙戰鬥可讀性。8種Shell各有獨特玩法。60+地牢"}
+    ],
+    "tech": [
+      {"title": "Stripe確定收購OpenRouter($7B+)：AI模型路由將成支付基礎設施核心", "url": "https://siliconangle.com/2026/08/16/stripe-reportedly-finalizes-deal-buy-ai-model-router-openrouter-7b/", "source": "SiliconAngle", "desc": "OpenRouter=開發者進入400+AI模型的單一入口。Stripe將控制每次模型呼叫=可計費事件。AI消費的「收費站」。Sessions 2026同步推288新產品"},
+      {"title": "STALKER 2升級UE5.5.4引擎：環境呈現全面重製、AI行為系統革新", "url": "https://onmsft.com/news/stalker-2-update-2-0-launches-august-20-with-new-weapons-and-major-visual-upgrades/", "source": "OnMSFT", "desc": "8/20免費更新。引擎從舊版升級至UE5.5.4。建築內外光照、地下碉堡氛圍全面重製。A-Life AI系統更動態。PC/Xbox/PS5同步"},
+      {"title": "Anthropic Claude浮水印技術全球部署：SynthID-Text不可見標記+C2PA簽名", "url": "https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/", "source": "Search Engine Journal", "desc": "8/2起所有新Claude模型。文字用SynthID不可見浮水印。圖片/檔案用C2PA開放標準。全球適用(非僅EU)。190組織簽署透明度準則"},
+      {"title": "Stripe Sessions 2026推288新產品：Link wallets for agents讓AI代理代付", "url": "https://www.ainvest.com/news/stripe-openrouter-deal-agentic-economy-real-infrastructure-transition-2608/", "source": "AInvest", "desc": "AI agent經濟基礎設施為核心論述。消費者可授權AI agent使用一次性卡片代為支付。從「人用支付」走向「AI agent用支付」的典範轉移"}
+    ],
+    "crypto": [
+      {"title": "BTC週跌2.85%至$62,900：從$65K回落、週末薄量持續盤整", "url": "https://www.kucoin.com/news/flash/bitcoin-holds-near-62-900-amid-quiet-weekend-market-session", "source": "KuCoin", "desc": "週初$65,100→週高$65,180→清算跌至$62,470→回穩$62,900。交易量顯著低於工作日。ETH~$1,878。年初至今BTC -27%、ETH -37%"},
+      {"title": "加密市場與油價/金屬脫鉤：Brent+7%但BTC下跌，SEC延遲是主因", "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-august-17-21-2026-1786909662", "source": "TalkMarkets", "desc": "本週預測。油價因Hormuz暴漲但加密反向。原因：①SEC Reg Crypto延遲 ②薄流動性 ③機構買盤減弱。下週關注CFTC 8/20會議"},
+      {"title": "LINK和WLFI逆勢雙位數上漲：市場下跌中的例外表現", "url": "https://news.bitcoin.com/market-updates/crypto-weekly-link-and-wlfi-post-double-digit-gains-amid-market-drop/", "source": "Bitcoin.com", "desc": "Chainlink(LINK)+10%+。WLFI雙位數漲。加密整體市值$2.16T(+0.17%)。在大盤弱勢中，特定項目因基本面突破表現亮眼"},
+      {"title": "Jim Cramer賣出BTC稱量子威脅：分析師反駁為時過早", "url": "https://www.fool.com/investing/2026/08/15/jim-cramer-is-selling-his-bitcoin-citing-the-quant/", "source": "Motley Fool", "desc": "Cramer引用量子計算對BTC加密的潛在威脅。分析師認為實際威脅仍需數年。全球1/3 BTC可能「有風險」的說法被視為過度恐慌"}
+    ],
+    "dev": [
+      {"title": "Stripe收購OpenRouter=AI agent經濟基建成形：開發者的新支付入口", "url": "https://aiweekly.co/alerts/stripe-finalizes-reported-7b-buy-of-ai-gateway-openrouter", "source": "AI Weekly", "desc": "OpenRouter路由400+模型。收購後=Stripe控制開發者與AI labs之間的金流。如同Stripe在商家與消費者間的定位。AI agent payments成為新垂直"},
+      {"title": "Stripe Sessions 2026：288新產品圍繞AI agent基建，Link wallets讓AI代理付款", "url": "https://www.ainvest.com/news/stripe-openrouter-deal-agentic-economy-real-infrastructure-transition-2608/", "source": "AInvest", "desc": "開發者現在可以建構讓AI agent替消費者付款的系統。一次性卡片+授權機制。從vibe coding到agent commerce的技術棧正在成形"},
+      {"title": "Anthropic Claude浮水印偵測API即將推出：開發者可驗證AI生成內容", "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/", "source": "TechCrunch", "desc": "基於SynthID-Text。將提供API讓開發者偵測Claude生成的文字。對內容審核、學術誠信、新聞驗證等場景有直接應用。EU合規需求推動"},
+      {"title": "STALKER 2 Update 2.0展示UE5.5.4升級成果：遊戲引擎技術新標竿", "url": "https://windowsforum.com/windows-news.4/s-t-a-l-k-e-r-2-update-2-0-adds-ue-5-5-4-on-august-20.442925/", "source": "Windows Forum", "desc": "GSC Game World在已發售遊戲上完成UE5.5.4引擎升級。對開發者的啟示：後續引擎更新可為已上市產品帶來重大視覺/性能提升。Live service模式新標竿"}
+    ],
+    "art": [
+      {"title": "STALKER 2 Update 2.0視覺全面翻新：光照/陰影/反射重製、地下空間氛圍重塑", "url": "https://insider-gaming.com/stalker-2-changes-coming-update-2-0/", "source": "Insider Gaming", "desc": "UE5.5.4帶來的視覺革新。地上到地下每個角落的光照重製。更自然的陰影、更真實的反射。建築內部氛圍顯著提升。免費更新=所有玩家受惠"},
+      {"title": "Mortal Shell 2美術方向：暗黑魂系風格搭配現代視覺清晰度的成功案例", "url": "https://fextralife.com/mortal-shell-2-preview/", "source": "Fextralife", "desc": "Preview深度分析。互聯半開放世界的場景設計。從前作「黑暗到看不清」進化為「黑暗但可讀」。動畫品質提升。hit feedback視覺設計大幅改善"},
+      {"title": "AI浮水印的視覺挑戰：不可見標記vs可偵測性的設計平衡", "url": "https://www.forbes.com/sites/joetoscano1/2026/08/16/will-ai-watermarks-stick-around-or-are-they-just-for-show/", "source": "Forbes", "desc": "EU AI Act要求AI輸出「可偵測」但不能影響使用體驗。SynthID-Text在文字中嵌入統計偏移。C2PA用於圖片元數據。「不可見但可驗證」的設計哲學"},
+      {"title": "2026設計趨勢持續：「不完美設計」年—手工質感對抗AI合成完美", "url": "https://www.canva.com/newsroom/news/design-trends-2026/", "source": "Canva", "desc": "Canva年度報告。AI能秒生完美圖像→設計師反向擁抱不完美。想像力主導。「Year of Imperfect by Design」趨勢在遊戲/產品/平面設計中均可見"}
+    ],
+    "design": [
+      {"title": "STALKER 2 UE5.5.4引擎升級的環境設計提升：動態光照重新定義空間感", "url": "https://wccftech.com/stalker-2-update-2-0-new-weapons-smarter-a-life-cost-of-hope/", "source": "WCCFTech", "desc": "Update 2.0不只是bug修復而是完整視覺重製。建築內外光照一致性。地下空間不再依賴烘焙光照。A-Life AI讓世界更有「住人感」。設計層面的典範"},
+      {"title": "Stripe AI Agent經濟基建設計：從人類支付到AI代理支付的UX轉變", "url": "https://www.ainvest.com/news/stripe-openrouter-deal-agentic-economy-real-infrastructure-transition-2608/", "source": "AInvest", "desc": "Link wallets for agents=新的授權UX設計挑戰。消費者如何「信任」AI替自己付款？一次性卡片+即時通知+上限設定。agent commerce的信任設計"},
+      {"title": "Anthropic AI問責設計：浮水印如何在不損害體驗下實現內容溯源", "url": "https://www.forbes.com/sites/anjanasusarla/2026/08/16/why-anthropics-provenance-policy-makes-ai-accountability-a-boardroom-imperative/", "source": "Forbes", "desc": "Provenance政策設計。SynthID統計偏移不影響文字品質。C2PA元數據不改變圖片外觀。「透明但不打擾」的產品設計原則應用於AI問責"},
+      {"title": "Mortal Shell 2戰鬥設計：取消體力條+8 Shells+60地牢的系統架構", "url": "https://fextralife.com/mortal-shell-2-preview/", "source": "Fextralife", "desc": "Cold Symmetry的遊戲設計進化。取消stamina=更快節奏。8種Shell各有玩法差異=高重玩性。緊湊互聯世界=尊重玩家時間。系統深度vs可接近性的平衡"}
+    ],
+    "business": [
+      {"title": "Stripe確定$70億+收購OpenRouter：AI模型路由市場被支付巨頭吞下", "url": "https://www.livemint.com/companies/stripe-clinches-over-7-billion-deal-to-buy-ai-firm-openrouter-11786915829048.html", "source": "LiveMint", "desc": "Bloomberg 8/16報導。從5月$13億估值→$70億+收購(5x+溢價)。OpenRouter路由400+模型。Stripe定位為「AI消費的收費站」。Sessions推288產品"},
+      {"title": "Anthropic $2兆IPO持續推進：投資人看好年營收10倍增長至$1,000-1,200億", "url": "https://aimagazine.com/news/this-weeks-top-five-stories-in-ai-week-2-august", "source": "AI Magazine", "desc": "FT報導後市場持續消化。SpaceX IPO後Anthropic接棒。43x營收倍率。部分分析師看$3兆。泡沫疑慮vs實際營收增速的辯論持續"},
+      {"title": "OpenAI $40B run rate+高管出走+Preparedness團隊解散：矛盾信號加劇", "url": "https://thecurrencyanalytics.com/technology/openais-executive-exodus-puts-2027-ipo-and-47-billion-anthropic-rivalry-at-risk-284538", "source": "Currency Analytics", "desc": "營收翻倍但CRO離職。Preparedness安全團隊被拆分。國會要求說明AI失控。2027 IPO計畫在多重壓力下存在變數"},
+      {"title": "油價Brent逼近$100/週漲7%：Hormuz封鎖談判破裂+美派新航母", "url": "https://walletinvestor.com/news/trading-news/oil-climbs-toward-100-as-hormuz-attacks-and-stalled-us-iran-talks-drive-a-5-weekly-gain/", "source": "WalletInvestor", "desc": "Brent週漲5-7%。Hormuz幾乎完全關閉(僅2艘船通過vs戰前130+)。US-Iran談判再破裂。美威脅無限期封鎖。對全球通膨+消費的壓力持續"}
+    ],
+    "finance": [
+      {"title": "BTC週跌2.85%與Brent+7%脫鉤：加密未能跟隨大宗商品漲勢", "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-august-17-21-2026-1786909662", "source": "TalkMarkets", "desc": "黃金/原油因地緣風險上漲但加密下跌。原因：SEC延遲+機構觀望+薄流動性。加密作為「數位黃金」的敘事在此輪中未被驗證"},
+      {"title": "美國零售-0.6%+消費信心-8%效應持續：本週市場消化消費轉弱數據", "url": "https://finance.yahoo.com/economy/articles/us-retail-sales-weakest-over-133017202.html", "source": "Yahoo Finance", "desc": "上週五公布後市場僅微跌0.2%。本週將持續消化。Iran戰爭推升油價→生活成本→消費縮減的連鎖效應。Q3 GDP預估被下調"},
+      {"title": "S&P 500三週連漲後的本週展望：能源vs科技的板塊輪動", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-ekes-weekly-gain-204531244.html", "source": "Yahoo Finance", "desc": "能源週漲7.3%領跑。科技/消費類表現弱。板塊輪動明顯。PPI持平+Fed不升息確認支撐大盤。但消費數據疲弱+油價上漲=通膨隱憂回歸"},
+      {"title": "Stripe $7B+收購OpenRouter對金融科技的意義：AI支付基建整合加速", "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/stripe-clinches-over-us7-billion-deal-buy-ai-firm-openrouter", "source": "Business Times", "desc": "Stripe=全球最大支付處理商之一。收購AI模型路由=掌握AI消費計費入口。從$13億到$70億的5個月估值暴增反映AI基建的稀缺性溢價"}
+    ]
   }
 }
