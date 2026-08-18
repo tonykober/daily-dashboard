@@ -183,5 +183,61 @@
       }
     ],
     "summary": "台股8/18收45,982.60(+0.37%)，前日盤中突破46,000大關(觸46,189)顯示多頭動能。外資連6日買超累計>NT$2,500億為主要推力。TSMC 2,400(TSM $430.95)半導體續強。20萬人7月回檔搶進主動ETF(00991A月增7萬人)。本日策略：①持有為主，TAIEX已接近前高壓力區 ②半導體(00892/00891)漲多不追 ③主動型ETF(00981A/00982A)折價較大可小量加碼 ④債券ETF(00403A)通膨放緩期持續加碼 ⑤核心持倉(0050/006208)等回測季線再大量加碼。留意油價$100對通膨預期影響、及TAIEX挑戰46K後的多空攻防。"
+  },
+  "categories": {
+    "ai": [
+      {"title": "Stripe $70億+收購OpenRouter確定：企業AI支出同步達$7,400/員工", "url": "https://walletinvestor.com/news/ai-news/stripe-buys-openrouter-for-more-than-7-billion-as-corporate-ai-spending-hits-7400-per-employee/", "source": "WalletInvestor", "desc": "8/16確定。OpenRouter路由400+模型。企業AI支出已達$7,400/員工(新調查)。Stripe坐擁AI消費收費站。從$13億→$70億的5個月估值暴增"},
+      {"title": "Anthropic洽購以色列Decart AI逼近$70億：為IPO前強化晶片效率", "url": "https://www.calcalistech.com/ctechnews/article/b1evv3aufg", "source": "Calcalist", "desc": "從初報$60億升至$70億。Decart約100人團隊專注AI訓練/推論效率化。Anthropic 2026算力支出$190億。為2028 IPO前衝77%毛利率。擊敗Nvidia成首選買家"},
+      {"title": "Anthropic CEO Dario Amodei稱AI反彈是「根本性信任危機」", "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/", "source": "TechCrunch", "desc": "受訪時表示人們擔心公司或政府「在想新方法坑他們」。支持放慢前沿AI公司速度的政策。強調制度化分權的重要性。同時Claude浮水印+$65B融資傳聞流出"},
+      {"title": "OpenAI解散Preparedness安全團隊+國會追查：安全承諾持續被質疑", "url": "https://techstartups.com/2026/08/17/top-tech-news-today-august-17-2026-ge-microsoft-nvidia-open-stripe-unitree-more/", "source": "TechStartups", "desc": "Preparedness團隊7月底被拆分。負責評估AI災難性風險。國會29+22位議員致函要求說明。同時frontier models「短暫熄燈」事件發生。信任危機加劇"}
+    ],
+    "gaming": [
+      {"title": "Mortal Shell 2 評論解禁：Metacritic 84/Opencritic 85、「自Elden Ring以來最佳魂系」", "url": "https://www.polygon.com/mortal-shell-review-roundup/", "source": "Polygon", "desc": "8/17解禁。IGN讚「黑暗美麗冒險」、GameSpot稱「解構魂系公式」、GamesRadar稱「年度最驚喜」。較前作(76分)大幅提升。8/20正式發售"},
+      {"title": "IGN評測：Mortal Shell 2的Shell機制帶來魂系少有的玩法多樣性", "url": "https://pk.ign.com/mortal-shell-ii/259308/mortal-shell-2-review", "source": "IGN", "desc": "高度評價身體交換機制。開放世界「讓人自願跳入一個又一個兔子洞」。緊湊但內容密集。比最佳魂系短但不失深度。Active Shell abilities為亮點"},
+      {"title": "GameSpot評測：Mortal Shell 2顛覆魂系核心元素使其感覺全新刺激", "url": "https://www.gamespot.com/reviews/mortal-shell-2-is-a-fresh-and-exciting-shake-up-of-the-souls-like-formula/", "source": "GameSpot", "desc": "「從未對前作有期待，結果被持續震撼」。解構souls-like體驗的核心要素。更快、更流暢、更有回饋感。打擊視覺/音效設計優異"},
+      {"title": "GamesRadar：Mortal Shell 2是「自Elden Ring以來玩過最好的魂系遊戲」", "url": "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/", "source": "GamesRadar", "desc": "年度最令人愉悅的遊戲驚喜。更有野心、更可接近的續作。加速節奏+在美麗開放世界每個角落塞滿秘密和創意。死亡工具和快速戰鬥為核心"}
+    ],
+    "tech": [
+      {"title": "Stripe收購OpenRouter($7B+)確認：AI模型路由成為新基礎設施層", "url": "https://startupfortune.com/stripe-buys-ai-model-router-openrouter-for-more-than-7-billion/", "source": "Startup Fortune", "desc": "Bloomberg/TechCrunch確認。開發者可通過一個入口使用400+模型，按價格/速度/需求切換。不需綁定單一lab。Stripe控制每次API呼叫的計費"},
+      {"title": "Anthropic洽購Decart $70億：AI晶片效率化技術為IPO前關鍵佈局", "url": "https://www.calcalistech.com/ctechnews/article/hkbg4d1wgl", "source": "Calcalist", "desc": "以色列團隊約100人。23歲創辦人Orian Leitersdorf。Decart專注讓AI系統更快更省。Anthropic算力支出$190億/年，需要降低每token成本才能達77%毛利率目標"},
+      {"title": "美國30年期美債殖利率升至19年新高：Iran停火到期推升風險溢價", "url": "https://en.sedaily.com/international/2026/08/18/us-30-year-yield-hits-19-year-high-as-wall-street-falls", "source": "Seoul Economic Daily", "desc": "US-Iran 60天MOU週一到期。雙方無意延長。30年期殖利率飆至19年高。油價突破$91。對科技股估值和全球資金成本形成壓力"},
+      {"title": "企業AI支出達$7,400/員工：Stripe OpenRouter收購印證基建需求", "url": "https://walletinvestor.com/news/ai-news/stripe-buys-openrouter-for-more-than-7-billion-as-corporate-ai-spending-hits-7400-per-employee/", "source": "WalletInvestor", "desc": "新調查顯示企業AI支出平均$7,400/員工。Stripe收購OpenRouter=直接對應此消費流。AI從「試驗」走向「日常營運支出」的結構性轉變確認"}
+    ],
+    "crypto": [
+      {"title": "BTC回彈至$64,000-64,535(+2.55%)：週低$62,700後買盤回歸", "url": "https://sundayguardianlive.com/business/bitcoin-price-today-august-18-2026-btc-rises-above-64000-as-buyers-return-after-weekly-low-check-latest-prices-in-usd-inr-gbp-euro-jpy-263659/", "source": "Sunday Guardian", "desc": "8/18回升至$64K上方。從週低$62,700反彈。24小時+2.55%。仍低於ATH約13%。$62,500-65,000區間持續。加密股逆勢上漲(vs華爾街下跌)"},
+      {"title": "Tether完成史上首次KPMG Big Four審計：確認$68億盈餘、150噸黃金", "url": "https://finance.yahoo.com/markets/crypto/articles/tether-completes-first-big-four-102903470.html", "source": "Yahoo Finance", "desc": "KPMG美國對2025財報發出無保留意見。實地清點每根金條。儲備超負債$68.14億。「史上最大首次財務審計」。CEO表示將投入AI和新興市場"},
+      {"title": "GENIUS Act穩定幣法規2027/1/18生效倒數：監管框架逐步明確", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "source": "CoinTelegraph", "desc": "2025年7月簽署成法。2027/1/18或監管細則完成後120天生效(以先到為準)。穩定幣發行商將需遵循明確框架。Tether審計=提前佈局合規"},
+      {"title": "加密股逆勢上漲vs華爾街下跌：AI樂觀+BTC反彈對沖Iran擔憂", "url": "https://news.bitcoin.com/finance/crypto-stocks-break-free-as-wall-street-buckles-under-iran-risk/", "source": "Bitcoin.com", "desc": "Nasdaq -0.3%但加密類股上漲。Micron因AI樂觀上漲。BTC +1-1.5%。加密市場與傳統市場在Iran風險中出現分歧。「數位黃金」敘事短暫回歸"}
+    ],
+    "dev": [
+      {"title": "Stripe收購OpenRouter改變開發者工作流：單一API切換400+模型", "url": "https://thenextweb.com/news/stripe-openrouter-7bn-acquisition", "source": "The Next Web", "desc": "開發者不再需要為每個AI lab維護獨立整合。一個SDK→多模型路由。按價格/速度/精度動態選擇。程式碼不需重寫。Stripe payment layer自動處理計費"},
+      {"title": "Anthropic Decart收購對開發者的影響：更低推論成本可期", "url": "https://www.techtimes.com/articles/324234/20260813/anthropic-talks-acquire-decart-6b-targeting-77-gross-margins-before-ipo.htm", "source": "TechTimes", "desc": "Decart技術=AI推論效率化。若Anthropic完成收購→Claude API成本可能下降。目前Anthropic毛利率40%→目標77%。每token成本下降=開發者受惠"},
+      {"title": "企業AI支出$7,400/員工：開發者成為AI導入的核心執行者", "url": "https://walletinvestor.com/news/ai-news/stripe-buys-openrouter-for-more-than-7-billion-as-corporate-ai-spending-hits-7400-per-employee/", "source": "WalletInvestor", "desc": "企業每員工AI支出已從實驗性→營運性。開發者角色從「寫AI功能」擴展到「管理AI基礎設施」。Stripe+OpenRouter=工具鏈標準化"},
+      {"title": "Mortal Shell 2技術成就：Cold Symmetry如何用有限資源打造84分魂系", "url": "https://giantbomb.com/reviews/mortal-shell-ii-review", "source": "Giant Bomb", "desc": "「從自身失敗中學習的罕見續作」。獨立工作室以精簡團隊實現大幅品質提升。取消stamina系統、重新設計戰鬥回饋。對獨立開發者的啟示：專注核心機制改進"}
+    ],
+    "art": [
+      {"title": "Mortal Shell 2美術獲滿分好評：「黑暗美麗」的視覺成就", "url": "https://pk.ign.com/mortal-shell-ii/259308/mortal-shell-2-review", "source": "IGN", "desc": "IGN稱「beautifully dark adventure」。開放世界視覺設計讓人願意探索每個角落。前作暗黑模糊→續作暗黑清晰的進化。動畫/特效/場景設計全面提升"},
+      {"title": "Mortal Shell 2的Shell設計美學：8種可穿戴戰士的視覺差異化", "url": "https://gamerant.com/mortal-shell-2-review/", "source": "Game Rant", "desc": "每種Shell有獨特外觀和動畫組。打擊反饋的視覺和聽覺設計「每次都令人滿足」。execution animation精心製作。Cold Symmetry在角色設計上的突破"},
+      {"title": "2026遊戲美術標竿：Mortal Shell 2+STALKER 2 Update 2.0的視覺競賽", "url": "https://www.windowscentral.com/gaming/mortal-shell-2-is-both-a-love-letter-and-an-inspiration-to-the-soulslike-genre", "source": "Windows Central", "desc": "同週兩款遊戲展示不同美術方向。MS2=暗黑奇幻手工質感。STALKER2=寫實末日光照技術。8/20同日發售形成有趣對比。都獲高度讚揚"},
+      {"title": "AI浮水印設計持續討論：EU AI Act Article 50的「不可見但可偵測」哲學", "url": "https://www.forbes.com/sites/joetoscano1/2026/08/16/will-ai-watermarks-stick-around-or-are-they-just-for-show/", "source": "Forbes", "desc": "8/2生效後兩週。SynthID統計偏移vs C2PA元數據。190組織簽署。罰€1,500萬或3%營收。「透明但不影響使用體驗」的視覺/技術設計挑戰持續"}
+    ],
+    "design": [
+      {"title": "Mortal Shell 2遊戲設計獲評「解構魂系公式」：Cold Symmetry的系統創新", "url": "https://www.gamespot.com/reviews/mortal-shell-2-is-a-fresh-and-exciting-shake-up-of-the-souls-like-formula/", "source": "GameSpot", "desc": "取消stamina=加速節奏。Shell切換=玩法多樣性。Active abilities=新策略層。緊湊開放世界=尊重時間。「讓核心元素感覺全新」的設計思路"},
+      {"title": "Stripe AI Agent支付設計：288產品圍繞「AI代理經濟」的基建思維", "url": "https://startupfortune.com/stripe-buys-ai-model-router-openrouter-for-more-than-7-billion/", "source": "Startup Fortune", "desc": "Link wallets for agents、一次性卡片、動態路由。從「人對機器」到「機器對機器」的支付UX轉變。信任、授權、上限的設計挑戰"},
+      {"title": "Anthropic「信任危機」回應設計：浮水印+透明度+開源方法的組合策略", "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/", "source": "TechCrunch", "desc": "CEO承認問題→SynthID技術→偵測API→全球部署(非僅EU)。設計邏輯：主動提供驗證工具比被動等監管更好。信任重建的產品設計策略"},
+      {"title": "GamesRadar「年度最驚喜」設計分析：有限資源下的最大化遊戲體驗", "url": "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/", "source": "GamesRadar", "desc": "「更有野心、更可接近」。在不膨脹的前提下增加深度。每個角落都有秘密和創意。設計原則：密度>面積。比「最佳魂系短但不差」的取捨"}
+    ],
+    "business": [
+      {"title": "美股週一下跌：US-Iran停火到期+油價破$91+30年期殖利率19年高", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-oil-treasurys-094421171.html", "source": "Yahoo Finance", "desc": "Dow -270(-0.5%)、S&P -0.5%、Nasdaq -0.3%。60天MOU到期雙方無意延長。Trump威脅轟炸Oman。Iran稱「全面進攻」。AI股逆勢上漲(Anthropic展望帶動)"},
+      {"title": "Stripe $7B+ OpenRouter+Anthropic $7B Decart：AI併購週持續", "url": "https://payspacemagazine.com/news/acquisitions-consolidate-ai-and-payments-inside-stripe-anthropic-deals/", "source": "PaySpace Magazine", "desc": "同週兩筆$70億級AI收購。Stripe買模型路由、Anthropic買晶片效率。AI產業從「建模型」走向「建基建」。整合加速"},
+      {"title": "Anthropic CEO：AI反彈是「根本性信任危機」+$65B新融資傳聞", "url": "https://walletinvestor.com/news/ai-news/anthropic-details-claude-text-watermarks-as-65-billion-funding-reports-circulate/", "source": "WalletInvestor", "desc": "Amodei週末受訪。同時$65B新一輪融資報導流出。Claude浮水印細節公布(SynthID)。10月IPO $2兆估值+$7B Decart+$65B融資=全方位擴張"},
+      {"title": "BHP銅利潤+30%：大宗商品超級週期中AI基建需求為底層驅動力", "url": "https://www.abc.net.au/news/2026-08-18/asx-markets-business-live-news-august-18-2026/107045928", "source": "ABC Australia", "desc": "澳洲最大公司BHP銅利潤暴漲30%。AI data center建設推升銅需求。從半導體到電力到冷卻到佈線=銅為AI基建核心金屬。大宗商品投資邏輯"}
+    ],
+    "finance": [
+      {"title": "美股週一全面下跌：Dow -270、S&P -0.5%、油價>$91、殖利率飆升", "url": "https://invezz.com/in/news/2026/08/17/dow-falls-270-points-as-wall-street-ends-lower-on-iran-tensions/", "source": "Invezz", "desc": "US-Iran停火到期=地緣風險回歸。油價突破$91。30年期殖利率19年新高。能源漲但科技/消費跌。Fed不升息預期未改但長端壓力上升"},
+      {"title": "30年期美債殖利率升至19年新高：長期通膨預期因油價重燃", "url": "https://en.sedaily.com/international/2026/08/18/us-30-year-yield-hits-19-year-high-as-wall-street-falls", "source": "Seoul Economic Daily", "desc": "CPI/PPI短期放緩但長期通膨風險因Hormuz/油價重新定價。30年期對AI/成長股估值形成間接壓力(折現率上升)。短端穩定但長端走陡"},
+      {"title": "油價突破$91/桶：US-Iran停火到期+Trump威脅轟炸Oman", "url": "https://startupfortune.com/wall-street-sinks-and-oil-tops-91-as-trump-threatens-to-bomb-oman-over-iran/", "source": "Startup Fortune", "desc": "60天和平窗口結束。Iran稱「全面進攻」。Trump威脅Oman(Iran盟友)。Hormuz幾乎關閉。油價從$87→$91+。能源類逆勢上漲。消費者受壓"},
+      {"title": "BTC逆勢+2.55%至$64,535 vs 美股下跌：加密短暫扮演避險角色", "url": "https://coinstats.app/news/8656e246e20a65757d280fd475c905495868629b441819c2bbe8fea5ae003509_Bitcoin-BTC-Daily-Market-Analysis-18-August-2026", "source": "CoinStats", "desc": "美股因地緣風險跌但BTC漲。Micron等AI股也逆勢。加密在Iran危機中短暫表現出「數位黃金」特質。但持續性待觀察(上週曾脫鉤下跌)"}
+    ]
   }
 }
