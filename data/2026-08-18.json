@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-18",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 45982.60,
+      "taiex_change_pct": "+0.37%",
+      "taiex_date": "2026-08-18",
+      "note": "8/18收45,982.60(+0.37%)。8/17盤中觸46,189突破46,000大關。外資連6日買超累計逾NT$2,500億。成交量NT$942B相對前日NT$1.11T縮減。歷史高48,218(6月)。距歷史高-4.6%。盤中突破46K後賣壓出現顯示短線壓力。台股主動ETF 7月回檔有20萬人搶進(00991A月增7萬人)。油價/Hormuz背景風險但台股展現韌性。半導體續強(TSMC $2,400、TSM US $430.95)。本週留意Mortal Shell 2(8/20)、STALKER 2 DLC(8/20)、Gamescom(8/25)。",
+      "us_sp500": 7786,
+      "us_sp500_note": "S&P三週連漲收7,786(週五-0.2%)。零售-0.6%抑制但未改趨勢。PPI持平確認Fed不升息",
+      "oil_brent": "逼近$100",
+      "oil_note": "Hormuz封鎖持續。週漲7%。美威脅無限期封鎖伊朗。僅2艘船通過(戰前130+)",
+      "foreign_investors": "連6日買超，累計>NT$2,500億"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2400,
+        "nav": null,
+        "pb": 10.1,
+        "pe": 22.0,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+5.2%",
+        "recommendation": "持有觀望",
+        "note": "8/17收約2,400。Q2 EPS NT$27.25。7月營收+44.7% YoY。資本支出$620億。Sony/TSMC $47億JV。CoWoS良率98%。Google Tensor G6確認用3nm。短線2,445有壓。外資連續買超支撐。基本面極強但估值22xPE偏高。觀望為主，回落至季線(~2,280)才考慮加碼"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": 106.5,
+        "nav": 106.7,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.19%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有",
+        "note": "隨大盤上漲。52週高107.85。TAIEX盤中突破46K帶動。折價微幅。距歷史高-4.6%。核心持有。短線不追高，等回測季線"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": 51.80,
+        "nav": 51.95,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.29%",
+        "vs_quarterly_ma": "+2.8%",
+        "recommendation": "持有",
+        "note": "穩定上漲。折價微幅。高股息類本週表現平穩。殖利率維持>5%。存股族核心。離季線不遠，適合持有領息"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": 28.0,
+        "nav": 28.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.36%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "持有",
+        "note": "ESG+高股息。季配穩定。過去一年含息報酬66.4%。折價微幅。適合長期持有。略高於季線不急加碼"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": 29.8,
+        "nav": 29.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.33%",
+        "vs_quarterly_ma": "+4.0%",
+        "recommendation": "持有",
+        "note": "月配息ETF。人氣高。折價微幅。配息穩定。適合需要月現金流的投資人。持有領息"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": 11.9,
+        "nav": 11.95,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.42%",
+        "vs_quarterly_ma": "+1.8%",
+        "recommendation": "持有觀望",
+        "note": "價值+高息選股。折價偏大。仍低於面額區間。長期持有等淨值成長。不急加碼"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": 120.0,
+        "nav": 120.2,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.17%",
+        "vs_quarterly_ma": "+4.8%",
+        "recommendation": "持有",
+        "note": "與0050同質。費用率更低。核心配置。折價微幅。等回測季線加碼"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": 22.0,
+        "nav": 22.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.45%",
+        "vs_quarterly_ma": "+6.8%",
+        "recommendation": "不追高/持有",
+        "note": "半導體8月反彈+10%(20年最佳)。TSMC/聯發科帶動。離季線較遠。短線漲多。已持有者持有，未持有不追高。等回檔"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": 23.2,
+        "nav": 23.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.43%",
+        "vs_quarterly_ma": "+6.3%",
+        "recommendation": "不追高/持有",
+        "note": "半導體供應鏈。CoWoS/封測題材。同00892短線漲多。折價微幅。持有不追高"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": 16.0,
+        "nav": 16.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.62%",
+        "vs_quarterly_ma": "+4.5%",
+        "recommendation": "可小量加碼",
+        "note": "主動型ETF。年化配息10%+。7月回檔時20萬人搶進(00991A最多但同類都受惠)。折價較大=買入機會。主動管理在本輪行情表現優異"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": 18.5,
+        "nav": 18.7,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.07%",
+        "vs_quarterly_ma": "+6.0%",
+        "recommendation": "可小量加碼",
+        "note": "主動型ETF。YTD +76.29%(十大持有ETF最強)。折價>1%=明顯折價買入訊號。主動管理alpha顯著。7月回檔搶進潮後持續表現。可小量加碼"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": 38.6,
+        "nav": 38.7,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.26%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "加碼✅",
+        "note": "投資級債券ETF。PPI持平+Fed不升息確認=債券利多環境。殖利率下降趨勢持續。防禦配置+穩定配息。折價微幅。通膨放緩期間持續加碼"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": 15.35,
+        "nav": 15.38,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+4.5%",
+        "recommendation": "持有",
+        "note": "類0050替代。折價微幅。長期核心配置。隨大盤。等回測季線加碼"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": 25.0,
+        "nav": 25.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.40%",
+        "vs_quarterly_ma": "+5.5%",
+        "recommendation": "持有",
+        "note": "科技+高息。月配息。半導體題材受惠。8月科技反彈帶動。折價微幅。持有領息。略高於季線不急加碼"
+      }
+    ],
+    "summary": "台股8/18收45,982.60(+0.37%)，前日盤中突破46,000大關(觸46,189)顯示多頭動能。外資連6日買超累計>NT$2,500億為主要推力。TSMC 2,400(TSM $430.95)半導體續強。20萬人7月回檔搶進主動ETF(00991A月增7萬人)。本日策略：①持有為主，TAIEX已接近前高壓力區 ②半導體(00892/00891)漲多不追 ③主動型ETF(00981A/00982A)折價較大可小量加碼 ④債券ETF(00403A)通膨放緩期持續加碼 ⑤核心持倉(0050/006208)等回測季線再大量加碼。留意油價$100對通膨預期影響、及TAIEX挑戰46K後的多空攻防。"
+  }
+}
