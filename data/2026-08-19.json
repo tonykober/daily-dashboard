@@ -1,0 +1,243 @@
+{
+  "date": "2026-08-19",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 45308.68,
+      "taiex_change_pct": "-1.20%",
+      "taiex_date": "2026-08-18",
+      "note": "8/18收45,308.68(-548.59,-1.20%)。盤中觸46,064後急殺至45,225(振幅839點)。外資結束連6日買超轉賣NT$119.9億。今日8/19為8月台指期結算日。US 8/18半導體重挫：SOX -5%、TSM -4.22%($412.77)。S&P 7,691.76(-0.69%)、Nasdaq 26,289.71(-1.33%)。US-Iran停火到期+油價$91+。30年期美債殖利率19年新高。市場賣壓源自：期貨結算前壓力+美債殖利率飆升+地緣風險。TSMC盤後4,000張大單賣壓湧現。記憶體類股崩跌(鈺創跌停)。貨櫃航運逆勢走強。",
+      "us_sp500": 7691.76,
+      "us_sp500_note": "S&P 500連3跌至7,691.76(-0.69%)。Nasdaq -1.33%至26,289.71(7/29以來最大單日跌幅)。SOX費半-5%領跌。半導體拋售+債券殖利率多年新高壓抑科技估值。Dow 53,343(-0.2%)",
+      "oil_brent": "$91+",
+      "oil_note": "US-Iran 60天停火MOU到期未延長。Iran稱「全面進攻」。Trump威脅轟炸Oman。Brent 8/18收$91.07(+0.22%)。Hormuz封鎖持續，僅2艘船通過。能源類逆勢上漲",
+      "foreign_investors": "8/18結束連6日買超，轉為賣超NT$119.9億。外資仍持有超過8萬口空單部位"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2380,
+        "nav": null,
+        "pb": 10.1,
+        "pe": 21.8,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+4.4%",
+        "recommendation": "觀望/不追高",
+        "note": "8/18收2,380(-0.83%)。盤後4,000張大單賣壓。TSM US -4.22%($412.77)暗示今日開低壓力大。Q2 EPS NT$27.25(創新高)、毛利率67.7%、營業利益率60.3%。全年營收成長>40%、資本支出$620億→$700億(上調$80億)。基本面無虞但短線受SOX -5%、期貨結算、債券殖利率壓力。10日線2,350為關鍵支撐。跌破則看季線~2,280。建議觀望等回落至季線"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": 103.5,
+        "nav": 103.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.19%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有/等回檔加碼",
+        "note": "隨大盤回檔。TAIEX -1.2%帶動下跌。今日期貨結算+US半導體重挫預期再跌。核心持有不動。目標加碼價位：回測季線(~100-101)。目前微溢價。長期核心部位不需操作"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": 50.80,
+        "nav": 50.90,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "持有",
+        "note": "高股息類相對抗跌。8/18跌幅應小於大盤(高息防禦特性)。折價微幅。殖利率>5%。接近季線位置，存股族可逢低加碼。持有領息為主"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": 27.3,
+        "nav": 27.4,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.36%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "持有/可小量加碼",
+        "note": "ESG+高股息。季配穩定。大盤回檔中高息ETF相對抗跌。折價微幅=市價合理。離季線不遠，跌破季線可加碼。持有為主"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": 29.0,
+        "nav": 29.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.34%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有",
+        "note": "月配息ETF。人氣持續高。折價微幅。大盤急跌期間月配息提供現金流保護。持有領息。等回測季線再加碼"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": 11.6,
+        "nav": 11.65,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.43%",
+        "vs_quarterly_ma": "+0.5%",
+        "recommendation": "持有觀望",
+        "note": "價值+高息選股。折價偏大。仍在面額附近。大盤回檔壓力下可能進一步接近季線。長期持有等淨值回升。不急加碼但也不需停損"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": 117.0,
+        "nav": 116.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.17%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有/等回檔加碼",
+        "note": "與0050同質。費用率更低。核心配置。微溢價。今日隨大盤再跌可能。回測季線(~114-115)考慮加碼。目前持有不動"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": 21.0,
+        "nav": 21.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.47%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "不追高/減碼觀望",
+        "note": "半導體ETF承受最大壓力：US SOX -5%、TSM -4.22%。今日台股開盤半導體類預期重挫。8月漲幅可能大幅回吐。TSMC若跌破10日線2,350將帶動本ETF加速下跌。已持有者觀望或小量減碼鎖利。未持有者絕對不追高。等SOX止穩+TSMC守住季線再評估"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": 22.1,
+        "nav": 22.2,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.45%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "不追高/減碼觀望",
+        "note": "半導體供應鏈ETF。同00892面臨SOX重挫壓力。CoWoS/封測/記憶體題材短期承壓(鈺創跌停、力成等記憶體封測-3~6%)。持有者觀望，漲多部位可小量減碼。不追高"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": 15.5,
+        "nav": 15.6,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.64%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "折價買入機會",
+        "note": "主動型ETF。折價較大。大盤回檔時主動管理可調整持股降低衝擊。年化配息10%+。7月回檔20萬人搶進。目前折價>0.6%=買入訊號。短線有壓但中期看好主動管理alpha。可分批小量加碼"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": 17.8,
+        "nav": 18.0,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.11%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "折價買入✅",
+        "note": "主動型ETF。YTD表現最強(+76%+)。折價>1%=明顯折價買入訊號。主動管理在回檔時可降低beta。即便大盤短線承壓，折價1%+提供安全邊際。可小量加碼。中長期alpha顯著"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": 38.8,
+        "nav": 38.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.26%",
+        "vs_quarterly_ma": "+1.2%",
+        "recommendation": "加碼✅",
+        "note": "投資級債券ETF。美債殖利率飆升短期對債券價格有壓，但Fed不升息基調不變+長期殖利率終將回落。股市動盪期間債券ETF為避風港。折價微幅。穩定配息。防禦配置持續加碼。短線若隨美債利率回升小跌反而是加碼良機"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": 14.95,
+        "nav": 14.98,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有",
+        "note": "類0050替代。折價微幅。隨大盤波動。核心配置不需操作。等回測季線(~14.5)可加碼"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": 24.2,
+        "nav": 24.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.41%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "持有/不追高",
+        "note": "科技+高息。月配息。半導體題材今日承壓。SOX -5%衝擊科技持股。折價微幅。已持有者持有領息。未持有者等半導體止穩再評估。不追高"
+      }
+    ],
+    "summary": "台股8/18收45,308.68(-548.59,-1.20%)，盤中振幅高達839點(46,064→45,225)，外資結束連6買超轉賣NT$119.9億。今日8/19為8月台指期結算日，加上隔夜US半導體重挫(SOX -5%、TSM -4.22%)、Nasdaq -1.33%、30年期美債殖利率19年新高、油價$91+，台股面臨顯著下行壓力。策略建議：①防禦為主，半導體類(00892/00891/00929)不追高、考慮減碼鎖利 ②核心持倉(0050/006208)持有不動，等回測季線加碼 ③主動型ETF(00981A/00982A)折價>0.6~1%=逆勢分批買入機會 ④債券ETF(00403A)股市動盪期持續加碼避險 ⑤高息ETF(0056/00878/00919)相對抗跌，持有領息。關鍵觀察：TSMC能否守住10日線(2,350)→守住則市場有撐，跌破看季線(~2,280)。"
+  },
+  "categories": {
+    "ai": [
+      {"title": "US半導體指數暴跌5%：AI概念股遭殃、TSM -4.22%領跌", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html", "source": "Yahoo Finance", "desc": "8/18費半SOX暴跌5%為7/29以來最大單日跌幅。AI相關需求未減但債券殖利率飆升壓抑高估值成長股。TSM(-4.22%)、AMD、Nvidia等全線重挫。投資者重新評估AI股溢價空間"},
+      {"title": "Anthropic洽購Decart AI $70億接近完成：AI效率化技術為IPO前關鍵", "url": "https://www.calcalistech.com/ctechnews/article/b1evv3aufg", "source": "Calcalist", "desc": "Decart約100人團隊專注AI訓練/推論效率化。Anthropic 2026算力支出$190億。為2028 IPO衝77%毛利率。收購價從$60億升至$70億。若完成→Claude API成本可望下降"},
+      {"title": "TSMC Q2創紀錄但「買消息賣事實」：EPS NT$27.25、營收NT$1.27兆", "url": "https://pr.tsmc.com/english/news/3326", "source": "TSMC IR", "desc": "Q2毛利率67.7%(歷史新高)、營業利益率60.3%、淨利率55.6%。全年營收成長>40%。資本支出上調至$700億。基本面極強但股價已Price-in，短線受半導體板塊輪動壓力"},
+      {"title": "美30年期美債殖利率19年新高：AI股估值面臨折現率上升壓力", "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-tech-selloff-weighs-down-wall-street-bond-yields-climb", "source": "Business Times", "desc": "US-Iran停火到期+油價$91推升長期通膨預期。30年期殖利率飆升直接壓縮AI/科技股的DCF估值。短端穩定(Fed不升息)但長端走陡=成長股逆風"}
+    ],
+    "gaming": [
+      {"title": "Mortal Shell 2 今日正式發售(8/20)：Metacritic 84分、「自Elden Ring以來最佳魂系」", "url": "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/", "source": "GamesRadar", "desc": "明日8/20正式發售。IGN/GameSpot/GamesRadar一致好評。取消stamina系統、Shell切換機制、加速節奏。「緊湊但內容密集」的開放世界設計"},
+      {"title": "STALKER 2 DLC同步8/20發售+Gamescom 8/25開展", "url": "https://www.windowscentral.com/gaming/mortal-shell-2-is-both-a-love-letter-and-an-inspiration-to-the-soulslike-genre", "source": "Windows Central", "desc": "本週遊戲大事：Mortal Shell 2+STALKER 2 Update 2.0同日8/20。Gamescom 8/25開展帶來更多新作消息。8月末遊戲密集發售期"},
+      {"title": "記憶體股崩跌衝擊遊戲硬體供應鏈：鈺創跌停、DRAM價格波動", "url": "https://www.taiwannews.com.tw/en/news/6423533", "source": "Taiwan News", "desc": "8/18記憶體類股全面崩跌：鈺創結束12連漲跌停(NT$122)、力積電-9.16%。DRAM/NAND供應鏈短期承壓。遊戲主機/PC記憶體成本可能波動"},
+      {"title": "Apple 9月新品發表在即：Largan光學受惠逆勢漲4.34%", "url": "https://www.taiwannews.com.tw/en/news/6423533", "source": "Taiwan News", "desc": "大立光(5,290,+4.34%)逆勢走強。Apple新iPhone光學規格升級預期推動。9月發表會倒數。手遊/AR相關硬體升級可期"}
+    ],
+    "tech": [
+      {"title": "費半SOX暴跌5%：半導體週期轉折訊號或僅是技術性回調?", "url": "https://ih.advfn.com/market-news/article/34574/chip-selloff-and-rising-bond-yields-drag-nasdaq-down-1-3-as-wall-street-retreats", "source": "ADVFN", "desc": "Philadelphia SE Semiconductor Index -5%為數月最大跌幅。投資者拋售AI概念漲幅股。殖利率上升降低投資者為潛在成長支付的溢價。技術面：SOX仍在長期上升趨勢線之上"},
+      {"title": "TSMC資本支出上調至$700億：Arizona追加$1,000億投資累計$2,650億", "url": "https://www.morningstar.com/stocks/xtai/2330/quote", "source": "Morningstar", "desc": "TSMC 2026資本支出預算上調$80億至中位數$620億。全年營收成長目標>40%(美元計)。Arizona追加投資累計$2,650億。產能擴張持續但短線股價受板塊輪動壓力"},
+      {"title": "US-Iran停火到期：Hormuz封鎖持續、油價$91+衝擊全球供應鏈", "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump", "source": "The Guardian", "desc": "60天MOU到期雙方無意延長。Trump威脅轟炸Oman。Brent突破$91。Hormuz僅2艘船通過(戰前130+)。科技供應鏈運輸成本持續上升"},
+      {"title": "台積電盤後4,000張大單賣壓：外資期貨結算前大幅調節", "url": "https://finance.biggo.com/news/2f10e4d4-7152-4a6b-b1eb-b38b1e1093e5", "source": "BigGo Finance", "desc": "8/18最後一分鐘4,000張大單賣出壓低TSMC至2,380。外資仍持有>8萬口空單。今日8/19期貨結算：結算價將決定空方是否壓低成功"}
+    ],
+    "crypto": [
+      {"title": "BTC在美股拋售中相對韌性：$64K區間維持、加密股逆勢上漲", "url": "https://news.bitcoin.com/finance/crypto-stocks-break-free-as-wall-street-buckles-under-iran-risk/", "source": "Bitcoin.com", "desc": "美股因地緣風險跌但BTC維持$63-64K。加密類股逆勢上漲。Nasdaq -1.3%但加密表現分歧。短暫「數位黃金」敘事回歸"},
+      {"title": "Tether完成史上首次KPMG Big Four審計：$68億盈餘確認", "url": "https://finance.yahoo.com/markets/crypto/articles/tether-completes-first-big-four-102903470.html", "source": "Yahoo Finance", "desc": "KPMG美國發出無保留意見。實地清點150噸黃金。儲備超負債$68.14億。穩定幣監管框架(GENIUS Act)2027/1/18生效倒數。Tether提前佈局合規"},
+      {"title": "GENIUS Act穩定幣法規2027年生效倒數：監管框架逐步明確", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "source": "CoinTelegraph", "desc": "2025年7月簽署成法。2027/1/18或監管細則完成後120天生效(以先到為準)。穩定幣發行商需遵循明確框架。產業合規化持續推進"},
+      {"title": "油價$91+與加密市場分歧：傳統避險vs數位避險的選擇", "url": "https://coinstats.app/news/8656e246e20a65757d280fd475c905495868629b441819c2bbe8fea5ae003509_Bitcoin-BTC-Daily-Market-Analysis-18-August-2026", "source": "CoinStats", "desc": "Iran風險推升油價與黃金(傳統避險)。BTC同步受惠但波動度更大。加密在地緣危機中表現不一致(上週曾脫鉤下跌)。長期相關性待觀察"}
+    ],
+    "dev": [
+      {"title": "Stripe $7B+收購OpenRouter：單一API切換400+AI模型改變開發工作流", "url": "https://startupfortune.com/stripe-buys-ai-model-router-openrouter-for-more-than-7-billion/", "source": "Startup Fortune", "desc": "開發者不再需為每個AI lab維護獨立整合。一個SDK→多模型路由。按價格/速度/精度動態選擇。程式碼不需重寫。Stripe payment layer自動計費"},
+      {"title": "Anthropic Decart收購對開發者影響：Claude API推論成本可望下降", "url": "https://www.techtimes.com/articles/324234/20260813/anthropic-talks-acquire-decart-6b-targeting-77-gross-margins-before-ipo.htm", "source": "TechTimes", "desc": "Decart技術=AI推論效率化。Anthropic毛利率40%→目標77%。每token成本下降=開發者直接受惠。Claude 3.5已是coding benchmark領先者"},
+      {"title": "企業AI支出$7,400/員工：開發者成為AI基礎設施核心管理者", "url": "https://walletinvestor.com/news/ai-news/stripe-buys-openrouter-for-more-than-7-billion-as-corporate-ai-spending-hits-7400-per-employee/", "source": "WalletInvestor", "desc": "企業每員工AI支出從實驗性→營運性。Stripe+OpenRouter=工具鏈標準化。開發者角色從「寫AI功能」擴展到「管理AI基礎設施」"},
+      {"title": "Cold Symmetry如何用有限團隊打造84分Mortal Shell 2：獨立開發啟示", "url": "https://giantbomb.com/reviews/mortal-shell-ii-review", "source": "Giant Bomb", "desc": "獨立工作室精簡團隊實現品質大幅提升(76→84)。取消stamina重新設計核心。「專注核心機制改進而非堆砌內容」的開發哲學"}
+    ],
+    "art": [
+      {"title": "Mortal Shell 2美術滿分好評：「黑暗美麗」開放世界的視覺成就", "url": "https://pk.ign.com/mortal-shell-ii/259308/mortal-shell-2-review", "source": "IGN", "desc": "IGN稱「beautifully dark adventure」。開放世界視覺設計讓人願意探索每個角落。8種Shell各有獨特外觀和動畫組。打擊反饋視覺/聽覺設計優異"},
+      {"title": "2026遊戲美術標竿：MS2暗黑奇幻 vs STALKER2寫實末日(同日8/20)", "url": "https://www.windowscentral.com/gaming/mortal-shell-2-is-both-a-love-letter-and-an-inspiration-to-the-soulslike-genre", "source": "Windows Central", "desc": "同週兩款展示不同美術方向。MS2=暗黑奇幻手工質感。STALKER2=寫實末日光照技術。8/20同日發售形成有趣對比"},
+      {"title": "AI浮水印技術落地兩週：EU AI Act Article 50實施後的設計挑戰", "url": "https://www.forbes.com/sites/joetoscano1/2026/08/16/will-ai-watermarks-stick-around-or-are-they-just-for-show/", "source": "Forbes", "desc": "8/2生效後兩週。SynthID統計偏移vs C2PA元數據。190組織簽署。罰€1,500萬或3%營收。「透明但不影響使用體驗」的視覺/技術設計挑戰"},
+      {"title": "半導體晶片設計美學：TSMC 3nm CoWoS封裝的工程藝術", "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/9ce1ced428b1f53f1319be1fa7964327bcb1b02f/2Q26%20Presentation%20(E).pdf", "source": "TSMC IR", "desc": "TSMC CoWoS良率98%。3nm Google Tensor G6確認使用。晶片封裝從功能走向藝術：更小的面積、更複雜的互連、更精密的散熱設計"}
+    ],
+    "design": [
+      {"title": "Mortal Shell 2系統設計：取消Stamina+Shell切換=魂系公式革新", "url": "https://www.gamespot.com/reviews/mortal-shell-2-is-a-fresh-and-exciting-shake-up-of-the-souls-like-formula/", "source": "GameSpot", "desc": "取消stamina=加速節奏。Shell切換=玩法多樣性。Active abilities=新策略層。緊湊開放世界=尊重玩家時間。密度>面積的設計原則"},
+      {"title": "Stripe AI Agent支付設計：從人機互動到機器對機器的UX轉變", "url": "https://startupfortune.com/stripe-buys-ai-model-router-openrouter-for-more-than-7-billion/", "source": "Startup Fortune", "desc": "Link wallets for agents、一次性卡片、動態路由。288產品圍繞AI代理經濟。信任、授權、上限的設計挑戰。從「人對機器」到「機器對機器」"},
+      {"title": "市場UI/UX設計：極端波動日(振幅839點)的資訊呈現挑戰", "url": "https://focustaiwan.tw/business/202608180017", "source": "Focus Taiwan", "desc": "單日振幅839點(46,064→45,225)。如何在看盤APP中即時呈現極端波動？紅綠翻轉、止損觸發、資訊密度平衡的設計考量"},
+      {"title": "期貨結算日的數據視覺化：外資8萬口空單的風險呈現方式", "url": "https://www.wantgoo.com/futures/institutional-investors/net-open-interest", "source": "WantGoo", "desc": "如何視覺化呈現外資期貨部位(8萬口空單)與現貨賣超的關聯？多層資訊圖表設計：時間軸+部位+價格+成交量的整合呈現"}
+    ],
+    "business": [
+      {"title": "台股總市值NT$148.11兆：8/18重挫-1.2%蒸發超過兆元", "url": "https://focustaiwan.tw/business/202608180017", "source": "Focus Taiwan", "desc": "TAIEX -548.59收45,308.68。成交NT$958.4億。外資轉賣NT$119.9億。期貨結算壓力+美債殖利率+地緣風險三重打擊。總市值NT$148.11兆"},
+      {"title": "美股連3跌：S&P至兩週低、半導體領跌、能源逆勢上漲", "url": "https://www.nbcpalmsprings.com/2026/08/18/wall-street-ends-lower-as-nasdaq-drops-133-in-august-18-trading", "source": "NBC Palm Springs", "desc": "S&P 7,691.76(-0.69%)、Nasdaq 26,289.71(-1.33%)、Dow 53,343(-0.2%)。11大板塊中10個下跌，僅能源上漲。Tech跌幅最大(SOX -5%)"},
+      {"title": "油價$91+推升通膨擔憂：US-Iran停火到期後的商業衝擊", "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump", "source": "The Guardian", "desc": "Brent $91.07。60天停火到期無延長。全球航運成本持續上升。企業燃料成本壓力。消費者物價可能再升。Fed不升息但長端殖利率已反映通膨"},
+      {"title": "貨櫃航運逆勢漲停：Q3旺季+Hormuz封鎖推升運價", "url": "https://www.taiwannews.com.tw/en/news/6423533", "source": "Taiwan News", "desc": "第一汽船、新興航運漲停。長榮、陽明、萬海走升。Q3傳統旺季+中東航線繞行需求。運價持續上漲利好航運股。大盤跌但航運逆勢表現"}
+    ],
+    "finance": [
+      {"title": "30年期美債殖利率飆至19年新高：長期通膨預期因油價重燃", "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-tech-selloff-weighs-down-wall-street-bond-yields-climb", "source": "Business Times", "desc": "CPI/PPI短期放緩但長期通膨風險因Hormuz/油價重新定價。30年期對AI/成長股估值形成壓力(折現率上升)。短端穩定但長端走陡"},
+      {"title": "台股8月期貨今日結算(8/19)：外資8萬口空單vs結算攻防", "url": "https://focustaiwan.tw/business/202608180017", "source": "Focus Taiwan", "desc": "8/19為8月第三週三=台指期結算日。外資持有超過8萬口空單部位。結算價將決定多空勝負。昨日大跌已壓低結算基準。今日波動預期加大"},
+      {"title": "外資結束連6買超轉賣NT$119.9億：TSMC為最大調節標的", "url": "https://finance.biggo.com/news/a92be012-1312-4d45-9bb5-b422b888e63d", "source": "BigGo Finance", "desc": "8/18外資翻空。5檔金融股在最大賣超名單中。TSMC盤後4,000張大單。結算前調節+美股半導體重挫=外資風險偏好急降"},
+      {"title": "BTC $64K vs 美股下跌：加密資產在Iran危機中短暫避險角色", "url": "https://coinstats.app/news/8656e246e20a65757d280fd475c905495868629b441819c2bbe8fea5ae003509_Bitcoin-BTC-Daily-Market-Analysis-18-August-2026", "source": "CoinStats", "desc": "美股跌但BTC +2.55%至$64K。數位黃金敘事短暫回歸。但持續性待觀察(上週曾脫鉤下跌)。機構投資者在地緣風險中的資產配置分歧"}
+    ]
+  }
+}
