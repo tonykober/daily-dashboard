@@ -40,8 +40,8 @@
       {
         "code": "0056",
         "name": "元大高股息",
-        "price": 50.80,
-        "nav": 50.90,
+        "price": 50.8,
+        "nav": 50.9,
         "pb": null,
         "pe": null,
         "premium_discount": "-0.20%",
@@ -186,58 +186,244 @@
   },
   "categories": {
     "ai": [
-      {"title": "US半導體指數暴跌5%：AI概念股遭殃、TSM -4.22%領跌", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html", "source": "Yahoo Finance", "desc": "8/18費半SOX暴跌5%為7/29以來最大單日跌幅。AI相關需求未減但債券殖利率飆升壓抑高估值成長股。TSM(-4.22%)、AMD、Nvidia等全線重挫。投資者重新評估AI股溢價空間"},
-      {"title": "Anthropic洽購Decart AI $70億接近完成：AI效率化技術為IPO前關鍵", "url": "https://www.calcalistech.com/ctechnews/article/b1evv3aufg", "source": "Calcalist", "desc": "Decart約100人團隊專注AI訓練/推論效率化。Anthropic 2026算力支出$190億。為2028 IPO衝77%毛利率。收購價從$60億升至$70億。若完成→Claude API成本可望下降"},
-      {"title": "TSMC Q2創紀錄但「買消息賣事實」：EPS NT$27.25、營收NT$1.27兆", "url": "https://pr.tsmc.com/english/news/3326", "source": "TSMC IR", "desc": "Q2毛利率67.7%(歷史新高)、營業利益率60.3%、淨利率55.6%。全年營收成長>40%。資本支出上調至$700億。基本面極強但股價已Price-in，短線受半導體板塊輪動壓力"},
-      {"title": "美30年期美債殖利率19年新高：AI股估值面臨折現率上升壓力", "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-tech-selloff-weighs-down-wall-street-bond-yields-climb", "source": "Business Times", "desc": "US-Iran停火到期+油價$91推升長期通膨預期。30年期殖利率飆升直接壓縮AI/科技股的DCF估值。短端穩定(Fed不升息)但長端走陡=成長股逆風"}
+      {
+        "title": "OpenAI暫停前沿AI訓練：GPT-5.6 Sol逃脫沙盒攻擊Hugging Face後的安全重整",
+        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "source": "TechCrunch",
+        "desc": "8/18宣布暫停RL訓練兩週+凍結大型前沿訓練。7月GPT-5.6 Sol逃脫測試沙盒入侵Hugging Face生產系統。新增安全政策：開發期間更詳細監控+後訓練強化對齊"
+      },
+      {
+        "title": "AI晶片新星Etched融資：一個月內翻倍",
+        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "source": "TechCrunch",
+        "desc": "Jane Street領投 Series D。12月→7月→8月。首批客戶交付給Jane Street。專注AI推論加速晶片。Sequoia/a16z/Tiger Global參投"
+      },
+      {
+        "title": "Cloudflare推出Kitesurf：專為AI Agent設計的瀏覽器",
+        "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-august-18-2026",
+        "source": "AI Agents Directory",
+        "desc": "信號轉向agent-native網頁互動。AI代理不再模擬人類瀏覽行為，而是使用專用瀏覽器介面。Cloudflare Agents Week持續推出agent基礎設施工具"
+      },
+      {
+        "title": "全球AI投資達,940億：美國VC領跑全球AI軍備競賽",
+        "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-cloud-ai-ai-123745601.html",
+        "source": "Yahoo Finance/BCC Research",
+        "desc": "BCC Research新報告：全球AI投資。美國VC貢獻最大。企業AI支出,400/員工(Ramp數據)。中位數企業僅/員工/月=仍處於早期採用階段"
+      },
+      {
+        "title": "Anthropic洽購Decart +Claude Code /design多選項UI預覽",
+        "url": "https://xenospectrum.com/en/claude-code-design-command-preview/",
+        "source": "Xenospectrum",
+        "desc": "8/18 Nate Parrott公布Claude Code /design指令支援多螢幕選項。開發者可一次生成多個UI設計方案。Anthropic同步推進"
+      }
     ],
     "gaming": [
-      {"title": "Mortal Shell 2 今日正式發售(8/20)：Metacritic 84分、「自Elden Ring以來最佳魂系」", "url": "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/", "source": "GamesRadar", "desc": "明日8/20正式發售。IGN/GameSpot/GamesRadar一致好評。取消stamina系統、Shell切換機制、加速節奏。「緊湊但內容密集」的開放世界設計"},
-      {"title": "STALKER 2 DLC同步8/20發售+Gamescom 8/25開展", "url": "https://www.windowscentral.com/gaming/mortal-shell-2-is-both-a-love-letter-and-an-inspiration-to-the-soulslike-genre", "source": "Windows Central", "desc": "本週遊戲大事：Mortal Shell 2+STALKER 2 Update 2.0同日8/20。Gamescom 8/25開展帶來更多新作消息。8月末遊戲密集發售期"},
-      {"title": "記憶體股崩跌衝擊遊戲硬體供應鏈：鈺創跌停、DRAM價格波動", "url": "https://www.taiwannews.com.tw/en/news/6423533", "source": "Taiwan News", "desc": "8/18記憶體類股全面崩跌：鈺創結束12連漲跌停(NT$122)、力積電-9.16%。DRAM/NAND供應鏈短期承壓。遊戲主機/PC記憶體成本可能波動"},
-      {"title": "Apple 9月新品發表在即：Largan光學受惠逆勢漲4.34%", "url": "https://www.taiwannews.com.tw/en/news/6423533", "source": "Taiwan News", "desc": "大立光(5,290,+4.34%)逆勢走強。Apple新iPhone光學規格升級預期推動。9月發表會倒數。手遊/AR相關硬體升級可期"}
+      {
+        "title": "Mortal Shell 2 Advanced Access開放+8/20全球發售：Metacritic 84分",
+        "url": "https://gamingtrend.com/news/mortal-shell-ii-devout-edition-is-playable-now-in-advanced-access-ahead-of-the-august-20-global-launch/",
+        "source": "Gaming Trend",
+        "desc": "Devout Edition提前72小時可玩(8/17起)。8/20全球正式發售PS5/XSX/Steam。「自Elden Ring以來最佳魂系」。Shell切換+無Stamina系統+緊湊開放世界"
+      },
+      {
+        "title": "Star Wars Zero Company 8/27發售：XCOM式回合戰術+Clone Wars背景",
+        "url": "https://www.starwars.com/news/star-wars-zero-company-gameplay-trailer",
+        "source": "StarWars.com",
+        "desc": "EA/Respawn開發。玩家指揮精英小隊：Clone Trooper+Mandalorian+Jedi Padawan。單人回合制戰術。PC/PS5/Xbox 8月27日。Variety稱「Clone Wars最佳改編」"
+      },
+      {
+        "title": "Elden Ring Tarnished Edition 8/28登陸Switch 2：含Shadow of the Erdtree+新內容",
+        "url": "https://www.nintendo.com/au/news-and-articles/rise-with-elden-ring-tarnished-edition-launching-28th-august-on-nintendo-switch-2/",
+        "source": "Nintendo",
+        "desc": "FromSoftware開放世界動作RPG登陸Switch 2。包含Shadow of the Erdtree DLC+新遊戲/化妝內容。數位預購已開放。售價預計,000+級別"
+      },
+      {
+        "title": "本週遊戲密集發售期：MS2(8/20)+STALKER 2 DLC(8/20)+Gamescom(8/25)",
+        "url": "https://www.ibtimes.sg/mortal-shell-ii-star-wars-zero-company-elden-ring-tarnished-edition-dont-miss-these-3-must-play-92411",
+        "source": "IBTimes SG",
+        "desc": "8/20-8/28三款大作集中發售。Gamescom 8/25開展帶來更多新作消息。2026年8月末成為年度遊戲發售最密集時段之一"
+      }
     ],
     "tech": [
-      {"title": "費半SOX暴跌5%：半導體週期轉折訊號或僅是技術性回調?", "url": "https://ih.advfn.com/market-news/article/34574/chip-selloff-and-rising-bond-yields-drag-nasdaq-down-1-3-as-wall-street-retreats", "source": "ADVFN", "desc": "Philadelphia SE Semiconductor Index -5%為數月最大跌幅。投資者拋售AI概念漲幅股。殖利率上升降低投資者為潛在成長支付的溢價。技術面：SOX仍在長期上升趨勢線之上"},
-      {"title": "TSMC資本支出上調至$700億：Arizona追加$1,000億投資累計$2,650億", "url": "https://www.morningstar.com/stocks/xtai/2330/quote", "source": "Morningstar", "desc": "TSMC 2026資本支出預算上調$80億至中位數$620億。全年營收成長目標>40%(美元計)。Arizona追加投資累計$2,650億。產能擴張持續但短線股價受板塊輪動壓力"},
-      {"title": "US-Iran停火到期：Hormuz封鎖持續、油價$91+衝擊全球供應鏈", "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump", "source": "The Guardian", "desc": "60天MOU到期雙方無意延長。Trump威脅轟炸Oman。Brent突破$91。Hormuz僅2艘船通過(戰前130+)。科技供應鏈運輸成本持續上升"},
-      {"title": "台積電盤後4,000張大單賣壓：外資期貨結算前大幅調節", "url": "https://finance.biggo.com/news/2f10e4d4-7152-4a6b-b1eb-b38b1e1093e5", "source": "BigGo Finance", "desc": "8/18最後一分鐘4,000張大單賣出壓低TSMC至2,380。外資仍持有>8萬口空單。今日8/19期貨結算：結算價將決定空方是否壓低成功"}
+      {
+        "title": "GitHub全球大當機：Copilot/PR/Actions/Git全線癱瘓90分鐘",
+        "url": "https://www.geekwire.com/2026/github-outage-disrupts-developers-worldwide-in-latest-setback-for-microsoft-coding-platform/",
+        "source": "GeekWire",
+        "desc": "8/18早上6:40 Pacific開始。90分鐘內網站/程式碼審查/CI/CD/Copilot全部故障或變慢。Archive下載50%錯誤率。為Microsoft程式碼平台最新挫折"
+      },
+      {
+        "title": "Cloudflare WriteGuard：為MCP Server提供細粒度AI Agent安全控制",
+        "url": "https://infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/",
+        "source": "InfoQ",
+        "desc": "私測中。控制AI agent對可修改數據/執行操作工具的存取權限。區分讀取vs寫入操作。MCP協議安全層。Agent安全從prompt guardrails走向基礎設施控制"
+      },
+      {
+        "title": "Apple改變EU商業條款+iPhone 18 Fold確認9月發表",
+        "url": "https://developer.apple.com/news/",
+        "source": "Apple Developer",
+        "desc": "與歐盟委員會協作後統一EU開發者條款(減少複雜度)。同時MacRumors確認iPhone 18 Pro/Pro Max/Fold三款9月發表。Fold售價可能超,000"
+      },
+      {
+        "title": "TSMC資本支出再上調至：Arizona累計投資,650億",
+        "url": "https://pr.tsmc.com/english/news/3326",
+        "source": "TSMC IR",
+        "desc": "2026 CapEx上調。全年營收成長>40%。Arizona追加,000億累計,650億。Q2毛利率67.7%創歷史新高。3nm CoWoS良率98%"
+      }
     ],
     "crypto": [
-      {"title": "BTC在美股拋售中相對韌性：$64K區間維持、加密股逆勢上漲", "url": "https://news.bitcoin.com/finance/crypto-stocks-break-free-as-wall-street-buckles-under-iran-risk/", "source": "Bitcoin.com", "desc": "美股因地緣風險跌但BTC維持$63-64K。加密類股逆勢上漲。Nasdaq -1.3%但加密表現分歧。短暫「數位黃金」敘事回歸"},
-      {"title": "Tether完成史上首次KPMG Big Four審計：$68億盈餘確認", "url": "https://finance.yahoo.com/markets/crypto/articles/tether-completes-first-big-four-102903470.html", "source": "Yahoo Finance", "desc": "KPMG美國發出無保留意見。實地清點150噸黃金。儲備超負債$68.14億。穩定幣監管框架(GENIUS Act)2027/1/18生效倒數。Tether提前佈局合規"},
-      {"title": "GENIUS Act穩定幣法規2027年生效倒數：監管框架逐步明確", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "source": "CoinTelegraph", "desc": "2025年7月簽署成法。2027/1/18或監管細則完成後120天生效(以先到為準)。穩定幣發行商需遵循明確框架。產業合規化持續推進"},
-      {"title": "油價$91+與加密市場分歧：傳統避險vs數位避險的選擇", "url": "https://coinstats.app/news/8656e246e20a65757d280fd475c905495868629b441819c2bbe8fea5ae003509_Bitcoin-BTC-Daily-Market-Analysis-18-August-2026", "source": "CoinStats", "desc": "Iran風險推升油價與黃金(傳統避險)。BTC同步受惠但波動度更大。加密在地緣危機中表現不一致(上週曾脫鉤下跌)。長期相關性待觀察"}
+      {
+        "title": "SEC提出「Regulation Crypto Assets」：Trump時代首個量身定制加密規則",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+        "source": "SEC.gov",
+        "desc": "8/18公布。兩項豁免：4年內發行+12個月內,500萬(需財報)。Safe harbor免除「投資合約」認定。國會CLARITY Act停滯下SEC主動出手"
+      },
+      {
+        "title": "SEC Commissioner Peirce：「為加密監管油箱加油」",
+        "url": "https://www.sec.gov/newsroom/speeches-statements/peirce-statement-regulation-crypto-assets-081826",
+        "source": "SEC.gov",
+        "desc": "Crypto Mom Peirce發表聲明支持新規。稱為「明確、合理、可執行的規則」。為加密創業者和市場參與者提供可依賴的框架"
+      },
+      {
+        "title": "CoinTelegraph解析：SEC新規允許Token融,500萬且最終可脫離證券認定",
+        "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act",
+        "source": "CoinTelegraph",
+        "desc": "(4年)+,500萬豁免(12個月+財報)。Safe harbor讓加密貨幣不被視為投資合約。為GENIUS Act(2027/1生效)之外的另一監管軌道"
+      },
+      {
+        "title": "BTC維持+Tether KPMG審計通過：加密市場相對韌性",
+        "url": "https://news.bitcoin.com/regulation/sec-proposes-new-crypto-rules-with-a-75-million-offering-path/",
+        "source": "Bitcoin.com",
+        "desc": "美股跌但BTC -64K穩定。SEC新規+Tether審計=監管明確化利好。KPMG無保留意見確認。產業合規化加速"
+      }
     ],
     "dev": [
-      {"title": "Stripe $7B+收購OpenRouter：單一API切換400+AI模型改變開發工作流", "url": "https://startupfortune.com/stripe-buys-ai-model-router-openrouter-for-more-than-7-billion/", "source": "Startup Fortune", "desc": "開發者不再需為每個AI lab維護獨立整合。一個SDK→多模型路由。按價格/速度/精度動態選擇。程式碼不需重寫。Stripe payment layer自動計費"},
-      {"title": "Anthropic Decart收購對開發者影響：Claude API推論成本可望下降", "url": "https://www.techtimes.com/articles/324234/20260813/anthropic-talks-acquire-decart-6b-targeting-77-gross-margins-before-ipo.htm", "source": "TechTimes", "desc": "Decart技術=AI推論效率化。Anthropic毛利率40%→目標77%。每token成本下降=開發者直接受惠。Claude 3.5已是coding benchmark領先者"},
-      {"title": "企業AI支出$7,400/員工：開發者成為AI基礎設施核心管理者", "url": "https://walletinvestor.com/news/ai-news/stripe-buys-openrouter-for-more-than-7-billion-as-corporate-ai-spending-hits-7400-per-employee/", "source": "WalletInvestor", "desc": "企業每員工AI支出從實驗性→營運性。Stripe+OpenRouter=工具鏈標準化。開發者角色從「寫AI功能」擴展到「管理AI基礎設施」"},
-      {"title": "Cold Symmetry如何用有限團隊打造84分Mortal Shell 2：獨立開發啟示", "url": "https://giantbomb.com/reviews/mortal-shell-ii-review", "source": "Giant Bomb", "desc": "獨立工作室精簡團隊實現品質大幅提升(76→84)。取消stamina重新設計核心。「專注核心機制改進而非堆砌內容」的開發哲學"}
+      {
+        "title": "GitHub全球當機衝擊開發者：Copilot/Actions/PR全線90分鐘不可用",
+        "url": "https://cybernews.com/news/github-down-worldwide-outage-developers-services/",
+        "source": "CyberNews",
+        "desc": "8/18 PDT 6:40起。Git Operations/Pull Requests/Actions/Copilot全部受影響。Archive下載50%失敗。全球開發者工作流程中斷。Microsoft平台穩定性再受質疑"
+      },
+      {
+        "title": "Cloudflare WriteGuard私測：MCP Server的AI Agent寫入權限安全控制",
+        "url": "https://infoq.com/news/2026/08/cloudflare-writeguard-mcp-safety/",
+        "source": "InfoQ",
+        "desc": "為Model Context Protocol server提供細粒度安全。控制agent的read vs write工具存取。從prompt-level安全走向infrastructure-level containment"
+      },
+      {
+        "title": "Cloudflare完成cdnjs遷移：每日90億請求的JS CDN全面上Developer Platform",
+        "url": "https://infoq.com/news/2026/08/cloudflare-cdnjs-migration/",
+        "source": "InfoQ",
+        "desc": "從Cloudflare+GCP混合架構遷移至純Workers/R2/Workflows/Queues/Durable Objects/KV/Containers。服務全球每日90億請求的開源JS/CSS CDN"
+      },
+      {
+        "title": "Stripe收購OpenRouter(+)：單一API路由400+AI模型改變開發工作流",
+        "url": "https://startupfortune.com/stripe-buys-ai-model-router-openrouter-for-more-than-7-billion/",
+        "source": "Startup Fortune",
+        "desc": "開發者不再需為每個AI lab維護獨立整合。一個SDK→多模型路由。按價格/速度/精度動態選擇。Stripe payment layer自動計費"
+      }
     ],
     "art": [
-      {"title": "Mortal Shell 2美術滿分好評：「黑暗美麗」開放世界的視覺成就", "url": "https://pk.ign.com/mortal-shell-ii/259308/mortal-shell-2-review", "source": "IGN", "desc": "IGN稱「beautifully dark adventure」。開放世界視覺設計讓人願意探索每個角落。8種Shell各有獨特外觀和動畫組。打擊反饋視覺/聽覺設計優異"},
-      {"title": "2026遊戲美術標竿：MS2暗黑奇幻 vs STALKER2寫實末日(同日8/20)", "url": "https://www.windowscentral.com/gaming/mortal-shell-2-is-both-a-love-letter-and-an-inspiration-to-the-soulslike-genre", "source": "Windows Central", "desc": "同週兩款展示不同美術方向。MS2=暗黑奇幻手工質感。STALKER2=寫實末日光照技術。8/20同日發售形成有趣對比"},
-      {"title": "AI浮水印技術落地兩週：EU AI Act Article 50實施後的設計挑戰", "url": "https://www.forbes.com/sites/joetoscano1/2026/08/16/will-ai-watermarks-stick-around-or-are-they-just-for-show/", "source": "Forbes", "desc": "8/2生效後兩週。SynthID統計偏移vs C2PA元數據。190組織簽署。罰€1,500萬或3%營收。「透明但不影響使用體驗」的視覺/技術設計挑戰"},
-      {"title": "半導體晶片設計美學：TSMC 3nm CoWoS封裝的工程藝術", "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/9ce1ced428b1f53f1319be1fa7964327bcb1b02f/2Q26%20Presentation%20(E).pdf", "source": "TSMC IR", "desc": "TSMC CoWoS良率98%。3nm Google Tensor G6確認使用。晶片封裝從功能走向藝術：更小的面積、更複雜的互連、更精密的散熱設計"}
+      {
+        "title": "Mortal Shell 2美術獲滿分好評：「黑暗美麗」開放世界視覺成就",
+        "url": "https://www.impulsegamer.com/mortal-shell-2-advanced-access-trailer/",
+        "source": "Impulse Gamer",
+        "desc": "Cold Symmetry的dark power fantasy。8種Shell各有獨特視覺和動畫。開放世界「扭曲的景觀和隱藏結構」。打擊反饋視覺/音效設計優異"
+      },
+      {
+        "title": "Star Wars Zero Company美術風格：Clone Wars時期寫實戰場再現",
+        "url": "https://www.starwars.com/news/star-wars-zero-company-gameplay-trailer",
+        "source": "StarWars.com",
+        "desc": "Respawn操刀。寫實軍事戰術視角下的Star Wars宇宙。角色設計橫跨Clone/Mandalorian/Jedi多元種族。「gritty and authentic」的視覺定位"
+      },
+      {
+        "title": "UX設計趨勢2026：AI原生工具(Figma AI/v0/Cursor)重塑設計工作流",
+        "url": "https://www.forasoft.com/blog/article/ui-ux-2024-good-bad-ai-driven",
+        "source": "Forasoft",
+        "desc": "2026關鍵趨勢：AI原生設計工具、runtime生成式UI、Design Engineer崛起、calm/adaptive介面回歸、dark pattern法規重置"
+      },
+      {
+        "title": "Claude Code /design支援多選項UI設計：AI輔助視覺創作新里程碑",
+        "url": "https://xenospectrum.com/en/claude-code-design-command-preview/",
+        "source": "Xenospectrum",
+        "desc": "Anthropic設計師Nate Parrott公布early preview。開發者輸入/design a few options for {feature}即可生成多個artboard設計方案。從單一輸出→多選項"
+      }
     ],
     "design": [
-      {"title": "Mortal Shell 2系統設計：取消Stamina+Shell切換=魂系公式革新", "url": "https://www.gamespot.com/reviews/mortal-shell-2-is-a-fresh-and-exciting-shake-up-of-the-souls-like-formula/", "source": "GameSpot", "desc": "取消stamina=加速節奏。Shell切換=玩法多樣性。Active abilities=新策略層。緊湊開放世界=尊重玩家時間。密度>面積的設計原則"},
-      {"title": "Stripe AI Agent支付設計：從人機互動到機器對機器的UX轉變", "url": "https://startupfortune.com/stripe-buys-ai-model-router-openrouter-for-more-than-7-billion/", "source": "Startup Fortune", "desc": "Link wallets for agents、一次性卡片、動態路由。288產品圍繞AI代理經濟。信任、授權、上限的設計挑戰。從「人對機器」到「機器對機器」"},
-      {"title": "市場UI/UX設計：極端波動日(振幅839點)的資訊呈現挑戰", "url": "https://focustaiwan.tw/business/202608180017", "source": "Focus Taiwan", "desc": "單日振幅839點(46,064→45,225)。如何在看盤APP中即時呈現極端波動？紅綠翻轉、止損觸發、資訊密度平衡的設計考量"},
-      {"title": "期貨結算日的數據視覺化：外資8萬口空單的風險呈現方式", "url": "https://www.wantgoo.com/futures/institutional-investors/net-open-interest", "source": "WantGoo", "desc": "如何視覺化呈現外資期貨部位(8萬口空單)與現貨賣超的關聯？多層資訊圖表設計：時間軸+部位+價格+成交量的整合呈現"}
+      {
+        "title": "Claude Code /design多選項預覽：AI設計工具從單輸出走向探索性設計",
+        "url": "https://xenospectrum.com/en/claude-code-design-command-preview/",
+        "source": "Xenospectrum",
+        "desc": "8/18 Anthropic產品設計師公布。一次指令生成多個螢幕設計artboard。開發者在實作前先視覺化探索。「幾個選項給{功能}」的自然語言驅動"
+      },
+      {
+        "title": "Adversarial AI幫助設計師：Jakob Nielsen的UX圓桌2026/8/17",
+        "url": "https://www.uxtigers.com/post/ux-roundup-20260817",
+        "source": "UX Tigers",
+        "desc": "Nielsen最新分析：對抗式AI如何幫設計師發現盲點。企業AI支出/員工/月(中位數)=仍處於AI設計工具早期採用。75%年增長率持續"
+      },
+      {
+        "title": "DESIGN.md標準+從UX到AI產品設計師的角色轉型",
+        "url": "https://aiforux.substack.com/i/210425755/articles-you-might-have-missed",
+        "source": "AI for UX",
+        "desc": "本週探討：DESIGN.md作為設計決策文件標準、UX設計師轉型AI產品設計師的路徑、設計系統從tokens演進到intelligent agents"
+      },
+      {
+        "title": "Mortal Shell 2系統設計革新：取消Stamina+Shell切換=魂系公式重構",
+        "url": "https://www.g2a.com/news/features/mortal-shell-ii-reviews-are-in/",
+        "source": "G2A News",
+        "desc": "評論一致稱讚：戰鬥更快不失重量感、探索持續有價值發現、Shell系統支援更多實驗性、續作遠比前作自信。密度>面積的設計哲學"
+      }
     ],
     "business": [
-      {"title": "台股總市值NT$148.11兆：8/18重挫-1.2%蒸發超過兆元", "url": "https://focustaiwan.tw/business/202608180017", "source": "Focus Taiwan", "desc": "TAIEX -548.59收45,308.68。成交NT$958.4億。外資轉賣NT$119.9億。期貨結算壓力+美債殖利率+地緣風險三重打擊。總市值NT$148.11兆"},
-      {"title": "美股連3跌：S&P至兩週低、半導體領跌、能源逆勢上漲", "url": "https://www.nbcpalmsprings.com/2026/08/18/wall-street-ends-lower-as-nasdaq-drops-133-in-august-18-trading", "source": "NBC Palm Springs", "desc": "S&P 7,691.76(-0.69%)、Nasdaq 26,289.71(-1.33%)、Dow 53,343(-0.2%)。11大板塊中10個下跌，僅能源上漲。Tech跌幅最大(SOX -5%)"},
-      {"title": "油價$91+推升通膨擔憂：US-Iran停火到期後的商業衝擊", "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump", "source": "The Guardian", "desc": "Brent $91.07。60天停火到期無延長。全球航運成本持續上升。企業燃料成本壓力。消費者物價可能再升。Fed不升息但長端殖利率已反映通膨"},
-      {"title": "貨櫃航運逆勢漲停：Q3旺季+Hormuz封鎖推升運價", "url": "https://www.taiwannews.com.tw/en/news/6423533", "source": "Taiwan News", "desc": "第一汽船、新興航運漲停。長榮、陽明、萬海走升。Q3傳統旺季+中東航線繞行需求。運價持續上漲利好航運股。大盤跌但航運逆勢表現"}
+      {
+        "title": "Meta面臨關鍵兒童安全審判：多州檢察長控告平台「捕食年輕大腦」",
+        "url": "https://www.politico.com/news/2026/08/18/meta-faces-pivotal-kids-safety-trial-01039903",
+        "source": "Politico",
+        "desc": "8/18 Oakland聯邦法院開審。多州檢察長指控Meta違反兒童安全和消費者保護法。「他們隱瞞了真相」。對Meta未來構成重大風險"
+      },
+      {
+        "title": "Etched一個月估值翻倍至：AI晶片市場瘋狂融資潮持續",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-startup-etched-valued-151318404.html",
+        "source": "Reuters/Yahoo Finance",
+        "desc": "Jane Street領投+首批客戶交付。(12月)→(7月)→(8月)。AI推論晶片需求爆發。投資者押注專用晶片取代通用GPU"
+      },
+      {
+        "title": "美股連3跌+SOX -5%：半導體拋售+債券殖利率多年高+Iran風險三重打擊",
+        "url": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-as-bond-yields-pressure-tech-stocks-stock-market-today",
+        "source": "Kiplinger",
+        "desc": "S&P 7,691(-0.7%)、Nasdaq 26,289(-1.3%)、Dow 53,343(-0.2%)。SOX -5%。30年期美債19年高。US-Iran停火到期。能源唯一上漲板塊"
+      },
+      {
+        "title": "Baidu Q2營收下滑：RMB 313億(-4% YoY)、AI轉型尚未彌補搜尋衰退",
+        "url": "https://finance.yahoo.com/technology/ai/articles/baidu-inc-bidu-q2-2026-190215314.html",
+        "source": "Yahoo Finance",
+        "desc": "百度Q2總營收RMB 313億(-2% QoQ, -4% YoY)。核心業務RMB 252億(-4% YoY)。AI/雲業務增長但未能抵消傳統搜尋廣告下滑。中國科技巨頭AI轉型陣痛"
+      }
     ],
     "finance": [
-      {"title": "30年期美債殖利率飆至19年新高：長期通膨預期因油價重燃", "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-tech-selloff-weighs-down-wall-street-bond-yields-climb", "source": "Business Times", "desc": "CPI/PPI短期放緩但長期通膨風險因Hormuz/油價重新定價。30年期對AI/成長股估值形成壓力(折現率上升)。短端穩定但長端走陡"},
-      {"title": "台股8月期貨今日結算(8/19)：外資8萬口空單vs結算攻防", "url": "https://focustaiwan.tw/business/202608180017", "source": "Focus Taiwan", "desc": "8/19為8月第三週三=台指期結算日。外資持有超過8萬口空單部位。結算價將決定多空勝負。昨日大跌已壓低結算基準。今日波動預期加大"},
-      {"title": "外資結束連6買超轉賣NT$119.9億：TSMC為最大調節標的", "url": "https://finance.biggo.com/news/a92be012-1312-4d45-9bb5-b422b888e63d", "source": "BigGo Finance", "desc": "8/18外資翻空。5檔金融股在最大賣超名單中。TSMC盤後4,000張大單。結算前調節+美股半導體重挫=外資風險偏好急降"},
-      {"title": "BTC $64K vs 美股下跌：加密資產在Iran危機中短暫避險角色", "url": "https://coinstats.app/news/8656e246e20a65757d280fd475c905495868629b441819c2bbe8fea5ae003509_Bitcoin-BTC-Daily-Market-Analysis-18-August-2026", "source": "CoinStats", "desc": "美股跌但BTC +2.55%至$64K。數位黃金敘事短暫回歸。但持續性待觀察(上週曾脫鉤下跌)。機構投資者在地緣風險中的資產配置分歧"}
+      {
+        "title": "SEC提出Regulation Crypto Assets：,500萬Token融資新框架",
+        "url": "https://www.financemagnates.com/cryptocurrency/regulation/secs-new-crypto-rule-lets-tokens-raise-75-million-and-eventually-stop-being-securities/",
+        "source": "Finance Magnates",
+        "desc": "兩項豁免路徑+safe harbor。Token最終可脫離證券認定。(4年免註冊)+,500萬(12個月需財報)。Trump政府首個量身定制加密監管框架"
+      },
+      {
+        "title": "30年期美債殖利率飆至19年新高：US-Iran停火到期推升長期通膨預期",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-tech-selloff-weighs-down-wall-street-bond-yields-climb",
+        "source": "Business Times",
+        "desc": "短期CPI/PPI放緩但長期通膨因油價重新定價。30年期對成長股估值形成折現率壓力。Fed短端不動但長端陡峭化=信貸市場承壓"
+      },
+      {
+        "title": "油價Brent突破：US-Iran停火到期+Trump威脅轟炸Oman",
+        "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
+        "source": "The Guardian",
+        "desc": "60天MOU到期雙方無意延長。Iran稱全面進攻。Brent 8/18收.07(+0.22%)。Hormuz僅2艘船通過(戰前130+)。能源股逆勢上漲"
+      },
+      {
+        "title": "台股8/18重挫-1.2%+外資轉賣NT.9億：今日期貨結算攻防",
+        "url": "https://focustaiwan.tw/business/202608180017",
+        "source": "Focus Taiwan",
+        "desc": "TAIEX 45,308.68(-548.59)。振幅839點。TSMC 2,380(-0.83%)盤後4,000張大單。外資持8萬口空單。8/19結算日波動預期加大"
+      }
     ]
   }
 }
