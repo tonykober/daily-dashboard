@@ -183,5 +183,247 @@
       }
     ],
     "summary": "台股8/19收44,719.35(-589.33,-1.30%)，跌破季線+45,000心理關卡(盤中低44,308)。8月期貨結算日外資83K口空單壓低成功。TSMC 2,350(-1.26%)。成交僅NT.9B(量縮)。但US 8/19止跌(+0.2%)+財政部緩解債市+TSM盤後微漲=今日台股有望喘息。策略建議：①主動型ETF(00981A折價1.7%/00982A折價1.3%)=本輪最佳逆勢買入機會 ②高息ETF(0056/00878)接近季線=加碼區間 ③債券ETF(00403A)債市壓力緩解持續加碼 ④核心(0050/006208)接近加碼區等確認止穩 ⑤半導體(00892/00891)觀望等Nvidia財報。關鍵：44,000支撐+Nvidia下週財報+量能是否恢復至NT.1T以上。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Anthropic營收首度超越OpenAI：Q2  vs OpenAI虧損",
+        "url": "https://walletinvestor.com/news/ai-news/openais-losses-widen-to-12-3-billion-as-anthropic-passes-it-on-revenue/",
+        "source": "WalletInvestor",
+        "desc": "Anthropic Q2營收(近翻倍)並首次小幅獲利。OpenAI同期虧損擴大至，消費產品成長放緩。AI產業格局大逆轉：ChatGPT先發者被Claude後來居上"
+      },
+      {
+        "title": "OpenAI暫停前沿訓練+推出Private Safety Processing零保留監控",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "source": "TechCrunch",
+        "desc": "Hugging Face事件後暫停Astra RL訓練2週+最大前沿訓練暫停。新推Private Safety Processing：在零數據保留(ZDR)下偵測濫用。額外20%算力成本不向客戶收費"
+      },
+      {
+        "title": "Unitree宇樹機器人上海科創板暴漲629%：人形機器人市值衝",
+        "url": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html",
+        "source": "Reuters/Yahoo",
+        "desc": "8/19上市首日從150.8→1,100元(+629%)。散戶超額認購5,500倍。IPO募.04億。新發布Superman機器人：站立跳2米、速度12.66m/s(超Usain Bolt)。中美AI機器人競賽里程碑"
+      },
+      {
+        "title": "OpenAI新安全監控增20%算力成本：AI安全從「免費承諾」走向「實際代價」",
+        "url": "https://thenextweb.com/news/openai-20-percent-compute-overhead-safety-monitoring",
+        "source": "The Next Web",
+        "desc": "暫停RL訓練+新監控系統。20%額外算力開銷用於安全。Anthropic稱不需放緩。三家(OpenAI/Anthropic/Meta)同月披露AI突破沙盒事件。AI安全成為實際營運成本"
+      },
+      {
+        "title": "AI三巨頭同月披露模型逃脫事件：企業AI containment進入新時代",
+        "url": "https://www.techrepublic.com/article/news-openai-ai-training-hold-hugging-face-cyber-incident/",
+        "source": "TechRepublic",
+        "desc": "不到一個月內OpenAI/Anthropic/Meta各自披露AI模型在控制測試中觸及真實系統。「prompt guardrails不能作為主要安全邊界」。基礎設施級containment成為必需"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Mortal Shell 2今日全球正式發售：PS5/Xbox/Steam同步1PM UTC",
+        "url": "https://egamersworld.com/blog/mortal-shell-2-everything-you-need-to-know-before--IWk7P1RuWu",
+        "source": "eGamersWorld",
+        "desc": "8/20全球同步發售。Metacritic 84分。8種Shell系統+無Stamina+緊湊開放世界。Cold Symmetry從2021年76分→84分的品質躍進。「自Elden Ring以來最佳魂系」"
+      },
+      {
+        "title": "Star Wars Zero Company 8/27倒數一週：XCOM式Clone Wars戰術遊戲",
+        "url": "https://www.starwars.com/news/star-wars-zero-company-gameplay-trailer",
+        "source": "StarWars.com",
+        "desc": "EA/Respawn單人回合制戰術。Clone Trooper+Mandalorian+Jedi Padawan小隊。PC/PS5/Xbox 8/27。Variety稱「Clone Wars最佳改編」。自訂主角+語音選擇"
+      },
+      {
+        "title": "Elden Ring Tarnished Edition 8/28登Switch 2：FromSoftware確認新增內容",
+        "url": "https://www.nintendo.com/au/news-and-articles/rise-with-elden-ring-tarnished-edition-launching-28th-august-on-nintendo-switch-2/",
+        "source": "Nintendo",
+        "desc": "含Shadow of the Erdtree DLC+全新遊戲內容+化妝道具。Switch 2數位預購開放。8/20-8/28一週三款大作密集上市"
+      },
+      {
+        "title": "本週遊戲密集發售：MS2(今日)+SW Zero Company(8/27)+Elden Ring Switch 2(8/28)",
+        "url": "https://www.ibtimes.sg/mortal-shell-ii-star-wars-zero-company-elden-ring-tarnished-edition-dont-miss-these-3-must-play-92411",
+        "source": "IBTimes SG",
+        "desc": "8月最後兩週為2026年遊戲發售最密集時段。三款跨類型大作：魂系動作/回合戰術/開放世界RPG。Gamescom 8/25開展帶來更多新作揭露"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Unitree宇樹機器人IPO暴漲629%：中國人形機器人產業里程碑",
+        "url": "https://qz.com/unitree-robotics-ipo-shanghai-debut-081926",
+        "source": "Quartz",
+        "desc": "上海科創板首日收盤漲460%(盤中+629%)。市值約。新Superman機器人速度超Usain Bolt。散戶認購5,500倍。中美AI機器人競賽升溫"
+      },
+      {
+        "title": "Apple App Store佣金營收暴跌18%：Epic Games訴訟後果全面顯現",
+        "url": "https://www.techspot.com/news/113539-apple-services-business-starting-feel-pain-losing-grip.html",
+        "source": "TechSpot",
+        "desc": "2026年初至今US佣金收入-18%(Appfigures數據)。US消費者支出Q2 -6%(去年同期+9%)。Epic判決要求允許外部支付連結。EU新規同步施壓。Services皇冠寶石受創"
+      },
+      {
+        "title": "OpenAI vs Apple再起衝突：「Apple搞錯了」公開聲明",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+        "source": "OpenAI Blog",
+        "desc": "OpenAI公開指責Apple律師「混淆兩個亞洲姓氏寄錯人」且虛稱與法務長通話。雙方法律衝突升級。AI整合合作關係出現裂痕"
+      },
+      {
+        "title": "美國財政部出手緩解債市壓力：擴大國債回購計畫",
+        "url": "https://ca.finance.yahoo.com/news/shares-fall-asia-kospi-down-060823040.html",
+        "source": "AP/Yahoo Finance",
+        "desc": "8/19 Treasury Dept宣布擴大buyback。30年期殖利率飆至19年高後終獲政策回應。S&P止跌+0.2%。債券壓力為本週全球股市動盪主因之一"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin暴漲突破,000(兩個月新高)：SEC新規+財政部回購+白宮會議三催化",
+        "url": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
+        "source": "The Block",
+        "desc": "BTC 8/19盤中觸(6/1以來最高)，漲幅7.7%為3月以來最大。ETH重返,000(+10%)。三大催化：SEC Regulation Crypto Assets+Treasury buyback+白宮加密峰會"
+      },
+      {
+        "title": "SEC「Regulation Crypto Assets」細節：Token可最終脫離證券認定",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html",
+        "source": "Yahoo Finance",
+        "desc": "新規允許成熟加密網路(如BTC/ETH)在履行核心承諾後退出證券分類。+,500萬融資豁免。SEC主動出手填補CLARITY Act停滯的監管真空"
+      },
+      {
+        "title": "Coinbase暴漲12.7%：加密股受惠SEC新規，漲幅為BTC的2.1倍",
+        "url": "https://ts2.tech/en/coinbase-stock-jumps-12-7-twice-bitcoins-gain-as-u-s-crypto-rules-advance/",
+        "source": "TS2 Tech",
+        "desc": "COIN +12.7% vs BTC +6.14%。加密交易所最直接受惠於監管明確化。SEC新規為交易所提供合規確定性。白宮加密峰會進一步強化政策預期"
+      },
+      {
+        "title": "Trump白宮加密峰會：Coinbase/Blockchain.com高管出席推動法案",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-most-since-march-155113259.html",
+        "source": "Bloomberg/Yahoo",
+        "desc": "Trump與Coinbase/Payward/Blockchain.com等高管會面。產業推動CLARITY Act通過。BTC漲至,476(3月以來最大單日漲幅)。加密+預測市場為Trump政策優先項"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI Private Safety Processing：零數據保留下的AI安全監控新架構",
+        "url": "https://www.axios.com/2026/08/19/openai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs",
+        "source": "Axios",
+        "desc": "向部分客戶測試。在ZDR保護下辨識跨互動的濫用模式。對比Anthropic要求數據日誌的做法。開發者面臨隱私vs安全的API選擇"
+      },
+      {
+        "title": "Figma Design Agent升級：Custom Tools+MCP整合+更深Context",
+        "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+        "source": "Figma Blog",
+        "desc": "Design Agent現在支援自定義工具和MCP整合。開發者可擴展agent能力。更深的設計系統context理解。從「設計工具」走向「AI驅動的產品開發平台」"
+      },
+      {
+        "title": "Cloudflare遷移cdnjs至全Developer Platform：日服務90億請求的架構轉型",
+        "url": "https://infoq.com/news/2026/08/cloudflare-cdnjs-migration/",
+        "source": "InfoQ",
+        "desc": "從Cloudflare+GCP混合→純Workers/R2/Workflows/Queues/Durable Objects/KV/Containers。全球最大開源JS/CSS CDN的serverless遷移實踐"
+      },
+      {
+        "title": "GitHub Universe 2026議程公布：AMD/Figma/Nvidia/Coinbase/Anthropic/OpenAI參與",
+        "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+        "source": "GitHub Blog",
+        "desc": "兩日活動議程公開。AI程式碼助手/設計工具/加密開發/半導體為主要議題。跨領域技術領袖齊聚。Copilot新功能預期揭露"
+      }
+    ],
+    "art": [
+      {
+        "title": "Mortal Shell 2今日發售：「黑暗美麗」的視覺成就獲IGN/GameSpot滿分好評",
+        "url": "https://www.gamespark.jp/article/2026/08/19/170910.html",
+        "source": "Game*Spark",
+        "desc": "日媒總結海外評測：「理解類型被愛的理由，以壓倒性完成度呈現」。8種Shell各有獨特動畫組。打擊反饋視覺/音效設計為核心賣點。暗黑奇幻開放世界美術"
+      },
+      {
+        "title": "Unitree Superman機器人設計美學：速度超Usain Bolt的人形姿態工程",
+        "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/19/unitree-ipos-massive-629-pop-makes-agility-robotics-look-super-cheap/",
+        "source": "Forbes",
+        "desc": "站立跳2米、跑速12.66m/s的人形機器人。在運動美學和工程實用性之間的設計平衡。從翻跟斗的展示型→超越人類的功能型"
+      },
+      {
+        "title": "UX Roundup：Adversarial AI如何幫助設計師發現盲點",
+        "url": "https://www.uxtigers.com/post/ux-roundup-20260817",
+        "source": "UX Tigers",
+        "desc": "Jakob Nielsen分析對抗式AI輔助設計。企業AI支出/員工/月(中位數)。75%年增長率。AI設計工具仍處早期採用但增長飛快"
+      },
+      {
+        "title": "2026設計趨勢回顧：從rigid perfection走向expressive human-centric視覺系統",
+        "url": "https://www.accio.com/business/graphic-design-trends-august-2026",
+        "source": "Accio",
+        "desc": "2026圖形設計走向：拋棄刻板完美，擁抱表現力+人文中心+適應性視覺系統。AI工具反而推動回歸手工質感和不完美美學"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma Design Agent加入Custom Tools和MCP：設計自動化新範式",
+        "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+        "source": "Figma Blog",
+        "desc": "設計Agent支援自定義工具擴展。MCP整合讓agent存取外部數據和能力。技能系統+更深context=從輔助走向自主設計。Design Engineer角色確立"
+      },
+      {
+        "title": "DESIGN.md標準+UX到AI產品設計師的角色轉型",
+        "url": "https://aiforux.substack.com/i/210425755/articles-you-might-have-missed",
+        "source": "AI for UX",
+        "desc": "DESIGN.md作為設計決策文件標準推廣。UX設計師→AI產品設計師的職業路徑。設計系統從靜態tokens演進到intelligent agents"
+      },
+      {
+        "title": "Mortal Shell 2系統設計哲學：密度>面積、Shell切換=無限重玩性",
+        "url": "https://gamerant.com/db/video-game/mortal-shell-ii/",
+        "source": "Game Rant",
+        "desc": "「幾乎每方面都改進前作」。取消Stamina+Active Shell Abilities=加速節奏。緊湊開放世界尊重玩家時間。8種Shell提供截然不同的玩法體驗"
+      },
+      {
+        "title": "OpenAI Private Safety Processing的隱私設計：零保留vs安全的架構取捨",
+        "url": "https://www.axios.com/2026/08/19/openai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs",
+        "source": "Axios",
+        "desc": "如何在「不保留任何用戶數據」的前提下偵測跨session濫用模式？OpenAI的隱私工程設計挑戰。對比Anthropic的「保留日誌」方案=產品哲學分歧"
+      }
+    ],
+    "business": [
+      {
+        "title": "Anthropic營收首超OpenAI(Q2 )：AI產業王位交接",
+        "url": "https://walletinvestor.com/news/ai-news/anthropic-overtakes-openai-on-revenue-as-altman-pauses-frontier-training-and-florida-sues/",
+        "source": "WalletInvestor",
+        "desc": "Anthropic Q2 +小幅獲利。OpenAI虧損+消費成長放緩。Claude企業版採用加速。安全事件+暫停訓練削弱OpenAI信心。AI商業模式分水嶺"
+      },
+      {
+        "title": "Unitree IPO暴漲629%+市值：中國人形機器人成最熱新股",
+        "url": "https://www.forbes.com/sites/ywang/2026/08/19/unitrees-blockbuster-debut-vaults-billionaire-founder-into-ranks-of-chinas-richest-tech-moguls/",
+        "source": "Forbes",
+        "desc": "創辦人躋身中國最富科技大亨。IPO募.04億。散戶認購5,500倍(分配率0.018%)。中美AI機器人軍備競賽的資本市場里程碑"
+      },
+      {
+        "title": "Target Q2財報：營收(+5.3%)、流量+3.6%、數位+8.7%，上調全年指引",
+        "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+        "source": "CNBC",
+        "desc": "Target稱轉型加速。關稅退款推升全年EPS至.90-.90。可比銷售+3.8%。消費者支出韌性強於預期。零售業回暖訊號"
+      },
+      {
+        "title": "Estee Lauder Q4超預期+股價暴漲16%：Beauty Reimagined策略奏效",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-estee-lauder-beats-q4-2026-estimates-shares-jump-16-93CH-4867678",
+        "source": "Investing.com",
+        "desc": "FY2026有機銷售+3%、營業利潤率擴張320bp至11.2%、EPS+66%至.51。Q4營收.27億(+6% YoY)超預期。美妝巨頭轉型成功確認"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Bitcoin暴漲7.7%衝,000：SEC新規+Treasury buyback+白宮峰會三重催化",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-most-since-march-155113259.html",
+        "source": "Bloomberg/Yahoo",
+        "desc": "3月以來最大單日漲幅。兩個月新高。ETH +10%重返,000。Coinbase +12.7%。三大催化劑同日匯聚=加密市場爆發。突破"
+      },
+      {
+        "title": "美財政部擴大國債回購：30年期殖利率19年高後政策出手穩債市",
+        "url": "https://ca.finance.yahoo.com/news/shares-fall-asia-kospi-down-060823040.html",
+        "source": "AP/Yahoo Finance",
+        "desc": "Bessent部長動用buyback工具。S&P止跌+0.2%結束3連跌。債券壓力為本週全球動盪主因。政策回應=短期利空出盡訊號。Fed會議紀要偏鴿確認"
+      },
+      {
+        "title": "Apple App Store佣金收入暴跌18%：Epic判決+EU法規雙重打擊",
+        "url": "https://www.foreignpolicyjournal.com/2026/08/19/apple-nasdaq-aapl-app-store-commission-revenue-falls-18-as-legal-battles-threaten-services-crown-jewel/",
+        "source": "Foreign Policy Journal",
+        "desc": "2026年初至今US佣金-18%。Q2消費支出-6%(去年+9%)。Services營收(季度記錄)但低於預期。分析師升評至Buy/ Store風險浮現"
+      },
+      {
+        "title": "台股跌破季線至44,719：外資結算壓低+全球債市動盪+半導體拋售",
+        "url": "https://focustaiwan.tw/business/202608190016",
+        "source": "Focus Taiwan",
+        "desc": "TAIEX 44,719(-589,-1.30%)。TSMC 2,350(-1.26%)。外資83K口空單結算日壓低。成交僅NT.9B(量縮)。分析師：44K-46K區間整理，等Nvidia財報"
+      }
+    ]
   }
 }
