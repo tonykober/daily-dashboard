@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-22",
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia  Model Factory+：非收購式AI擴張新模式",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html",
+        "source": "Yahoo Finance",
+        "desc": "非獨家授權Poolside用於建構AI模型的Model Factory系統+109名員工offer。另投(估值)。規避反壟斷審查的授權制playbook。Poolside保留Laguna程式碼模型家族"
+      },
+      {
+        "title": "Anthropic挖角Google TPU之父Amir Salek：自研晶片擺脫Nvidia/Google依賴",
+        "url": "https://www.ainvest.com/news/architect-google-tpu-building-anthropic-compute-rent-era-2608/",
+        "source": "Ainvest",
+        "desc": "前Google TPU架構師(打造7代TPU)加入Anthropic計算團隊。目標2028部署自研晶片。年算力租金,000億+。薪資up to 。擬(晶片效率化)"
+      },
+      {
+        "title": "US企業AI相關債務發行2026年達,200億：投資者開始要求更高利差",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-21-2026/",
+        "source": "The Neuron",
+        "desc": "Reuters報導：2026年AI相關企業債,200億(去年僅)。Amazon 。部分大買家警告接近曝險上限。AI融資從寬鬆走向收緊"
+      },
+      {
+        "title": "Nvidia展示「AI Harness才是真正英雄」：模型外的軟體框架決定agent能力",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "source": "TechCrunch",
+        "desc": "Harness=模型外的工具/記憶/規則軟體層。將raw model變成自主行動agent的關鍵。Nvidia論點：模型同質化後，harness/infra差異化才是護城河"
+      },
+      {
+        "title": "Nvidia黃仁勳稱OpenAI/Anthropic投資「可能是最後一次」：IPO在即",
+        "url": "https://www.businessworld.in/article/nvidia-s-huang-says-latest-openai-anthropic-bets-may-be-last-as-ipos-loom-596109",
+        "source": "BusinessWorld",
+        "desc": "黃仁勳暗示隨著兩家AI巨頭IPO臨近(Anthropic最快8月底)將不再以私募方式投資。Nvidia同時授權Poolside()+投資兩家AI lab。AI投資窗口正在關閉"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Mortal Shell 2發售後獲NVIDIA DLSS 4.5+光追支援：技術表現再升級",
+        "url": "https://www.guru3d.com/story/nvidia-adds-dlss-45-and-multi-frame-generation-support-to-new-august-game-releases/",
+        "source": "Guru3D",
+        "desc": "DLSS 4.5 Super Resolution+Multi Frame Generation+光追反射/全域照明。8/20正式發售後技術面補強。Cold Symmetry利用Nvidia RTX技術提升視覺品質"
+      },
+      {
+        "title": "Gamescom 2026下週開展：Opening Night Live 8/25+公眾日8/26-30",
+        "url": "https://www.gamesradar.com/games/events-conferences/gamescom-2026-schedule/",
+        "source": "GamesRadar",
+        "desc": "科隆Koelnmesse。8/25 Opening Night Live揭幕。全球最大遊戲展。預期新作揭露/遊玩demo。Star Wars Zero Company(8/27)可能有展前最後大型展示"
+      },
+      {
+        "title": "Mortal Shell 2發售日評測匯總：Metro稱「入門者完美魂系」",
+        "url": "https://metro.co.uk/2026/08/20/mortal-shell-2-review-perfect-soulslike-beginners-29418100/",
+        "source": "Metro UK",
+        "desc": "Empire/Metro/Checkpoint/IGN/GameSpot一致好評。「飛躍式進化」。降低門檻不犧牲深度。25-30小時。開放世界60+地牢。8種Shell提供多樣玩法"
+      },
+      {
+        "title": "80 Level：Mortal Shell 2正式上架Steam/PS/Xbox全平台",
+        "url": "https://80.lv/articles/mortal-shell-ii-sequel-to-2020-s-soulslike-hit-is-out-now",
+        "source": "80 Level",
+        "desc": "2020年魂系hit的正統續作。更快更刺激的combat。更深的武器升級系統。緊湊開放世界強調自由探索。Metacritic 84維持穩定"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Bitcoin一週暴漲22%衝：突破全年-70K區間、2024年2月以來最佳週表現",
+        "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+        "source": "CNBC",
+        "desc": "(週三)→+(週五)。22%週漲幅=2024年2月以來最佳。突破持續大半年的-70K箱體。催化：Treasury buyback翻倍+SEC新規+白宮峰會+CLARITY Act"
+      },
+      {
+        "title": "Nvidia +Anthropic挖Google TPU之父：AI晶片/軟體軍備競賽",
+        "url": "https://thenextweb.com/news/nvidia-poolside-6bn-model-factory-licence",
+        "source": "The Next Web",
+        "desc": "Nvidia付+招109人+投。同時Anthropic挖Google TPU 7代架構師自研晶片(2028)。GPU壟斷 vs 自研替代的競爭格局"
+      },
+      {
+        "title": "US企業AI債務發行,200億(YoY 17.6x)：信用市場開始亮黃燈",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-21-2026/",
+        "source": "The Neuron/Reuters",
+        "desc": "2026年AI相關債務,200億 vs 去年。Amazon 。大買家接近曝險上限。AI投資從「無限量供應」走向「信用風險定價」"
+      },
+      {
+        "title": "OpenAI「Scaling AI for everyone」宣言+國防部協議：從研究到全球規模部署",
+        "url": "https://openai.com/index/scaling-ai-for-everyone/",
+        "source": "OpenAI",
+        "desc": "「前沿AI從研究走入全球規模日常使用」。領導力由基礎設施速度定義。同時與國防部簽約(禁監控)。OpenAI定位從AI研究lab轉向全球基礎設施公司"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin一週飆漲22%至+：突破全年箱體、創2024年2月以來最佳週表現",
+        "url": "https://www.businessinsider.com/why-bitcoin-is-up-btc-clarity-act-treasury-buybacks-2026-8",
+        "source": "Business Insider",
+        "desc": "從.5K→+。類似2016年的動能(Bespoke分析)。催化：Treasury buyback翻倍+白宮加密峰會+SEC Regulation Crypto Assets+CLARITY Act推動。突破持續半年的-70K區間"
+      },
+      {
+        "title": "BTC盤中觸,600→整理：%、短期榨空或已結束",
+        "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs",
+        "source": "CoinTelegraph",
+        "desc": "盤中高,600後回落至。%。黃金同步接近3個月高。波動率趨緩暗示整理。但247WallSt警告：20%短擠壓漲幅可能已結束"
+      },
+      {
+        "title": "Strategy +8%/MARA +6%/Coinbase +5%：加密股跟隨BTC突破全面暴漲",
+        "url": "https://247wallst.com/investing/2026/08/21/strategy-rallies-8-mara-holdings-climbs-6-coinbase-jumps-5-as-bitcoin-breaks-out-of-its-2026-range/",
+        "source": "24/7 Wall St",
+        "desc": "BTC 。ETH ,384(+5%)。MicroStrategy更名Strategy後續漲8%。加密市場從恐慌走向FOMO"
+      },
+      {
+        "title": "美財政部buyback翻倍=debasement trade回歸：黃金,500+/BTC ",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html",
+        "source": "Yahoo Finance",
+        "desc": "Bessent擴大長期債回購注入流動性+壓低長期殖利率。聯邦債務>。法幣貶值敘事驅動避險資產(黃金+BTC)同步飆升。debasement trade成為年度主題"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia展示「Harness才是真英雄」：AI agent能力由框架而非模型決定",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "source": "TechCrunch",
+        "desc": "Harness=工具/記憶管理/規則的軟體wrapper。將raw model變成自主agent。模型同質化後，開發者的harness/orchestration設計才是差異化關鍵"
+      },
+      {
+        "title": "Poolside Model Factory：Nvidia花「AI模型工廠」是什麼？",
+        "url": "https://xenospectrum.com/en/nvidia-poolside-model-factory-license/",
+        "source": "Xenospectrum",
+        "desc": "深度技術解析：Model Factory是建構Laguna程式碼模型的系統(非模型本身)。非獨家授權。與Nvidia NeMo的潛在整合。對開發者意味著更強的程式碼生成基礎設施"
+      },
+      {
+        "title": "CODE Magazine特輯：Node.js MCP Server實戰讓AI直連生產系統",
+        "url": "https://codemag.com/magazine/Issue/JulAug26",
+        "source": "CODE Magazine",
+        "desc": "7-8月號封面。建構production-ready MCP server。AI模型直接存取即時數據/系統。從chatbot走向系統互操作的開發架構指南"
+      },
+      {
+        "title": "Anthropic年化+自研晶片：開發者可期待Claude API成本持續下降",
+        "url": "https://www.ctol.digital/news/anthropic-openai-custom-chips-nvidia-inference-rents/",
+        "source": "CTOL Digital",
+        "desc": "挖角Google TPU之父+Decart收購案+規模經濟。目標擺脫Nvidia/Google算力依賴=長期降低推論成本。Claude開發者直接受惠。vs OpenAI成長放緩"
+      }
+    ],
+    "art": [
+      {
+        "title": "Mortal Shell 2+DLSS 4.5光追：暗黑開放世界的技術美術再升級",
+        "url": "https://powerups.es/mortal-shell-ii-the-sinking-city-2-y-luminary-se-suman-a-la-tecnologia-nvidia-rtx/",
+        "source": "PowerUps",
+        "desc": "Nvidia RTX光追反射+全域照明+DLSS 4.5 Multi Frame Generation。Cold Symmetry的暗黑美學在光追加持下更顯深度。60+地牢場景的光影設計"
+      },
+      {
+        "title": "Google讓AI可見浮水印可關閉(SynthID保留)：AI藝術創作自由度提升",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "source": "TechCrunch",
+        "desc": "Gemini/Flow生成圖片/影片/音樂可關閉可見標記。隱形SynthID+C2PA元數據保留。創作者獲更大自由。EU AI Act與創作自由的平衡嘗試"
+      },
+      {
+        "title": "2026圖形設計趨勢回顧：AI推動回歸手工質感和不完美美學",
+        "url": "https://www.accio.com/business/graphic-design-trends-august-2026",
+        "source": "Accio",
+        "desc": "拋棄刻板完美。AI工具反而推動人文中心/表現力/適應性視覺系統。不完美美學作為對AI精確度的反動。手工質感重新成為設計師差異化工具"
+      },
+      {
+        "title": "Mortal Shell 2美術總評：「扭曲景觀+隱藏結構」的開放世界沉浸設計",
+        "url": "https://checkpointgaming.net/reviews/2026/08/mortal-shell-ii-review-emerge-from-your-shell/",
+        "source": "Checkpoint Gaming",
+        "desc": "比前作更大更複雜更滿足。廢棄神殿/禁忌森林/冰冷墓地/骨頭城塞。8種Shell各有獨特視覺。暗黑奇幻美學在開放世界中的完整實現"
+      }
+    ],
+    "design": [
+      {
+        "title": "Nvidia「Harness>Model」設計哲學：AI agent系統架構的新思維",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "source": "TechCrunch",
+        "desc": "模型同質化後，系統設計(harness)才是差異化。工具選擇/記憶管理/規則框架/orchestration=agent能力的真正決定因素。產品設計師需要思考的架構問題"
+      },
+      {
+        "title": "Framer推出Branching+Community：設計協作進入版本控制時代",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/8/20",
+        "source": "Product Hunt",
+        "desc": "Branching=設計版Git(發布前安全嘗試)。新Community讓創作者分享+獲利。設計工具從個人創作→團隊協作+經濟模型的進化"
+      },
+      {
+        "title": "Figma Design Agent+Custom Tools+MCP：agentic設計自動化",
+        "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+        "source": "Figma Blog",
+        "desc": "Design Agent支援自定義工具和MCP整合。更深設計系統context理解。從設計工具→AI驅動產品開發平台。Design Engineer角色確立"
+      },
+      {
+        "title": "Mortal Shell 2系統設計：60+地牢「緊湊但不犧牲深度」的level design",
+        "url": "https://egamersworld.com/blog/mortal-shell-2-everything-you-need-to-know-before--IWk7P1RuWu",
+        "source": "eGamersWorld",
+        "desc": "緊湊互連開放世界。60+地牢各有獨特挑戰。「尊重玩家時間」的設計原則。密度>面積。8種Shell=8種玩法路線的重玩設計"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia (授權+投資)：規避反壟斷的AI擴張新模式",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html",
+        "source": "Yahoo Finance",
+        "desc": "非獨家授權Model Factory+109人offer+(估值)。不是收購=不觸發FTC審查。Nvidia的AI投資playbook：授權>收購。Poolside保留公司+Laguna模型"
+      },
+      {
+        "title": "OpenAI燃燒/季 vs Anthropic獲利：AI巨頭商業模式分水嶺",
+        "url": "https://247wallst.com/investing/2026/08/20/openai-is-burning-12-3-billion-a-quarter-and-the-rival-it-created-just-passed-it/",
+        "source": "24/7 Wall St",
+        "desc": "Anthropic估值+EBITDA獲利。OpenAI季虧+成長放緩18%。兩條路線：Anthropic企業B2B高效率 vs OpenAI消費者+政府全面擴張但燒錢"
+      },
+      {
+        "title": "美股本週下跌(Nasdaq -2.1%/S&P -1.4%)：債市殖利率+Iran+Walmart miss",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-aug-21-2026-121542832.html",
+        "source": "Yahoo Finance",
+        "desc": "週五反彈(Dow +517/+1%)但週線仍跌。能源/Iran風險+殖利率攀升+Walmart miss壓抑。Nvidia 8/26財報=下週最大催化劑。AI trade信心需要驗證"
+      },
+      {
+        "title": "Anthropic最快8月底IPO申請：可能超越SpaceX紀錄",
+        "url": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
+        "source": "SiliconANGLE",
+        "desc": "IPO估值洽談。年化營收。可能最快8月底提交S-1。若成功將超越SpaceX紀錄成史上最大科技IPO。vs OpenAI估值"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Bitcoin週漲22%至+：2024年2月以來最佳週表現、突破全年箱體",
+        "url": "https://investing.com/news/cryptocurrency-news/bitcoin-rallies-to-near-78k-as-trump-spurs-us-regulatory-optimism-4870820",
+        "source": "Investing.com",
+        "desc": "盤中觸,600。週漲22%。5月以來最高。突破持續半年的-70K區間。%。催化：Treasury buyback+SEC新規+CLARITY Act+白宮峰會"
+      },
+      {
+        "title": "美股本週跌：Nasdaq -2.1%、S&P -1.4%、Dow -0.9%。週五反彈未能挽回",
+        "url": "https://uk.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4842065",
+        "source": "Investing.com",
+        "desc": "本週最差一週(逾一月)。債券拋售+油價上漲+Iran緊張。週五反彈(Dow+518/S&P+0.4%)。Nvidia 8/26財報為下週焦點。Walmart miss動搖消費信心"
+      },
+      {
+        "title": "企業AI債務,200億(17.6x YoY)：信用市場對AI投資亮黃燈",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-21-2026/",
+        "source": "The Neuron/Reuters",
+        "desc": "2026年AI相關企業債發行,200億(去年)。大買家接近曝險限制。利差擴大+要求更多concession。AI融資泡沫化風險浮現"
+      },
+      {
+        "title": "Treasury Bessent翻倍回購：黃金,500+/BTC =debasement trade確立",
+        "url": "https://finance.yahoo.com/video/8-20-2026-middle-east-200953286.html",
+        "source": "NYSE/Yahoo",
+        "desc": "聯邦債務>。財政部擴大buyback注入流動性。黃金/BTC同步創數月新高。法幣貶值對沖(debasement trade)成為2026下半年投資主題"
+      }
+    ]
+  }
+}
