@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-23",
+  "categories": {
+    "ai": [
+      {
+        "title": "Broadcom洽談-1,000億AI晶片融資：為Anthropic等客戶建專用晶片產能",
+        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html",
+        "source": "Bloomberg/Yahoo",
+        "desc": "SPV結構：-700億優先債(Broadcom部分擔保)+=總計可達,000億。客戶為Anthropic等AI lab。AI基礎設施融資規模再創新高"
+      },
+      {
+        "title": "OpenAI+Broadcom揭露Jalapeno推論晶片：每瓦效能大幅超越現有SOTA",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+        "source": "OpenAI",
+        "desc": "自研LLM優化推論晶片。減少數據移動+平衡計算/記憶/網路=實際利用率接近理論峰值。2026年底初步部署。Broadcom承諾2027年1.3GW合約"
+      },
+      {
+        "title": "OpenAI 8GW資料中心落地俄亥俄冷戰鈾濃縮廠舊址：6年35,000建設職位",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-lease-massive-ai-data-205913179.html",
+        "source": "Yahoo Finance",
+        "desc": "全球最大單一AI資料中心。8GW容量。Nvidia支持。Cold War遺址轉型AI基地。2032年完工。2,500長期營運職位。OpenAI基礎設施從租用→自建"
+      },
+      {
+        "title": "Anthropic Ode合資企業收購Casper Studios：AI實施層成為新戰場",
+        "url": "https://www.ainvest.com/news/ai-labs-racing-downstream-implementation-layer-bet-2608/",
+        "source": "Ainvest",
+        "desc": "8/20 Ode(Anthropic企業AI合資)首次收購AI實施諮詢公司。OpenAI/Anthropic都在「向下游」擴張：從模型→實施/部署。AI商業價值在實施層而非模型層"
+      },
+      {
+        "title": "AI投資週回顧：Nvidia  Poolside+Broadcom -100B+OpenAI 8GW=基建爆發",
+        "url": "https://genaisecretsauce.com/genai-secret-sauce-weekly-digest-week-of-august-15-to-august-21-2026/",
+        "source": "GenAI Secret Sauce",
+        "desc": "本週AI基礎設施投資破紀錄：Nvidia授權+投、Broadcom融-100B、OpenAI 8GW+Jalapeno晶片。Poolside賣stack因「拿不到夠大cluster」"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Mortal Shell 2首個大型平衡補丁：Boss削弱+金幣暴增+Glimpse退款",
+        "url": "https://www.gamesradar.com/games/action-rpg/first-mortal-shell-2-balance-patch-stacks-the-deck-for-players-refunds-for-anyone-who-wasted-glimpses-bosses-nerfed-and-gold-drops-buffed-massively/",
+        "source": "GamesRadar",
+        "desc": "發售48小時內推出重大更新。金幣掉落大幅增加(Mammon區翻倍)。Boss削弱。Shell地圖Glimpse全額退款。對玩家友好的快速回應"
+      },
+      {
+        "title": "Mortal Shell 2 Steam好評87.9%+百萬Beta玩家：.99低於市場標準",
+        "url": "https://techtimes.com/articles/325103/20260820/mortal-shell-ii-goes-wide-today-one-million-beta-players-4999-day-one-patch-applied.htm",
+        "source": "TechTimes",
+        "desc": "OpenCritic 85分。百萬玩家參與Beta。定價.99(低於.99市場標準)。Day-one patch重寫平衡。Steam極度好評(87.9%)"
+      },
+      {
+        "title": "Gamescom 2026下週一Opening Night Live：NetEase開放世界RPG首次實機展示",
+        "url": "https://game8.co/articles/latest/this-weeks-gaming-news-roundup-aug-16-to-aug-22",
+        "source": "Game8",
+        "desc": "8/25 ONL+8/26-30公眾日。NetEase確認開放世界RPG首次重大展示(自TGS 2025後)。更多新作揭露預期。科隆Koelnmesse全球最大遊戲展"
+      },
+      {
+        "title": "Mortal Shell 2彩蛋：嘲笑你Steam最多遊玩時數的遊戲",
+        "url": "https://www.thegamer.com/mortal-shell-2-pokes-fun-steam-stats/",
+        "source": "The Gamer",
+        "desc": "最終Boss戰前顯示玩家Steam最多時數遊戲(平均16,062小時=669天)。Cold Symmetry的幽默設計細節。社群熱烈討論"
+      }
+    ],
+    "tech": [
+      {
+        "title": "BTC週漲22-24%至-78K收官：三年來最佳週表現、",
+        "url": "https://news.bitcoin.com/crypto-news/bitcoin-jumps-10000-week-shorts-lose-2-7-billion/",
+        "source": "Bitcoin.com",
+        "desc": "一週漲,000+。盤中觸,500。。突破持續半年的-70K箱體。5月以來最高。催化：Treasury buyback翻倍+SEC新規+CLARITY Act"
+      },
+      {
+        "title": "Broadcom洽-1,000億SPV融資：AI晶片基礎設施進入超大規模融資時代",
+        "url": "https://walletinvestor.com/news/ai-news/broadcom-seeks-up-to-100-billion-to-build-anthropics-chips-as-the-ai-lab-weighs-its-own-path-to-public-markets/",
+        "source": "WalletInvestor",
+        "desc": "為Anthropic等大客戶生產客製AI晶片。+。SPV結構隔離風險。AI基建從「科技投資」走向「基礎設施融資」(類房地產REITs)"
+      },
+      {
+        "title": "OpenAI Jalapeno推論晶片+8GW資料中心：自研基礎設施全面啟動",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+        "source": "OpenAI",
+        "desc": "自研晶片(Broadcom製造)+8GW最大AI資料中心(俄亥俄)。從租用GPU→自建晶片+自建資料中心。OpenAI正式轉型為AI基礎設施公司"
+      },
+      {
+        "title": "BTC現貨ETF一週淨流入.2億：機構資金伴隨價格突破加速入場",
+        "url": "https://walletinvestor.com/news/crypto-news/bitcoin-clears-77000-as-spot-etfs-pull-in-1-92-billion-over-five-sessions/",
+        "source": "WalletInvestor",
+        "desc": "連5日淨流入。週五單日.07億。ETF持倉增加=機構確認趨勢。價格突破+ETF流入=正反饋循環。散戶FOMO尚未全面啟動"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC週收,335(+22-24%)：三年來最佳週表現、觸,500後整理",
+        "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-saturday-august-22-2026/",
+        "source": "Rio Times",
+        "desc": "BTC +7.26%(週五)收,335。ETH +8.12%至,515。XRP +14.61%至.45。全面性rally非單一token榨空。5月"
+      },
+      {
+        "title": "BTC現貨ETF連5日淨流入.2億：機構確認牛市回歸",
+        "url": "https://walletinvestor.com/news/crypto-news/bitcoin-clears-77000-as-spot-etfs-pull-in-1-92-billion-over-five-sessions/",
+        "source": "WalletInvestor",
+        "desc": "5個交易日.2億淨流入。週五.07億。機構資金追隨突破信號。價格+ETF流入=正反饋。ATH (2025/10)仍有距離但動能回歸"
+      },
+      {
+        "title": "%+「2016年動能」：分析師看法分歧但趨勢確認",
+        "url": "https://www.businessinsider.com/why-bitcoin-is-up-btc-clarity-act-treasury-buybacks-2026-8",
+        "source": "Business Insider",
+        "desc": "Bespoke分析：動能類似2016年。%。但247WallSt警告短擠壓可能已結束。多空觀點分歧但突破箱體為事實。下一阻力→"
+      },
+      {
+        "title": "Treasury buyback翻倍=debasement trade：BTC+黃金,700同步創數月新高",
+        "url": "https://www.latimes.com/world-nation/story/2026-08-22/how-bitcoin-gold-went-from-slump-to-mvp-week-in-just-few-days",
+        "source": "LA Times",
+        "desc": "BTC+黃金從年中低谷同步爆發。共同催化：財政部buyback注入流動性+壓低長期殖利率。法幣貶值對沖=2026下半年核心投資主題確立"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI Jalapeno晶片架構：減少數據移動+平衡計算記憶網路的推論優化",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+        "source": "OpenAI",
+        "desc": "自研LLM優化推論晶片。核心設計：減少數據移動、平衡compute/memory/networking。實際利用率接近理論峰值。對開發者意味：API latency和成本可望改善"
+      },
+      {
+        "title": "Mortal Shell 2發售48小時內推重大平衡補丁：快速回應社群反饋的開發模式",
+        "url": "https://www.gamespot.com/articles/mortal-shell-2s-latest-update-alleviates-one-of-the-games-biggest-headaches/",
+        "source": "GameSpot",
+        "desc": "金幣經濟重新平衡(與材料發現率對齊)。Boss數值調降。Glimpse退款機制。48小時內回應=現代live service開發節奏在premium遊戲的應用"
+      },
+      {
+        "title": "Nvidia「Harness才是英雄」+Poolside Model Factory：AI開發基礎設施層競爭",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "source": "TechCrunch",
+        "desc": "Nvidia論點：模型同質化後harness(工具/記憶/規則)才是差異化。Poolside =建模系統的價值。開發者需要投資在orchestration/agent框架"
+      },
+      {
+        "title": "Anthropic Ode收購Casper Studios：AI實施層成為開發者新機會",
+        "url": "https://www.ainvest.com/news/ai-labs-racing-downstream-implementation-layer-bet-2608/",
+        "source": "Ainvest",
+        "desc": "AI lab從模型向下游(實施/部署)擴張。對獨立開發者/顧問意味：AI實施諮詢市場正在被大廠整合。需要在整合前建立differentation"
+      }
+    ],
+    "art": [
+      {
+        "title": "Mortal Shell 2+NVIDIA DLSS 4.5光追反射/GI：暗黑開放世界技術美術",
+        "url": "https://www.guru3d.com/story/nvidia-adds-dlss-45-and-multi-frame-generation-support-to-new-august-game-releases/",
+        "source": "Guru3D",
+        "desc": "DLSS 4.5 Super Resolution+Multi Frame Gen+光追。60+地牢的光影設計在RTX加持下更顯深度。Cold Symmetry暗黑美學+技術圖形的完美結合"
+      },
+      {
+        "title": "Mortal Shell 2 Steam彩蛋美術設計：將玩家數據融入敘事的創意手法",
+        "url": "https://www.thegamer.com/mortal-shell-2-pokes-fun-steam-stats/",
+        "source": "The Gamer",
+        "desc": "最終Boss戰前顯示玩家Steam遊玩統計。將meta-game數據化為遊戲內敘事元素。打破第四面牆的視覺/文字設計引發社群共鳴"
+      },
+      {
+        "title": "Google AI可見浮水印可關閉(SynthID保留)：創作自由vs標記義務的平衡",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "source": "TechCrunch",
+        "desc": "Gemini/Flow生成圖片/影片/音樂可關閉可見標記。隱形SynthID保留。EU AI Act生效後的妥協方案。AI創作者獲更大表現自由"
+      },
+      {
+        "title": "2026年視覺設計趨勢：AI反而推動回歸手工質感+不完美美學",
+        "url": "https://www.accio.com/business/graphic-design-trends-august-2026",
+        "source": "Accio",
+        "desc": "AI精確度的反動=手工不完美成為新高端。expressive > rigid。human-centric > algorithmic。適應性視覺系統取代靜態規範"
+      }
+    ],
+    "design": [
+      {
+        "title": "Mortal Shell 2首日補丁的遊戲設計啟示：「金幣經濟與材料發現率對齊」",
+        "url": "https://fextralife.com/mortal-shell-2-patch-notes/",
+        "source": "Fextralife",
+        "desc": "遊戲經濟設計核心：貨幣取得速率需匹配消費速率。Mammon區金幣翻倍=玩家進度不被bottleneck。數值設計需要玩家數據驗證而非理論推算"
+      },
+      {
+        "title": "OpenAI Jalapeno晶片架構設計：「減少數據移動」的系統哲學",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+        "source": "OpenAI",
+        "desc": "晶片設計核心哲學：數據移動=最大瓶頸。平衡compute/memory/networking三角。「實際利用率接近理論峰值」的工程目標。系統設計思維"
+      },
+      {
+        "title": "Framer Branching+Community：設計版本控制+創作者經濟的產品設計",
+        "url": "https://www.producthunt.com/leaderboard/daily/2026/8/20",
+        "source": "Product Hunt",
+        "desc": "版本控制概念跨領域應用(Git→Figma→Framer)。社群經濟模型讓設計師從分享中獲利。從工具→平台→經濟體的產品進化路線"
+      },
+      {
+        "title": "Nvidia「Harness>Model」：AI產品設計的架構優先思維",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "source": "TechCrunch",
+        "desc": "模型差異化消失後=系統設計(工具選擇/記憶管理/規則框架)決定產品體驗。對AI產品設計師的啟示：投資orchestration而非model selection"
+      }
+    ],
+    "business": [
+      {
+        "title": "Broadcom洽-1,000億AI晶片融資SPV：科技融資規模破天際",
+        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html",
+        "source": "Bloomberg/Yahoo",
+        "desc": "為Anthropic等大客戶製造客製AI晶片。(Broadcom擔保)+。SPV結構。AI從VC投資→基礎設施債務融資的範式轉移"
+      },
+      {
+        "title": "Anthropic首次營業獲利.59億+年化：IPO最快8月底提S-1",
+        "url": "https://www.ainvest.com/news/ai-trade-rotating-chips-models-anthropic-ipo-nvidia-aug-26-report-proof-2608/",
+        "source": "Ainvest",
+        "desc": "Q2營收(YoY 14x)+營業利潤.59億。企業Claude Code佔營收>70%。年化。IPO估值。可能超SpaceX紀錄"
+      },
+      {
+        "title": "BTC一週漲,000至：加密產業從熊市回歸全面牛市",
+        "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+        "source": "CNBC",
+        "desc": "22%週漲幅。。現貨ETF一週.2億淨流入。突破全年箱體。三年最佳週。加密從「冬天」回到「春天」的信號確認"
+      },
+      {
+        "title": "OpenAI 8GW俄亥俄資料中心+Jalapeno晶片：從AI研究lab→基礎設施巨頭",
+        "url": "https://aimagazine.com/news/this-weeks-top-five-stories-in-ai-august-week-3",
+        "source": "AI Magazine",
+        "desc": "6年建設35,000職位。全球最大單一AI DC。自研晶片(Broadcom製)+自建DC=OpenAI不再依賴Azure/Nvidia。轉型為垂直整合AI基礎設施公司"
+      }
+    ],
+    "finance": [
+      {
+        "title": "BTC收,335週漲22-24%：2024年2月以來/三年來最佳週表現",
+        "url": "https://sundayguardianlive.com/business/bitcoin-price-today-22-august-why-is-bitcoin-up-today-btc-surges-above-77000-in-biggest-weekly-rally-in-3-years-check-latest-prices-in-usd-inr-gbp-euro-jpy-266930/",
+        "source": "Sunday Guardian",
+        "desc": "盤中,500。ETH ,515(+8.12%)。XRP +14.61%。全面性rally。。ETF .2億週淨流入。ATH (2025/10)仍有38%距離"
+      },
+      {
+        "title": "BTC+黃金,700同步爆發：Treasury buyback debasement trade主導下半年",
+        "url": "https://www.latimes.com/world-nation/story/2026-08-22/how-bitcoin-gold-went-from-slump-to-mvp-week-in-just-few-days",
+        "source": "LA Times",
+        "desc": "BTC+黃金從年中低谷MVP週。共同催化：Bessent翻倍buyback。聯邦債+。法幣貶值對沖成為2026下半年投資主題。「幾天內從低谷到最有價值」"
+      },
+      {
+        "title": "Broadcom -1,000億AI融資+企業AI債,200億：信用市場對AI亮黃燈",
+        "url": "https://www.ainvest.com/news/broadcom-raising-60-billion-ai-order-book-demand-certification-leverage-risk-2608/",
+        "source": "Ainvest",
+        "desc": "AI基建融資爆發但利差擴大+買家接近限額。Broadcom SPV=需求確認or槓桿風險？2026年AI債,200B(YoY 17.6x)。泡沫化擔憂與實際需求並存"
+      },
+      {
+        "title": "Nvidia 8/26財報=下週全球市場最大事件：AI trade需要驗證",
+        "url": "https://www.ainvest.com/news/ai-trade-rotating-chips-models-anthropic-ipo-nvidia-aug-26-report-proof-2608/",
+        "source": "Ainvest",
+        "desc": "市值.25兆PE 33x。Poolside +Anthropic IPO=AI投資高峰。但Walmart miss+美股週跌顯示信心脆弱。8/26=proof point。若miss→AI trade修正風險大"
+      }
+    ]
+  }
+}
