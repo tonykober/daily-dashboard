@@ -183,5 +183,247 @@
       }
     ],
     "summary": "台股8/21收45,224.29(+0.65%)盤中V轉反彈。TSMC 2,410(+1.47%)尾盤拉抬。本週-586(-1.28%)但守穩45,000支撐。資金明確輪動：AI高價股→航運(漲停潮)/石化(+2%+)/記憶體(創見漲停)。TSM US (+0.9%)+BTC (+22%週)反映全球risk-on。下週核心事件：Nvidia 8/26財報=半導體方向指標。策略：①主動型ETF(00981A折價1.7%/00982A折價1.3%)=最佳逆勢買入 ②高息(0056/00878)資金輪動受惠+加碼 ③債券(00403A)Treasury buyback利多持續加碼 ④半導體(00892/00891)觀望等Nvidia ⑤TSMC持有不追。45,000下方有支撐，量能回升+Nvidia利多=反攻46,000的條件。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia AI伺服器價格漲逾15%：DRAM短缺推升記憶體佔機架成本25%",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
+        "source": "Bloomberg/Yahoo",
+        "desc": "Vera Rubin/Grace Blackwell系統2027初出貨價漲>15%。DRAM成本Q1翻倍。記憶體佔高階AI機架成本25%。Samsung/SK Hynix/Micron供應緊張。可能加速大廠自研晶片"
+      },
+      {
+        "title": "OpenAI高層警告「持續性」AI網路攻擊威脅：暫停訓練是必要的",
+        "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+        "source": "The Guardian",
+        "desc": "Chris Lehane受訪稱「我們正進入不同的章節」。AI自主攻擊能力已是現實(Hugging Face事件)。暫停訓練至新guardrails完成。企業AI安全需重新定義"
+      },
+      {
+        "title": "AI晶片全棧戰爭升溫：Anthropic挖Google TPU之父+OpenAI Jalapeno+Nvidia Poolside",
+        "url": "https://completeaitraining.com/news/ai-chip-and-model-makers-move-into-each-others-turf-as-full/",
+        "source": "Complete AI Training",
+        "desc": "模型商做晶片(OpenAI Jalapeno/Anthropic自研)、晶片商做模型(Nvidia Poolside)。全棧垂直整合趨勢確立。2028年前每家都將有自己的晶片"
+      },
+      {
+        "title": "US vs 中國AI競賽最新數據：美國效能領先、中國成本取勝",
+        "url": "https://theinnermostloop.substack.com/p/welcome-to-august-23-2026",
+        "source": "The Innermost Loop",
+        "desc": "新數據審計：美國系統benchmark仍領先但中國lab在成本面日益勝出。美國資本+晶片維持前沿差距「大致穩定」。AI的兩個SKU：美國效能 vs 中國定價"
+      },
+      {
+        "title": "Thinking Machines發布Inkling：百萬token開源MoE推理模型",
+        "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+        "source": "Communeify",
+        "desc": "Open-weight MoE推理模型。1M token context window。原生多模態支援。開源社群的frontier-adjacent選項增加。推理模型democratization持續"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Gamescom ONL確認8款大作：Witcher 3 DLC/FF7 Revelation/Gears E-Day/Metro 2039",
+        "url": "https://www.vice.com/en/article/gamescom-opening-night-live-games-2026/",
+        "source": "Vice",
+        "desc": "8/25 ONL確認：The Witcher 3: Songs of the Past(第三DLC=Witcher 4前傳)、FF7 Revelation(三部曲最終章)、Gears of War E-Day、Metro 2039、Ananta、Game of Thrones: War for Westeros、Warlock: D&D、Tides of Annihilation"
+      },
+      {
+        "title": "The Witcher 3: Songs of the Past首次亮相：發售12年後第三DLC+Witcher 4前傳",
+        "url": "https://tech.yahoo.com/gaming/articles/expect-onl-gamescom-2026-113000672.html",
+        "source": "IGN/Yahoo",
+        "desc": "CD Projekt Red+Fool s Theory共同開發。被描述為Witcher 4的「前傳」。Geralt最終冒險。距原版2015年發售已12年。ONL將首次展示"
+      },
+      {
+        "title": "Mortal Shell 2首個大型補丁48hr內上線：Boss削弱+金幣翻倍+退款機制",
+        "url": "https://www.gamesradar.com/games/action-rpg/first-mortal-shell-2-balance-patch-stacks-the-deck-for-players-refunds-for-anyone-who-wasted-glimpses-bosses-nerfed-and-gold-drops-buffed-massively/",
+        "source": "GamesRadar",
+        "desc": "玩家友好更新：Mammon區金幣翻倍。Boss削弱。Shell地圖Glimpse全額退款。Steam好評87.9%。百萬Beta玩家。Cold Symmetry快速回應社群"
+      },
+      {
+        "title": "Gamescom 2026完整時程：8/25 ONL→8/26業界日→8/27-30公眾日",
+        "url": "https://www.purexbox.com/features/gamescom-opening-night-live-date-start-times-and-what-to-expect",
+        "source": "Pure Xbox",
+        "desc": "ONL: 8/25 11am PT/8pm CEST(Geoff Keighley+sjokz共同主持)。30分鐘pre-show。去年35.7萬人到場。IGN為官方合作夥伴。全球最大遊戲展"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nvidia AI伺服器2027年漲價>15%：DRAM危機衝擊AI基礎設施成本",
+        "url": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
+        "source": "24/7 Wall St",
+        "desc": "記憶體(非GPU)成為AI成本新瓶頸。Vera Rubin CPU容量因記憶體削減從55TB→28TB/rack。加速Anthropic/OpenAI自研晶片動機。HBM供應成為AI算力天花板"
+      },
+      {
+        "title": "BTC整理-77K(週六-1.7%)：22%週漲後正常回調、",
+        "url": "https://www.interactivecrypto.com/bitcoin-pulls-back-after-rally-fueled-by-treasury-bond-buybacks-and-regulatory-optimism-aug-2026",
+        "source": "Interactive Crypto",
+        "desc": "BTC ,333(-1.7%)。盤中觸。ETF 5日.2億流入。ETH ,387(-2%)。市場從「爆發」轉「整理」。下一催化：CLARITY Act投票+Nvidia 8/26"
+      },
+      {
+        "title": "Scott Bessent將BTC debasement trade推入更高檔：Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+        "source": "Yahoo Finance",
+        "desc": "BTC+黃金+美元指數同步反映debasement。Treasury buyback=法幣供給擴張。BTC +23%/黃金+5%/美元走弱。「Bessent一個下午摧毀了」"
+      },
+      {
+        "title": "Gamescom 2026明日ONL開幕：Witcher 3/FF7/Gears/Metro=年度最大遊戲展",
+        "url": "https://gamesbeat.com/geoff-keighley-previews-opening-night-live-coming-tuesday-at-gamescom/",
+        "source": "GamesBeat",
+        "desc": "8/25 8pm CEST。Geoff Keighley+sjokz主持。8款已確認大作+更多未公布驚喜。去年35.7萬人到場。科隆全球最大遊戲盛事"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC週回顧：→(+23%)後整理-77K、ETF .2億流入確認機構牛市",
+        "url": "https://www.chosun.com/english/market-money-en/2026/08/24/YCOTFDPIRBGAPLCIDNBPWJIDAI/",
+        "source": "Chosun",
+        "desc": "8天內+23.5%。,883→,650。創紀錄ETF流入。BlackRock IBIT領漲。從「投機散戶資產」→「宏觀防禦金融化工具」的敘事轉換完成"
+      },
+      {
+        "title": "「交易員押注BTC困在。財政部一個下午摧毀了他們」",
+        "url": "https://fortune.com/2026/08/23/bitcoin-squeeze-treasury-buyback-shorts-blown-up/",
+        "source": "Fortune",
+        "desc": "做空者在-70K區間經營數週。Treasury buyback公布→→BTC突破。「一個政策決定摧毀一個交易假設」的教科書案例"
+      },
+      {
+        "title": "本週加密展望：16項Altcoin解鎖+經濟數據密集+Nvidia財報",
+        "url": "https://en.bitcoinsistemi.com/live/live-august-23-2026-bitcoin-and-crypto-news-daily-highlights/",
+        "source": "Bitcoin Sistemi",
+        "desc": "本週16個altcoin token unlock。Nvidia 8/26(影響風險偏好)。經濟數據密集。BTC整理-77K後方向待定。槓桿風險上升需警惕"
+      },
+      {
+        "title": "BTC debasement trade確立：Bessent buyback=通膨對沖配置的政策確認",
+        "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+        "source": "Yahoo Finance",
+        "desc": "BTC從「投機」走向「宏觀策略」的里程碑週。Treasury Secretary親手注入流動性=政策層面確認法幣稀釋。BTC+黃金作為debasement對沖的雙支柱"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Thinking Machines Inkling：開源百萬token MoE推理模型上線",
+        "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+        "source": "Communeify",
+        "desc": "Open-weight MoE reasoning model。1M token context。原生多模態。開發者又多一個frontier-adjacent開源選項。推理能力不再是閉源壟斷"
+      },
+      {
+        "title": "AI晶片全棧整合對開發者的影響：API成本曲線將持續下降",
+        "url": "https://completeaitraining.com/news/ai-chip-and-model-makers-move-into-each-others-turf-as-full/",
+        "source": "Complete AI Training",
+        "desc": "OpenAI/Anthropic/Google都在自研晶片。擺脫Nvidia溢價=推論成本結構性下降。開發者受惠：每token成本長期持續降低是確定趨勢"
+      },
+      {
+        "title": "Nvidia伺服器漲15%但GPU不是瓶頸—記憶體才是：對AI基建開發的啟示",
+        "url": "https://www.ainvest.com/news/15-server-price-hike-memory-supply-story-nvidia-pricing-story-2608/",
+        "source": "Ainvest",
+        "desc": "DRAM/HBM=AI成本新瓶頸而非GPU。Vera Rubin容量從55TB→28TB。開發者面臨：算力可用但記憶體受限→context window/batch size可能受影響"
+      },
+      {
+        "title": "OpenAI Private Safety Processing技術細節：零保留下的跨session監控",
+        "url": "https://finance.biggo.com/news/ce57d988-8984-4b43-a908-e4cf2c65b1b3",
+        "source": "BigGo Finance",
+        "desc": "OpenAI企業市場差異化：不保留數據仍可偵測濫用。vs Anthropic 30天日誌保留政策(引發機密數據客戶擔憂)。開發者選擇API時的隱私考量因素"
+      }
+    ],
+    "art": [
+      {
+        "title": "Gamescom ONL明日預告：Witcher 3 Songs of the Past首次視覺亮相",
+        "url": "https://tech.yahoo.com/gaming/articles/expect-onl-gamescom-2026-113000672.html",
+        "source": "IGN/Yahoo",
+        "desc": "12年後Geralt的新冒險。CD Projekt Red+Fool s Theory。作為Witcher 4前傳的定位暗示全新美術方向。ONL將展示首個實機/預告"
+      },
+      {
+        "title": "Final Fantasy VII Revelation(三部曲最終章)Gamescom ONL首次亮相",
+        "url": "https://www.redbull.com/us-en/gamescom-opening-night-live-2026-games",
+        "source": "Red Bull",
+        "desc": "FF7 Remake三部曲完結篇。Square Enix在Gamescom的重大展示。從Midgar→Rebirth→Revelation的視覺/敘事進化。2026年最受期待的JRPG"
+      },
+      {
+        "title": "Mortal Shell 2 Steam彩蛋美術：將玩家數據融入遊戲敘事的第四面牆設計",
+        "url": "https://www.thegamer.com/mortal-shell-2-pokes-fun-steam-stats/",
+        "source": "The Gamer",
+        "desc": "最終Boss前顯示Steam最多時數遊戲(avg 16,062hr)。meta-game數據變遊戲內敘事。打破第四面牆的文字/視覺設計。社群熱議的創意細節"
+      },
+      {
+        "title": "2026設計趨勢：AI推動回歸手工不完美美學+expressive人文視覺",
+        "url": "https://www.accio.com/business/graphic-design-trends-august-2026",
+        "source": "Accio",
+        "desc": "AI精確度反動=手工質感成高端。拋棄rigid perfection。human-centric > algorithmic。適應性視覺系統取代靜態品牌規範"
+      }
+    ],
+    "design": [
+      {
+        "title": "Gamescom ONL的展示設計學：2小時+pre-show打造全球遊戲揭露節奏",
+        "url": "https://gamesbeat.com/geoff-keighley-previews-opening-night-live-coming-tuesday-at-gamescom/",
+        "source": "GamesBeat",
+        "desc": "30min pre-show+2hr主秀。8款確認+未公布驚喜。Keighley+sjokz雙主持。從E3消亡到Gamescom ONL崛起=遊戲展示設計的演化"
+      },
+      {
+        "title": "Nvidia漲價15%揭示的系統設計問題：記憶體成為AI架構真正瓶頸",
+        "url": "https://startupfortune.com/nvidia-warns-customers-ai-server-prices-are-jumping-over-15-on-memory-costs/",
+        "source": "Startup Fortune",
+        "desc": "HBM供應不足→Vera Rubin容量減半。系統設計啟示：算力不是唯一瓶頸，記憶體頻寬/容量設計同等重要。AI系統架構需三角平衡"
+      },
+      {
+        "title": "Mortal Shell 2金幣經濟重設計：「貨幣取得率=材料消費率」的數值哲學",
+        "url": "https://www.gamespot.com/articles/mortal-shell-2s-latest-update-alleviates-one-of-the-games-biggest-headaches/",
+        "source": "GameSpot",
+        "desc": "48hr補丁核心：經濟系統對齊。玩家進度不被bottle neck。Mammon區翻倍。設計原則：遊戲經濟需要真實玩家數據驗證而非理論推算"
+      },
+      {
+        "title": "OpenAI vs Anthropic隱私架構對比：零保留 vs 30天日誌的設計取捨",
+        "url": "https://finance.biggo.com/news/ce57d988-8984-4b43-a908-e4cf2c65b1b3",
+        "source": "BigGo Finance",
+        "desc": "OpenAI：不保留數據→演算法偵測。Anthropic：30天保留→精確追蹤。企業客戶的信任設計：隱私權vs安全性的product positioning"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia AI伺服器漲15%：記憶體危機揭示AI繁榮的隱藏成本",
+        "url": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
+        "source": "24/7 Wall St",
+        "desc": "DRAM Q1翻倍。記憶體=機架成本25%。Samsung/SK Hynix/Micron供應緊張。加速大廠自研晶片需求。AI基建成本上升≠Nvidia定價權強化(是供應鏈問題)"
+      },
+      {
+        "title": "BTC一週+23%完美收官：從投機資產到宏觀防禦工具的敘事轉換",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-surges-23-in-1-week-to-trade-nearly-78k-as-liquidity-hopes-etf-inflows-boost-crypto-markets/articleshow/133420463.cms",
+        "source": "Economic Times",
+        "desc": "ETF .2億流入+Treasury buyback+SEC新規+白宮峰會。「加密冬天結束」信號。從retail speculation→institutional macro hedge。BTC金融化完成"
+      },
+      {
+        "title": "Gamescom 2026明日開幕：8款AAA確認=遊戲產業2026下半年風向標",
+        "url": "https://www.vice.com/en/article/gamescom-opening-night-live-games-2026/",
+        "source": "Vice",
+        "desc": "Witcher 3 DLC/FF7完結/Gears E-Day/Metro 2039/GoT=2026-2027遊戲產業最重磅陣容。去年35.7萬到場。遊戲展從E3繼承的商業+文化影響力"
+      },
+      {
+        "title": "Anthropic挖Google TPU之父=晶片自主化信號：可能衝擊Nvidia 8/26財報敘事",
+        "url": "https://www.thestreet.com/technology/anthropic-silicon-team-amir-salek-hire",
+        "source": "The Street",
+        "desc": "Amir Salek(Google TPU 7代)加入Anthropic。8月第二位重要晶片人才(6月已挖OpenAI工程師)。2028年部署目標。對Nvidia長期需求的潛在威脅"
+      }
+    ],
+    "finance": [
+      {
+        "title": "BTC整理-77K(-1.7%週六)：22%暴漲後正常回調、ETF流入確認牛市",
+        "url": "https://coincodex.com/article/90678/daily-market-update-for-august-23-2026/",
+        "source": "CoinCodex",
+        "desc": "週六小幅回調至。ETH ,387(-2%)。槓桿風險建立中需警惕。但ETF持續流入+機構佈局=底部抬升。下一目標→(48%機率)"
+      },
+      {
+        "title": "Nvidia 8/26財報=本週全球市場最大事件：AI trade的proof point",
+        "url": "https://www.startuphub.ai/ai-news/podcast/2026/today-in-ai-nvidia-s-billion-dollar-bets-and-ai-s-deep-impact",
+        "source": "Startup Hub AI",
+        "desc": "市值.25T/PE 33x。Poolside +CoreWeave建Vera Rubin平台。但伺服器漲15%+DRAM短缺=成本壓力。若miss→AI trade整體修正。若beat→新高"
+      },
+      {
+        "title": "Nvidia伺服器漲15%背後：DRAM供應危機可能成為AI成長天花板",
+        "url": "https://www.notebookcheck.net/The-memory-crisis-hits-Nvidia-AI-server-prices-are-set-to-rise-by-more-than-15.1376142.0.html",
+        "source": "Notebookcheck",
+        "desc": "Vera Rubin因記憶體削減容量減半。Samsung/Hynix/Micron三巨頭供應不足。HBM成為AI擴張瓶頸。利好記憶體股(台灣：南亞科/華邦)但壓抑AI基建速度"
+      },
+      {
+        "title": "Treasury debasement trade確立為2026下半年投資主題：BTC+黃金+美元弱勢",
+        "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+        "source": "Yahoo Finance",
+        "desc": "Bessent翻倍buyback=聯邦債+流動性注入+長期殖利率壓制。BTC+黃金同步飆漲。美元走弱。通膨對沖資產配置需求結構性上升"
+      }
+    ]
   }
 }
