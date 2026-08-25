@@ -183,5 +183,247 @@
       }
     ],
     "summary": "台股8/24收44,762(-462,-1.02%)再度跌破45,000。成交NT.4B為4/8以來最低=市場極度觀望Nvidia。TSMC 2,375(-1.45%,-280pt)。外資賣超NT.5億。南亞科-5%(記憶體DRAM漲價利好兌現)。分析師：7月底來反彈+13%後獲利回吐自然。46K-48K強壓。本週決戰：Nvidia 8/26(台灣8/27凌晨)。策略：①Nvidia前全面觀望，不追不砍 ②主動型ETF(00981A/00982A)折價>1%逆勢買入不受Nvidia影響 ③高息(0056/00878)+債券(00403A)防禦加碼 ④半導體(00892/00891/00929)⚠️ Nvidia後再決定方向。颱風蘇力接近但不登陸。量能回升=反彈條件。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia Poolside交易確認：+對抗中國AI",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-coming-openai-deepseek-6-042155320.html",
+        "source": "WSJ/Yahoo",
+        "desc": "WSJ確認：100+Poolside員工加入Nemotron(2023推出的開源模型)。目標對抗中國開源AI(DeepSeek/Kimi)。創辦人稱確保AI「不被少數人控制」。Nvidia從晶片商→模型商的正式轉型"
+      },
+      {
+        "title": "Nvidia 8/26財報預期：Q2營收(+96% YoY)、EPS .09",
+        "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+        "source": "Yahoo Finance",
+        "desc": "本週最大事件。營收預期=連續季加速。Data center 。但AI伺服器漲15%+DRAM短缺+記憶體股下跌=成本壓力訊號。AI trade的proof-or-bust moment"
+      },
+      {
+        "title": "Anthropic追求「大紅旗」警告",
+        "url": "https://247wallst.com/investing/2026/08/24/anthropic-is-chasing-a-2-trillion-ipo-its-most-powerful-ai-model-is-raising-a-big-red-flag/",
+        "source": "24/7 Wall St",
+        "desc": "年化(7x YoY)支撐。目標2028營收,000億。但最新模型安全評估引發擔憂(具體風險未公開)。IPO估值 vs 安全風險的張力"
+      },
+      {
+        "title": "Nvidia伺服器漲15%引發記憶體股暴跌：Sandisk/Micron/記憶體類週一重挫",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/",
+        "source": "Motley Fool",
+        "desc": "Nvidia -2.9%。Sandisk/Micron大跌(中國新記憶體公司IPO+Nvidia漲價雙重壓力)。投資者在Nvidia財報前減持風險。半導體板塊週一領跌"
+      },
+      {
+        "title": "本週AI關鍵日曆：Nvidia 8/26+通膨數據+Iran制裁細節+Gamescom",
+        "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-august-24-28-2026-1787489745",
+        "source": "TalkMarkets",
+        "desc": "週一Iran制裁。週二消費信心。週三Nvidia+GDP修正。週四通膨PCE。AI trade在多重事件交叉下面臨方向選擇"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "🎮 Gamescom ONL今晚！FF7 Revelation/Witcher 3 DLC/Gears E-Day/Metro 2039",
+        "url": "https://www.vice.com/en/article/gamescom-opening-night-live-games-2026/",
+        "source": "Vice",
+        "desc": "今日8/25 8pm CEST(台灣8/26凌晨2點)。FF7 Revelation(三部曲完結)導演Hamaguchi出席。Witcher 3 Songs of the Past(Witcher 4前傳)。Gears E-Day。Game of Thrones: War for Westeros gameplay首曝"
+      },
+      {
+        "title": "Gamescom ONL觀看指南：Twitch/YouTube直播+2小時+30min pre-show",
+        "url": "https://kotaku.com/gamescom-opening-night-live-where-watch-date-time-stream-2000727546",
+        "source": "Kotaku",
+        "desc": "8/25 11am PT/2pm ET/8pm CEST。Geoff Keighley+sjokz主持。Twitch+YouTube同步。Game Informer稱：全年三大Keighley展(SGF/ONL/TGA)之二"
+      },
+      {
+        "title": "FF7 Revelation確認Switch 2版+導演親臨：三部曲完結篇最新展示",
+        "url": "https://geekslands.fr/gamescom-2026-toutes-les-annonces-opening-night-live-direct/",
+        "source": "Geekslands",
+        "desc": "Naoki Hamaguchi導演出席。確認Switch 2版。Cloud最終章。從Midgar→Rebirth→Revelation的旅程終點。2026最受期待JRPG"
+      },
+      {
+        "title": "Polygon選出Gamescom 7大最受期待遊戲：「展會史上最大年」",
+        "url": "https://www.polygon.com/gamescom-2026-confirmed-games/",
+        "source": "Polygon",
+        "desc": "稱2026為Gamescom「最大年」。7款核心期待作品橫跨RPG/戰術/動作/策略。去年35.7萬人到場。全球遊戲產業注意力最集中的一晚"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nvidia -2.9%領跌半導體：伺服器漲15%消息+財報前風險降低",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/",
+        "source": "Motley Fool",
+        "desc": "週一Nvidia →(-2.9%)。Sandisk/Micron因中國記憶體IPO下跌。投資者在8/26財報前de-risk。Nasdaq -0.8%。科技板塊連續承壓"
+      },
+      {
+        "title": "US對Iran宣布「經濟D-Day」制裁：Bessent週一記者會公布細節",
+        "url": "https://ca.investing.com/news/economy-news/sp-nasdaq-futures-slip-as-markets-await-iran-sanctions-nvidia-results-4813513",
+        "source": "Reuters/Investing",
+        "desc": "「經濟D-Day」=對Iran貿易夥伴全面制裁。油價波動。地緣+Nvidia+通膨=本週高波動確認。Treasury可能用(CNBC)"
+      },
+      {
+        "title": "8人因非法出口Nvidia伺服器至中國被起訴(台灣)",
+        "url": "https://focustaiwan.tw/business/202608240017",
+        "source": "Focus Taiwan/CNA",
+        "desc": "台灣檢方起訴8人涉及非法出口Nvidia AI伺服器至中國。美中AI晶片管制的在地執法案例。Nvidia出口管制合規風險的台灣面向"
+      },
+      {
+        "title": "BTC週末回調至.8K後反彈：22%週漲後正常整理",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-august-24-2026",
+        "source": "KuCoin",
+        "desc": "週末薄流動性下短暫跌至.8K後反彈。加密股週五大漲(Robinhood +13.7%/Coinbase +8.2%)。BTC最佳8月(自2017以來)打破歷史性熊市模式"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC最佳8月(自2017以來)：打破歷史性「8月=跌」模式",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "8/21收(+22.6%週)。為2024/11/12週以來最強。歷史上8月通常是BTC弱勢月=本輪打破模式。ETF流入+Treasury buyback+SEC新規=結構性轉變"
+      },
+      {
+        "title": "加密股全面爆發：Robinhood +13.7%/Coinbase +8.2%/Strategy +6.1%",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262126347-gold-breaks-4600-bitcoin-surges-market-focus-nvidia-earnings-jackson-hole-tradingkey",
+        "source": "TradingKey",
+        "desc": "BTC 。黃金>,600。「debasement trade」成為跨資產主題。機構從觀望→追漲階段"
+      },
+      {
+        "title": "BTC整理-77K：週末.8K短暫回調後企穩，等Nvidia催化",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-august-24-2026",
+        "source": "KuCoin",
+        "desc": "週末薄流動性下測.8K支撐成功。。槓桿風險升高需注意。Nvidia若beat=risk-on延續利好BTC。16 altcoin本週解鎖"
+      },
+      {
+        "title": "Scott Bessent親手推動BTC debasement trade：Treasury buyback=法幣稀釋確認",
+        "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+        "source": "Yahoo Finance",
+        "desc": "聯邦債+buyback翻倍=流動性注入。BTC+黃金同步新高。美元走弱。「財政部一個下午摧毀做空者」。debasement=2026H2核心投資主題"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia Poolside+Nemotron計畫：開源AI模型對抗中國DeepSeek/Kimi",
+        "url": "https://dailycaller.com/2026/08/24/nvidia-make-own-artificial-intelligence-models-poolside-compete-china-openai-anthropic/",
+        "source": "Daily Caller",
+        "desc": "100+工程師加入Nemotron開源模型。Open Secure AI Alliance(Palantir/IBM/CrowdStrike/SpaceX)。「開源技術更安全因為有更多陽光」。開發者將有更多高品質開源選項"
+      },
+      {
+        "title": "Gamescom ONL今晚：遊戲開發者展示季的商業+技術風向",
+        "url": "https://gameinformer.com/2026/08/24/how-to-watch-gamescom-opening-night-live-2026",
+        "source": "Game Informer",
+        "desc": "全年三大展(SGF/ONL/TGA)之二。2小時世界首映+更新。開發工作室的行銷時機選擇。從E3消亡到ONL/TGA雙核心的遊戲展示生態"
+      },
+      {
+        "title": "Nvidia財報前的開發者啟示：AI伺服器漲15%=雲端API成本可能跟漲",
+        "url": "https://www.tweaktown.com/news/artificial_intelligence_ai/index.html",
+        "source": "TweakTown",
+        "desc": "DRAM漲價→伺服器成本+15%→雲端供應商可能轉嫁→API定價上升風險。開發者需注意：短期推論成本可能因記憶體瓶頸而逆轉此前的下降趨勢"
+      },
+      {
+        "title": "OpenAI成長放緩至18%=開發者生態分散化加速",
+        "url": "https://uk.finance.yahoo.com/news/tech-stocks-today-openais-growth-disappoints-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
+        "source": "Yahoo Finance",
+        "desc": "OpenAI Q2 (+18% QoQ放緩)。Anthropic (14x YoY)。開發者正在分散API供應商風險。多模型路由(OpenRouter/Stripe)需求因此暴增"
+      }
+    ],
+    "art": [
+      {
+        "title": "Gamescom ONL今晚：FF7 Revelation+Witcher 3 DLC+Metro 2039視覺首曝",
+        "url": "https://www.newgamenetwork.com/gamescom-opening-night-live-2026-games/",
+        "source": "New Game Network",
+        "desc": "今晚8pm CEST。FF7三部曲完結的視覺呈現。Witcher 3新DLC(12年後的美術進化)。Metro 2039後末日俄羅斯。多款AAA的美術方向首次揭露"
+      },
+      {
+        "title": "The Witcher 3: Songs of the Past—12年後的視覺回歸+Witcher 4前傳美術",
+        "url": "https://tech.yahoo.com/gaming/articles/expect-onl-gamescom-2026-113000672.html",
+        "source": "IGN",
+        "desc": "CD Projekt Red+Fool s Theory。作為W4前傳的定位暗示全新美術語言。2015年原版至今12年間圖形技術跨越。Geralt最終冒險的視覺設計"
+      },
+      {
+        "title": "Mortal Shell 2持續好評：Steam 87.9%+DLSS 4.5光追美術加持",
+        "url": "https://www.guru3d.com/story/nvidia-adds-dlss-45-and-multi-frame-generation-support-to-new-august-game-releases/",
+        "source": "Guru3D",
+        "desc": "發售後DLSS 4.5+RT反射+GI。暗黑開放世界在光追下更顯深度。首週補丁改善體驗。Cold Symmetry暗黑美學持續獲讚"
+      },
+      {
+        "title": "2026遊戲視覺：從Mortal Shell 2(暗黑手工)到FF7 Revelation(寫實CG級)",
+        "url": "https://www.vice.com/en/article/gamescom-opening-night-live-games-2026/",
+        "source": "Vice",
+        "desc": "本週兩極美術風格同台：MS2的暗黑手工質感 vs FF7R的極致寫實CG。Metro 2039的後末日光影。2026遊戲美術多元化高峰"
+      }
+    ],
+    "design": [
+      {
+        "title": "Gamescom ONL的展示設計：2hr+pre-show+多平台同步的遊戲揭露節奏",
+        "url": "https://kotaku.com/gamescom-opening-night-live-where-watch-date-time-stream-2000727546",
+        "source": "Kotaku",
+        "desc": "30min pre-show暖場→2hr主秀。Twitch/YouTube同步。雙主持(Keighley+sjokz)。8款確認+N個驚喜的懸念管理。遊戲展示設計的年度標竿"
+      },
+      {
+        "title": "Nvidia「harness>model」延伸：開源Nemotron的平台設計思維",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-coming-openai-deepseek-6-042155320.html",
+        "source": "Yahoo/WSJ",
+        "desc": "Poolside Model Factory=建模系統。Nemotron=開源模型。開放技術哲學：「由多數人在開放中建構」vs 閉源壟斷。平台>產品的設計決策"
+      },
+      {
+        "title": "AI伺服器漲15%的系統設計啟示：記憶體成為真正的架構瓶頸",
+        "url": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
+        "source": "24/7 Wall St",
+        "desc": "DRAM佔AI機架成本25%。Vera Rubin容量從55TB→28TB。系統設計需平衡compute/memory/networking三角。記憶體頻寬=AI天花板"
+      },
+      {
+        "title": "Mortal Shell 2金幣經濟修正：48hr數據驅動的遊戲系統設計迭代",
+        "url": "https://www.gamesradar.com/games/action-rpg/first-mortal-shell-2-balance-patch-stacks-the-deck-for-players-refunds-for-anyone-who-wasted-glimpses-bosses-nerfed-and-gold-drops-buffed-massively/",
+        "source": "GamesRadar",
+        "desc": "發售48hr內推重大平衡補丁。金幣與材料取得率對齊。「遊戲經濟需真實數據驗證非理論推算」的系統設計原則"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia 8/26財報預期(+96%)：AI trade的proof-or-bust moment",
+        "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+        "source": "Yahoo Finance",
+        "desc": "市值.25T。預期Q2營收(+96% YoY)。EPS .09。Data Center 。但伺服器漲15%+DRAM短缺=成本壓力。若miss→AI trade全面修正"
+      },
+      {
+        "title": "Nvidia直接挑戰OpenAI/DeepSeek：Poolside交易=晶片巨頭進軍模型市場",
+        "url": "https://dailycaller.com/2026/08/24/nvidia-make-own-artificial-intelligence-models-poolside-compete-china-openai-anthropic/",
+        "source": "Daily Caller/WSJ",
+        "desc": "從客戶的供應商→客戶的競爭者。開源Nemotron對抗中國開源+美國閉源。Open Secure AI Alliance聯盟。AI產業從合作走向全面競爭"
+      },
+      {
+        "title": "US對Iran「經濟D-Day」制裁週一啟動：Bessent主導新一輪壓力",
+        "url": "https://yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+        "source": "Yahoo Finance",
+        "desc": "針對Iran貿易夥伴的全面制裁。Bessent記者會。油價波動。地緣風險+Nvidia+通膨=本週高波動。能源股受惠但全球供應鏈承壓"
+      },
+      {
+        "title": "台灣8人因非法出口Nvidia伺服器至中國被起訴：出口管制執法升級",
+        "url": "https://focustaiwan.tw/business/202608240017",
+        "source": "Focus Taiwan",
+        "desc": "美中AI晶片管制的台灣執法案例。非法出口AI伺服器涉國安。Nvidia供應鏈合規風險。台灣半導體產業的地緣政治敏感性"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Nasdaq -0.8%/S&P -0.3%週一：Nvidia -2.9%+記憶體股暴跌+Iran制裁",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-down-204939190.html",
+        "source": "Reuters/Yahoo",
+        "desc": "Nasdaq 25,980(-0.8%)。S&P 7,652(-0.3%)。Dow +0.3%(防禦輪動)。科技/半導體領跌。Iran「經濟D-Day」。Nvidia 8/26+PCE通膨=高波動週"
+      },
+      {
+        "title": "台股跌破45K收44,762：成交NT.4B為4月以來最低=全面觀望",
+        "url": "https://focustaiwan.tw/business/202608240017",
+        "source": "Focus Taiwan",
+        "desc": "TSMC 2,375(-1.45%,-280pt)。外資賣NT.5億。南亞科-5%。量能最低=觀望Nvidia+避險。7月底反彈+13%後自然回吐。45K下方有支撐"
+      },
+      {
+        "title": "Nvidia 8/26財報=本週全球焦點：若beat→AI trade延續；若miss→修正風險",
+        "url": "https://www.ainvest.com/news/ai-trade-rotating-chips-models-anthropic-ipo-nvidia-aug-26-report-proof-2608/",
+        "source": "Ainvest",
+        "desc": "預期營收(+96%)。Anthropic IPO+Poolside +Broadcom =AI投資在高峰。但伺服器漲15%+DRAM缺+OpenAI放緩=warning signs。關鍵proof point"
+      },
+      {
+        "title": "BTC +黃金>,600：debasement trade本週面對Nvidia+通膨數據考驗",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262126347-gold-breaks-4600-bitcoin-surges-market-focus-nvidia-earnings-jackson-hole-tradingkey",
+        "source": "TradingKey",
+        "desc": "BTC +22%週後整理-77K。黃金,600+。Nvidia beat=risk-on延續。PCE通膨若高=Fed鷹派回歸壓力。Treasury buyback能否持續支撐?"
+      }
+    ]
   }
 }
