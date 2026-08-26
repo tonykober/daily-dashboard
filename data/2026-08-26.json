@@ -183,5 +183,247 @@
       }
     ],
     "summary": "台股8/25收45,169(+407,+0.91%)盤中V轉收復45,000！TSMC 2,400(+1.05%)。金融+2.1%領漲。US 8/25: Nasdaq +0.66%科技反彈。⚡今晚Nvidia Q2(預期/+96%)=全球AI trade方向決定。策略：①Nvidia前不追不砍=純觀望半導體 ②主動型ETF(00981A -1.7%/00982A -1.3%)折價持續加碼(不受Nvidia影響) ③高息(0056/00878)+債券(00403A)穩定加碼 ④若Nvidia beat→明日追半導體ETF(00892/00891)+TSMC ⑤若miss→半導體減碼+高息/債券加碼。V轉顯示45,000有強支撐。量能待恢復。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia今日盤後公布Q2：預期營收(+96%)、JPMorgan看-950億",
+        "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+        "source": "Yahoo Finance",
+        "desc": "EPS預期.09。Data Center +。JPMorgan看beat至-950億(+15% QoQ)。ACIE(企業AI)營收成長31%首度追平hyperscaler。7日連跌-7.5%後的proof point"
+      },
+      {
+        "title": "Nvidia對hyperscaler依賴度面臨考驗：ACIE vs 雲端巨頭營收比重關鍵",
+        "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+        "source": "CNBC",
+        "desc": "Q1兩段幾乎平分：hyperscaler  vs ACIE 。ACIE成長31%>hyperscaler 12%。若ACIE持續高增=需求廣度確認。結構性多元化vs集中風險"
+      },
+      {
+        "title": "Wall Street寄望Nvidia「再次扛起AI trade」：分析師目標最高",
+        "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-hopes-nvidia-keep-161202567.html",
+        "source": "Yahoo Finance",
+        "desc": "JPMorgan看好beat+上調guidance。目標(+65%上漲空間)。「rock solid」預期。但7日連跌顯示市場不確定性。若miss=2022以來最長跌勢延續"
+      },
+      {
+        "title": "Nvidia預期營收=AI Token(FET/TAO/NEAR/RNDR)方向指標",
+        "url": "https://www.kucoin.com/news/flash/nvidia-q2-earnings-expected-to-impact-ai-linked-crypto-tokens",
+        "source": "KuCoin",
+        "desc": "若Nvidia beat→AI crypto tokens反彈(FET/TAO/NEAR/RNDR)。Sentiment>Cash flow=crypto pricing。風險回報評估：漲幅已price-in vs 進一步上行空間"
+      },
+      {
+        "title": "BTC突破,000：Iran制裁擴大+Treasury buyback+Nvidia前risk-on",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/u-expands-iran-sanctions-bitcoin-092405695.html",
+        "source": "Yahoo Finance",
+        "desc": "8/25 BTC破(5月以來最高)。Iran制裁+美元走弱+流動性注入。BTC從(8/18)→(8/25)=8天+25%。Nvidia beat可進一步推動risk-on"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "🎮 Gamescom ONL全回顧：Witcher 3免費重製版9/29+Songs of the Past DLC確認",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "最大驚喜：Witcher 3 Remastered(免費升級9/29)。升級視覺+新終結技+擴展照相模式+新Signs特效。Hearts of Stone/Blood and Wine免費開放。DLC由Fool s Theory開發"
+      },
+      {
+        "title": "FF7 Revelation新實機展示+Switch 2版確認+GoT首個gameplay曝光",
+        "url": "https://www.tomsguide.com/news/live/gamescom-opening-night-live-2026-latest-updates",
+        "source": "Tom s Guide",
+        "desc": "FF7三部曲完結篇Hamaguchi導演親臨。Game of Thrones: War for Westeros完整gameplay首曝。Gears E-Day新Campaign trailer。Metro 2039。年度最大揭露夜"
+      },
+      {
+        "title": "Worms Galactic Tactics公布：XCOM/Mario+Rabbids式回合策略新作",
+        "url": "https://nexuspointnews.com/every-major-announcement-at-gamescom-opening-night-live/",
+        "source": "Nexus Point",
+        "desc": "Worms系列新方向=回合制戰術策略。同時公布另一款傳統Worms新作。經典IP的類型轉型嘗試。XCOM式gameplay+Worms幽默"
+      },
+      {
+        "title": "Gamescom ONL完整列表：Witcher/FF7/Gears/Metro/GoT/Ananta/Warlock/Worms+更多",
+        "url": "https://games.gg/news/gamescom-onl-2026-every-game-announced/",
+        "source": "Games.gg",
+        "desc": "2小時展示。8款預確認全部亮相+多款驚喜。Witcher 3 Remastered(9/29)為最大意外。Gamescom 8/26-30公眾日開始。年度最大遊戲展showcase圓滿"
+      }
+    ],
+    "tech": [
+      {
+        "title": "BTC突破,000：8天內從%、5月以來首次",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/u-expands-iran-sanctions-bitcoin-092405695.html",
+        "source": "Yahoo Finance",
+        "desc": "(8/18)→(8/25)。Iran制裁擴大+Treasury buyback+SEC新規+CLARITY Act。黃金,600+。debasement trade全面確立。ATH "
+      },
+      {
+        "title": "Nvidia今晚盤後財報：7日連跌-7.5%=預期已壓低，beat空間大",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262129740-nvidia-q2-earnings-preview-tradingkey",
+        "source": "TradingKey",
+        "desc": "8/14-24累計跌7.5%=2022以來最長連跌。股價。預期-950億。跌幅已price-in壞消息。若beat=短線急彈"
+      },
+      {
+        "title": "Witcher 3 Remastered免費升級9/29：11年老遊戲的技術重生",
+        "url": "https://games.gg/news/gamescom-onl-2026-every-game-announced/",
+        "source": "Games.gg",
+        "desc": "CD Projekt Red送給所有W3玩家的免費禮物。升級視覺+重製技能樹+新終結技+照相模式。同時HoS/BaW兩個DLC免費。技術面：PS5/XSX/PC+Switch 2計畫中"
+      },
+      {
+        "title": "US-Canada貿易緊張升級：加拿大報復性關稅但市場消化+關注Nvidia",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html",
+        "source": "Yahoo Finance",
+        "desc": "加拿大宣布報復性關稅。US新Iran制裁+Canada關稅=雙重貿易壓力。但S&P +0.32%/Nasdaq +0.66%=市場聚焦Nvidia而非地緣。科技反彈領漲"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC突破,000(5月以來首次)：8天+25%、debasement trade進入新階段",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/u-expands-iran-sanctions-bitcoin-092405695.html",
+        "source": "Yahoo Finance",
+        "desc": "→(8天)。Iran制裁擴大美元+Treasury buyback+SEC新規。,231整理後再破。ATH (2025/10)尚有57%空間。機構ETF持續流入"
+      },
+      {
+        "title": "Nvidia財報=AI crypto tokens方向：FET/TAO/NEAR/RNDR等候結果",
+        "url": "https://www.ainvest.com/news/nvidia-earnings-ai-token-rally-sentiment-cash-run-price-2608/",
+        "source": "Ainvest",
+        "desc": "AI tokens跟隨Nvidia走勢。若beat=sentiment lift→AI tokens反彈。但「漲幅已price-in」的警告。Sentiment驅動>基本面=高波動風險"
+      },
+      {
+        "title": "Bessent debasement trade完全確立：BTC+黃金+美元弱勢三位一體",
+        "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+        "source": "Yahoo Finance",
+        "desc": "Treasury buyback翻倍=法幣供給擴張確認。BTC +黃金,600+美元走弱。「2026H2最確定的宏觀交易」。從投機走向宏觀防禦配置"
+      },
+      {
+        "title": "BTC 8月表現破歷史：自2017以來最佳8月、打破「8月=弱勢」模式",
+        "url": "https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-august-23-2026",
+        "source": "Bitcoin News Digest",
+        "desc": "歷史上8月通常弱勢。2026年8月=BTC從→(+29%)。ETF持續流入+政策催化+Treasury行動=結構性轉變。不再是「季節性弱勢」"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Nvidia Nemotron開源計畫：100+工程師建構對抗DeepSeek的開放模型",
+        "url": "https://dailycaller.com/2026/08/24/nvidia-make-own-artificial-intelligence-models-poolside-compete-china-openai-anthropic/",
+        "source": "Daily Caller/WSJ",
+        "desc": "Poolside工程師加入Nemotron。目標：對抗中國開源AI(DeepSeek/Kimi)+不讓閉源壟斷。Open Secure AI Alliance。開發者將獲更多高品質開源選項"
+      },
+      {
+        "title": "Nvidia財報對開發者的影響：ACIE營收=企業AI工具需求的晴雨表",
+        "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+        "source": "CNBC",
+        "desc": "ACIE(企業AI加速)營收成長31%首度追平hyperscaler。=企業AI部署加速=開發者工具需求持續膨脹。Nvidia客戶多元化=AI非集中在幾家雲"
+      },
+      {
+        "title": "Witcher 3 Remastered的技術開發啟示：11年老遊戲的免費重製模式",
+        "url": "https://screenrant.com/gamescom-opening-night-live-blog-2026/",
+        "source": "Screen Rant",
+        "desc": "免費升級所有現有玩家。新終結技/技能樹/照相模式=retroactive content update。遊戲開發的長尾維護策略。Fool s Theory(外包)+CDPR(監修)模式"
+      },
+      {
+        "title": "Gamescom ONL技術趨勢：DLSS 4.5/光追/Switch 2跨平台成為標準",
+        "url": "https://www.gamesradar.com/news/live/gamescom-opening-night-live-live-coverage-2026-everything-announced/",
+        "source": "GamesRadar",
+        "desc": "W3 Remastered支援PS5/XSX/PC+Switch 2。Mortal Shell 2 DLSS 4.5。Metro 2039次世代圖形。跨平台+AI輔助圖形=2026遊戲技術基準"
+      }
+    ],
+    "art": [
+      {
+        "title": "Witcher 3 Remastered視覺升級：新終結技+Signs特效+照相模式(9/29免費)",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "11年後的視覺重生。升級光照/材質/粒子。新finisher動畫。擴展照相模式。重製技能樹UI。CD Projekt Red對經典作品的美術尊重"
+      },
+      {
+        "title": "FF7 Revelation Gamescom實機展示：三部曲完結篇的視覺頂峰",
+        "url": "https://www.tomsguide.com/news/live/gamescom-opening-night-live-2026-latest-updates",
+        "source": "Tom s Guide",
+        "desc": "導演Hamaguchi親自展示。從Midgar→Rebirth→Revelation的視覺進化終章。Switch 2版同步確認。Square Enix CG級即時渲染的極致呈現"
+      },
+      {
+        "title": "Game of Thrones: War for Westeros首個gameplay美術：中世紀奇幻戰爭",
+        "url": "https://www.vice.com/en/article/gamescom-opening-night-live-games-2026/",
+        "source": "Vice",
+        "desc": "HBO授權遊戲首次完整gameplay曝光。Westeros大陸的視覺重現。中世紀+奇幻+政治的美術方向。從影視IP到互動媒體的視覺轉譯"
+      },
+      {
+        "title": "Metro 2039：後末日莫斯科的次世代視覺+Gears E-Day暗黑軍事美學",
+        "url": "https://www.destructoid.com/gamescom-opening-night-live-2026-all-announcements/",
+        "source": "Destructoid",
+        "desc": "Metro系列招牌的地下光影回歸。Gears E-Day Campaign trailer展示暗黑軍事美學。兩款不同風格的末日/戰爭視覺設計同台"
+      }
+    ],
+    "design": [
+      {
+        "title": "Gamescom ONL展示設計覆盤：2hr節奏、驚喜管理、免費升級的商業策略",
+        "url": "https://kotaku.com/gamescom-opening-night-live-recap-roundup-2000727971",
+        "source": "Kotaku",
+        "desc": "預確認8款→展中驚喜(W3 Remastered)=懸念節奏完美。免費升級=商業設計(拉回玩家→購買新DLC)。Geoff Keighley的展示節奏學"
+      },
+      {
+        "title": "Witcher 3免費重製的商業設計邏輯：remaster作為DLC銷售漏斗",
+        "url": "https://screenrant.com/gamescom-opening-night-live-blog-2026/",
+        "source": "Screen Rant",
+        "desc": "免費升級拉回舊玩家→購買Songs of the Past DLC。DLC作為Witcher 4前傳=品牌暖身。「11年後還能免費升級」的品牌忠誠度設計"
+      },
+      {
+        "title": "Worms類型轉型設計：經典2D→XCOM式3D策略的IP重新定位",
+        "url": "https://nexuspointnews.com/every-major-announcement-at-gamescom-opening-night-live/",
+        "source": "Nexus Point",
+        "desc": "Worms Galactic Tactics=IP類型轉換。保留幽默核心但gameplay全面重構。經典IP如何在不失品牌DNA下做類型創新的設計案例"
+      },
+      {
+        "title": "Nvidia 7日連跌的市場心理設計：預期管理 vs 實際表現的gap效應",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262129740-nvidia-q2-earnings-preview-tradingkey",
+        "source": "TradingKey",
+        "desc": "7日-7.5%壓低預期→若beat=超預期效應放大。「sell the rumor, buy the news」的反轉設計。市場心理的預期管理學"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia今晚Q2：(+96%)=AI產業的成績單、分析師目標",
+        "url": "https://www.forbes.com/sites/paulocarvao/2026/08/25/nvidia-earnings-a-scorecard-for-the-ai-boom/",
+        "source": "Forbes",
+        "desc": "AI boom的scorecard。Q1 Data Center 。ACIE成長31%追平hyperscaler=需求廣度。若beat→AI trade延續。若miss→.25T市值修正風險"
+      },
+      {
+        "title": "Gamescom ONL：Witcher 3免費重製+8款大作=遊戲產業下半年確認繁榮",
+        "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+        "source": "The Verge",
+        "desc": "免費升級策略(W3)+三部曲完結(FF7)+新IP(GoT)+經典續作(Metro/Gears/Worms)=2026下半年遊戲內容爆發確認。去年35.7萬人到場"
+      },
+      {
+        "title": "US-Iran「經濟D-Day」+US-Canada報復關稅：雙重貿易壓力但市場聚焦Nvidia",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html",
+        "source": "Yahoo Finance",
+        "desc": "Iran全面制裁+Canada報復。Bessent記者會。但S&P +0.32%/Nasdaq +0.66%=市場選擇忽視地緣、聚焦Nvidia。風險被壓後但未消失"
+      },
+      {
+        "title": "BTC破+Nvidia今晚：若同步positive=risk-on全面爆發預期",
+        "url": "https://www.startuphub.ai/ai-news/claudes-trades/2026/trader-claudes-2026-08-25",
+        "source": "Startup Hub AI",
+        "desc": "BTC +Nvidia若beat=雙重risk-on催化。加密+AI同步向上=2024年底以來最強風險偏好。反之若Nvidia miss=BTC可能回測"
+      }
+    ],
+    "finance": [
+      {
+        "title": "US 8/25：S&P +0.32%/Nasdaq +0.66%/Dow +0.3%=科技反彈等Nvidia",
+        "url": "https://www.gate.com/news/detail/us-stocks-rise-as-nvidia-earnings-anticipation-lifts-nasdaq-066-23721174",
+        "source": "Gate.com",
+        "desc": "Nasdaq 26,151(+0.66%)。S&P 7,677(+0.32%)。Dow +160。科技領漲=Nvidia前做多。殖利率回落利好成長股。Jackson Hole+PCE本週稍後"
+      },
+      {
+        "title": "BTC ,000突破：8天+25%、debasement trade進入-",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/u-expands-iran-sanctions-bitcoin-092405695.html",
+        "source": "Yahoo Finance",
+        "desc": "8/18 →8/25 。ETF持續流入。%+。ATH %。Treasury buyback+CLARITY Act+SEC=政策面全面利好確認"
+      },
+      {
+        "title": "Nvidia今晚=全球市場分水嶺：若beat→AI trade/半導體/台股全面反攻",
+        "url": "https://www.ainvest.com/news/ai-trade-rotating-chips-models-anthropic-ipo-nvidia-aug-26-report-proof-2608/",
+        "source": "Ainvest",
+        "desc": "TSMC/台股/SOX/AI tokens全部等Nvidia。預期(+96%)。7日連跌已壓低基期。若beat=short squeeze反彈。若miss=2022以來最長跌勢"
+      },
+      {
+        "title": "台股8/25 V轉收45,169(+0.91%)：TSMC 2,400、連2日V轉=45K強支撐確認",
+        "url": "https://focustaiwan.tw/business/202608250018",
+        "source": "Focus Taiwan",
+        "desc": "盤中-500pt→收最高(+407)。TSMC 2,400(+1.05%)尾盤拉抬400pt。金融+2.1%。連續兩日盤中急跌後V轉=多方45K防守堅定。等Nvidia定方向"
+      }
+    ]
   }
 }
