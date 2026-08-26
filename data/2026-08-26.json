@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-26",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 45169.46,
+      "taiex_change_pct": "+0.91%",
+      "taiex_date": "2026-08-25",
+      "note": "8/25收45,169.46(+407.14,+0.91%)。盤中跌逾500點後V轉收最高。收復45,000。TSMC 2,400(+1.05%從盤低拉回約400點)。金融+2.1%。電子+0.8%。科技服務+1.4%。成交適中。市場在Nvidia財報前做多信心回歸。今日Nvidia 8/26 US盤後公布Q2=全球最大事件(台灣8/27凌晨出爐)。US 8/25：Nasdaq +0.66%/S&P +0.32%=科技反彈。TSM 。US-Canada貿易緊張但市場消化。",
+      "us_sp500": 7677.22,
+      "us_sp500_note": "S&P +0.32%(7,677.22)。Nasdaq +0.66%(26,151)。Dow +160(+0.3%連3漲)。科技反彈領漲(殖利率回落)。Nvidia財報今晚US盤後。Jackson Hole Fed講話。Canada報復性關稅但市場未受衝擊",
+      "oil_brent": "~",
+      "oil_note": "Iran新制裁後油價小幅回落至。Bessent「經濟D-Day」已公布。市場已消化地緣風險",
+      "foreign_investors": "8/25外資動態待確認。前日賣超NT.5億。但TSMC尾盤+1.05%顯示買盤回歸。Nvidia前外資可能翻多"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2400,
+        "nav": null,
+        "pb": 10.1,
+        "pe": 22.0,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+5.2%",
+        "recommendation": "⚡Nvidia今晚=方向決定",
+        "note": "8/25收2,400(+1.05%)從盤低V轉。TSM US 。PE 29.4x(Morningstar)。今晚Nvidia Q2(預期/+96%YoY)。若beat→TSMC明日2,450-2,500。若miss→回2,300。目前位置=等候結果。不追不砍"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": 103.0,
+        "nav": 102.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.19%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "持有/Nvidia後定奪",
+        "note": "隨大盤反彈。微溢價。核心持有。Nvidia結果出爐後再決定加碼或減碼"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": 50.5,
+        "nav": 50.6,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+0.8%",
+        "recommendation": "加碼✅",
+        "note": "高息ETF持續抗跌。金融+2.1%帶動高息類上漲。折價微幅。殖利率>5%。不受Nvidia影響的穩定配置"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": 27.0,
+        "nav": 27.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.37%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "加碼✅",
+        "note": "ESG+高股息。金融板塊走強帶動。折價微幅。季配穩定。加碼"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": 28.8,
+        "nav": 28.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.35%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "持有/可加碼",
+        "note": "月配息。折價微幅。穩定。持有領息"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": 11.5,
+        "nav": 11.55,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.43%",
+        "vs_quarterly_ma": "0%",
+        "recommendation": "持有觀望",
+        "note": "接近季線。折價偏大。觀望為主"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": 116.0,
+        "nav": 115.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.17%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "持有",
+        "note": "核心配置。微溢價。Nvidia後定奪"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": 20.8,
+        "nav": 20.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.48%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "⚡Nvidia今晚=buy or sell",
+        "note": "半導體ETF隨TSMC反彈。Nvidia若超預期=明日大幅反彈可追。若miss=出場。今晚是方向決定時刻"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": 21.8,
+        "nav": 21.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.46%",
+        "vs_quarterly_ma": "+0.5%",
+        "recommendation": "⚡Nvidia今晚=方向",
+        "note": "同00892。半導體供應鏈ETF。等Nvidia結果"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": 15.2,
+        "nav": 15.4,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.30%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "折價買入✅",
+        "note": "主動型ETF。折價>1%。不受單一事件影響。主動管理=alpha機會。分批加碼"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": 17.5,
+        "nav": 17.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.69%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "折價買入✅✅",
+        "note": "主動型ETF。折價~1.7%=持續最佳買入水位。不受Nvidia影響的結構性折價機會。強烈建議"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": 39.1,
+        "nav": 39.2,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.26%",
+        "vs_quarterly_ma": "+1.8%",
+        "recommendation": "加碼✅",
+        "note": "債券ETF。殖利率回落=債券利多。Treasury buyback持續。折價微幅。防禦+配息"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": 15.0,
+        "nav": 15.02,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.13%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "持有",
+        "note": "核心配置。Nvidia後定"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": 24.0,
+        "nav": 24.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.42%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "⚡Nvidia後決定",
+        "note": "科技+高息。Nvidia若beat=科技反彈優先受惠。持有等結果"
+      }
+    ],
+    "summary": "台股8/25收45,169(+407,+0.91%)盤中V轉收復45,000！TSMC 2,400(+1.05%)。金融+2.1%領漲。US 8/25: Nasdaq +0.66%科技反彈。⚡今晚Nvidia Q2(預期/+96%)=全球AI trade方向決定。策略：①Nvidia前不追不砍=純觀望半導體 ②主動型ETF(00981A -1.7%/00982A -1.3%)折價持續加碼(不受Nvidia影響) ③高息(0056/00878)+債券(00403A)穩定加碼 ④若Nvidia beat→明日追半導體ETF(00892/00891)+TSMC ⑤若miss→半導體減碼+高息/債券加碼。V轉顯示45,000有強支撐。量能待恢復。"
+  }
+}
