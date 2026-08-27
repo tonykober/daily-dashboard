@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-27",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 45832.62,
+      "taiex_change_pct": "+1.47%",
+      "taiex_date": "2026-08-26",
+      "note": "8/26收45,832.62(+663.16,+1.47%)。單日收復所有短中期均線！大立光/緯穎領漲。成交回升NT.25B。台股在Nvidia財報前強勢做多。⚡Nvidia Q2結果出爐(8/26 US盤後)=全面BEAT：營收.2B(+106% YoY，遠超.3B預期)、EPS .22(超.09)、毛利率75%、Q3 guidance (超)、FY28展望+70%成長。管理層稱「需求遠超supply-constrained預測」。Nvidia盤後+3.98%至。今日台股TSMC/半導體預期強勢反攻！TSM -418(財報前)。TSMC 7月營收+44.7% YoY。",
+      "us_sp500": 7677.22,
+      "us_sp500_note": "US 8/26盤中mixed(PCE通膨仍黏)。但Nvidia盤後暴漲+3.98%=8/27美股期貨大漲預期。Nvidia Q2 .2B全面beat+Q3 =AI trade信心全面回歸。Jackson Hole Fed Warsh講話待觀察",
+      "oil_brent": "~",
+      "oil_note": "Iran制裁後油價。市場焦點完全轉向Nvidia+AI。地緣風險暫退居次要",
+      "foreign_investors": "8/26外資買盤回歸(TAIEX +663點)。Nvidia beat後外資預期加碼半導體。今日開盤外資買超台積電/半導體可期"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2400,
+        "nav": null,
+        "pb": 10.1,
+        "pe": 22.0,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+5.5%",
+        "recommendation": "偏多✅ Nvidia beat利多",
+        "note": "8/26收2,400。⚡Nvidia全面beat(.2B/+106%,Q3 )=TSMC最大利多(Nvidia晶片全由TSMC代工)。Nvidia稱需求超供給=TSMC訂單能見度延長。7月營收+44.7%。Q3 guidance .6-45.8B。今日開盤預期跳空高開，目標2,450-2,500。回落不破2,380可加碼"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": 104.0,
+        "nav": 103.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.19%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "持有/偏多",
+        "note": "Nvidia利多帶動大盤。TAIEX收復所有均線。今日跟隨半導體上攻。核心持有，突破前高46K可續抱"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": 50.8,
+        "nav": 50.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "持有",
+        "note": "高息ETF。市場轉risk-on時漲幅可能落後半導體。但穩定配息。已持有續抱領息。折價微幅"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": 27.2,
+        "nav": 27.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.37%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "持有",
+        "note": "ESG+高股息。risk-on時相對落後但穩定。持有領息"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": 29.0,
+        "nav": 29.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.34%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有",
+        "note": "月配息。持有領息。折價微幅"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": 11.6,
+        "nav": 11.65,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.43%",
+        "vs_quarterly_ma": "+0.5%",
+        "recommendation": "持有",
+        "note": "價值+高息。大盤反攻帶動小漲。折價偏大。持有"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": 117.0,
+        "nav": 116.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.17%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "持有/偏多",
+        "note": "與0050同質。Nvidia利多帶動。跟隨半導體上攻。核心持有"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": 21.2,
+        "nav": 21.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.47%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "偏多✅ Nvidia利多首選",
+        "note": "⚡Nvidia beat最直接受惠ETF！半導體全面反攻。Nvidia Q3  guidance+FY28 +70%=AI晶片需求爆發延續。今日跳空高開可期。突破可追，回落季線加碼"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": 22.3,
+        "nav": 22.4,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.45%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "偏多✅ Nvidia利多",
+        "note": "半導體供應鏈。Nvidia beat+CoWoS/HBM需求爆發利好。同00892強勢反攻。偏多操作"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": 15.4,
+        "nav": 15.5,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.65%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "持有/折價收斂",
+        "note": "主動型ETF。Nvidia利多帶動淨值上升，折價可能收斂(從-1.3%→-0.65%)。前期折價買入者續抱。主動管理受惠AI反攻"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": 17.8,
+        "nav": 18.0,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.11%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "持有/折價收斂中",
+        "note": "主動型ETF。Nvidia利多推升淨值。折價從-1.7%收斂至-1.1%。前期低接者豐收。YTD最強。仍有折價可續加"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": 39.0,
+        "nav": 39.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.26%",
+        "vs_quarterly_ma": "+1.8%",
+        "recommendation": "持有/加碼",
+        "note": "債券ETF。risk-on時債券相對平淡但仍為配置基石。PCE通膨黏=殖利率短期波動。Jackson Hole觀察。防禦配置持有"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": 15.2,
+        "nav": 15.22,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.13%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有/偏多",
+        "note": "類0050。Nvidia利多跟漲。核心配置持有"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": 24.5,
+        "nav": 24.6,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.41%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "偏多✅",
+        "note": "科技+高息。Nvidia beat=科技類直接受惠+月配息=雙優勢。半導體題材反攻帶動。偏多持有"
+      }
+    ],
+    "summary": "台股8/26收45,832(+663,+1.47%)單日收復所有均線！⚡Nvidia Q2全面BEAT：營收.2B(+106%)、EPS .22、Q3 guidance 、FY28 +70%成長、需求超供給。盤後+3.98%至。=AI trade信心全面回歸！今日台股半導體預期強勢反攻。策略轉偏多：①半導體ETF(00892/00891)=Nvidia利多首選，跳空高開可追 ②TSMC(Nvidia代工廠)最大受惠，目標2,450-2,500 ③00929科技高息雙優勢 ④核心(0050/006208)跟漲續抱 ⑤主動型ETF(00981A/00982A)折價收斂中，前期低接者豐收 ⑥高息(0056/00878)+債券(00403A)相對落後但穩定持有。目標挑戰前高46,000-48,000。留意Jackson Hole+PCE通膨。"
+  }
+}
