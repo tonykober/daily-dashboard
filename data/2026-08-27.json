@@ -183,5 +183,247 @@
       }
     ],
     "summary": "台股8/26收45,832(+663,+1.47%)單日收復所有均線！⚡Nvidia Q2全面BEAT：營收.2B(+106%)、EPS .22、Q3 guidance 、FY28 +70%成長、需求超供給。盤後+3.98%至。=AI trade信心全面回歸！今日台股半導體預期強勢反攻。策略轉偏多：①半導體ETF(00892/00891)=Nvidia利多首選，跳空高開可追 ②TSMC(Nvidia代工廠)最大受惠，目標2,450-2,500 ③00929科技高息雙優勢 ④核心(0050/006208)跟漲續抱 ⑤主動型ETF(00981A/00982A)折價收斂中，前期低接者豐收 ⑥高息(0056/00878)+債券(00403A)相對落後但穩定持有。目標挑戰前高46,000-48,000。留意Jackson Hole+PCE通膨。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia Q2全面BEAT：營收.2B(+106%)、Data Center (+117%)、Q3 guide ",
+        "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+        "source": "CNBC",
+        "desc": "淨利.95B翻倍。EPS .22(超.09)。毛利率75%。Data Center (+117%,超.8B)。Q3 guide (超.57B)。FY28 +70%成長。「需求遠超supply-constrained預測」"
+      },
+      {
+        "title": "Nvidia警告「極端」記憶體成本將壓縮毛利率：AI基建成本結構轉變",
+        "url": "https://www.businessinsider.com/nvidia-earnings-report-nvda-stock-ai-chips-jensen-huang-2026-8",
+        "source": "Business Insider",
+        "desc": "Data Center ：hyperscale +ACIE(主權AI/區域雲/企業)。但警告「extreme」記憶體成本壓縮利潤率。Vera Rubin進入full production。「compute is revenue」"
+      },
+      {
+        "title": "Anthropic開發Orbit主動式助手：整合Gmail/Slack/GitHub/Figma的briefing工具",
+        "url": "https://www.testingcatalog.com/anthropic-is-working-on-orbit-its-upcoming-proactive-assistant/",
+        "source": "Testing Catalog",
+        "desc": "Orbit為Claude Cowork的主動簡報工具。從Gmail/Slack/GitHub/Figma等提取洞察。AI從被動回應→主動briefing。企業AI助手的proactive進化"
+      },
+      {
+        "title": "Nvidia股價盤後波動劇烈：先跌2%後彈4%=beat但預期已高",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/nvidia-shares-react-to-solid-earnings-report-and-stonger-guidance-what-s-next-for-the-ai-giant",
+        "source": "XTB",
+        "desc": "盤後初跌2%(sell the news)後1小時彈4%。營收/EPS/guidance三重beat。.66收盤(-1.59%)→盤後。市場對「超預期程度」的重新定價"
+      },
+      {
+        "title": "PCE通膨3.7%高於預期：Nvidia beat被通膨黏著抵消、Jackson Hole聚焦",
+        "url": "https://www.vtmarkets.com/en-ca/live-updates/bitcoin-slips-below-80000-as-sticky-us-pce-lifts-caution-gold-tests-4600-ahead-of-jackson-hole/",
+        "source": "VT Markets",
+        "desc": "7月PCE 3.7% YoY(超3.6%共識)。核心PCE 3.3%。月增0.2%。通膨黏著=Fed降息預期降溫。Nvidia利多與通膨隱憂並存。Warsh首次Jackson Hole講話關鍵"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Gamescom ONL大驚喜：Heroes of Might & Magic 3重製版(1999經典)+HoYoverse Nodusfall",
+        "url": "https://www.screenhub.com.au/news/industry-news/gamescom-onl-2026-games-news-roundup-2706908/",
+        "source": "ScreenHub",
+        "desc": "Ubisoft宣布HoMM3重製(新視覺+gameplay升級)。miHoYo開場公布Nodusfall(UE5合作動作新作)。經典IP復活+新IP登場的雙軌驚喜"
+      },
+      {
+        "title": "Witcher 3: Songs of the Past定2027發售=Geralt最後冒險，之後傳承給Ciri",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "CD Projekt Red壓軸。2027發售(原版12年後)。首個trailer+Geralt新連鎖武器。開發者稱「Geralt最後冒險」後傳承Ciri。Witcher 4瞄準2028"
+      },
+      {
+        "title": "Hitman全免費一個月+Snoop Dogg成暗殺目標(8/27起)",
+        "url": "https://www.shanethegamer.com/news/gamescom-2026-opening-night-live-recap/",
+        "source": "Shane the Gamer",
+        "desc": "IO Interactive宣布Hitman全遊戲免費暢玩一個月。Snoop Dogg從8/27成為遊戲內暗殺目標。名人聯動+免費策略拉回玩家"
+      },
+      {
+        "title": "Gamescom ONL完整回顧：Witcher/FF7/Gears/Metro/GoT/HoMM3/Nodusfall全揭曉",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/25/everything-announced-at-gamescom-opening-night-live-2026",
+        "source": "Game Informer",
+        "desc": "2小時展示滿載大作。Witcher 3免費重製(9/29)為最大驚喜。FF7 Revelation/Gears E-Day/Metro 2039新trailer。經典重製+續作+新IP的年度盛宴"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nvidia .2B季度創紀錄：Data Center +117%、FY28 +70%展望超預期",
+        "url": "https://www.forbes.com/sites/fionariley/2026/08/26/nvidia-posts-96-billion-quarter-as-ai-boom-powers-106-growth-in-a-year/",
+        "source": "Forbes",
+        "desc": "營收.2B(+106% YoY)。Data Center (+117%)。Q3  guidance。FY28 +70%。市值.25T的AI引擎持續加速。第四季連續YoY增速加快"
+      },
+      {
+        "title": "BTC跌破：7月PCE通膨3.7%高於預期壓制risk-on",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-slides-under-78k-as-us-pce-inflation-lifts-risk-off-trade",
+        "source": "KuCoin",
+        "desc": "BTC從,257盤中高回落至。PCE 3.7%(超3.6%)+核心3.3%。通膨黏著=risk-off。BTC/股市/黃金同步承壓。Jackson Hole前謹慎"
+      },
+      {
+        "title": "Figma×Anthropic深化整合：Claude Code→Figma Canvas雙向設計工作流",
+        "url": "https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/",
+        "source": "Figma Blog",
+        "desc": "use_figma工具讓Claude Code/Codex/MCP客戶端生成+修改設計資產(連結設計系統)。「無論從coding agent、Figma或命令列開始，Figma是聚焦點」。AI agent與設計canvas整合"
+      },
+      {
+        "title": "Nvidia警告記憶體成本壓縮利潤：DRAM/HBM短缺傳導至AI晶片獲利",
+        "url": "https://invezz.com/in/news/2026/08/26/nvidia-stock-slips-1percent-despite-beating-earnings-expectations-and-raising-guidance/",
+        "source": "Invezz",
+        "desc": "Nvidia beat但警告記憶體成本上升壓縮毛利。與前週伺服器漲15%消息呼應。Vera Rubin ramping。「compute is revenue」但成本結構惡化=長期隱憂"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC盤中破,257後回落：7月PCE通膨3.7%高於預期打斷",
+        "url": "https://cryptobriefing.com/bitcoin-resistance-80000-us-policy-signals/",
+        "source": "Crypto Briefing",
+        "desc": "盤中高,257(5月中以來首破)。過去一週+22-28%。但PCE 3.7%(超3.6%)後回落。14日RSI>70=超買。"
+      },
+      {
+        "title": "BTC對PCE通膨敏感：高通膨=Fed降息預期降溫=risk-off壓力",
+        "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data",
+        "source": "CoinTelegraph",
+        "desc": "7月PCE高於預期→黃金+BTC+股市同步下跌。通膨黏著挑戰debasement trade邏輯(高通膨本應利好BTC但Fed鷹派抵消)。Jackson Hole Warsh講話為下一催化"
+      },
+      {
+        "title": "BTC從→：14日RSI>70、-79K支撐待確認",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-s-next-move-may-depend-on-pce-nvidia-earnings-and-powell-s-speech",
+        "source": "KuCoin",
+        "desc": "on-chain顯示BTC從+後回落。RSI>70超買。市場消化PCE+Nvidia+Jackson Hole三重事件。整理健康化"
+      },
+      {
+        "title": "BTC本週+22%後正常回調：debasement trade中期未變但短期受通膨考驗",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-stalls-at-80000-as-traders-await-inflation-data-082152117.html",
+        "source": "Yahoo Finance",
+        "desc": "三年最大週漲幅後profit-taking。。Treasury buyback+SEC新規=中期利多不變。但PCE黏著=短期Fed政策不確定=波動加大"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Figma Canvas全面開放給AI Agents：Claude Code/Codex/MCP雙向設計",
+        "url": "https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/",
+        "source": "Figma Blog",
+        "desc": "use_figma工具=coding agent直接生成/修改設計資產。連結設計系統。從命令列/Claude Code/Figma任一起點都匯聚Figma。開發者+設計師工作流融合"
+      },
+      {
+        "title": "Anthropic Orbit主動助手：整合GitHub/Figma/Slack的開發者context引擎",
+        "url": "https://www.testingcatalog.com/anthropic-is-working-on-orbit-its-upcoming-proactive-assistant/",
+        "source": "Testing Catalog",
+        "desc": "Claude Cowork的主動briefing工具。從GitHub(PR/issues)+Figma+Slack+Gmail提取洞察。開發者的AI從被動問答→主動提醒/總結。context-aware assistant"
+      },
+      {
+        "title": "Nvidia FY28 +70%展望對開發者的意義：AI算力供給持續擴張",
+        "url": "https://www.investing.com/news/company-news/nvidia-q2-fy27-slides-revenue-doubles-to-96b-data-center-surges-93CH-4878041",
+        "source": "Investing.com",
+        "desc": "Data Center +117%+Vera Rubin full production。算力供給持續擴張=開發者可用算力增加。但「記憶體成本壓縮」=雲端定價可能上升的矛盾訊號"
+      },
+      {
+        "title": "Claude Code→Figma生產環境UI轉換：live UI變可編輯設計層",
+        "url": "https://www.figma.com/blog/introducing-claude-code-to-figma/",
+        "source": "Figma Blog",
+        "desc": "從瀏覽器(production/staging/localhost)擷取真實運作UI→轉為Figma可編輯frames。開發者/設計師/業餘者都能用。code與canvas的雙向橋接完成"
+      }
+    ],
+    "art": [
+      {
+        "title": "Witcher 3 Remastered視覺升級(9/29免費)：新Signs特效+終結技+照相模式",
+        "url": "https://www.gamesradar.com/news/live/gamescom-opening-night-live-live-coverage-2026-everything-announced/",
+        "source": "GamesRadar",
+        "desc": "11年經典的視覺重生。升級光照/材質。新Signs FX。新finisher動畫。擴展照相模式。免費給所有W3玩家。經典作品的美術翻新標竿"
+      },
+      {
+        "title": "Heroes of Might & Magic 3重製：1999經典的視覺現代化",
+        "url": "https://www.screenhub.com.au/news/industry-news/gamescom-onl-2026-games-news-roundup-2706908/",
+        "source": "ScreenHub",
+        "desc": "Ubisoft重製27年前經典。新視覺+gameplay升級。回合策略經典的美術現代化挑戰：保留像素回憶vs 現代3D呈現的平衡"
+      },
+      {
+        "title": "HoYoverse Nodusfall(UE5):「神權崩壞秩序瓦解」的寫實奇幻美術",
+        "url": "https://game8.co/articles/latest/gamescom-2026-everything-announced",
+        "source": "Game8",
+        "desc": "miHoYo新作。Unreal Engine 5。寫實奇幻風格(有別於原神卡通渲染)。「divine authority崩壞、秩序完全瓦解」的世界觀美術。米哈遊風格轉型嘗試"
+      },
+      {
+        "title": "FF7 Revelation Gamescom實機：三部曲完結篇的CG級即時渲染巔峰",
+        "url": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-all-the-biggest-announcements-games-and-trailers/",
+        "source": "GameSpot",
+        "desc": "Square Enix完結章。新trailer展示。從Remake→Rebirth→Revelation的視覺進化終點。Switch 2版確認=跨平台視覺最佳化挑戰"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma Agent設計範式：coding agent與canvas雙向的設計工作流革新",
+        "url": "https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/",
+        "source": "Figma Blog",
+        "desc": "use_figma讓AI agent成為設計協作者。設計不再只是人的工作。「AI能建構任何你能articulate的可能性→核心工作是找最佳解」。設計師角色從執行→策展"
+      },
+      {
+        "title": "Anthropic Orbit的主動式UX設計：從被動問答到主動briefing的介面哲學",
+        "url": "https://www.testingcatalog.com/anthropic-is-working-on-orbit-its-upcoming-proactive-assistant/",
+        "source": "Testing Catalog",
+        "desc": "AI助手UX進化：不等你問，主動從你的工具中提取洞察並briefing。設計挑戰：如何在「主動」與「打擾」間平衡？proactive AI的信任設計"
+      },
+      {
+        "title": "Witcher 3免費重製的商業設計：remaster作為Songs of the Past DLC漏斗",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "免費重製(9/29)→拉回舊玩家→購買2027 DLC(Geralt最後冒險)→暖身Witcher 4(2028)。三階段品牌漏斗設計。「傳承給Ciri」的敘事設計"
+      },
+      {
+        "title": "Hitman免費月+名人目標(Snoop Dogg):遊戲即服務的用戶回流設計",
+        "url": "https://www.shanethegamer.com/news/gamescom-2026-opening-night-live-recap/",
+        "source": "Shane the Gamer",
+        "desc": "全免費一個月+名人聯動暗殺目標。live service遊戲的用戶回流設計：降低門檻(免費)+話題性(名人)+限時(FOMO)的組合拳"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia .2B創紀錄+FY28 +70%展望：AI trade信心全面回歸",
+        "url": "https://www.forbes.com/sites/fionariley/2026/08/26/nvidia-posts-96-billion-quarter-as-ai-boom-powers-106-growth-in-a-year/",
+        "source": "Forbes",
+        "desc": "營收.2B(+106%)。Data Center +117%。Q3 。FY28 +70%。市值.25T。「AI at inflection point」。台股/半導體/TSMC今日預期強勢反攻"
+      },
+      {
+        "title": "Nvidia警告記憶體成本壓縮毛利=AI繁榮的成本代價浮現",
+        "url": "https://www.businessinsider.com/nvidia-earnings-report-nvda-stock-ai-chips-jensen-huang-2026-8",
+        "source": "Business Insider",
+        "desc": "「extreme」記憶體成本。與伺服器漲15%呼應。Vera Rubin full production但成本結構惡化。AI需求無虞但獲利率面臨DRAM/HBM供應瓶頸壓力"
+      },
+      {
+        "title": "7月PCE通膨3.7%高於預期：Nvidia利多與Fed政策不確定的拉鋸",
+        "url": "https://www.vtmarkets.com/en-ca/live-updates/bitcoin-slips-below-80000-as-sticky-us-pce-lifts-caution-gold-tests-4600-ahead-of-jackson-hole/",
+        "source": "VT Markets",
+        "desc": "PCE 3.7%(超3.6%)、核心3.3%。通膨黏著=降息預期降溫。Nvidia beat正面 vs 通膨負面。Warsh首次Jackson Hole講話=Fed政策方向關鍵"
+      },
+      {
+        "title": "Gamescom確認遊戲產業下半年繁榮：經典重製+續作+新IP全面爆發",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/25/everything-announced-at-gamescom-opening-night-live-2026",
+        "source": "Game Informer",
+        "desc": "Witcher 3重製+FF7完結+HoMM3重製+Nodusfall新IP+Hitman免費。遊戲產業商業模式多元：免費重製拉回、名人聯動、IP續作、新IP開拓"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Nvidia BEAT但盤後波動:先跌2%後彈4%=「sell news」與強guidance拉鋸",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/nvidia-shares-react-to-solid-earnings-report-and-stonger-guidance-what-s-next-for-the-ai-giant",
+        "source": "XTB",
+        "desc": "三重beat(營收/EPS/guidance)但盤後初跌2%後彈4%至。市場對「beat程度vs已price-in」的重新評估。 Q3 guidance+FY28 +70%支撐多頭"
+      },
+      {
+        "title": "7月PCE 3.7%通膨黏著：Nvidia利多被抵消、Jackson Hole Warsh講話關鍵",
+        "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data",
+        "source": "CoinTelegraph",
+        "desc": "PCE 3.7%>3.6%共識。核心3.3%。BTC/黃金/股市同步承壓。通膨黏著=Fed難降息。Warsh首次Jackson Hole講話定調Fed政策方向。市場謹慎"
+      },
+      {
+        "title": "台股8/26收復所有均線(+663,+1.47%)：Nvidia beat後今日半導體預期強攻",
+        "url": "https://finance.biggo.com/news/468829b8-0fa2-4e49-89e3-95a5531aac42",
+        "source": "BigGo Finance",
+        "desc": "TAIEX 45,832單日收復所有短中期均線。大立光/緯穎領漲。成交NT。Nvidia全面beat=今日TSMC/半導體強勢反攻預期。目標挑戰前高46K-48K"
+      },
+      {
+        "title": "BTC +黃金,600:通膨黏著下avoidance-hedge需求持續",
+        "url": "https://www.vtmarkets.com/en-ca/live-updates/bitcoin-slips-below-80000-as-sticky-us-pce-lifts-caution-gold-tests-4600-ahead-of-jackson-hole/",
+        "source": "VT Markets",
+        "desc": "BTC回落,600。通膨黏著=實質利率考量複雜化。Nvidia beat支撐risk-on vs PCE高企壓制。Jackson Hole為短期方向決定因素"
+      }
+    ]
   }
 }
