@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-28",
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia暴漲8.74%至.98(2月來最佳日)：市值單日增+，AI恐慌煙消雲散",
+        "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+        "source": "CNBC",
+        "desc": "Q2 .2B(+106%)+Q3 +FY28 +70%。市值單日增逾。Broadcom/Intel跟漲。Nebius neocloud大漲。回饋股東(創紀錄)。「AI slowdown恐懼」被財報粉碎"
+      },
+      {
+        "title": "Salesforce飆22%(史上第二佳日)：Claudeforce+Anthropic擴大合作領軍軟體反攻",
+        "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+        "source": "CNBC",
+        "desc": "Q2 beat+擴大Anthropic合作(Claudeforce)+上調guidance。GAAP淨利含。從「AI威脅」到「AI利好」的敘事反轉。軟體股集體暴漲"
+      },
+      {
+        "title": "Nvidia「像AI的央行」：+算力=貨幣的定位",
+        "url": "https://www.forbes.com/sites/jimosman/2026/08/27/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai/",
+        "source": "Forbes",
+        "desc": "Data Center (+117%)。(OpenAI/Anthropic/Poolside/xAI等)。「compute is revenue」。Nvidia成為AI基礎設施的央行=控制算力供給+資本配置"
+      },
+      {
+        "title": "Anthropic+OpenAI將登TechCrunch Disrupt 2026 AI Stage",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "desc": "兩大AI巨頭同台。IPO競賽白熱化(Anthropic /OpenAI )。Google for Startups贊助AI Stage。產業領袖齊聚討論AI未來"
+      },
+      {
+        "title": "CrowdStrike +20.5%：AI安全+企業軟體財報超預期，一年來最廣泛rally",
+        "url": "https://www.startuphub.ai/ai-news/ai-stocks-daily/2026/ai-stocks-2026-08-27",
+        "source": "Startup Hub AI",
+        "desc": "CRWD+CRM財報大超預期。AI安全+企業軟體單日最廣泛rally(一年以來)。AI從「取代軟體」轉為「賦能軟體」的市場認知轉變"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Gamescom公眾日開展(8/26-30):Future Games Show追加更多新作揭露",
+        "url": "https://game8.co/articles/latest/future-games-show-gamescom-2026-everything-announced",
+        "source": "Game8",
+        "desc": "ONL後Future Games Show接力。科隆Koelnmesse公眾日。ONL已揭Witcher3重製/FF7/Gears/HoMM3/Nodusfall。展會持續至8/30帶來更多驚喜"
+      },
+      {
+        "title": "Witcher 3: Songs of the Past定2027=Geralt最後冒險，Witcher 4瞄準2028",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "CDPR壓軸。2027發售。首trailer+Geralt新連鎖武器。「Geralt最後冒險」後傳承Ciri。Witcher 4(Ciri主角)瞄準2028。免費重製9/29暖身"
+      },
+      {
+        "title": "HoYoverse Nodusfall(UE5)：米哈遊寫實奇幻多人動作新IP",
+        "url": "https://game8.co/articles/latest/gamescom-2026-everything-announced",
+        "source": "Game8",
+        "desc": "ONL開場首曝。Unreal Engine 5。「神權崩壞、秩序瓦解」的寫實奇幻(有別於原神卡通渲染)。米哈遊風格轉型+多人合作動作的野心"
+      },
+      {
+        "title": "Gamescom ONL完整回顧：8款確認+HoMM3重製+Nodusfall+Hitman免費月",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/25/everything-announced-at-gamescom-opening-night-live-2026",
+        "source": "Game Informer",
+        "desc": "2小時滿載。Witcher3免費重製(9/29)最大驚喜。FF7 Revelation/Gears E-Day/Metro 2039新trailer。HoMM3重製。Hitman全免費一個月+Snoop Dogg目標"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nvidia +8.74%引爆科技全面反攻：Nasdaq +1.57%(3週最佳)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-logs-best-day-more-203709598.html",
+        "source": "Yahoo Finance",
+        "desc": "Nasdaq 26,541(+1.57%,8/4以來最佳)。S&P 7,731(+0.72%)。Dow +105。Nvidia財報+軟體股(Salesforce+22%/Figma+13%)雙引擎。AI trade信心全面回歸"
+      },
+      {
+        "title": "Figma +13%:AI從設計軟體威脅變順風、Atlassian +8%",
+        "url": "https://247wallst.com/investing/2026/08/27/figma-spikes-12-as-ai-turns-from-threat-to-tailwind-for-design-software-atlassian-rallies-8/",
+        "source": "24/7 Wall St",
+        "desc": "2026上半年設計軟體因AI恐懼被打壓。8/27翻轉：Figma/Atlassian領漲。48%營收成長。AI從「掏空商業模式」到「賦能生產力」的市場認知反轉"
+      },
+      {
+        "title": "BTC反彈,400+(+3%):Bessent債券回購賭注可能為BTC添柴火",
+        "url": "https://news.bitcoin.com/finance/bessents-bond-buyback-gamble-could-pour-fuel-on-bitcoin-price/",
+        "source": "Bitcoin.com",
+        "desc": "BTC從,500。Nvidia risk-on+Bessent buyback注入流動性。debasement trade延續。Jackson Hole Warsh講話為下一變數"
+      },
+      {
+        "title": "Fed Warsh首次Jackson Hole講話今日(8/28):通膨vs降息的關鍵定調",
+        "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+        "source": "CNBC",
+        "desc": "主題「金融創新：對支付與政策的影響」。通膨黏著(PCE 3.7%)+Bessent債市干預=Warsh壓力大。市場要求「清晰度」。不提forward guidance立場"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC反彈破,400(+3%):Nvidia risk-on+Bessent buyback重燃動能",
+        "url": "https://news.bitcoin.com/finance/bessents-bond-buyback-gamble-could-pour-fuel-on-bitcoin-price/",
+        "source": "Bitcoin.com",
+        "desc": "從PCE衝擊的,500。Nvidia財報帶動全面risk-on。Bessent債券回購=流動性注入=BTC燃料。debasement trade中期邏輯不變"
+      },
+      {
+        "title": "BTC本週+22-28%後高檔震盪：、Jackson Hole定方向",
+        "url": "https://cryptobriefing.com/bitcoin-resistance-80000-us-policy-signals/",
+        "source": "Crypto Briefing",
+        "desc": "→-80K震盪。14日RSI超買。Warsh講話(8/28)+通膨數據=短期波動源。中期Treasury buyback+SEC新規支撐"
+      },
+      {
+        "title": "Bessent債券回購=debasement trade核心引擎：BTC+黃金雙漲邏輯",
+        "url": "https://news.bitcoin.com/finance/bessents-bond-buyback-gamble-could-pour-fuel-on-bitcoin-price/",
+        "source": "Bitcoin.com",
+        "desc": "財政部buyback注入流動性+壓低長期殖利率+美元走弱=法幣稀釋。BTC+黃金作為對沖同步受惠。2026H2最強宏觀敘事持續發酵"
+      },
+      {
+        "title": "加密股跟隨risk-on反攻：Nvidia beat帶動整體風險偏好回升",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-bolster-wall-street-165806826.html",
+        "source": "Reuters/Yahoo",
+        "desc": "Nvidia財報重燃AI+科技+加密的risk-on情緒。BTC反彈。加密概念股跟漲。市場從PCE恐慌快速轉為Nvidia樂觀。Jackson Hole為下一測試"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Salesforce Claudeforce深化Anthropic合作：企業AI agent進入CRM核心",
+        "url": "https://247wallst.com/investing/2026/08/27/salesforce-soars-14-as-claudeforce-and-a-guidance-raise-end-the-slump-servicenow-climbs-5-adobe-advances-3/",
+        "source": "24/7 Wall St",
+        "desc": "Claudeforce=Salesforce+Anthropic Claude整合。企業CRM嵌入AI agent。ServiceNow +5%/Adobe +3%跟漲。開發者的企業AI整合機會爆發。"
+      },
+      {
+        "title": "Figma +13%財報超預期：AI設計工具從被顛覆者到賦能者",
+        "url": "https://www.tradingkey.com/news/market-movers/262137004-market-movers-fig-20260827",
+        "source": "TradingKey",
+        "desc": "Q2財報beat+上調全年guidance。48%營收成長。Figma×Anthropic Agent整合(use_figma)=開發者+設計師工作流。AI從威脅變工具的最佳案例"
+      },
+      {
+        "title": "Nvidia FY28 +70%+Vera Rubin full production：開發者算力供給持續擴張",
+        "url": "https://www.forbes.com/sites/jimosman/2026/08/27/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai/",
+        "source": "Forbes",
+        "desc": "Data Center +117%+Vera Rubin量產。算力供給擴張=開發者可用資源增加。但記憶體成本壓力=雲端定價可能微升。整體AI基建持續投入"
+      },
+      {
+        "title": "Anthropic+OpenAI TechCrunch Disrupt同台：AI開發平台競爭進入公開對決",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "desc": "兩大API供應商同台。Claude(企業/coding)vs GPT(消費/通用)的路線之爭。開發者受惠於競爭=更好的工具+更低的價格+更快的迭代"
+      }
+    ],
+    "art": [
+      {
+        "title": "Figma +13%重生：AI設計工具股價反轉確認創作工具價值",
+        "url": "https://247wallst.com/investing/2026/08/27/figma-spikes-12-as-ai-turns-from-threat-to-tailwind-for-design-software-atlassian-rallies-8/",
+        "source": "24/7 Wall St",
+        "desc": "2026上半年設計軟體因AI恐懼-61%。8/27翻轉。「AI能建構任何可能性→設計師找最佳解」的價值論。創作工具+AI=增強而非取代"
+      },
+      {
+        "title": "HoYoverse Nodusfall美術轉型：從原神卡通渲染到UE5寫實奇幻",
+        "url": "https://game8.co/articles/latest/gamescom-2026-everything-announced",
+        "source": "Game8",
+        "desc": "米哈遊新IP的美術大轉向。UE5寫實風格。「神權崩壞秩序瓦解」的黑暗奇幻世界觀。從二次元卡通到寫實3D的品牌美術實驗"
+      },
+      {
+        "title": "Witcher 3 Remastered美術升級(9/29):新Signs特效+終結技+光照材質",
+        "url": "https://www.gamesradar.com/news/live/gamescom-opening-night-live-live-coverage-2026-everything-announced/",
+        "source": "GamesRadar",
+        "desc": "11年經典視覺重生。升級光照/材質/粒子。新Signs FX。新finisher動畫。擴展照相模式。免費給所有玩家。經典遊戲美術翻新的誠意標竿"
+      },
+      {
+        "title": "FF7 Revelation:三部曲完結的CG級即時渲染美術巔峰",
+        "url": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-all-the-biggest-announcements-games-and-trailers/",
+        "source": "GameSpot",
+        "desc": "Square Enix完結章。從Remake→Rebirth→Revelation的視覺進化終點。Switch 2版=跨平台視覺最佳化挑戰。日系RPG美術的技術頂峰"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma股價反轉的設計產業意義：AI是設計師的工具而非替代品",
+        "url": "https://247wallst.com/investing/2026/08/27/figma-spikes-12-as-ai-turns-from-threat-to-tailwind-for-design-software-atlassian-rallies-8/",
+        "source": "24/7 Wall St",
+        "desc": "市場重新定價：AI不會掏空設計工具，而是增強。Figma×Anthropic整合=證明。設計師從「執行者」→「AI策展者+品味決策者」的角色轉變"
+      },
+      {
+        "title": "Salesforce Claudeforce:企業軟體嵌入AI agent的產品設計範式",
+        "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+        "source": "CNBC",
+        "desc": "CRM+Claude agent深度整合。產品設計從「功能導向」→「agent導向」。使用者不再操作介面而是委派任務給AI。企業軟體UX的根本轉變"
+      },
+      {
+        "title": "Witcher 3免費重製的商業設計:三階段品牌漏斗(重製→DLC→續作)",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "免費重製(9/29)→2027 DLC(Geralt最後冒險)→Witcher 4(2028,Ciri)。「傳承」敘事設計。免費作為忠誠度投資+DLC/續作變現的長線設計"
+      },
+      {
+        "title": "Nodusfall世界觀設計:「神權崩壞秩序瓦解」的黑暗奇幻敘事框架",
+        "url": "https://game8.co/articles/latest/gamescom-2026-everything-announced",
+        "source": "Game8",
+        "desc": "米哈遊新IP的世界觀設計。從原神的明亮幻想→Nodusfall的秩序崩壞黑暗奇幻。多人合作動作的社交設計+黑暗敘事的張力平衡"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia單日增值+：blowout財報消除AI放緩恐懼、市值.6兆+",
+        "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+        "source": "CNBC",
+        "desc": "+8.74%至.98(2月來最佳日)。單日市值增逾。回饋股東(股票回購+股息)。YTD回饋60% FCF。AI boom核心引擎地位確認"
+      },
+      {
+        "title": "Salesforce +22%(史上第二佳日):AI從威脅變利多、軟體股集體暴漲",
+        "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+        "source": "CNBC",
+        "desc": "Claudeforce+Anthropic合作+guidance上調。CrowdStrike +20.5%/Figma +13%/Atlassian +8%/ServiceNow +5%。「Claude Cowork顛覆軟體」的年初恐慌完全反轉"
+      },
+      {
+        "title": "Fed Warsh首次Jackson Hole講話今日:通膨黏著下的政策定調關鍵",
+        "url": "https://finance.yahoo.com/economy/policy/articles/federal-chief-faces-pivotal-moment-213427344.html",
+        "source": "Yahoo Finance",
+        "desc": "PCE 3.7%通膨黏著+Trump施壓降息+Bessent債市干預=Warsh三重壓力。主題金融創新。兩位Fed官員稱通膨過熱、政策過鬆。市場要求清晰度"
+      },
+      {
+        "title": "AI trade全面回歸:Nvidia+軟體雙引擎重燃市場信心",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-bolster-wall-street-165806826.html",
+        "source": "Reuters/Yahoo",
+        "desc": "Nvidia財報+Salesforce/Figma/CrowdStrike財報=AI從硬體到軟體全鏈條利好。8月初的AI泡沫擔憂被財報數據粉碎。台股/亞股(韓+1.5%/中+1%)同步反攻"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Nasdaq +1.57%(3週最佳):Nvidia +8.74%+軟體暴漲雙引擎",
+        "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-b4216a1f191d0304b4ed59e6912e23a4",
+        "source": "AP News",
+        "desc": "Nasdaq 26,541(+1.57%,8/4來最佳)。S&P 7,731(+0.72%)。Dow 53,569(+0.2%)。Nvidia +Salesforce +22%。逼近月初歷史新高。AI信心全面回歸"
+      },
+      {
+        "title": "Fed Warsh Jackson Hole講話今日(8/28):市場最想聽「清晰度」",
+        "url": "https://finance.yahoo.com/economy/policy/article/investors-fed-watchers-want-one-thing-from-kevin-warsh-in-his-jackson-hole-debut-clarity-215704020.html",
+        "source": "Yahoo Finance",
+        "desc": "新Fed主席首次重大講話。PCE 3.7%+長期殖利率近20年高+Bessent干預=壓力山大。市場要求政策清晰。不提forward guidance=波動可能加大"
+      },
+      {
+        "title": "BTC反彈,400+黃金持穩:Nvidia risk-on重燃、Jackson Hole前定位",
+        "url": "https://news.bitcoin.com/finance/bessents-bond-buyback-gamble-could-pour-fuel-on-bitcoin-price/",
+        "source": "Bitcoin.com",
+        "desc": "BTC從PCE衝擊的.5K(+3%)。Nvidia財報+Bessent buyback。debasement trade延續。Warsh若鷹派=短期壓力，若鴿派=續漲"
+      },
+      {
+        "title": "台股8/27強攻預期(Nvidia beat):TSMC/半導體今日領軍挑戰前高",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-bolster-wall-street-165806826.html",
+        "source": "Reuters/Yahoo",
+        "desc": "Nvidia +8.74%+亞股同步反攻(韓+1.5%/中+1%)。TSMC(Nvidia代工)最大受惠。台股預期跳空高開挑戰前高46K-48K。留意Jackson Hole變數"
+      }
+    ]
+  }
+}
