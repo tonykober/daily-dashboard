@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-29",
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia週四單日增值=史上第二大單日漲幅：AI敘事被重置而非打破",
+        "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-07a",
+        "source": "Ted Pillows",
+        "desc": "Nvidia +8.74%單日市值增(僅次於歷史紀錄)。Q2 .2B+Data Center +Q3 。「本應打破AI敘事的財報反而重置了它」。AI trade信心全面回歸"
+      },
+      {
+        "title": "Warsh鷹派Jackson Hole講話:「夏季PCE/CPI改善不代表底層趨勢改善」",
+        "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Fed主席Warsh重申抗通膨。「更好的通膨數據不代表趨勢實質改善」。升息預期升溫。科技股從Nvidia狂歡回調。但週線仍正(Nasdaq +0.8%)"
+      },
+      {
+        "title": "Nvidia成立企業PAC遊說:AI巨頭+Musk/Altman/黃仁勳將赴G20推輕監管",
+        "url": "https://finance.yahoo.com/video/ai-lobbying-gains-foothold-nvidia-140622855.html",
+        "source": "Yahoo Finance",
+        "desc": "Nvidia成立政治行動委員會(PAC)。Musk/Sacks/Altman/黃仁勳等將赴Carolinas G20會議推動AI輕監管。AI產業政治影響力擴大。中期選舉前佈局"
+      },
+      {
+        "title": "Bittensor(TAO)帳本揭示AI去中心化的補貼真相",
+        "url": "https://www.ainvest.com/news/nvidia-96-2b-quarter-revived-ai-trade-bittensor-books-subsidy-2608/",
+        "source": "Ainvest",
+        "desc": "Nvidia財報重振AI trade同時，去中心化AI(Bittensor)被檢視。TAO代幣經濟顯示仍靠補貼運作。中心化(Nvidia)vs去中心化AI的商業模式對比"
+      },
+      {
+        "title": "Bitcoin礦工轉型AI:Nvidia ",
+        "url": "https://www.cryptotimes.io/2026/08/27/nvidia-posts-96-2b-q2-revenue-as-bitcoin-miners-pivot-to-ai/",
+        "source": "Crypto Times",
+        "desc": "BTC礦工利用現有資料中心+電力基礎設施轉向AI算力租賃。Nvidia需求爆發+挖礦利潤壓縮=礦企pivot AI的商業邏輯。算力經濟的跨界整合"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Gamescom ONL隱藏驚喜:Path of Exile 2終於1.0+新Silent Hill+HoMM3重製",
+        "url": "https://expertgamereviews.com/gamescom-opening-night-live-2026-announcements/",
+        "source": "Expert Game Reviews",
+        "desc": "2小時ONL滿載:PoE 2終於推1.0正式版。全新Silent Hill。無人預料的HoMM3重製。Witcher 3免費重製。經典IP復活+新作齊發的年度盛宴"
+      },
+      {
+        "title": "Future Games Show:Onimusha: Way of the Sword新過場動畫,9/4發售",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "Capcom武士動作新作。導演Satoru Nihei展示Lion Dogs玩法+全新過場trailer。9/4登PC/主機。鬼武者系列睽違多年的正統續作即將發售"
+      },
+      {
+        "title": "Game of Thrones: War for Westeros首個gameplay:4陣營即時戰略",
+        "url": "https://www.redbull.com/int-en/gamescom-opening-night-live-surprise-reveals",
+        "source": "Red Bull",
+        "desc": "PlaySide Studios。首個cinematic後一年終於展gameplay。RTS遊戲。4陣營:Stark/Lannister/Targaryen/White Walkers(夜王)。HBO授權的即時戰略野心"
+      },
+      {
+        "title": "Xbox第二場Gamescom串流:Armatus/Blake Manor降靈會/Holstin等驚喜+Game Pass",
+        "url": "https://www.purexbox.com/news/2026/08/xboxs-second-gamescom-2026-stream-included-tons-of-surprise-announcements",
+        "source": "Pure Xbox",
+        "desc": "大量新揭露+釋出日+Game Pass確認。Armatus/The Seance of Blake Manor/Holstin等獨立/中型作品。Xbox Game Pass持續擴充內容陣容"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Warsh鷹派衝擊:美股8/28收黑(S&P -0.25%/Nasdaq -0.52%)但週線仍正",
+        "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Warsh抗通膨立場→升息預期升溫→科技股從Nvidia狂歡回調。S&P 7,711(-0.25%)。Nasdaq 26,402(-0.52%)。但週線正(Nasdaq +0.8%/S&P +0.5%)=Nvidia效應撐盤"
+      },
+      {
+        "title": "BTC盤中破,762:週漲7.3%,SOL週漲20%領軍高beta",
+        "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-42/",
+        "source": "Coin Edition",
+        "desc": "BTC ,762(+1.4%日/+7.3%週)。ETH ,489(+6.2%週)。SOL .94(+5.6%日/+20%週)。XRP +11%週。加密總市值.78兆。高beta資產領漲"
+      },
+      {
+        "title": "Nvidia +",
+        "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-07a",
+        "source": "Ted Pillows",
+        "desc": "週四單日增(僅次歷史紀錄)。Data Center +117%。FY28 +70%。Vera Rubin量產。「compute is revenue」。AI硬體超級週期獲數據確認"
+      },
+      {
+        "title": "Onimusha: Way of the Sword 9/4發售:Capcom武士動作技術展示",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "RE Engine武士動作。導演Nihei展示Lion Dogs機制+新過場。9/4登PC/主機。Capcom技術力在動作遊戲的延續。鬼武者IP復活"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC週漲7.3%但Warsh鷹派打斷,762脆弱結構",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "BTC盤中破,762。分析師:真突破需收,400上方+open interest擴大+殖利率下降。Warsh鷹派打擊擁擠多頭。「脆弱結構非高信念突破」"
+      },
+      {
+        "title": "SOL週漲近20%+XRP +11%:高beta山寨幣領軍加密全面反攻",
+        "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-42/",
+        "source": "Coin Edition",
+        "desc": "SOL .94(+20%週)。XRP .43(+11%週)。BNB +7.7%週。加密總市值.78兆。BTC突破帶動altcoin輪動。risk-on情緒下高beta資產表現最強"
+      },
+      {
+        "title": "Solana減發提案:未來6年少發1,890萬SOL,降稀釋但也降質押獎勵",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "CoinTelegraph",
+        "desc": "SOL disinflation提案。6年少發1,890萬SOL=降低持有者稀釋。但也降低validator/delegator質押獎勵。供給收縮利多vs質押收益下降的權衡"
+      },
+      {
+        "title": "BTC 「什麼都沒做」:加密與AI股脫鉤觀察",
+        "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-07a",
+        "source": "Ted Pillows",
+        "desc": "Nvidia週四增。加密與AI股的相關性減弱。BTC走自己的debasement trade邏輯(Treasury buyback)而非跟隨科技股。獨立敘事確立"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Path of Exile 2終於1.0正式版:Early Access後的完整發布",
+        "url": "https://expertgamereviews.com/gamescom-opening-night-live-2026-announcements/",
+        "source": "Expert Game Reviews",
+        "desc": "GGG的ARPG大作結束Early Access推1.0。長期迭代開發模式的里程碑。從搶先體驗→正式版的內容/平衡完善。ARPG開發的live service典範"
+      },
+      {
+        "title": "Nvidia PAC+G20遊說:AI基礎設施的政策開發環境塑造",
+        "url": "https://finance.yahoo.com/video/ai-lobbying-gains-foothold-nvidia-140622855.html",
+        "source": "Yahoo Finance",
+        "desc": "Nvidia成立PAC。Musk/Altman/黃仁勳赴G20推輕監管。開發者生態的政策環境:輕監管=更快AI部署但潛在安全風險。產業自律vs政府監管的張力"
+      },
+      {
+        "title": "Bitcoin礦工轉AI算力:現有基礎設施的開發者機會",
+        "url": "https://www.cryptotimes.io/2026/08/27/nvidia-posts-96-2b-q2-revenue-as-bitcoin-miners-pivot-to-ai/",
+        "source": "Crypto Times",
+        "desc": "礦企利用資料中心+電力+冷卻設施轉AI算力租賃。開發者可用的算力供給來源多元化(neocloud/礦企/hyperscaler)。算力市場競爭=價格下降機會"
+      },
+      {
+        "title": "Bittensor(TAO)去中心化AI的補貼經濟:開發者的另類算力選項?",
+        "url": "https://www.ainvest.com/news/nvidia-96-2b-quarter-revived-ai-trade-bittensor-books-subsidy-2608/",
+        "source": "Ainvest",
+        "desc": "去中心化AI網路TAO的代幣經濟檢視。仍靠補貼運作=商業模式未成熟。對開發者:去中心化算力願景vs當前中心化(Nvidia)現實的差距"
+      }
+    ],
+    "art": [
+      {
+        "title": "新Silent Hill Gamescom揭曉:恐怖美學經典IP的視覺重生",
+        "url": "https://expertgamereviews.com/gamescom-opening-night-live-2026-announcements/",
+        "source": "Expert Game Reviews",
+        "desc": "Konami恐怖經典新作。心理恐怖美學的現代技術呈現。霧氣/光影/氛圍設計為系列靈魂。次世代圖形下的恐怖視覺語言進化"
+      },
+      {
+        "title": "Onimusha: Way of the Sword武士美學:RE Engine的日本戰國視覺",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "Capcom RE Engine。日本戰國+鬼神奇幻美術。Lion Dogs等鬼武者招牌視覺元素。武士刀劍動作的視覺打擊感設計。9/4發售"
+      },
+      {
+        "title": "GoT: War for Westeros視覺:HBO授權的中世紀奇幻戰場美術",
+        "url": "https://www.redbull.com/int-en/gamescom-opening-night-live-surprise-reveals",
+        "source": "Red Bull",
+        "desc": "PlaySide即時戰略。Westeros大陸+4陣營視覺差異化(Stark/Lannister/Targaryen/White Walkers)。影視IP到RTS的美術轉譯挑戰。夜王/異鬼的奇幻設計"
+      },
+      {
+        "title": "HoYoverse Nodusfall美術轉型:從原神卡通到UE5寫實黑暗奇幻",
+        "url": "https://game8.co/articles/latest/gamescom-2026-everything-announced",
+        "source": "Game8",
+        "desc": "米哈遊品牌美術大轉向。UE5寫實風格。「神權崩壞」黑暗世界觀。從二次元到寫實3D的視覺實驗。多人動作的美術定位轉變"
+      }
+    ],
+    "design": [
+      {
+        "title": "Path of Exile 2從Early Access到1.0:ARPG長線開發的設計迭代",
+        "url": "https://expertgamereviews.com/gamescom-opening-night-live-2026-announcements/",
+        "source": "Expert Game Reviews",
+        "desc": "GGG的內容/平衡持續迭代模式。玩家反饋驅動的設計完善。Early Access作為設計驗證階段。ARPG的live service設計哲學:永續內容更新"
+      },
+      {
+        "title": "GoT: War for Westeros的4陣營非對稱設計:RTS平衡挑戰",
+        "url": "https://www.redbull.com/int-en/gamescom-opening-night-live-surprise-reveals",
+        "source": "Red Bull",
+        "desc": "Stark/Lannister/Targaryen/White Walkers四陣營各有獨特機制。RTS非對稱陣營設計的平衡難題。IP敘事(龍/異鬼)如何轉為gameplay機制的設計"
+      },
+      {
+        "title": "Nvidia PAC的政策設計影響:AI監管框架塑造產品開發邊界",
+        "url": "https://finance.yahoo.com/video/ai-lobbying-gains-foothold-nvidia-140622855.html",
+        "source": "Yahoo Finance",
+        "desc": "AI巨頭遊說輕監管=影響未來AI產品的設計邊界。監管鬆緊直接決定AI功能的可行範圍。產品設計師需關注政策=設計約束的來源"
+      },
+      {
+        "title": "Solana減發的代幣經濟設計:稀釋vs獎勵的權衡藝術",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "CoinTelegraph",
+        "desc": "減發1,890萬SOL=降稀釋(利好持有者)但降質押獎勵(不利validator)。代幣經濟設計的核心權衡:通膨率如何平衡持有者價值與網路安全激勵"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia (史上第二):AI超級週期獲財報確認",
+        "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-07a",
+        "source": "Ted Pillows",
+        "desc": "週四+8.74%增。Q2 .2B+FY28 +70%。市值逼近.6兆。回饋股東。「本應終結AI敘事的財報反而重啟它」。硬體需求無虞"
+      },
+      {
+        "title": "Warsh鷹派Jackson Hole:升息預期升溫但週線仍正(Nvidia撐盤)",
+        "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-nvidialed-gains-warshs-jackson-hole-speech-looms-4880398",
+        "source": "Investing.com",
+        "desc": "Warsh重申抗通膨。「PCE/CPI改善不代表趨勢改善」。8/28收黑但週線正:Nasdaq +0.8%/S&P +0.5%。Nvidia效應 vs Fed鷹派的拉鋸"
+      },
+      {
+        "title": "Nvidia成立PAC+G20遊說:AI巨頭政治影響力進入新階段",
+        "url": "https://finance.yahoo.com/video/ai-lobbying-gains-foothold-nvidia-140622855.html",
+        "source": "Yahoo Finance",
+        "desc": "Nvidia PAC(Anthropic 4月已先行)。Musk/Sacks/Altman/黃仁勳赴G20推輕監管。中期選舉前AI產業政治佈局。監管環境=AI商業擴張的關鍵變數"
+      },
+      {
+        "title": "加密總市值.78兆:BTC週+7.3%,SOL +20%,牛市情緒延續",
+        "url": "https://coinedition.com/24-hour-crypto-recap-heres-what-happened-in-the-market-42/",
+        "source": "Coin Edition",
+        "desc": "BTC ,762+SOL +20%週+XRP +11%週。總市值.78兆(+1.1%日)。debasement trade+SEC新規+ETF流入。加密從熊市回歸=風險偏好全面回升"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股8/28收黑但週線正:Warsh鷹派 vs Nvidia狂歡的拉鋸",
+        "url": "https://english.news.cn/northamerica/20260829/95aa25b2c3c94fb686ced3713c086050/c.html",
+        "source": "Xinhua",
+        "desc": "S&P 7,711(-0.25%)。Nasdaq 26,402(-0.52%)。Dow 53,559(flat)。Warsh抗通膨升息預期升溫。但週線正(Nvidia +8.74%效應)。9月Fed會議成焦點"
+      },
+      {
+        "title": "Warsh:「夏季通膨改善不代表趨勢改善」=9月升息機率升",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-warsh-apos-remarks-204418721.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed主席明確抗通膨立場。債券殖利率升。升息押注增加。Trump施壓降息但Warsh獨立抗通膨。9月FOMC=關鍵。市場需重新定價Fed路徑"
+      },
+      {
+        "title": "BTC週+7.3%但+超買=高檔震盪整理",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "BTC盤中,762。真突破需收,400上方+OI擴大+殖利率降。但Warsh鷹派=殖利率升=不利條件。「脆弱結構」需更多催化確認"
+      },
+      {
+        "title": "台股週五休市:8/27 Nvidia beat後亞股反攻(韓+1.5%/中+1%)延續預期",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-august-28-2026",
+        "source": "KuCoin",
+        "desc": "Nvidia財報帶動亞股全面反攻。TSMC(Nvidia代工)最大受惠。台股下週一(8/31)開盤預期延續半導體強勢。留意Warsh鷹派對科技股估值的壓力"
+      }
+    ]
+  }
+}
