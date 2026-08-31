@@ -1,5 +1,189 @@
 {
   "date": "2026-08-31",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 46331.45,
+      "taiex_change_pct": "+0.77%",
+      "taiex_date": "2026-08-28",
+      "note": "8/28收46,331.45(+356.23,+0.77%)連4紅站上46,000！週漲1,107(+2.45%)。成交回升NT.02兆。市值NT.45兆。TAIEX今年YTD +58%(連4年上漲)。Nvidia財報(.2B/+106%/FY28+70%)點燃AI股。TSMC 2,420(+0.41%)。聯發科2,985(+3.1%)。緯穎7,200(+5.65%)重回第三高價股。大立光7,065(+2.17%,Apple 9/9發表會)。玉晶光3連漲停(週漲>40%)。聯電漲停NT(319萬張最大量)。被動元件漲停潮(MLCC漲價,三星電機部分產品漲30%)。金融走強(兆豐+4.44%)。9月展望:個股輪動至Q4/明年成長展望佳者。但留意Warsh鷹派+9月升息機率58%+9月季節弱勢。",
+      "us_sp500": 7711.76,
+      "us_sp500_note": "US 8/28: S&P 7,711(-0.25%)。Nasdaq 26,402(-0.52%)。Warsh鷹派收黑但週線正(Nasdaq +0.9%)。Nvidia +8.7%單日增(史上第二)、市值.5兆。9月升息機率58%。週五NFP非農=關鍵",
+      "oil_brent": "~",
+      "oil_note": "Iran制裁後油價。市場焦點在Fed政策+AI。能源相對平淡",
+      "foreign_investors": "8/28外資買盤延續(連4紅)。Nvidia beat後外資回補半導體。但9月升息+季節弱勢下可能轉謹慎。留意NFP後外資動向"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2420,
+        "nav": null,
+        "pb": 10.2,
+        "pe": 22.1,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+6.0%",
+        "recommendation": "持有/偏多",
+        "note": "8/28收2,420(+0.41%)。Nvidia FY28 +70%=TSMC訂單長線利多(Nvidia晶片全由TSMC代工)。連4紅站穩。TSM US市值.5兆生態受惠。PE 22x。季線~2,290。基本面極強但短線需留意9月升息+季節弱勢。持有為主,回落2,380可加碼"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": 105.5,
+        "nav": 105.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.19%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "持有/偏多",
+        "note": "隨TAIEX站上46,000。微溢價。連4紅。核心持有。TAIEX YTD +58%。突破前高續抱,但9月留意獲利了結壓力"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": 51.0,
+        "nav": 51.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有",
+        "note": "高息ETF。金融股走強(兆豐+4.44%)帶動高息類。折價微幅。殖利率>5%。9月波動期防禦配置。持有領息"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": 27.4,
+        "nav": 27.5,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.36%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有",
+        "note": "ESG+高股息。金融+高息族群同步走強。折價微幅。9月防禦。持有領息"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": 29.2,
+        "nav": 29.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.34%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "持有",
+        "note": "月配息。折價微幅。持有領息。9月波動期月配現金流優勢"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": 11.7,
+        "nav": 11.75,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.43%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "持有",
+        "note": "價值+高息。隨大盤反彈站回季線上。折價偏大。持有"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": 118.5,
+        "nav": 118.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.17%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "持有/偏多",
+        "note": "與0050同質費用率更低。連4紅。微溢價。核心配置。跟隨半導體上攻"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": 21.6,
+        "nav": 21.7,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.46%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "偏多✅ Nvidia利多",
+        "note": "半導體ETF。Nvidia FY28 +70%+聯電漲停+被動元件漲停潮=AI供應鏈全面受惠。已站回所有均線。偏多但9月留意升息壓力。回落可加碼"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": 22.6,
+        "nav": 22.7,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.44%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "偏多✅",
+        "note": "半導體供應鏈。CoWoS/HBM/MLCC需求爆發。聯電/被動元件強勢。偏多操作。同00892"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": 15.6,
+        "nav": 15.7,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.64%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "持有/折價收斂",
+        "note": "主動型ETF。大盤反攻推升淨值,折價從-1.3%收斂至-0.64%。前期折價買入者豐收。主動管理受惠AI股輪動。持有"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": 18.0,
+        "nav": 18.2,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.10%",
+        "vs_quarterly_ma": "+4.0%",
+        "recommendation": "持有/折價收斂中",
+        "note": "主動型ETF。淨值隨AI股上升。折價從-1.7%收斂至-1.1%。YTD最強。前期低接者大幅獲利。仍有折價可小加"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": 38.8,
+        "nav": 38.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.26%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "持有觀望",
+        "note": "債券ETF。Warsh鷹派+9月升息機率58%=殖利率上行壓力=債券短期承壓。但長線Fed終將降息。折價微幅。持有觀望,殖利率回升反是加碼點"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": 15.4,
+        "nav": 15.42,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.13%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "持有/偏多",
+        "note": "類0050。連4紅跟漲。折價微幅。核心配置"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": 24.8,
+        "nav": 24.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.40%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "偏多✅",
+        "note": "科技+高息。Nvidia利多+科技股反攻+月配息三優勢。半導體題材受惠。偏多持有領息"
+      }
+    ],
+    "summary": "台股8/28收46,331(+356,+0.77%)連4紅站上46,000！週漲2.45%,YTD +58%(連4年漲)。Nvidia財報(.2B/+106%/FY28 +70%)點燃AI股全面反攻。TSMC 2,420。聯電漲停、被動元件漲停潮(MLCC漲價30%)、緯穎/大立光破7,000、玉晶光週漲40%。金融走強。策略偏多:①半導體ETF(00892/00891)+00929=Nvidia利多首選,已站回所有均線 ②TSMC(Nvidia代工)長線受惠FY28 +70%,持有 ③核心(0050/006208)連4紅續抱 ④主動型ETF(00981A/00982A)折價收斂中,前期低接者豐收 ⑤高息(0056/00878)+金融連動,防禦配置 ⑥債券(00403A)9月升息壓力觀望。⚠️但9月三大逆風:Warsh鷹派+9月升息機率58%+9月季節性弱勢。今日8/31開盤消化Nvidia利多vs Fed鷹派,留意週五NFP。"
+  },
   "categories": {
     "ai": [
       {
