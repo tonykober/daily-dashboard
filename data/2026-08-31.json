@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-31",
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI狂掃數萬台Apple Mac mini/Studio訓練agent:Apple供應鏈告急",
+        "url": "https://startupfortune.com/openai-is-buying-so-many-mac-minis-and-studios-that-apple-cant-keep-up/",
+        "source": "Startup Fortune",
+        "desc": "OpenAI買數萬台Mac mini/Studio用於RL+computer-use agent訓練。Anthropic透過AWS租用。Tim Cook警告缺貨將持續數月。Apple Silicon成AI agent訓練新硬體選擇"
+      },
+      {
+        "title": "Anthropic推出MHS(Model Hardware Standard):AI agent操控顯微鏡/機械臂",
+        "url": "https://tech-insider.org/anthropic-30-trillion-market-ai-lab-robots-2026/",
+        "source": "Tech Insider",
+        "desc": "8/27研究預覽。讓AI agent操控實體設備(顯微鏡/機械臂/液體處理器)。宣稱。從數位→實體agent的標準協議。科學實驗自動化的AI基礎設施"
+      },
+      {
+        "title": "法院裁定五角大廈將Anthropic列供應鏈風險違法:第一修正案報復",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "US地院法官Rita Lin裁定:Pentagon將Anthropic列供應鏈風險違法=對批評者的第一修正案報復。AI公司與政府的法律衝突。Anthropic批評政府後遭報復的司法認定"
+      },
+      {
+        "title": "116家公司(含OpenAI/Google/Anthropic)聯署警告:AI網攻即將激增",
+        "url": "https://tech-insider.org/openai-google-anthropic-ai-cyberattack-letter-2026/",
+        "source": "Tech Insider",
+        "desc": "8/27公開信。116家公司警告AI網路攻擊即將大幅惡化。政府/科技公司/關鍵基礎設施僅剩短暫緩衝期。Hugging Face事件後的產業集體警示"
+      },
+      {
+        "title": "Nvidia  Face:深入AI stack、企業轉向便宜「夠好」模型",
+        "url": "https://p4sc4l.substack.com/p/ai-and-geopolitics-23-august-30-august",
+        "source": "P4sc4l",
+        "desc": "Nvidia .9B收購HF。深入AI stack垂直整合。企業趨勢:偏好便宜「good enough」模型而非最強前沿。OpenAI/Anthropic轉向persistent agents/瀏覽器/職場平台"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Gamescom 2026實機報導:Game Informer玩過Control Resonant+Witcher 3 DLC",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/30/heres-every-game-we-played-at-gamescom-2026",
+        "source": "Game Informer",
+        "desc": "編輯團隊實機體驗匯總。Control Resonant(Remedy新作)、Witcher 3 Songs of the Past等。從trailer到hands-on的第一手評價。Gamescom展會實測報導"
+      },
+      {
+        "title": "HoYoverse Nodus Fall玩法細節:4人合作對抗神話神祇與怪物",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "玩家扮演Weaver,4人合作在毀滅世界擊敗神話神祇/怪物。米哈遊UE5 AAA圖形新作。從原神開放世界→合作動作的玩法轉型。多人PvE設計"
+      },
+      {
+        "title": "Onimusha: Way of the Sword 9/4發售倒數:Capcom武士動作回歸",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "RE Engine武士動作。9/4登PC/主機。鬼武者系列正統續作。Lion Dogs機制+日本戰國鬼神奇幻。9月首週遊戲大作"
+      },
+      {
+        "title": "Witcher 3 DLC前置:Hearts of Stone/Blood and Wine本週起免費開放",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "CDPR將兩大經典DLC(HoS/BaW)免費開放給所有base game玩家。免費重製9/29。為2027 Songs of the Past暖身。「史上最佳DLC」免費=品牌回饋+新DLC漏斗"
+      }
+    ],
+    "tech": [
+      {
+        "title": "OpenAI掃貨數萬台Mac mini/Studio:Apple Silicon成AI agent訓練新選擇",
+        "url": "https://wccftech.com/openai-hoarding-tens-of-thousands-of-apple-mac-mini-and-mac-studio-devices-as-asus-and-msi-burn-through-their-entire-first-batch-of-nvidia-rtx-spark-chip-and-beg-for-more/",
+        "source": "WCCFTech",
+        "desc": "OpenAI買數萬台Mac用於RL/agentic workload。ASUS/MSI燒完首批Nvidia RTX Spark晶片求更多。AI訓練硬體多元化:Apple Silicon+Nvidia RTX Spark需求爆發"
+      },
+      {
+        "title": "BTC跌破+美元走強、9月季節性弱勢隱憂",
+        "url": "https://www.tradingkey.com/analysis/cryptocurrencies/btc/262140502-crypto-bitcoin-btc-ethereum-eth-bnb-warsh-fed-tradingkey",
+        "source": "TradingKey",
+        "desc": "BTC -0.33%失守。ETH -1.3%失,500。BNB -0.86%破。XRP -2.18%失.4。Warsh鷹派+NFP前謹慎。9月季節性弱勢+「綠8月後從無綠9月」歷史模式"
+      },
+      {
+        "title": "Nvidia  stack:企業轉向「夠好」便宜模型趨勢",
+        "url": "https://p4sc4l.substack.com/p/ai-and-geopolitics-23-august-30-august",
+        "source": "P4sc4l",
+        "desc": "Nvidia垂直整合(晶片→模型→分發)。企業採購趨勢:「good enough」便宜模型取代最強前沿。成本意識抬頭。開源模型(HF)戰略價值上升"
+      },
+      {
+        "title": "Anthropic MHS標準:AI操控實體設備(顯微鏡/機械臂)的技術規範",
+        "url": "https://tech-insider.org/anthropic-30-trillion-market-ai-lab-robots-2026/",
+        "source": "Tech Insider",
+        "desc": "Model Hardware Standard研究預覽。AI agent操控physical devices。科學實驗/實驗室自動化。從軟體agent→實體世界互動的介面標準。robotics AI的基礎層"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC最佳8月(2017以來,+25-30%)但",
+        "url": "https://cryptobriefing.com/bitcoin-strongest-august-since-2017/",
+        "source": "Crypto Briefing",
+        "desc": "8月從-64K→(+25-30%)=2017以來最佳。但-81K三度遇阻回-79K。「綠8月後從無綠9月」歷史模式。Warsh鷹派+NFP=9月方向考驗"
+      },
+      {
+        "title": "BTC失守 -1.3%失,500、XRP -2.18%",
+        "url": "https://www.tradingkey.com/analysis/cryptocurrencies/btc/262140502-crypto-bitcoin-btc-ethereum-eth-bnb-warsh-fed-tradingkey",
+        "source": "TradingKey",
+        "desc": "8/31加密全面走弱。BTC失。ETH失,500。BNB破。XRP失.4。Fed鷹派+美元強+NFP前避險。8月狂歡後的獲利了結+季節性壓力"
+      },
+      {
+        "title": "Saylor暗示Strategy恢復買入:",
+        "url": "https://walletinvestor.com/news/crypto-news/bitcoin-stalls-below-80000-as-saylor-signals-strategys-return-to-buying/",
+        "source": "WalletInvestor",
+        "desc": "BTC ,800。(下)vs -81K(上)兩條防線。Saylor暗示Strategy恢復買入=機構逢低。。多空在-80K區間角力"
+      },
+      {
+        "title": "BTC「綠8月後從無綠9月」:2026能否打破歷史魔咒?",
+        "url": "https://www.cryptotimes.io/2026/08/29/will-2026-break-btcs-green-aug-to-red-sep-pattern/",
+        "source": "Crypto Times",
+        "desc": "歷史上BTC綠色8月後從未有綠色9月。2026年8月+25-30%創佳績。9月能否打破季節性魔咒?debasement trade(Treasury buyback)vs 季節性弱勢的對決"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Anthropic MHS:AI agent操控實體設備的開發者標準協議",
+        "url": "https://tech-insider.org/anthropic-30-trillion-market-ai-lab-robots-2026/",
+        "source": "Tech Insider",
+        "desc": "Model Hardware Standard=AI操控顯微鏡/機械臂/液體處理器的規範。如MCP之於軟體,MHS之於硬體。機器人/實驗室自動化開發者的新標準層。從digital→physical"
+      },
+      {
+        "title": "OpenAI Mac mini agent訓練:Apple Silicon的AI開發新用途",
+        "url": "https://tech-insider.org/openai-mac-mini-purchase-rtx-spark-sellout-2026/",
+        "source": "Tech Insider",
+        "desc": "OpenAI用數萬台Mac訓練computer-use agent。Apple Silicon的能效比+統一記憶體適合特定AI workload。開發者啟示:AI訓練硬體不只GPU,Apple Silicon有其利基"
+      },
+      {
+        "title": "AI安全研究:自動修復beat 28名人類研究員(8小時工作)",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-28-2026/",
+        "source": "The Neuron",
+        "desc": "AI安全修復系統改善targeted safety tests且不降通用能力,擊敗28名人類研究員(工作達8小時)。AI用於AI安全的自動化。開發者:安全評估/修復可AI化"
+      },
+      {
+        "title": "企業轉向「夠好」便宜模型:開發者的模型選擇策略轉變",
+        "url": "https://p4sc4l.substack.com/p/ai-and-geopolitics-23-august-30-august",
+        "source": "P4sc4l",
+        "desc": "企業偏好cheaper good-enough模型而非最強前沿。開發者策略:模型選擇從「最強」→「性價比最佳」。開源(HF)+便宜模型的組合。成本意識驅動架構決策"
+      }
+    ],
+    "art": [
+      {
+        "title": "HoYoverse Nodus Fall AAA美術:毀滅世界的4人合作黑暗奇幻",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "UE5 AAA圖形。Weaver對抗神話神祇/怪物。「秩序崩壞」的毀滅世界美術。米哈遊從原神明亮幻想→寫實黑暗奇幻的視覺實驗。多人合作的場景設計"
+      },
+      {
+        "title": "Control Resonant(Remedy)Gamescom實機:超自然視覺美學延續",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/30/heres-every-game-we-played-at-gamescom-2026",
+        "source": "Game Informer",
+        "desc": "Remedy新作實機體驗。Control系列的超自然/brutalist建築美學。光影/空間扭曲的視覺語言。Remedy招牌的環境敘事+視覺風格延續"
+      },
+      {
+        "title": "Onimusha武士美學(9/4):Capcom RE Engine日本戰國鬼神視覺",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "RE Engine打造。日本戰國+鬼神奇幻美術。武士刀劍動作的視覺打擊感。Lion Dogs等系列招牌元素。9/4發售的動作美術展示"
+      },
+      {
+        "title": "Sandisk寶可夢30週年Mew/Mewtwo儲存:IP角色工業設計",
+        "url": "https://www.techpowerup.com/gamescom-2026/",
+        "source": "TechPowerUp",
+        "desc": "Mew隨身碟+Mewtwo SSD。寶可夢角色融入儲存硬體。30週年紀念。功能性產品的IP角色化設計。收藏價值+實用性的工業設計平衡"
+      }
+    ],
+    "design": [
+      {
+        "title": "Anthropic MHS的介面設計:AI操控實體世界的標準化挑戰",
+        "url": "https://tech-insider.org/anthropic-30-trillion-market-ai-lab-robots-2026/",
+        "source": "Tech Insider",
+        "desc": "為AI agent操控多樣實體設備(顯微鏡/機械臂/液體處理器)設計通用標準。挑戰:如何抽象化異質硬體的操作介面?物理agent的互操作性設計。MCP的實體版"
+      },
+      {
+        "title": "Witcher 3免費DLC策略設計:「史上最佳DLC」免費作為品牌漏斗",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "HoS/BaW免費開放→免費重製(9/29)→2027 DLC→Witcher 4(2028)。四段品牌漏斗。免費頂級內容=拉回+忠誠度投資。長線IP的用戶生命週期設計"
+      },
+      {
+        "title": "Nodus Fall合作玩法設計:4人Weaver對抗神祇的PvE社交結構",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "4人合作PvE。Weaver角色+神話boss戰。米哈遊從單人開放世界→多人合作的社交設計轉型。合作動作的職業分工+boss機制設計"
+      },
+      {
+        "title": "企業AI「夠好」模型趨勢的產品設計啟示:性價比>極致效能",
+        "url": "https://p4sc4l.substack.com/p/ai-and-geopolitics-23-august-30-august",
+        "source": "P4sc4l",
+        "desc": "企業偏好便宜good-enough模型。產品設計啟示:AI功能設計應優化性價比而非堆疊最強模型。「夠好且便宜」的產品定位。成本感知的AI產品設計"
+      }
+    ],
+    "business": [
+      {
+        "title": "OpenAI掃貨Apple Mac衝擊供應鏈:Tim Cook警告缺貨數月",
+        "url": "https://startupfortune.com/openai-is-buying-so-many-mac-minis-and-studios-that-apple-cant-keep-up/",
+        "source": "Startup Fortune",
+        "desc": "OpenAI買數萬台Mac mini/Studio。Anthropic透過AWS租用。Apple供應鏈scrambling。Cook警告硬體更新後缺貨仍持續數月。AI需求外溢至消費硬體"
+      },
+      {
+        "title": "Nvidia  Face:AI晶片巨頭垂直整合帝國",
+        "url": "https://p4sc4l.substack.com/p/ai-and-geopolitics-23-august-30-august",
+        "source": "P4sc4l",
+        "desc": "Nvidia .9B買HF。Poolside+Nemotron+HF=從晶片到開源模型到分發。。企業偏好便宜模型=開源平台戰略價值升"
+      },
+      {
+        "title": "五角大廈Anthropic供應鏈風險裁定違法:AI公司vs政府的法律里程碑",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "法官裁定Pentagon對Anthropic的供應鏈風險designation違法=第一修正案報復。AI公司批評政府後遭報復的司法認定。政府AI採購的法律邊界"
+      },
+      {
+        "title": "BTC最佳8月(2017來)+25-30%但9月季節性隱憂:debasement vs 季節",
+        "url": "https://cryptobriefing.com/bitcoin-strongest-august-since-2017/",
+        "source": "Crypto Briefing",
+        "desc": "8月→。但+「綠8月後無綠9月」歷史。Treasury buyback+SEC新規(利多)vs Fed鷹派+季節性弱勢(利空)的9月對決"
+      }
+    ],
+    "finance": [
+      {
+        "title": "加密全面回落(BTC失):Fed鷹派+美元強+NFP前避險",
+        "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-august-31---september-04-2026-1788100948",
+        "source": "TalkMarkets",
+        "desc": "Warsh鷹派→黃金+BTC賣壓+美元漲。週五NFP(非農)為關鍵。9月升息機率升。BTC/黃金debasement trade遇Fed鷹派逆風。本週經濟數據密集"
+      },
+      {
+        "title": "BTC ,800卡在關鍵區間:(下)vs -81K(上)兩條防線",
+        "url": "https://walletinvestor.com/news/crypto-news/bitcoin-stalls-below-80000-as-saylor-signals-strategys-return-to-buying/",
+        "source": "WalletInvestor",
+        "desc": "。Saylor暗示Strategy恢復買入=機構逢低。-。多空角力。NFP+9月FOMC=方向催化。Warsh鷹派壓制上行"
+      },
+      {
+        "title": "美股9月季節性弱勢+9月升息機率58%:Nvidia多頭vs Fed鷹派拉鋸",
+        "url": "https://talkmarkets.com/article/technical-market-report-for-august-29-2026-1788036344",
+        "source": "TalkMarkets",
+        "desc": "進入季節性最弱的9月。9月升息機率58%。Nvidia +8.74%多頭動能vs Warsh鷹派+殖利率升。技術面:new lows改善但new highs下降=headwind。波動預期升"
+      },
+      {
+        "title": "台股8/31開盤:Nvidia beat基本面利多vs Fed鷹派估值壓力雙向",
+        "url": "https://www.tradingkey.com/analysis/cryptocurrencies/btc/262140502-crypto-bitcoin-btc-ethereum-eth-bnb-warsh-fed-tradingkey",
+        "source": "TradingKey",
+        "desc": "Nvidia .2B+FY28 +70%=TSMC/半導體長線利多。但Warsh鷹派+9月升息58%+美股9月季節弱勢=科技股估值壓力。台股需消化雙向訊號。留意NFP"
+      }
+    ]
+  }
+}
