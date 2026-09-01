@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-01",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 46128.47,
+      "taiex_change_pct": "-0.44%",
+      "taiex_date": "2026-08-31",
+      "note": "8/31收46,128.47(-202.98,-0.44%)。盤中低45,450後收復部分跌幅。成交放大NT.20兆。8月TAIEX大漲3,009點(+6.98%)從月初43,000反彈。TSMC 2,405(-0.62%)。跌因:US 8/28 Warsh鷹派+費半-3.47%+中東軍事衝突(US襲擊伊朗火箭發射器,伊朗攻擊約旦美軍基地)油價飆升。但MSCI調升台灣權重(8/31盤後生效)=外資被動基金buy盤支撐。10日線45,438為技術支撐。9月留意:Warsh鷹派+9月升息58%+9月季節弱勢+中東地緣升溫。",
+      "us_sp500": 7686.14,
+      "us_sp500_note": "US 8/31: S&P 7,686(-0.33%)。Nasdaq 26,370(-0.12%)。Dow 53,186(-0.7%,-374點)。US襲擊2伊朗火箭發射器+伊朗反擊約旦美軍基地=油價飆。但8月收紅(第5個月連漲):S&P +2.6%/Nasdaq +3.9%/Dow +1.3%。週五NFP非農為關鍵",
+      "oil_brent": "飆升~+",
+      "oil_note": "中東軍事衝突重燃:US襲擊伊朗火箭發射器,伊朗攻擊約旦美軍基地。油價急漲。地緣風險回歸市場焦點。能源股受惠",
+      "foreign_investors": "8/31 MSCI調升台灣權重生效,外資被動基金buy盤。但中東地緣+9月升息下主動資金可能謹慎。留意NFP後方向"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2405,
+        "nav": null,
+        "pb": 10.1,
+        "pe": 22.0,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有/區間操作",
+        "note": "8/31收2,405(-0.62%)。費半-3.47%+中東地緣拖累但跌幅有限(基本面強)。MSCI調升台灣權重支撐。Nvidia FY28 +70%長線利多。季線~2,300。9月三重逆風(升息/季節/地緣)下區間操作,2,380-2,300可分批接"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": 105.0,
+        "nav": 104.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.19%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "持有",
+        "note": "隨大盤小跌。MSCI權重調升利多。微溢價。8月大漲後9月留意獲利了結。核心持有,回測季線加碼"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": 50.8,
+        "nav": 50.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "加碼✅",
+        "note": "高息ETF。9月波動+地緣風險=防禦型標的受青睞。折價微幅。殖利率>5%。市場不確定性升=高息加碼良機"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": 27.3,
+        "nav": 27.4,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.36%",
+        "vs_quarterly_ma": "+1.5%",
+        "recommendation": "加碼✅",
+        "note": "ESG+高股息。9月防禦配置首選。折價微幅。季配穩定。加碼"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": 29.0,
+        "nav": 29.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.34%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有/可加碼",
+        "note": "月配息。9月波動期月配現金流優勢。折價微幅。持有領息,可加碼"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": 11.6,
+        "nav": 11.65,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.43%",
+        "vs_quarterly_ma": "+0.5%",
+        "recommendation": "持有",
+        "note": "價值+高息。接近季線。折價偏大。9月防禦。持有"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": 118.0,
+        "nav": 117.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.17%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "持有",
+        "note": "與0050同質。MSCI利多。微溢價。核心配置。回測季線加碼"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": 21.3,
+        "nav": 21.4,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.47%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "區間操作/Nvidia利多支撐",
+        "note": "半導體ETF。費半-3.47%拖累但Nvidia FY28 +70%基本面撐。中東地緣+9月升息=短線壓力。已站均線上但區間操作。回落季線可加碼"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": 22.3,
+        "nav": 22.4,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.45%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "區間操作",
+        "note": "半導體供應鏈。同00892。CoWoS/MLCC需求撐。9月逆風下區間操作。折價微幅"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": 15.5,
+        "nav": 15.6,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.64%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "持有",
+        "note": "主動型ETF。折價-0.64%。主動管理可因應9月波動調整持股。前期折價買入者持有。回檔加碼"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": 17.9,
+        "nav": 18.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.10%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "持有/折價機會",
+        "note": "主動型ETF。折價-1.1%。YTD最強。9月波動下主動管理alpha優勢。折價提供安全邊際。持有,折價擴大可加"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": 38.7,
+        "nav": 38.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.26%",
+        "vs_quarterly_ma": "+1.2%",
+        "recommendation": "加碼✅ 地緣避險",
+        "note": "債券ETF。中東地緣升溫=避險需求回升=債券利多。雖9月升息壓力但地緣避險+長線降息=中期看多。折價微幅。加碼"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": 15.35,
+        "nav": 15.37,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.13%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "持有",
+        "note": "類0050。MSCI利多。折價微幅。核心配置"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": 24.5,
+        "nav": 24.6,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.41%",
+        "vs_quarterly_ma": "+3.0%",
+        "recommendation": "持有",
+        "note": "科技+高息。Nvidia利多+月配息。費半回檔小跌。持有領息。9月逆風下高息屬性提供緩衝"
+      }
+    ],
+    "summary": "台股8/31收46,128(-203,-0.44%)自低點收復部分跌幅。8月大漲6.98%(+3,009點)。TSMC 2,405。跌因:US Warsh鷹派+費半-3.47%+中東軍事衝突(US襲伊朗+伊朗攻約旦美軍基地)油價飆。但MSCI調升台灣權重(8/31生效)外資被動買盤支撐。10日線45,438技術撐。策略轉區間操作:①高息(0056/00878)+債券(00403A)=9月防禦+地緣避險加碼首選 ②半導體(00892/00891)+TSMC=Nvidia FY28 +70%基本面撐但9月逆風下區間操作,回季線接 ③核心(0050/006208)持有 ④主動型ETF(00981A -1.1%)折價+alpha優勢。⚠️9月四大逆風:Warsh鷹派+9月升息58%+9月季節弱勢+中東地緣升溫。留意週五NFP。46,000-45,438為短線支撐區。"
+  }
+}
