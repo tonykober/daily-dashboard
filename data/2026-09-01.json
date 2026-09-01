@@ -183,5 +183,247 @@
       }
     ],
     "summary": "台股8/31收46,128(-203,-0.44%)自低點收復部分跌幅。8月大漲6.98%(+3,009點)。TSMC 2,405。跌因:US Warsh鷹派+費半-3.47%+中東軍事衝突(US襲伊朗+伊朗攻約旦美軍基地)油價飆。但MSCI調升台灣權重(8/31生效)外資被動買盤支撐。10日線45,438技術撐。策略轉區間操作:①高息(0056/00878)+債券(00403A)=9月防禦+地緣避險加碼首選 ②半導體(00892/00891)+TSMC=Nvidia FY28 +70%基本面撐但9月逆風下區間操作,回季線接 ③核心(0050/006208)持有 ④主動型ETF(00981A -1.1%)折價+alpha優勢。⚠️9月四大逆風:Warsh鷹派+9月升息58%+9月季節弱勢+中東地緣升溫。留意週五NFP。46,000-45,438為短線支撐區。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI從Cursor撤出模型:因SpaceX(Musk)7月收購觸發合約取消權",
+        "url": "https://handyai.substack.com/p/openai-and-anthropic-try-to-slow",
+        "source": "Handy AI",
+        "desc": "SpaceX 7月收購Cursor→觸發OpenAI合約取消權。OpenAI將於11/12前完成撤出。Musk vs OpenAI/Altman恩怨延燒至開發工具。開發者需轉換AI coding後端"
+      },
+      {
+        "title": "ChatGPT Ads不到200天達",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-august-31-2026/",
+        "source": "The Neuron",
+        "desc": "上線<200天達 annualized。數萬廣告主橫跨40+國家。Ads Manager擴展至印度/歐洲/中東/北非。廣告與答案分離+標記。OpenAI從訂閱→廣告的多元變現"
+      },
+      {
+        "title": "Anthropic遭infostealer惡意軟體攻擊:Claude登入session被竊",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "Vidar/LummaC2/StealC/RedLine/Acreed惡意軟體竊取用戶PC上的Claude active session。Anthropic登出受影響用戶+清除付款方式+退款未授權費用。AI帳戶安全新威脅"
+      },
+      {
+        "title": "Big Short投資者Eisman警告:OpenAI+Anthropic佔雲端巨頭25-35%雲營收",
+        "url": "https://www.ainvest.com/news/ai-trade-hinges-openai-anthropic-domino-public-mispriced-2608/",
+        "source": "Ainvest",
+        "desc": "Steve Eisman估:OpenAI+Anthropic佔MSFT/AMZN/GOOG/ORCL的AI營收70%、雲營收25-35%。AI trade高度集中風險。若兩家出問題=雲端巨頭連鎖衝擊"
+      },
+      {
+        "title": "Big Tech持有OpenAI/Anthropic/SpaceX股權值,600億:分析師警告估值",
+        "url": "https://www.milanofinanza.it/news/big-tech-le-quote-in-openai-anthropic-e-spacex-valgono-160-miliardi-ma-gli-analisti-avvertono-non-sono-202608311330545503",
+        "source": "Milano Finanza",
+        "desc": "OpenAI估值、Anthropic 、SpaceX上市.75兆。Big Tech持股價值,600億。分析師警告:私募估值虛高風險。循環融資(Nvidia投OpenAI)疑慮"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Onimusha: Way of the Sword 9/4發售倒數:Capcom RE Engine武士動作",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "本週四9/4發售。RE Engine武士動作。鬼武者系列正統續作。Lion Dogs機制+日本戰國鬼神奇幻。9月首週遊戲大作。PC/主機"
+      },
+      {
+        "title": "Witcher 3經典DLC(Hearts of Stone/Blood and Wine)免費開放中",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "CDPR將兩大經典DLC免費開放給所有base game玩家。免費重製9/29。為2027 Songs of the Past(Geralt最後冒險)暖身。「史上最佳DLC」免費=品牌回饋"
+      },
+      {
+        "title": "Gamescom 2026實機體驗匯總:Control Resonant等大作第一手評價",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/30/heres-every-game-we-played-at-gamescom-2026",
+        "source": "Game Informer",
+        "desc": "Game Informer編輯團隊Gamescom實測。Control Resonant(Remedy)、Witcher 3 DLC等。從trailer到hands-on的第一手評價。9月遊戲展會實機報導"
+      },
+      {
+        "title": "HoYoverse Nodus Fall玩法:4人Weaver合作對抗神話神祇(UE5 AAA)",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "米哈遊UE5 AAA新作。4人合作PvE。Weaver對抗神話神祇/怪物。從原神開放世界→合作動作的玩法轉型。多人動作野心"
+      }
+    ],
+    "tech": [
+      {
+        "title": "US-伊朗荷姆茲海峽交火:油價破(WTI +4%)、地緣風險重返市場",
+        "url": "https://finance.yahoo.com/markets/article/oil-prices-surge-higher-as-us-and-iran-exchange-fire-for-first-time-in-a-month-123432131.html",
+        "source": "Yahoo Finance",
+        "desc": "US襲Larak島(荷姆茲內)伊朗火箭發射器,伊朗反擊約旦美軍基地(8枚飛彈被攔)。Brent破(+2%)。WTI +4%破。逆轉Iran-Oman和解交易。地緣升溫"
+      },
+      {
+        "title": "OpenAI撤出Cursor(Musk收購):AI開發工具的巨頭恩怨延燒",
+        "url": "https://handyai.substack.com/p/openai-and-anthropic-try-to-slow",
+        "source": "Handy AI",
+        "desc": "SpaceX 7月買Cursor→OpenAI合約取消權觸發→11/12前撤出模型。Musk vs Altman恩怨蔓延。開發者被迫轉換coding AI後端。Cursor估值受衝擊"
+      },
+      {
+        "title": "Nvidia對OpenAI投資引發「循環融資」疑慮:.5兆巨頭的風險",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-investment-openai-highlights-132702307.html",
+        "source": "Yahoo Finance",
+        "desc": "Nvidia投OpenAI→OpenAI買Nvidia晶片=循環融資疑慮。+。AI生態的資金循環風險。Nvidia市值.5兆的隱憂"
+      },
+      {
+        "title": "日圓破160(37年低):Fed鷹派+日銀政策落差,套利交易風險升",
+        "url": "https://www.binance.com/en-IN/square/post/08-31-2026-crypto-news-today-us-strikes-iran-again-september-hike-at-58-yen-breaks-160-bitcoin-holds-78k-while-everything-else-falls-361626310946079",
+        "source": "Binance",
+        "desc": "日圓貶破160。Fed鷹派(9月升息58%)vs日銀政策落差擴大。carry trade套利交易風險。2024年8月日圓套利平倉引發全球拋售的陰影再現"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC跌破-伊朗交火+9月升息58%+日圓破160三重打擊",
+        "url": "https://walletinvestor.com/news/crypto-news/bitcoin-slips-below-77k-on-u-s-iran-strikes-as-metaplanet-moves-2400-btc-to-coinbase-prime/",
+        "source": "WalletInvestor",
+        "desc": "BTC觸,664低點。1小時。加密總市值.68兆(-1%)。Metaplanet移2,400 BTC至Coinbase Prime。地緣+升息+日圓=risk-off"
+      },
+      {
+        "title": "BTC最佳8月(2017來+24%)但Iran衝突打斷:",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-holds-above-78-000-amid-u-s-iran-tensions-and-fed-rate-hike-expectations",
+        "source": "KuCoin",
+        "desc": "BTC 8月+24%創2017來最佳。但Iran衝突+Fed鷹派施壓。Fear & Greed中性。油價+2.6%。9月能否守+打破「綠8月後無綠9月」魔咒是關鍵"
+      },
+      {
+        "title": "Strategy恢復買入.7億BTC+Strive買.43億:機構逢低承接",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "CoinTelegraph",
+        "desc": "Strategy(前MicroStrategy)暫停2個月後恢復買入 BTC。Strive買1,800 BTC()成第5大上市公司持有者。機構在-78K逢低承接。Cronos遭,500萬Tectonic攻擊"
+      },
+      {
+        "title": "BTC相對抗跌但 ETF流入 vs Iran衝突拉鋸",
+        "url": "https://walletinvestor.com/news/crypto-news/bitcoin-holds-near-78000-as-record-etf-inflows-run-into-iran-conflict-and-fed-caution/",
+        "source": "WalletInvestor",
+        "desc": "BTC 8月跑贏風險資產。record ETF流入(利多)vs Iran衝突+Fed謹慎(利空)。相對股市抗跌但地緣拉回。機構承接vs地緣拋壓的角力"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI 11/12前撤出Cursor:開發者需轉換AI coding後端",
+        "url": "https://handyai.substack.com/p/openai-and-anthropic-try-to-slow",
+        "source": "Handy AI",
+        "desc": "SpaceX收購Cursor觸發OpenAI合約取消。11/12前完成撤出。Cursor用戶需轉Claude/其他模型。開發者的AI coding工具鏈受巨頭恩怨影響。供應商風險凸顯"
+      },
+      {
+        "title": "Anthropic infostealer攻擊警示:AI帳戶session安全成開發者新課題",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "Vidar/LummaC2/StealC等惡意軟體竊取Claude session。開發者警示:AI API金鑰/session保護需加強。本機安全成AI開發的attack surface。憑證管理最佳實踐"
+      },
+      {
+        "title": "ChatGPT Ads Manager擴至40+國家:開發者的AI廣告變現新管道",
+        "url": "https://letsdatascience.com/news",
+        "source": "Lets Data Science",
+        "desc": "self-serve Ads Manager擴展印度/歐洲/中東/北非。<200天達。開發者/內容創作者可透過ChatGPT Ads變現。AI平台的廣告生態開放"
+      },
+      {
+        "title": "Nvidia RTX Spark售罄:AI開發本地算力硬體需求爆發",
+        "url": "https://tech-insider.org/openai-mac-mini-purchase-rtx-spark-sellout-2026/",
+        "source": "Tech Insider",
+        "desc": "Nvidia RTX Spark晶片售罄,ASUS/MSI求更多。OpenAI掃Mac mini/Studio。開發者本地AI算力選擇多元(RTX Spark+Apple Silicon)。邊緣AI開發硬體熱潮"
+      }
+    ],
+    "art": [
+      {
+        "title": "Onimusha武士美學(9/4):RE Engine日本戰國鬼神視覺巔峰",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "Capcom RE Engine。日本戰國+鬼神奇幻美術。武士刀劍動作的視覺打擊感。Lion Dogs等系列招牌。9/4發售的動作美術展示"
+      },
+      {
+        "title": "HoYoverse Nodus Fall:毀滅世界的UE5黑暗奇幻美術",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "UE5 AAA圖形。「秩序崩壞」毀滅世界。米哈遊從原神明亮幻想→寫實黑暗奇幻的視覺實驗。多人合作場景美術"
+      },
+      {
+        "title": "Control Resonant(Remedy):超自然brutalist建築視覺美學延續",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/30/heres-every-game-we-played-at-gamescom-2026",
+        "source": "Game Informer",
+        "desc": "Remedy新作實機。Control系列超自然/brutalist建築美學。光影/空間扭曲的視覺語言。環境敘事+視覺風格延續"
+      },
+      {
+        "title": "Witcher 3免費重製美術(9/29):11年經典的光照/材質/Signs特效升級",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "免費升級所有玩家。升級光照/材質/粒子。新Signs FX。新finisher動畫。擴展照相模式。經典遊戲美術翻新的誠意標竿"
+      }
+    ],
+    "design": [
+      {
+        "title": "ChatGPT Ads「廣告與答案分離」設計:AI廣告的信任UX",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-august-31-2026/",
+        "source": "The Neuron",
+        "desc": "廣告標記+與答案分離。<200天。AI廣告的核心設計挑戰:如何在對話中植入廣告而不破壞信任?標記透明度+內容分離的UX設計"
+      },
+      {
+        "title": "Anthropic session安全事件的設計啟示:AI帳戶的信任架構",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "infostealer竊取session→Anthropic主動登出+退款。設計啟示:AI帳戶需要更強的session驗證+異常偵測。安全與便利的產品設計平衡"
+      },
+      {
+        "title": "OpenAI撤出Cursor的平台設計教訓:供應商鎖定風險",
+        "url": "https://handyai.substack.com/p/openai-and-anthropic-try-to-slow",
+        "source": "Handy AI",
+        "desc": "巨頭恩怨→開發工具供應鏈中斷。設計教訓:AI工具應設計model-agnostic架構(如OpenRouter)避免單一供應商鎖定。可移植性設計的重要性"
+      },
+      {
+        "title": "Nodus Fall合作玩法設計:4人Weaver的PvE職業分工",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "4人合作PvE。Weaver角色+神話boss戰。米哈遊從單人→多人合作的社交設計。職業分工+boss機制設計。合作動作的社交結構"
+      }
+    ],
+    "business": [
+      {
+        "title": "US-伊朗荷姆茲交火:油價破,美股收黑但8月連5紅",
+        "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "US襲伊朗Larak島+伊朗攻約旦美軍基地。Dow -374(-0.7%)。但8月收紅(第5個月連漲):S&P +2.6%/Nasdaq +3.9%。油價飆=通膨隱憂+Fed升息壓力"
+      },
+      {
+        "title": "AI trade高度集中風險:OpenAI+Anthropic佔雲端巨頭25-35%雲營收",
+        "url": "https://www.ainvest.com/news/ai-trade-hinges-openai-anthropic-domino-public-mispriced-2608/",
+        "source": "Ainvest",
+        "desc": "Big Short Eisman估:兩家佔MSFT/AMZN/GOOG/ORCL的AI營收70%、雲營收25-35%。AI trade集中風險。私募估值(/)虛高疑慮。循環融資隱憂"
+      },
+      {
+        "title": "ChatGPT Ads達(不到200天):OpenAI變現加速",
+        "url": "https://letsdatascience.com/news",
+        "source": "Lets Data Science",
+        "desc": "<200天 annualized。數萬廣告主40+國家。從訂閱→廣告的多元變現。OpenAI 。IPO前的商業模式強化"
+      },
+      {
+        "title": "BTC最佳8月(+24%,2017來)+Strategy恢復買入:機構信心回升",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "CoinTelegraph",
+        "desc": "BTC 8月+24%。Strategy恢復買+Strive 。機構逢低承接。但Iran衝突+9月升息=短期壓力。debasement trade中期vs 地緣短期的拉鋸"
+      }
+    ],
+    "finance": [
+      {
+        "title": "油價破(WTI +4%):US-伊朗交火點燃通膨+Fed升息擔憂",
+        "url": "https://www.morningstar.com/news/marketwatch/2026083139/global-oil-prices-top-91-a-barrel-after-us-and-iran-exchange-fire-for-the-first-time-in-a-month",
+        "source": "Morningstar",
+        "desc": "Brent破。WTI +4%破。US襲荷姆茲伊朗陣地+伊朗反擊。油價飆=通膨壓力=Fed升息理由增。9月升息機率58%+地緣=股債雙壓"
+      },
+      {
+        "title": "美股8月連5紅(S&P +2.6%)但9月開局承壓:油價+地緣+升息三重逆風",
+        "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "8月S&P +2.6%/Nasdaq +3.9%/Dow +1.3%(第5個月連漲)。但9月開局:油價破+Iran衝突+9月升息58%。季節性最弱9月+多重逆風。NFP週五關鍵"
+      },
+      {
+        "title": "日圓破160(37年低):carry trade風險再現,2024年8月拋售陰影",
+        "url": "https://www.binance.com/en-IN/square/post/08-31-2026-crypto-news-today-us-strikes-iran-again-september-hike-at-58-yen-breaks-160-bitcoin-holds-78k-while-everything-else-falls-361626310946079",
+        "source": "Binance",
+        "desc": "日圓貶破160。Fed鷹派vs日銀落差擴大。carry trade套利風險。2024/8日圓套利平倉引發全球拋售的陰影。全球流動性風險升"
+      },
+      {
+        "title": "台股9/1:MSCI權重調升利多 vs 中東地緣+9月升息逆風",
+        "url": "https://focustaiwan.tw/business/202608310015",
+        "source": "Focus Taiwan",
+        "desc": "MSCI調升台灣權重(8/31生效)=外資被動買盤。但US-Iran交火+油價破+9月升息58%=科技股壓力。TSMC 2,405。10日線45,438支撐。留意NFP"
+      }
+    ]
   }
 }
