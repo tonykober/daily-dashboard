@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-02",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 46948.72,
+      "taiex_change_pct": "+1.78%",
+      "taiex_date": "2026-09-01",
+      "note": "9/1收46,948.72(+820.25,+1.78%)創2個月收盤新高!亞股最強。主因:Nvidia投資聯發科(採用NVLink Fusion)=聯發科+10%(YTD +200%)。TSMC 2,440(+1.46%,貢獻+280點)。MSCI調升台灣權重生效外資買盤。但美股9/1收黑(Nasdaq -1.03%)因油價破+US再襲伊朗+10年期美債4.78%(20月高)+日本10年期3%(1996來首見)。台美背離:台股Nvidia-MediaTek利多vs US地緣/殖利率壓力。今日9/2需消化美股隔夜弱勢。9月季節弱勢+Fed升息58%+中東地緣三逆風未解。",
+      "us_sp500": 7631.47,
+      "us_sp500_note": "US 9/1: S&P 7,631(-0.71%)。Nasdaq 26,099(-1.03%)。Dow 52,767(-0.8%,-400點)。油價破(US再襲伊朗)。10年期美債4.78%(20月高)。日本10年期3%(1996來首)。9月歷史最弱月開局不利。殖利率飆壓制科技股估值",
+      "oil_brent": "破",
+      "oil_note": "US再襲伊朗+荷姆茲緊張。Brent破(WTI亦飆)。地緣風險持續升溫。通膨隱憂+Fed升息壓力。能源股受惠但科技/消費承壓",
+      "foreign_investors": "9/1 MSCI權重生效+Nvidia-MediaTek利多=外資買超。但美股隔夜弱+地緣風險=今日外資態度需觀察。聯發科獲Nvidia加持成焦點"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2440,
+        "nav": null,
+        "pb": 10.3,
+        "pe": 22.3,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+6.5%",
+        "recommendation": "持有/偏多",
+        "note": "9/1收2,440(+1.46%,+280點)。Nvidia-MediaTek深化合作=台灣AI供應鏈全面受惠。TSM ADR 。Nvidia晶片全由TSMC代工+FY28 +70%訂單能見度。PE 22x。但美股隔夜-1%+殖利率飆=今日開盤或有壓。季線~2,310。持有,回落2,400可加碼"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": 107.0,
+        "nav": 106.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.19%",
+        "vs_quarterly_ma": "+4.0%",
+        "recommendation": "持有/偏多",
+        "note": "隨TAIEX創2月新高。微溢價。MSCI+Nvidia-MediaTek雙利多。但美股弱+9月季節=今日或震盪。核心持有。逼近前高留意獲利了結"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": 51.0,
+        "nav": 51.1,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.20%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有",
+        "note": "高息ETF。大盤反攻時漲幅落後半導體但穩定。折價微幅。殖利率>5%。9月地緣+升息風險下防禦配置。持有領息"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": 27.4,
+        "nav": 27.5,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.36%",
+        "vs_quarterly_ma": "+2.0%",
+        "recommendation": "持有",
+        "note": "ESG+高股息。9月防禦。折價微幅。持有領息"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": 29.2,
+        "nav": 29.3,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.34%",
+        "vs_quarterly_ma": "+2.5%",
+        "recommendation": "持有",
+        "note": "月配息。折價微幅。9月波動月配現金流優勢。持有領息"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": 11.7,
+        "nav": 11.75,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.43%",
+        "vs_quarterly_ma": "+1.0%",
+        "recommendation": "持有",
+        "note": "價值+高息。隨大盤反彈站季線上。折價偏大。持有"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": 120.0,
+        "nav": 119.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.17%",
+        "vs_quarterly_ma": "+4.0%",
+        "recommendation": "持有/偏多",
+        "note": "與0050同質費用率更低。創新高。微溢價。核心配置。逼近前高留意"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": 21.8,
+        "nav": 21.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.46%",
+        "vs_quarterly_ma": "+4.0%",
+        "recommendation": "偏多✅ Nvidia-MediaTek利多",
+        "note": "半導體ETF。Nvidia投資聯發科+NVLink Fusion=台灣IC設計全面受惠。聯發科+10%為成分股大利多。已站所有均線。偏多但美股弱需留意今日開盤。回落季線加碼"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": 22.8,
+        "nav": 22.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.44%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "偏多✅",
+        "note": "半導體供應鏈。Nvidia-MediaTek+CoWoS/HBM/MLCC需求。聯發科為關鍵成分。偏多操作。同00892"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": 15.7,
+        "nav": 15.8,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.63%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "持有",
+        "note": "主動型ETF。大盤創新高推升淨值,折價-0.63%。主動管理受惠AI股+聯發科。前期折價買入者持有。回檔加碼"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": 18.2,
+        "nav": 18.4,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-1.09%",
+        "vs_quarterly_ma": "+4.5%",
+        "recommendation": "持有",
+        "note": "主動型ETF。淨值隨AI股+聯發科上升。折價-1.1%。YTD最強。主動管理alpha持續。折價提供安全邊際。持有"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": 38.5,
+        "nav": 38.6,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.26%",
+        "vs_quarterly_ma": "+0.8%",
+        "recommendation": "觀望/殖利率高點分批",
+        "note": "債券ETF。10年期美債4.78%(20月高)+日本10年期3%=殖利率飆=債券短期承壓。但殖利率高點=長線買點。地緣避險需求。折價微幅。觀望,殖利率若續升分批加碼"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": 15.6,
+        "nav": 15.62,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.13%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "持有/偏多",
+        "note": "類0050。創新高跟漲。折價微幅。核心配置"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": 24.8,
+        "nav": 24.9,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.40%",
+        "vs_quarterly_ma": "+3.5%",
+        "recommendation": "偏多✅",
+        "note": "科技+高息。Nvidia-MediaTek利多+科技股反攻+月配息。半導體題材受惠。偏多持有領息"
+      }
+    ],
+    "summary": "台股9/1收46,948(+820,+1.78%)創2個月收盤新高!全亞股最強。關鍵:Nvidia投資聯發科(採NVLink Fusion)=聯發科+10%(YTD +200%)+台灣AI供應鏈全面受惠。TSMC 2,440(+1.46%)。但美股9/1收黑(Nasdaq -1.03%)因油價破+US再襲伊朗+10年期美債4.78%(20月高)。台美明顯背離。策略:①半導體(00892/00891)+00929=Nvidia-MediaTek利多首選,偏多但今日留意美股隔夜壓力 ②TSMC持有,Nvidia代工+FY28 +70% ③高息(0056/00878)9月防禦 ④債券(00403A)殖利率飆至20月高=短期承壓但長線買點,觀望分批 ⑤主動型ETF(00981A)持有。⚠️台美背離+9月三逆風(季節/升息58%/地緣油價)=今日恐震盪。46,948創高後留意獲利了結+美股拖累。"
+  }
+}
