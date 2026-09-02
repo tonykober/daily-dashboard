@@ -183,5 +183,247 @@
       }
     ],
     "summary": "台股9/1收46,948(+820,+1.78%)創2個月收盤新高!全亞股最強。關鍵:Nvidia投資聯發科(採NVLink Fusion)=聯發科+10%(YTD +200%)+台灣AI供應鏈全面受惠。TSMC 2,440(+1.46%)。但美股9/1收黑(Nasdaq -1.03%)因油價破+US再襲伊朗+10年期美債4.78%(20月高)。台美明顯背離。策略:①半導體(00892/00891)+00929=Nvidia-MediaTek利多首選,偏多但今日留意美股隔夜壓力 ②TSMC持有,Nvidia代工+FY28 +70% ③高息(0056/00878)9月防禦 ④債券(00403A)殖利率飆至20月高=短期承壓但長線買點,觀望分批 ⑤主動型ETF(00981A)持有。⚠️台美背離+9月三逆風(季節/升息58%/地緣油價)=今日恐震盪。46,948創高後留意獲利了結+美股拖累。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Anthropic簽",
+        "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/anthropic-s-35b-lambda-deal-is-the-main-topic",
+        "source": "Startup Hub AI",
+        "desc": "Anthropic向Nvidia背書的Lambda租(德州Nueces郡350MW資料中心,Hut 8開發)。Nvidia持租約+供晶片,Lambda營運,Anthropic買運算。Bloomberg:實為Nvidia為自己晶片融資需求"
+      },
+      {
+        "title": "Anthropic發布Claude Fable 5.1+Mythos 5.1:cache讀取降75%、成本降25-45%",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "9/1發布。Fable 5.1(廣泛可用)+Mythos 5.1(受限,資安/生科trusted-access)。定價維持/M輸入+/M輸出,但cache讀取降75%至.25/M=workload降25-45%成本。Claude Code限額9/14下修"
+      },
+      {
+        "title": "Nvidia「付錢給競爭者」策略:MediaTek/Broadcom/Marvell自研晶片降40%推論成本",
+        "url": "https://www.ainvest.com/news/nvidia-bold-defense-paying-competitors-2609/",
+        "source": "Ainvest",
+        "desc": "Google/Meta/Amazon/OpenAI花數十億設計客製晶片(Broadcom/Marvell/MediaTek)=可降推論成本40%+。看似存亡威脅但Nvidia透過NVLink Fusion+投資=收custom AI晶片過路費。"
+      },
+      {
+        "title": "Nvidia兩筆交易一個策略:MediaTek +Anthropic ",
+        "url": "https://finance.yahoo.com/video/two-deals-one-nvidia-strategy-193213308.html",
+        "source": "Yahoo Finance",
+        "desc": "Nvidia投MediaTek (NVLink Fusion)+Anthropic (Nvidia晶片)。共同策略:確保自家GPU持續在AI factory核心。循環融資=擴大晶片需求"
+      },
+      {
+        "title": "Anthropic Claude Code限額9/14下修:從+50%促銷降至+25%基線",
+        "url": "https://www.implicator.ai/anthropic-trims-claude-code-limits-chatgpt-ads-1-billion/",
+        "source": "Implicator AI",
+        "desc": "9/14生效。Pro/Max/Team/Enterprise席位方案。5月+50%促銷→替換為+25%(較5月前基線)。5小時session限制不變。開發者用量成本上升。ChatGPT Ads達"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Onimusha: Way of the Sword 9/4發售在即:Capcom武士動作大作",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "本週四9/4發售。RE Engine武士動作。鬼武者系列正統續作。Lion Dogs機制。9月首週遊戲大作。PC/PS5/Xbox"
+      },
+      {
+        "title": "Witcher 3免費重製9/29+經典DLC(HoS/BaW)已免費開放",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "兩大經典DLC免費開放中。免費重製9/29(升級光照/Signs特效)。為2027 Songs of the Past(Geralt最後冒險)暖身。Witcher 4瞄準2028(Ciri)"
+      },
+      {
+        "title": "Gamescom 2026實機體驗:Control Resonant等大作第一手評價",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/30/heres-every-game-we-played-at-gamescom-2026",
+        "source": "Game Informer",
+        "desc": "Game Informer編輯Gamescom實測。Control Resonant(Remedy)、Witcher 3 DLC等。從trailer到hands-on第一手評價"
+      },
+      {
+        "title": "HoYoverse Nodus Fall:4人合作對抗神話神祇(UE5 AAA)玩法揭曉",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "米哈遊UE5 AAA新作。4人合作PvE。Weaver對抗神話神祇/怪物。從原神開放世界→合作動作轉型。多人動作野心"
+      }
+    ],
+    "tech": [
+      {
+        "title": "US再襲伊朗油價破、Trump警告更大攻擊",
+        "url": "https://energynow.ca/2026/09/oil-climbs-again-as-u-s-iran-fighting-raises-fresh-hormuz-supply-fears/",
+        "source": "EnergyNow",
+        "desc": "US襲IRGC目標。WTI +5.2%收.22。Brent +4.6%收.65。荷姆茲2艘沙國油輪遇襲。Trump警告「hard」攻擊。荷姆茲僅5船/日通過。地緣供應風險升"
+      },
+      {
+        "title": "Anthropic +Nvidia循環融資:AI基建資金鏈檢視",
+        "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/anthropic-s-compute-bet-tests-ai-limits",
+        "source": "Startup Hub AI",
+        "desc": "Anthropic德州350MW資料中心租約。Nvidia持租約+供晶片。Bloomberg:Nvidia為自己晶片需求融資。AI基建的循環融資結構=需求真實性受質疑"
+      },
+      {
+        "title": "全球債市大跌:日本10年期破3%(1996來首)、美10年期4.78%",
+        "url": "https://www.stl.news/overseas-markets-overnight-september-1-2026/",
+        "source": "STL News",
+        "desc": "日本10年期殖利率破3%(1996以來首見)。美10年期4.78%(20月高)。全球央行維持/收緊政策應對通膨。殖利率飆壓制科技股估值。日圓套利風險"
+      },
+      {
+        "title": "FTC控告Amazon暗中超收百萬廣告主:平台廣告透明度爭議",
+        "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
+        "source": "TechStartups",
+        "desc": "FTC指控Amazon悄悄超收超過百萬廣告主。平台廣告計費透明度爭議。與Apple App Store佣金爭議呼應。大型平台的商業實踐面臨監管"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BTC跌破-伊朗衝突+全球債市大跌+9月升息拖累",
+        "url": "https://uk.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4853481",
+        "source": "Investing.com",
+        "desc": "BTC -2%。油價飆+全球bond rout+Fed升息預期。→.5K區間震盪。8月+24.95%(2021來首個正8月)後的9月考驗。機構ETF流入提供底部支撐"
+      },
+      {
+        "title": "BofA/Citi/Goldman等21家金融機構聯手推穩定幣(2027上線)",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "CoinTelegraph",
+        "desc": "21家主要金融機構(含Bank of America/Citi/Goldman Sachs)宣布穩定幣合資計畫,瞄準2027上線。傳統金融巨頭進軍穩定幣。GENIUS Act框架下的機構化。新加坡/泰國研議加密規則"
+      },
+      {
+        "title": "BTC 8月+24.95%(2021來首個正8月)但面臨熟悉的9月考驗",
+        "url": "https://www.cryptotimes.io/2026/09/01/bitcoins-first-positive-august-since-2021-comes-with-a-familiar-september-test/",
+        "source": "Crypto Times",
+        "desc": "8月+24.95%為年度最強月+2021來首個正8月。但歷史上9月常為BTC弱勢月。debasement trade(Treasury buyback)vs 9月季節性+Fed鷹派+地緣的對決"
+      },
+      {
+        "title": "BTC近+現貨需求提供底部",
+        "url": "https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-september-1-2026",
+        "source": "Bitcoin News Digest",
+        "desc": "BTC (未跌破)。持續機構現貨+ETF需求提供強底。Strategy恢復買入。地緣+升息壓制上行但機構承接限制下跌。-80K盤整"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Anthropic Claude Fable 5.1/Mythos 5.1:cache讀取降75%=workload降25-45%",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "9/1發布。cache讀取/M→.25/M(-75%)。輸入/M+輸出/M不變但快取密集workload降25-45%成本。開發者的Claude API成本大降(尤其RAG/長context應用)"
+      },
+      {
+        "title": "Anthropic Claude Code限額9/14下修:開發者用量成本上升",
+        "url": "https://www.implicator.ai/anthropic-trims-claude-code-limits-chatgpt-ads-1-billion/",
+        "source": "Implicator AI",
+        "desc": "9/14生效。從5月+50%促銷降至+25%基線。Pro/Max/Team/Enterprise。5小時session不變。重度Claude Code開發者用量受限。cache降價與限額下修並存的矛盾"
+      },
+      {
+        "title": "Nvidia NVLink Fusion生態:讓MediaTek等設計可插入Nvidia機架的客製晶片",
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/08/31/nvidias-35-billion-mediatek-deal-is-a-tollbooth-for-custom-ai-chips/",
+        "source": "Forbes",
+        "desc": "NVLink Fusion=預驗證路徑讓其他公司設計客製AI加速器直接插入Nvidia rack-scale系統。MediaTek採用。開發者:客製AI晶片的標準化互連。Nvidia收過路費"
+      },
+      {
+        "title": "Mythos 5.1受限發布(資安/生科trusted-access):AI能力管控新模式",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "Anthropic高能力模型Mythos 5.1僅透過trusted-access program開放(資安/生科)。開發者取用高風險能力模型需通過信任審查。AI能力分級管控的開發者取用機制"
+      }
+    ],
+    "art": [
+      {
+        "title": "Onimusha武士美學(9/4):RE Engine日本戰國鬼神視覺",
+        "url": "https://www.gamesradar.com/games/events-conferences/everything-announced-at-the-future-games-show-at-gamescom-2026/",
+        "source": "GamesRadar",
+        "desc": "Capcom RE Engine。日本戰國+鬼神奇幻美術。武士刀劍動作的視覺打擊感。Lion Dogs系列招牌。9/4發售"
+      },
+      {
+        "title": "HoYoverse Nodus Fall:UE5毀滅世界黑暗奇幻美術",
+        "url": "https://www.windowscentral.com/gaming/all-the-xbox-and-pc-game-announcements-at-gamescom-2026-opening-night-live-as-it-happens",
+        "source": "Windows Central",
+        "desc": "UE5 AAA圖形。「秩序崩壞」毀滅世界。米哈遊從原神明亮→寫實黑暗奇幻的視覺實驗。多人合作場景美術"
+      },
+      {
+        "title": "Control Resonant(Remedy):超自然brutalist建築視覺延續",
+        "url": "https://gameinformer.com/gamescom-2026/2026/08/30/heres-every-game-we-played-at-gamescom-2026",
+        "source": "Game Informer",
+        "desc": "Remedy新作實機。Control系列超自然/brutalist建築美學。光影/空間扭曲視覺語言。環境敘事+視覺風格延續"
+      },
+      {
+        "title": "Witcher 3免費重製美術(9/29):光照/材質/Signs特效全面升級",
+        "url": "https://www.polygon.com/gamescom-2026-opening-night-live-all-news-announcements-trailers/",
+        "source": "Polygon",
+        "desc": "免費升級所有玩家。升級光照/材質/粒子。新Signs FX。新finisher動畫。擴展照相模式。經典遊戲美術翻新標竿"
+      }
+    ],
+    "design": [
+      {
+        "title": "Anthropic cache定價設計:75%降價引導開發者優化context使用",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "cache讀取降75%=用定價引導開發者善用prompt caching。API定價的行為設計:降低重複context成本鼓勵RAG/agent應用。經濟激勵驅動的架構最佳化"
+      },
+      {
+        "title": "NVLink Fusion的生態設計:客製晶片標準化互連的平台策略",
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/08/31/nvidias-35-billion-mediatek-deal-is-a-tollbooth-for-custom-ai-chips/",
+        "source": "Forbes",
+        "desc": "預驗證路徑讓客製晶片插入Nvidia機架。平台生態設計:開放讓競爭者建構但收互連過路費。「開放但綁定」的平台策略設計。tollbooth模式"
+      },
+      {
+        "title": "Mythos 5.1 trusted-access:AI能力分級的信任管控設計",
+        "url": "https://aiweekly.co/ai-news-today",
+        "source": "AI Weekly",
+        "desc": "高能力模型僅trusted-access(資安/生科)。設計挑戰:如何在開放與風險管控間平衡?AI能力分級+信任審查的產品設計。危險能力的gated access機制"
+      },
+      {
+        "title": "穩定幣機構化的產品設計:21家銀行聯合venture的信任架構",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "CoinTelegraph",
+        "desc": "BofA/Citi/Goldman等21家共推穩定幣。設計挑戰:多方治理的穩定幣如何設計信任+合規+互操作?傳統金融的穩定幣產品設計vs 加密原生方案"
+      }
+    ],
+    "business": [
+      {
+        "title": "Anthropic ",
+        "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
+        "source": "TechStartups",
+        "desc": "Anthropic德州350MW資料中心。Nvidia持租約+供晶片。與MediaTek +OpenAI 。Nvidia循環融資擴大自家晶片需求的商業模式"
+      },
+      {
+        "title": "US再襲伊朗油價破+全球債市大跌+9月最弱月",
+        "url": "https://www.abc.net.au/news/2026-09-02/asx-markets-business-live-news/107105482",
+        "source": "ABC Australia",
+        "desc": "US襲IRGC+荷姆茲油輪遇襲。Brent .65。日本10年期破3%。美10年期4.78%。全球股市承壓(ASX重挫)。9月歷史最弱月+地緣+殖利率=多重逆風"
+      },
+      {
+        "title": "BofA/Citi/Goldman等21家推穩定幣(2027):傳統金融進軍加密",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "CoinTelegraph",
+        "desc": "21家主要金融機構聯合穩定幣venture,2027上線。傳統金融巨頭正式進軍穩定幣。GENIUS Act框架催化。加密與傳統金融的融合加速"
+      },
+      {
+        "title": "FTC控Amazon超收百萬廣告主:大型平台商業實踐監管升溫",
+        "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
+        "source": "TechStartups",
+        "desc": "FTC指控Amazon悄悄超收超過百萬廣告主。與Apple App Store佣金爭議呼應。大型平台(Amazon/Apple/Meta)的商業實踐全面面臨監管審查"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股9月開局重挫:S&P -0.71%/Nasdaq -1.03%,油價破+殖利率飆",
+        "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P 7,631(-0.71%)。Nasdaq 26,099(-1.03%)。Dow -400。油價WTI +5.2%/Brent +4.6%.65。9月歷史最弱月開局不利。Micron/Nvidia飄綠。殖利率飆壓制成長股"
+      },
+      {
+        "title": "全球債市大跌:日本10年期破3%(1996來首)、美10年期4.78%(20月高)",
+        "url": "https://www.stl.news/overseas-markets-overnight-september-1-2026/",
+        "source": "STL News",
+        "desc": "日本10年期破3%(1996首見)。美10年期4.78%。全球央行維持/收緊應對通膨。殖利率飆=股票估值壓力(尤其科技/成長)。日圓套利平倉風險"
+      },
+      {
+        "title": "BTC 8月+24.95%(2021來首正8月)但9月三逆風:季節/升息/地緣",
+        "url": "https://www.cryptotimes.io/2026/09/01/bitcoins-first-positive-august-since-2021-comes-with-a-familiar-september-test/",
+        "source": "Crypto Times",
+        "desc": "8月創年度最強月。但9月常弱勢+Fed升息58%+US-Iran+油價。debasement trade(Treasury buyback)vs 多重逆風。機構ETF流入提供底部"
+      },
+      {
+        "title": "台股9/2:9/1創2月新高(Nvidia-MediaTek)vs 美股隔夜重挫背離",
+        "url": "https://focustaiwan.tw/business/202609010019",
+        "source": "Focus Taiwan",
+        "desc": "台股9/1 +1.78%創2月新高(Nvidia投聯發科)。但美股9/1 -1%(油價/殖利率/地緣)。台美背離=今日台股恐消化美股弱勢。TSMC 2,440。留意9月三逆風"
+      }
+    ]
   }
 }
