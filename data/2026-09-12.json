@@ -1,0 +1,275 @@
+{
+  "date": "2026-09-12",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 46184.85,
+      "taiex_change_pct": "-1.61%",
+      "taiex_date": "2026-09-11",
+      "note": "台股9/11收46,184.85(-755.64,-1.61%),盤中45,942~46,651,成交量7,219億。主因:資金輪出大型AI權值股+Fed升息恐慌(美8月CPI +3.4%如預期但升息機率飆至85%)。美股9/11收高(油價回落+CPI符預期)但整週收黑。台股本週高檔震盪修正,AI權值股獲利了結。下週(9/16-17)Fed利率決議為最大變數。",
+      "us_sp500": null,
+      "us_sp500_note": "美股9/11收高:S&P/Nasdaq/Dow於連跌一週後小幅反彈。CPI符預期(整體+0.4%月/+3.4%年,核心+0.3%月/+2.4%年)+油價回落帶動。但CPI維持高檔=Fed下週升息機率升至85%。Oracle/Adobe財報週。整週仍收黑(中東衝突+加拿大美國貿易戰+AI疑慮)",
+      "oil_brent": "回落",
+      "oil_note": "9/11油價回落舒緩通膨壓力,推升美股。中東地緣風險仍在但短線緩和。能源股回吐、科技股回穩",
+      "foreign_investors": "台股9/11外資調節大型AI權值股,資金輪動明顯。Fed升息預期+高檔獲利了結=外資轉趨保守。下週Fed決議前觀望"
+    },
+    "watchlist": [
+      { "code": "2330", "name": "台積電", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "9/11大型AI權值股領跌,台積電為主要拖累。Fed升息預期壓制高估值科技股。基本面(AI代工+FY28能見度)不變,惟短線隨大盤修正。季線約2,330為支撐觀察" },
+      { "code": "0050", "name": "元大台灣50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "隨TAIEX -1.61%回檔。前波創高後獲利了結。核心持有,Fed決議後方向較明朗" },
+      { "code": "0056", "name": "元大高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "高息ETF相對抗跌。升息+地緣不確定下防禦配置。持有領息" },
+      { "code": "00878", "name": "國泰永續高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "ESG+高股息防禦。持有領息" },
+      { "code": "00919", "name": "群益台灣精選高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "月配息現金流,震盪期優勢。持有領息" },
+      { "code": "00940", "name": "元大台灣價值高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "價值+高息。隨大盤回檔。持有" },
+      { "code": "006208", "name": "富邦台50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "與0050同質、費用率更低。核心配置,隨大盤修正" },
+      { "code": "00892", "name": "富邦台灣半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有/回檔留意", "note": "半導體ETF,9/11隨AI權值股回檔領跌。Fed升息壓制高估值。回落季線可分批" },
+      { "code": "00891", "name": "中信關鍵半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有/回檔留意", "note": "半導體供應鏈,同00892隨大盤修正。回檔加碼觀察" },
+      { "code": "00982A", "name": "群益台灣強棒", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "主動型ETF,隨大盤回檔。折價買入者持有" },
+      { "code": "00981A", "name": "統一台股增長", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "主動型ETF,YTD強勢。回檔提供加碼機會。持有" },
+      { "code": "00403A", "name": "中信ESG投資級債", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "觀望/分批", "note": "債券ETF。Fed升息預期升至85%=殖利率短期承壓。但高殖利率=長線買點。下週Fed決議前觀望,分批" },
+      { "code": "009816", "name": "凱基台灣TOP50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "類0050,隨大盤修正。核心配置" },
+      { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": null, "recommendation": "持有", "note": "科技+高息,9/11隨科技股回檔。月配息緩衝。持有領息" }
+    ],
+    "summary": "台股9/11收46,184.85(-755.64,-1.61%),資金輪出大型AI權值股+Fed升息恐慌(美8月CPI +3.4%如預期但升息機率飆85%)。成交量7,219億。美股9/11收高(CPI符預期+油價回落)但整週收黑。策略:①下週(9/16-17)Fed利率決議為最大變數,決議前保守觀望 ②大型AI/半導體(00892/00891/00929)高檔獲利了結,回落季線分批 ③高息ETF(0056/00878/00919)震盪期防禦領息 ④債券(00403A)升息預期下短期承壓、長線買點觀望分批 ⑤台積電基本面不變惟隨大盤修正,季線2,330觀察。⚠️Fed升息85%+中東地緣+AI估值疑慮=高檔震盪,控制部位待Fed決議明朗。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI執行長Altman:願意放慢最先進AI開發,呼籲同業同步",
+        "url": "https://www.independent.co.uk/tech/sam-altman-openai-ai-safety-slowdown-b3048429.html",
+        "source": "The Independent",
+        "desc": "Altman於全員會議告知員工,面對愈發強大模型的失控風險,OpenAI願放慢前沿開發步調,並盼競爭對手跟進。承認未必所有對手會配合。AI安全壓力升至高點的轉折訊號"
+      },
+      {
+        "title": "OpenAI與Anthropic研究員集體呼籲放慢AI:源於Coxon辭職警告",
+        "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+        "source": "CNBC",
+        "desc": "Anthropic研究員Jacob Coxon週二辭職,指控Anthropic與OpenAI「拿我們的性命豪賭」奔向超智能。多名兩家實驗室研究員接續公開聲援放慢開發,災難性風險警告升溫"
+      },
+      {
+        "title": "Anthropic攔阻AI被用於研究生物武器與網路攻擊",
+        "url": "https://news.sky.com/story/anthropic-blocks-effort-to-use-ai-to-research-potential-biological-weapons-13584258",
+        "source": "Sky News",
+        "desc": "Anthropic表示已阻擋利用其AI模型執行網路攻擊、以及可能導致生物武器製造的研究行為。前沿模型濫用防護成為安全治理焦點"
+      },
+      {
+        "title": "Google/Anthropic/OpenAI齊發資安AI模型:自主漏洞挖掘達前沿等級",
+        "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+        "source": "The Hacker News",
+        "desc": "三大廠同步發布資安專用AI模型與存取管控。Google最新模型在自主漏洞發現超越Anthropic Mythos 5與OpenAI GPT-5.6 Sol/GPT-5.5-Cyber。攻防AI軍備競賽白熱化"
+      },
+      {
+        "title": "白宮AI測試框架仍未公開,外界對威脅疑慮升高",
+        "url": "https://www.cbsnews.com/news/ai-model-framework-white-house/",
+        "source": "CBS News",
+        "desc": "6月行政命令要求Anthropic/OpenAI等在發布最強模型前30天自願讓聯邦政府存取以強化安全,但白宮測試框架至今未公開。監管透明度與AI安全的角力"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "9月Nintendo Direct:魔物獵人Wilds登Switch 2(12/4)、FF7 Revelation再曝光",
+        "url": "https://www.nintendolife.com/news/2026/09/nintendo-direct-september-2026-and-zelda-40th-anniversary-time-date-how-to-watch",
+        "source": "Nintendo Life",
+        "desc": "本月任天堂直面會亮點:Monster Hunter Wilds登Switch 2(12/4)、Final Fantasy VII Revelation、Crisis Core Reunion、薩爾達40週年紀念。玩家票選MH Wilds為最愛公布"
+      },
+      {
+        "title": "9月Nintendo Direct全公布:新Kirby與Metroid、雷頓教授新作12/10",
+        "url": "https://gameinformer.com/nintendo-direct/2026/09/09/every-new-announcement-at-the-september-2026-nintendo-direct",
+        "source": "Game Informer",
+        "desc": "重點含全新Kirby與Metroid揭曉,以及雷頓教授新作《New World of Steam》(PS5/Switch 2/Switch/PC,12/10)等長期期待作品定檔"
+      },
+      {
+        "title": "BlizzCon 2026回歸(9/12-13):暴雪未來走向全球關注",
+        "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-september-2026/",
+        "source": "GameSpot",
+        "desc": "BlizzCon今年盛大回歸(9/12-13,PC),各界聚焦暴雪產品線與未來規劃。9月遊戲行事曆重頭戲之一"
+      },
+      {
+        "title": "本週值得一玩:SlashZero動作Roguelike(PS狀態直播日本場公布)",
+        "url": "https://gameinformer.com/opinion/2026/09/11/the-video-games-and-more-you-should-play-this-weekend-september-11-2026",
+        "source": "Game Informer",
+        "desc": "SlashZero為華麗動作橫向捲軸Roguelike,於上週PlayStation State of Play日本場公布,PS5/Steam推出限時免費試玩,正式版明年上市"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Apple發表首款折疊機iPhone Duo($1,999)與iPhone 18 Pro,9/12開放預購",
+        "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+        "source": "MacRumors",
+        "desc": "新任執行長John Ternus首場主題演講。iPhone Duo為Apple首款折疊機(5.4吋外螢幕+7.6吋內螢幕,$1,999起),搭配iPhone 18 Pro(A20 Pro晶片)。9/12上午起全球開放預購"
+      },
+      {
+        "title": "Meta本月量產Iris資料中心AI晶片,目標2027達14GW算力",
+        "url": "https://tech-insider.org/meta-iris-ai-chip-mtia-production-2026/",
+        "source": "Tech Insider",
+        "desc": "路透取得內部備忘錄:Meta本月開始量產自研Iris(MTIA系列)資料中心AI晶片,目標2027年達14GW。大型科技廠自研晶片、降低對Nvidia依賴的趨勢延續"
+      },
+      {
+        "title": "TSMC規劃導入High-NA EUV、Google轉向核能供電資料中心",
+        "url": "https://tldr.tech/hardware/2026-09-11",
+        "source": "TLDR",
+        "desc": "TSMC規劃導入High-NA EUV微影推進先進製程;Google為AI資料中心轉向核能供電。半導體製程與AI能源基建雙線推進"
+      },
+      {
+        "title": "DOJ調查Nvidia 2025年Groq交易、Google歸咎歐盟規則致搜尋走弱",
+        "url": "https://stepmark.beehiiv.com/p/september-11th-newsletter",
+        "source": "Stepmark Newsletter",
+        "desc": "司法部審視Nvidia 2025年Groq交易;Google將搜尋走弱歸咎歐盟規則。美中官員9/24可能就AI網路攻擊與晶片管制對話。貿易與監管持續主導科技產業"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "比特幣CPI符預期後收復$78K,ETH回到約$2,500",
+        "url": "https://www.cryptotimes.io/2026/09/11/bitcoin-reclaims-78k-after-us-inflation-data-meets-expectations/",
+        "source": "Crypto Times",
+        "desc": "美8月CPI符預期後,BTC盤中一度跌破$77K後反彈,9/11收復$78,703(24h +2%)。此前受升息預期與地緣拖累。CPI落地舒緩不確定性帶動加密反彈"
+      },
+      {
+        "title": "參議院共和黨投票前公布修訂版CLARITY Act,加密監管框架推進",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "參院共和黨於表決前公布修訂版CLARITY Act(加密市場結構法案)。ETH盤中一度漲2.8%至$2,538。監管明確化持續為市場核心題材"
+      },
+      {
+        "title": "BTC盤中跌破$77K:CPI數據來襲+Fed升息機率升至85%",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html",
+        "source": "Yahoo Finance",
+        "desc": "9/11 CPI公布前BTC跌破$77,000、ETH約$2,437。市場擔憂通膨黏著推升Fed升息預期。數據落地前避險情緒濃厚,波動加劇"
+      },
+      {
+        "title": "KuCoin日報:BTC支撐$75-76K,阻力回到$77.5-78K",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-september-11-2026",
+        "source": "KuCoin",
+        "desc": "亞洲盤BTC於$76.7K附近,ETH約$2.44K。短線支撐$75-76K,$77.5-78K轉為阻力,$79-80K為更重要的回升區。技術面於關鍵區間拉鋸"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI安全系統已會在任務中途切斷API回應:代理式開發的驗證挑戰",
+        "url": "https://thenewstack.io/openai-slowing-ai-development/",
+        "source": "The New Stack",
+        "desc": "OpenAI放慢開發之際,其安全機制已在部分情況下於任務執行中途切斷API回應。對開發者而言,代理式(agentic)開發的可靠性關鍵在於執行期驗證,這是雲原生的runtime問題"
+      },
+      {
+        "title": "Google/Anthropic/OpenAI資安AI模型:自主漏洞挖掘進入前沿等級",
+        "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+        "source": "The Hacker News",
+        "desc": "三大廠同步推資安AI模型與存取計畫。自主漏洞發現達前沿等級=對開發者的攻防工具鏈變革。安全研究/紅隊工作流將深度整合AI能力"
+      },
+      {
+        "title": "iPhone Duo折疊UX:內外螢幕共用長寬比,內容依折疊自動重排",
+        "url": "https://parametric-architecture.com/iphone-18-iphone-duo-design-ux/",
+        "source": "Parametric Architecture",
+        "desc": "iPhone Duo最關鍵設計不在鉸鏈,而在內外螢幕共用長寬比:內容等比縮放、狀態與導覽元素方向一致,開合時降低認知跳躍。App開發者的折疊自適應UI新範式"
+      },
+      {
+        "title": "AI模型汰換加速:2026年已下架多款,OpenAI移除GPT-4o、Anthropic退役Opus 4.1",
+        "url": "https://felloai.com/ai-models-discontinued/",
+        "source": "Fello AI",
+        "desc": "2026年AI模型下架名單比想像長:OpenAI 2/13自ChatGPT移除GPT-4o(日活僅0.1%選用)、Anthropic 8/5退役Claude Opus 4.1。開發者需留意模型生命週期與遷移成本"
+      }
+    ],
+    "art": [
+      {
+        "title": "designboom 9月全球展覽雷達:大型回顧展+沉浸式裝置齊發",
+        "url": "https://www.designboom.com/art/exhibition-radar-september-2026/",
+        "source": "designboom",
+        "desc": "9月藝術、建築、設計展覽密集開季:重量級回顧展與沉浸式裝置並陳,亦有聚焦個別實踐的專題展。設計媒體精選全球必看清單"
+      },
+      {
+        "title": "洛杉磯AI美術館DATALAND:以觀者生理數據即時生成藝術",
+        "url": "https://www.frieze.com/article/dataland-opinion",
+        "source": "Frieze",
+        "desc": "Refik Anadol主導的新AI美術館DATALAND開幕討論。參觀過程中隱形超級電腦監測心率、動作與皮膚電導,以此數據即時生成作品。AI藝術能否成立的思辨"
+      },
+      {
+        "title": "MoMA《Full Disclosure》:200年資訊設計之美的資料視覺化展",
+        "url": "https://galeriemagazine.com/the-museum-of-modern-arts-full-disclosure-finds-beauty-in-data/",
+        "source": "Galerie Magazine",
+        "desc": "MoMA新展探索設計師如何在資料洪流之前就將複雜資訊視覺化,橫跨200餘年、涵蓋移民/歷史/新聞/個人記憶等主題。資料視覺化作為藝術的歷史縱深"
+      },
+      {
+        "title": "Fou Gallery《Synthetic Mobility》:牧田愛與李思樞的動力藝術雙個展(9/19)",
+        "url": "https://www.fougallery.com/exhibition-list/synthetic-mobility",
+        "source": "Fou Gallery",
+        "desc": "紐約Fou Gallery呈現東京/紐約藝術家牧田愛與中國出生、休士頓為據點的動力藝術家李思樞雙人展,9/19–11/8展出。探索合成與動力的當代語彙"
+      }
+    ],
+    "design": [
+      {
+        "title": "iPhone Duo設計解析:內外螢幕共用長寬比的UX巧思",
+        "url": "https://parametric-architecture.com/iphone-18-iphone-duo-design-ux/",
+        "source": "Parametric Architecture",
+        "desc": "iPhone Duo最有趣的設計決策不是折疊本身,而是堅持內外螢幕共用長寬比:內容等比縮放、狀態與導覽方向一致,開合時大幅降低認知跳躍。折疊裝置UX的設計典範"
+      },
+      {
+        "title": "Apple官方揭iPhone Duo工藝:多層積層+黏彈性膠讓螢幕如翻書滑動",
+        "url": "https://www.macrumors.com/2026/09/09/apple-announces-foldable-iphone-duo/",
+        "source": "MacRumors",
+        "desc": "Apple說明其結構採多層積層設計搭配黏彈性黏著劑,讓螢幕各層在折疊時如翻書般相互滑動,長期防止變形。折疊機的工業設計與材料工程解方"
+      },
+      {
+        "title": "iPhone Duo:展開為史上最薄iPhone,7.6吋內螢幕搭奈米紋理抗眩光",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+        "source": "Apple Newsroom",
+        "desc": "展開時為史上最薄iPhone,7.6吋內螢幕提供觀影/遊戲/多工大畫布,並採特殊奈米紋理表面抑制眩光。折疊型態與顯示品質的設計平衡"
+      },
+      {
+        "title": "MoMA《Full Disclosure》:資訊設計如何讓複雜變可見",
+        "url": "https://press.moma.org/exhibition/fulldisclosure/",
+        "source": "MoMA",
+        "desc": "MoMA展覽探索人類如何將資訊視覺化,以及設計師在日益複雜的數位世界中如何協助並形塑理解。資訊設計方法論的系統性回顧,對UX/資料設計者具參考價值"
+      }
+    ],
+    "business": [
+      {
+        "title": "美8月CPI +3.4%如預期,Fed升息押注升高、道瓊S&P那指收高作收爛週",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html",
+        "source": "Yahoo Finance",
+        "desc": "美8月CPI月增0.4%、年增3.4%(符預期、略高於7月)。作為Fed下週決議前最後通膨數據,強化升息預期。三大指數9/11收高、為連跌週劃下相對正面句點"
+      },
+      {
+        "title": "CPI持穩3.4%、核心降至2.4%:Fed下週升息機率上升",
+        "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+        "source": "CNBC",
+        "desc": "8月CPI季調月增0.4%、年增3.4%,均符道瓊共識;核心CPI月增0.3%略高於預期。通膨黏著可能鎖定Fed下週升息。市場焦點轉向9/16-17利率決議"
+      },
+      {
+        "title": "台股9/11重挫1.61%:資金輪出大型AI股+Fed升息恐慌",
+        "url": "https://focustaiwan.tw/business/202609110014",
+        "source": "Focus Taiwan",
+        "desc": "台股收46,184.85(-755.64,-1.61%),盤中45,942~46,651,成交量7,219億(228.4億美元)。Fed升息疑慮+大型AI權值股獲利了結。下週Fed決議為最大變數"
+      },
+      {
+        "title": "油價回落+CPI符預期推升美股,Oracle/Adobe財報週登場",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Charles Schwab",
+        "desc": "9/11油價下跌帶動美股走高,CPI符預期使殖利率先升後降。Oracle、Adobe財報週。市場在升息預期與企業獲利間權衡,聚焦Fed下週動向"
+      }
+    ],
+    "finance": [
+      {
+        "title": "台股9/11收46,184.85(-1.61%):Fed升息恐慌+AI權值股輪出",
+        "url": "https://www.taiwannews.com.tw/en/news/6438331",
+        "source": "Taiwan News",
+        "desc": "TAIEX收跌755.64點、-1.61%至46,184.85。投資人自大型AI股撤出、資金輪動。Fed升息疑慮壓制高估值科技股。成交量7,219億元"
+      },
+      {
+        "title": "美股連跌週後收高:強勁CPI鞏固Fed升息押注、油價回落助攻",
+        "url": "https://ca.investing.com/news/economy-news/wall-st-futures-recover-as-oil-slides-ahead-of-inflation-test-4836175",
+        "source": "Investing.com / Reuters",
+        "desc": "華爾街9/11收高,油價回落+強勁CPI強化Fed下週升息以抗通膨的預期。三大指數為連跌一週劃下相對正面句點,聚焦9/16-17利率決議"
+      },
+      {
+        "title": "8月CPI年增維持3.4%、核心降至2.4%:通膨自4.2%高點回落但仍黏",
+        "url": "https://finance.yahoo.com/economy/policy/articles/cpi-comes-line-expectations-150000412.html",
+        "source": "Yahoo Finance",
+        "desc": "CPI年增連兩月持穩3.4%(2-5月曾每月跳升40+bp、5月峰值4.2%)。核心CPI年增降至2.4%為2026低點。通膨降溫但仍高於目標,Fed政策空間受限"
+      },
+      {
+        "title": "比特幣CPI符預期後收復$78-79K:風險資產同步反彈",
+        "url": "https://coindoo.com/crypto-rallies-cpi-matches-forecasts-bitcoin/",
+        "source": "Coindoo",
+        "desc": "CPI符預期後,股票、比特幣、黃金同步反彈。BTC自跌破$77K回升至$78-79K、ETH回到約$2,500。通膨數據落地舒緩市場不確定性,但升息預期(85%)限制上行"
+      }
+    ]
+  }
+}
