@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-13",
+  "categories": {
+    "ai": [
+      {
+        "title": "Anthropic執行長Amodei發文籲「調控前沿」:導入第三方評估者常駐存取",
+        "url": "https://fortune.com/2026/09/12/anthropic-ceo-dario-amodei-ai-safety-global-panic/",
+        "source": "Fortune",
+        "desc": "Amodei週六發表長文,呼籲業界與政府「pace the frontier(調控前沿步調)」。Anthropic承諾新安全措施:給予獨立評估者永久、員工級別的公司內部存取權,以回報事件並追蹤安全實踐。籲國際合作放慢AI開發"
+      },
+      {
+        "title": "OpenAI排除今年IPO:Altman、Musk、Amodei齊警告AI發展過快",
+        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "source": "CNBC",
+        "desc": "Altman表示因AI安全疑慮加劇,OpenAI今年不會上市。Amodei、Altman、Musk三大領袖罕見一致呼籲放慢模型開發。源於本週Anthropic研究員Coxon辭職警告「拿性命豪賭」"
+      },
+      {
+        "title": "AI安全風暴延燒華府:兩黨政治人物首度認真看待",
+        "url": "https://www.vox.com/politics/502717/ai-freakout-mainstream-openai-anthropic-humans",
+        "source": "Vox",
+        "desc": "一起前所未有的失控AI事件、高調辭職、加上研究員對AI自我改進過快而難以控制的憂慮,三者交會,終於引發兩黨民選領袖更大聲的回應。AI安全從邊緣議題進入主流政治"
+      },
+      {
+        "title": "Trump淡化滅絕疑慮、以中國競賽為先;OpenAI詢問國會協調放慢是否觸反托拉斯",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-this-weekend-september-11-13-2026/",
+        "source": "The Neuron",
+        "desc": "本週末總結:Anthropic發布充滿具體濫用案例的威脅報告;OpenAI據報詢問國會,協調前沿模型放慢是否會觸犯反托拉斯法;Trump則淡化滅絕疑慮、把中國競賽擺第一。安全與競賽的政治角力"
+      },
+      {
+        "title": "Amodei警告「機器人群(bot swarms)」風險:AI自2026年中起直接參與造下一代模型",
+        "url": "https://www.newsweek.com/anthropic-ceo-calls-for-ai-slowdown-warns-of-dangers-of-bot-swarms-12435379",
+        "source": "Newsweek",
+        "desc": "Amodei指AI進展自2026年中起急遽加速,因系統開始直接貢獻於未來模型的創造。警告不受控的動能恐「超出我們理解與控制這些系統的能力」。呼籲業界支持整體降速"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "BlizzCon 2026:Diablo 5正式公布(瞄準2029)、StarCraft開放世界射擊(2030)",
+        "url": "https://www.gamesradar.com/news/live/blizzcon-2026-everything-announced/",
+        "source": "GamesRadar",
+        "desc": "暴雪開幕式重磅:Diablo 5正式公布(瞄準2029)、全新StarCraft轉型為開放世界射擊遊戲(2030,非RTS)、全新World of Warcraft遊戲版本。近30年系列大轉向"
+      },
+      {
+        "title": "Blizzard公布《World of Warcraft: Forever》:11/4上市,9/17開放Beta",
+        "url": "https://gameinformer.com/blizzcon-2026/2026/09/12/blizzard-announces-world-of-warcraft-forever-expanding-vanilla-wow-with",
+        "source": "Game Informer",
+        "desc": "《WoW: Forever》擴充經典懷舊版玩法,11/4上市,Beta於本週四9/17開跑。BlizzCon週末各場專題將陸續揭露更多細節。經典Plus路線的新篇章"
+      },
+      {
+        "title": "《鬥陣特攻》新支援英雄Doctrine登場:9/12-14限時試玩",
+        "url": "https://gameinformer.com/blizzcon-2026/2026/09/12/everything-announced-at-blizzcon-2026",
+        "source": "Game Informer",
+        "desc": "時髦吸血鬼風格的支援型英雄Doctrine加入陣容,9/12–14提供限時英雄試玩,第5賽季正式解鎖。BlizzCon開幕式同步公布多款遊戲動向"
+      },
+      {
+        "title": "BlizzCon 2026完整公布清單:Diablo V(2029)、StarCraft射擊(2030)、WoW新版",
+        "url": "https://www.videogameschronicle.com/news/blizzcon-2026-every-announcement-from-blizzards-opening-ceremony/",
+        "source": "Video Games Chronicle",
+        "desc": "開幕式完整整理:最大亮點為Diablo V(2029)與更晚推出的StarCraft開放世界射擊(2030),以及WoW多項揭露。暴雪一次公布多年產品線引發熱議"
+      }
+    ],
+    "tech": [
+      {
+        "title": "iPhone 18 Pro/Pro Max開放預購:首搭2nm A20 Pro晶片、可變光圈主鏡頭",
+        "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-available-to-pre-order/",
+        "source": "MacRumors",
+        "desc": "9/12上午5點(PT)起開放預購。A20 Pro為iPhone首顆2nm晶片(6核CPU/7核GPU/32核神經引擎,CPU快20%、繪圖快40%),搭可變光圈48MP主鏡頭、蒸氣室散熱、更長續航。9/18上市"
+      },
+      {
+        "title": "iPhone 18 Pro細節:12GB RAM解鎖裝置端Siri(改由Google Gemini驅動)、C2數據機",
+        "url": "https://thetechportal.com/2026/09/09/apple-announces-iphone-18-pro-models-all-you-need-to-know/",
+        "source": "The Tech Portal",
+        "desc": "12GB RAM為執行iOS 27最先進裝置端Siri AI模型的門檻,該模型現由Google Gemini驅動。新C2數據機取代C1,支援毫米波5G與NR-NTN衛星連線潛力。Pro Max電池5,567mAh創新高"
+      },
+      {
+        "title": "2026 iPhone全採A20 Pro:無單獨A20,三款產品共用同一晶片",
+        "url": "https://www.macobserver.com/news/no-a20-only-a20-pro-every-chip-2026-iphone-lineup/",
+        "source": "The Mac Observer",
+        "desc": "Apple今年僅發表一款iPhone晶片並冠上Pro後綴。A20 Pro搭載於iPhone 18 Pro、Pro Max與折疊機iPhone Duo三款產品,並無不帶Pro的A20。晶片命名與產品線策略調整"
+      },
+      {
+        "title": "預購首波已排到9/18上市日,晚訂交期拉長",
+        "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
+        "source": "MacRumors",
+        "desc": "9/12上午5點(PT)開賣即下單的首波客戶可在9/18上市日到貨;較晚預購者交期已拉長。Apple Watch Series 12/Ultra 4、AirPods 5、Mac mini、Mac Studio同步開放預購"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "以太幣走揚:市場定價Fed 9月升息機率達87%",
+        "url": "https://www.kucoin.com/news/flash/ethereum-rises-as-fed-s-september-hike-expectation-hits-87",
+        "source": "KuCoin",
+        "desc": "利率期貨顯示9/15-16會議升息一碼(25bp)機率升至87%(前一日72%)。此背景下BTC維持約$77,000,ETH同步走強。市場消化升息預期,加密與利率高度連動"
+      },
+      {
+        "title": "加密市場今日走高:BTC近$77,265、ETH近$2,522,全球市值$2.73兆",
+        "url": "https://www.coingabbar.com/en/why-is-crypto-market-up-today-cpi-whale-buying-eth-etf-news",
+        "source": "CoinGabbar",
+        "desc": "全球加密市值$2.73兆(24h +0.4%),BTC近$77,265、ETH近$2,522。CPI落地、鯨魚買盤與ETH ETF消息帶動。通膨數據明朗後風險偏好回穩"
+      },
+      {
+        "title": "美司法部借Tether協助凍結5,200萬美元加密資產",
+        "url": "https://crypto.news/us-doj-restrains-52m-in-crypto-with-tethers-help/",
+        "source": "Crypto.news",
+        "desc": "美司法部在Tether協助下凍結約5,200萬美元加密資產。穩定幣發行商配合執法凍結非法資金的機制再度啟用。監管與合規壓力持續影響穩定幣生態"
+      },
+      {
+        "title": "以太坊質押手續費透明度調查:14家業者僅5家標示費率,0%到50%不等",
+        "url": "https://cryptoticker.io/en/",
+        "source": "CryptoTicker",
+        "desc": "9/12調查14家以太坊質押業者頁面,僅5家明確標示佣金數字,範圍從0%到50%不等。質押服務的費率透明度不足,投資人需審慎比較。ETH質押生態的資訊揭露問題"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI將Codex harness推出為公開測試版Agents API:支援MCP與多代理fan-out",
+        "url": "https://kenhuangus.substack.com/p/agentic-ai-what-caught-my-attention",
+        "source": "Ken Huang (Substack)",
+        "desc": "OpenAI於9/10把Codex harness放到公開測試的Agents API後。契約:建立session、選模型與工具(含MCP)、選環境,並可用max_concurrent_subagents啟用多代理fan-out。代理式開發標準化推進"
+      },
+      {
+        "title": "OpenAI Agents SDK進化:代理可檢查檔案、執行指令、編輯程式、處理長任務",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+        "source": "OpenAI",
+        "desc": "更新版Agents SDK協助開發者打造能檢查檔案、執行命令、編輯程式碼、並在受控沙箱環境中處理長時程任務的代理。長任務、沙箱隔離成為代理工程的核心能力"
+      },
+      {
+        "title": "Cognition納入Dioxus團隊,強化Devin編碼代理;續維護Dioxus/Blitz等開源專案",
+        "url": "https://www.unite.ai/cognition-adds-dioxus-team-to-advance-devin-coding-agent/",
+        "source": "Unite.AI",
+        "desc": "Cognition(Devin開發商)延攬Dioxus Labs團隊以推進Devin編碼代理。團隊表示將續開發Dioxus、Blitz、Taffy、Subsecond並維護更廣的開源專案。AI編碼公司整併Rust UI人才"
+      },
+      {
+        "title": "封閉模型web dev領先擴大:Claude Fable 5.1 + GPT-6 Astra領先開源約1,800分",
+        "url": "https://cryptobriefing.com/claude-fable-gpt6-astra-web-dev-gap/",
+        "source": "Crypto Briefing",
+        "desc": "Anthropic 9/1發布Claude Fable 5.1、OpenAI 9/3推GPT-6 Astra,兩者合計把web開發基準對開源對手的領先拉大到約1,800分。專有模型在程式開發任務的優勢持續擴大"
+      }
+    ],
+    "art": [
+      {
+        "title": "威尼斯藝術雙年展2026《In Minor Keys》:9/29起轉秋季開放時間",
+        "url": "https://www.labiennale.org/en/art/2026/61st-exhibition",
+        "source": "La Biennale di Venezia",
+        "desc": "第61屆威尼斯國際藝術展《In Minor Keys》(策展人Koyo Kouoh),5/9–11/22於Giardini、Arsenale等地展出。9/29–11/22改為秋季開放時間(10:00–18:00)。全球最重要當代藝術盛事進入後段"
+      },
+      {
+        "title": "威尼斯影展2026:9/12頒獎典禮後大廳世界首映",
+        "url": "https://www.labiennale.org/en",
+        "source": "La Biennale di Venezia",
+        "desc": "威尼斯電影節9/12於電影宮大廳(Sala Grande)舉行世界首映,緊接頒獎典禮。藝術與電影雙年展交會的重要時刻"
+      },
+      {
+        "title": "惠特尼雙年展2026:第82屆,重探「何謂美國藝術」",
+        "url": "https://whitney.org/exhibitions/2026-biennial",
+        "source": "Whitney Museum",
+        "desc": "第82屆惠特尼雙年展延續傳統,提供思索美國藝術流變的空間,不僅問「正在創作什麼」,更追問將某物命名為『美國的』究竟意味什麼。美國當代藝術的定期檢閱"
+      },
+      {
+        "title": "designboom 9月全球展覽雷達:回顧展、沉浸式裝置與個別實踐並陳",
+        "url": "https://www.designboom.com/art/exhibition-radar-september-2026/",
+        "source": "designboom",
+        "desc": "9月藝術、建築、設計展覽密集開季:重量級回顧展與沉浸式裝置並陳,亦有聚焦個別創作實踐的專題展。設計媒體精選全球必看展覽清單"
+      }
+    ],
+    "design": [
+      {
+        "title": "UX Design Awards 2026秋季得獎揭曉:Sapien設計系統獲肯定",
+        "url": "https://ux-design-awards.com/winners/2026-1-sapien-design-system",
+        "source": "UX Design Awards",
+        "desc": "2026秋季UX設計獎季揭曉。Sapien Design System以「人性、演進、極簡、包容、可信」為原則,將同理、智能與精確編織成一體,統合設計師、開發者與員工。企業級設計系統的整合典範"
+      },
+      {
+        "title": "UX Design Awards:Aevus——工業SCADA網路的AI智能層以對話式介面呈現",
+        "url": "https://ux-design-awards.com/winners/2026-2-aevus",
+        "source": "UX Design Awards",
+        "desc": "Aevus為工業SCADA網路的AI智能層,將破碎的現場協定統一為單一操作員視圖,依即時邊緣遙測預測設備故障,並透過對話式AI工程師提出修復建議。工業UX與AI融合的得獎作"
+      },
+      {
+        "title": "UX Design Awards:Tactune——以可拆卸感官旋鈕還原數位音樂的觸覺儀式",
+        "url": "https://ux-design-awards.com/winners/2026-2-tactune",
+        "source": "UX Design Awards",
+        "desc": "Tactune為概念音訊系統,藉還原觸覺儀式以減少螢幕主導的疲勞。手機僅用於初始播放,之後由可拆卸的感官旋鈕接手。對抗螢幕疲勞的實體交互設計實驗"
+      },
+      {
+        "title": "UX Design Awards:Cubbit——把分散式儲存基建轉譯為清晰可靠的控制體驗",
+        "url": "https://ux-design-awards.com/winners/2026-1-cubbit",
+        "source": "UX Design Awards",
+        "desc": "Cubbit讓企業與服務商跨多地儲存、管理、保護資料,同時維持完整主權與合規。eyestudios打造的新介面把複雜的分散式基建轉譯為清晰、可靠、以使用者為中心的控制體驗。複雜系統的介面設計"
+      }
+    ],
+    "business": [
+      {
+        "title": "熱燙CPI後Fed 9月升息幾乎篤定:將是2023年來首度升息",
+        "url": "https://www.cbsnews.com/news/fed-rate-hike-september-likelihood-cpi/",
+        "source": "CBS News",
+        "desc": "高於預期的通膨報告大幅提高Fed 9月升息機率,這將是2023年以來首次升息。經濟學家普遍認為升息幾成定局。FOMC 9/15-16召開,對信用卡、車貸、小企業借款成本立即衝擊"
+      },
+      {
+        "title": "通膨升溫、升息看來不可避免:交易員定價一碼升息機率達90%",
+        "url": "https://www.morningbrew.com/stories/inflation-sizzles-and-a-rate-hike-looks-inevitable",
+        "source": "Morning Brew",
+        "desc": "核心CPI月增0.3%高於預期,使交易員依CME數據定價下週升息一碼機率達90%。通膨仍遠高於Fed 2%目標,升息以冷卻通膨的路徑漸明。企業借貸成本面臨上升壓力"
+      },
+      {
+        "title": "華爾街下週前瞻:Fed利率決議+零售銷售,新主席Warsh鷹派表態",
+        "url": "https://www.seattletimes.com/business/wall-street-week-ahead-federal-reserve-decision-on-interest-rates-retail-sales-update/",
+        "source": "The Seattle Times",
+        "desc": "新任Fed主席Kevin Warsh上月演說被解讀為鷹派,強化下週升息押注。Fed 2026年一直按兵不動,華爾街押注年底前至少升息一次。零售銷售數據同週登場,牽動經濟成長判讀"
+      },
+      {
+        "title": "股市收高但通膨數據鞏固Fed升息預期:倫敦、紐約同步走揚",
+        "url": "https://www.independent.co.uk/news/business/fed-inflation-new-york-aim-dow-jones-industrial-average-b3048815.html",
+        "source": "The Independent",
+        "desc": "儘管CPI報告可能鎖定Fed下週升息,週五倫敦股市收紅、紐約股市大漲。市場在升息確定性與油價回落間權衡,呈現「利空出盡」的短線反彈。焦點轉向9/15-16 FOMC"
+      }
+    ],
+    "finance": [
+      {
+        "title": "CME:Fed下週升息一碼機率86%,CPI公布前為69%",
+        "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
+        "source": "The Guardian",
+        "desc": "據CME FedWatch,Fed下週三升息一碼機率升至86%(通膨報告公布前為69%)。英國方面,市場預期到明夏前將有四次升息。全球央行同步進入緊縮循環應對通膨黏著"
+      },
+      {
+        "title": "投資人為不確定的Fed會議做準備:Warsh鷹派提升升息押注",
+        "url": "https://finance.yahoo.com/economy/policy/articles/investors-brace-possible-rate-hike-100535728.html",
+        "source": "Yahoo Finance",
+        "desc": "新Fed主席Warsh上月鷹派演說後,市場押注週三兩日會議結束時升息。惟部分投資人仍懷疑2026整年按兵不動的央行是否真會出手。利率決議前市場情緒分歧"
+      },
+      {
+        "title": "以太幣走揚、比特幣守$77K:Fed升息機率87%下加密與利率連動",
+        "url": "https://www.kucoin.com/news/flash/ethereum-rises-as-fed-s-september-hike-expectation-hits-87",
+        "source": "KuCoin",
+        "desc": "利率期貨顯示9/15-16升息一碼機率達87%(前一日72%)。此背景下BTC維持約$77,000、ETH同步走強。傳統利率預期與加密資產走勢高度連動,升息前市場謹慎"
+      },
+      {
+        "title": "為何升息突然成為市場最愛:FOMC 9/15-16決議牽動借貸成本",
+        "url": "https://www.latintimes.com/feds-wednesday-sept-15-call-why-rate-hike-suddenly-favorite-599188",
+        "source": "Latin Times",
+        "desc": "FOMC 9/15-16開會,升息方向對信用卡餘額、車貸、小企業借款者立即有感,成本負擔對特定家庭與業主尤重。升息從『不太可能』翻轉為市場基準預期的過程"
+      }
+    ]
+  }
+}
