@@ -29,5 +29,247 @@
       { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有", "note": "科技+高息,9/11隨科技股回檔。美股週五科技反彈或帶動回穩。月配息緩衝。持有領息" }
     ],
     "summary": "台股9/14(週一)開盤前:最後確認收盤9/11 46,184.85(-1.61%),電子股受Fed升息預期壓抑領跌(TSMC 2,410,-1.63%)。惟美股週五9/12強彈(S&P +0.85%/Nasdaq +0.94%)——CPI符預期利空出盡+油價回落,今日台股可望受激勵開高。策略:①本週最大變數為Fed FOMC(9/15-16,升息一碼機率87-90%、2023來首次)+點陣圖,決議前保守觀望 ②半導體(00892/00891/00929)9/11獲利了結,美股費半反彈或帶回穩,回落季線分批 ③高息ETF(0056/00878/00919)震盪期防禦領息 ④債券(00403A)升息預期+10年期美債逼近5%短期承壓、長線買點,決議後分批 ⑤TSMC 8月營收+53.3%基本面強勁、季線2,310支撐,持有。⚠️Fed升息近定局+點陣圖鷹鴿=本週高檔震盪,控制部位待週三決議明朗;美股週五反彈延續性為今日觀察重點。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Amodei專文引爆:OpenAI、xAI、Google DeepMind負責人數小時內表態贊同放慢AI",
+        "url": "https://felloai.com/ai-slowdown/",
+        "source": "Fello AI",
+        "desc": "9/12 Amodei發表專文主張業界應刻意放慢,數小時內OpenAI、xAI、Google DeepMind負責人皆表贊同。整理各實驗室『實際承諾了什麼』——多為自願標準與第三方評估,強制力有限"
+      },
+      {
+        "title": "Anthropic執行長Amodei:「業界對AI風險撒謊太久了」",
+        "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/",
+        "source": "CBS News",
+        "desc": "Amodei受訪直言業界長期淡化AI風險。前研究員Coxon上週警告Anthropic與OpenAI以自我改進的超智能『拿性命豪賭』,最大風險恐是人類終結。AI安全對話升至企業領導層公開反省"
+      },
+      {
+        "title": "OpenAI排除今年IPO;Anthropic原也備戰IPO之際喊放慢,引『監管俘獲』質疑",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/pace-ai-race-what-does-slowdown-mean-anthropic-openai-10876078/",
+        "source": "The Indian Express",
+        "desc": "在與OpenAI激烈競賽、且Anthropic正備戰IPO之際喊放慢,格外不尋常。分析『放慢AI競賽』實務上需要什麼、能否做到,以及是否夾帶競爭與監管動機的爭議"
+      },
+      {
+        "title": "OpenAI強調不論政府是否介入都推進自願AI標準,同時支持加州特定立法",
+        "url": "https://www.kucoin.com/news/flash/openai-anthropic-and-google-discuss-ai-safety-standards",
+        "source": "KuCoin",
+        "desc": "OpenAI發文強調將持續推進自願性AI標準(不論政府是否介入),同時支持加州特定立法。OpenAI、Anthropic、Google就AI安全標準的討論持續。自律與立法並行的策略"
+      },
+      {
+        "title": "兩名離職Anthropic/Google研究員警告:AI恐變得『不可控』",
+        "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+        "source": "NBC News",
+        "desc": "又有兩名近期離開Anthropic與Google DeepMind要職的研究員發出警報,擔憂AI系統可能很快脫離人類控制、甚至危及全人類。離職潮成為業界放慢呼聲的重要推力"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Diablo V正式定檔2029春季:進入『暗黑得勝、英雄敗亡』的聖休亞瑞",
+        "url": "https://news.blizzard.com/en-us/article/24301509/diablos-next-era-revealed-at-blizzcon-2026-opening-ceremonies-recap",
+        "source": "Blizzard News",
+        "desc": "Diablo V正式開發中、2029春季推出。玩家首度進入一個Diablo已得勝、英雄已敗亡的聖休亞瑞。核心命題:當世界已然崩壞,你必須成為什麼?近30年系列的下一章"
+      },
+      {
+        "title": "BlizzCon 2026完整回顧:Diablo V(2029)、開放世界StarCraft(2030,確認上主機)",
+        "url": "https://www.purexbox.com/news/2026/09/roundup-all-the-biggest-reveals-from-blizzcon-2026-including-two-massive-announcements",
+        "source": "Pure Xbox",
+        "desc": "兩大公布:Diablo V瞄準2029、全新開放世界StarCraft(非RTS)瞄準2030。Xbox釐清StarCraft除PC外確定登主機。暴雪一次揭露多年產品線"
+      },
+      {
+        "title": "BlizzCon 2026完售:安納海姆會議中心兩日盛會(9/12-13)",
+        "url": "https://news.blizzard.com/en-us/article/24245211/blizzcon-2026-sold-out",
+        "source": "Blizzard News",
+        "desc": "BlizzCon 2026門票完售,9/12-13於安納海姆會議中心舉行兩日盛會,含全展廳與電競賽場、遊戲內贈品與紀念商品。暴雪睽違數年重啟實體大會，人氣旺盛"
+      },
+      {
+        "title": "《WoW: Forever》11/4上市、9/17開Beta:與經典版並行的新變體",
+        "url": "https://www.videogameschronicle.com/news/blizzcon-2026-every-announcement-from-blizzards-opening-ceremony/",
+        "source": "Video Games Chronicle",
+        "desc": "暴雪公布World of Warcraft新變體《WoW Forever》,與Classic及原版並行運作,11/4上市、Beta 9/17開跑。經典Plus路線,BlizzCon現場可試玩"
+      }
+    ],
+    "tech": [
+      {
+        "title": "iOS 27今日(9/14)正式推送:內建Liquid Glass強度滑桿、更銳利App圖示",
+        "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+        "source": "MacRumors",
+        "desc": "iOS 27於今日9/14全面推送(早於9/18上市的新iPhone),8項新功能。支援iPhone 11以上機型。含Liquid Glass透明強度滑桿(Clear→Tinted)、整合更多玻璃層的銳利App圖示"
+      },
+      {
+        "title": "iPhone 18 Pro/Max預購首波已排到9/18上市日,晚訂交期拉長",
+        "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
+        "source": "MacRumors",
+        "desc": "9/12上午5點(PT)開賣即下單的首波客戶9/18上市日到貨;較晚者交期拉長。iPhone 18 Pro $1,199起、Pro Max $1,299起。四色(黑/銀/glacier/全新burgundy)。9/18上市"
+      },
+      {
+        "title": "Apple首款折疊機iPhone Duo:對標三星Z Fold 8,5.4吋外+7.6吋內螢幕",
+        "url": "https://www.techradar.com/news/live/apple-event-september-2026-live-blog",
+        "source": "TechRadar",
+        "desc": "Apple首款折疊機正式登場,命名iPhone Duo(非iPhone Ultra),對標Samsung Galaxy Z Fold 8。5.4吋外螢幕+7.6吋Super Retina XDR內螢幕,搭多項軟體巧思。折疊機市場競爭升溫"
+      },
+      {
+        "title": "Solo.io推open-source agentdesktop:把AI代理治理延伸到桌面",
+        "url": "https://futurumgroup.com/insights/solo-io-extends-ai-agent-governance-to-the-desktop-with-agentdesktop/",
+        "source": "Futurum Group",
+        "desc": "Solo.io於9/3公布開源專案agentdesktop,把其為代理式基建打造的治理能力延伸到執行Claude Code、Codex等通用AI代理的桌面機器。企業對桌面AI代理的治理與資安需求浮現"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "加密續跌:BTC跌破$77,000至$76,720、ETH至$2,474,總市值$2.718兆",
+        "url": "https://www.kucoin.com/news/flash/crypto-market-continues-downward-trend-as-bitcoin-falls-below-77-000",
+        "source": "KuCoin",
+        "desc": "9/14加密市場續跌,BTC跌破$77,000至$76,720、ETH至$2,474.88、BNB $716.25、SOL $99.61。總市值24h -0.8%至$2.718兆。Fed決議(9/16)前風險偏好轉弱"
+      },
+      {
+        "title": "比特幣面臨機構資金流出+Fed升息恐慌,以太幣相對吸金",
+        "url": "https://www.interactivecrypto.com/bitcoin-faces-institutional-outflows-and-fed-rate-hike-fears-as-ethereum-draws-capital",
+        "source": "InteractiveCrypto",
+        "desc": "9/14 BTC於$76,707、24h -0.58%。比特幣面臨機構資金流出與升息疑慮壓力,以太幣則相對吸引資金流入。Fed決議前資金在BTC/ETH間輪動"
+      },
+      {
+        "title": "Goldman Sachs翻多升息:放棄『2026按兵不動』預測、改預期下週升息一碼",
+        "url": "https://news.bitcoin.com/crypto-news/goldman-fed-rate-hike-september-bitcoin-golden-cross/",
+        "source": "Bitcoin.com",
+        "desc": "高盛放棄Fed 2026整年按兵不動的預測,在熱燙CPI把升息機率推破86%後,改預期下週升息一碼。比特幣價格於$80,000下方停滯。機構全面轉向升息定價"
+      },
+      {
+        "title": "Polymarket:Fed 9/16升息機率83%——對XRP與比特幣的意涵",
+        "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/will-the-fed-raise-rates-on-september-16-polymarket-now-says-83-heres-what-it-means-for-xrp-and-bitcoin/",
+        "source": "24/7 Wall St.",
+        "desc": "Polymarket定價9/15-16 FOMC升息一碼機率83%(Jackson Hole前約30%、8月CPI前約50%)。升息將是三年來首次,對XRP與比特幣等風險資產構成壓力。決議前謹慎"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI將Codex harness推公開測試Agents API:支援MCP+多代理fan-out",
+        "url": "https://kenhuangus.substack.com/p/agentic-ai-what-caught-my-attention",
+        "source": "Ken Huang (Substack)",
+        "desc": "OpenAI 9/10把Codex harness放到公開測試的Agents API後:建立session、選模型與工具(含MCP)、選環境,可用max_concurrent_subagents啟用多代理fan-out。代理式開發標準化推進"
+      },
+      {
+        "title": "Abacus.AI推開源權重模型家族Smaug:專為企業代理式AI工作負載打造",
+        "url": "https://tech-insider.org/abacus-ai-smaug-open-weight-models-2026/",
+        "source": "Tech Insider",
+        "desc": "Abacus.AI於9/10發布新開源權重語言模型家族Smaug,專為企業agentic AI工作負載設計,宣稱帶來15-20%代理式AI效能提升。開源權重模型持續搶攻企業代理市場"
+      },
+      {
+        "title": "Solo.io開源agentdesktop:把代理治理延伸到Claude Code/Codex執行的桌面",
+        "url": "https://futurumgroup.com/insights/solo-io-extends-ai-agent-governance-to-the-desktop-with-agentdesktop/",
+        "source": "Futurum Group",
+        "desc": "9/3開源專案agentdesktop把Solo.io為agentic基建打造的治理能力,延伸到執行Claude Code、Codex等通用AI代理的桌面機器。開發者對本機代理的權限/稽核治理需求升溫"
+      },
+      {
+        "title": "2026開源AI編碼代理成熟:Aider、Cline已可匹敵閉源競品",
+        "url": "https://agentic.ai/best/open-source-coding-agents",
+        "source": "Agentic.ai",
+        "desc": "2026開源編碼代理已非玩具:Aider自2023持續開發、在agenticness框架名列前茅;Cline為精緻VS Code擴充、多檔推理媲美閉源。開發者自建工具鏈的可行性大增"
+      }
+    ],
+    "art": [
+      {
+        "title": "10億美元Lucas敘事藝術博物館9/22終於開幕(洛杉磯Exposition Park)",
+        "url": "https://www.theartnewspaper.com/2026/09/07/lucas-museum-narrative-art-opening-preview-los-angeles",
+        "source": "The Art Newspaper",
+        "desc": "由George Lucas與妻子Mellody Hobson創辦、耗資10億美元的敘事藝術博物館,9/22於洛杉磯Exposition Park開幕。原定2021開幕、兩度延期。聚焦敘事性圖像藝術的重量級新館"
+      },
+      {
+        "title": "紐約9月藝術衝刺季:Armory Show與Independent博覽會前的畫廊開展潮",
+        "url": "https://puck.news/newsletter_content/the-september-sprint-christies-boomer-trove-a-louvre-heist-theory/",
+        "source": "Puck",
+        "desc": "紐約9月重啟季:畫廊有兩週在Armory Show與Independent博覽會人潮到來前搶關注。另涵蓋佳士得嬰兒潮世代藏品專拍與羅浮宮竊案理論。秋季藝術市場開跑"
+      },
+      {
+        "title": "秋季藝術世界指南:Frieze Seoul與Kiaf(9/2-6)逾300家畫廊齊聚首爾",
+        "url": "https://www.artsy.net/article/artsy-editorial-guide-art-fall-2026",
+        "source": "Artsy",
+        "desc": "Frieze Seoul邁入第五屆,與25週年的Kiaf SEOUL(主題『共存』)攜手,兩展合計逾300家畫廊聚首爾。Artsy整理2026秋季全球藝術世界重點行事曆"
+      },
+      {
+        "title": "惠特尼Roy Lichtenstein大展10/11開幕:市場火熱、集結重量級借展",
+        "url": "https://news.artnet.com/market/roy-lichtensteins-whitney-museum-loans-2788895",
+        "source": "Artnet News",
+        "desc": "惠特尼美術館久候的Roy Lichtenstein大展10/11對公眾開放,集結大量重量級借展作品。Lichtenstein市場正熱,展覽備受矚目。普普藝術經典的重量級回顧"
+      }
+    ],
+    "design": [
+      {
+        "title": "iOS 27今日(9/14)推送:Liquid Glass強度滑桿(Clear→Tinted)給使用者更多掌控",
+        "url": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/",
+        "source": "Engadget",
+        "desc": "iOS 27今日推送,新增Liquid Glass透明強度滑桿(設定→外觀→Liquid Glass,由Clear到全Tinted)。相容iPhone 11以上。可調整而非移除設計,兼顧個人化與設計一致性"
+      },
+      {
+        "title": "iOS 27 Liquid Glass精修:加深邊緣、更亮鏡面高光,提升複雜內容可讀性",
+        "url": "https://www.macrumors.com/2026/06/10/how-liquid-glass-is-changing-in-ios-27/",
+        "source": "MacRumors",
+        "desc": "Apple調整Liquid Glass使其更有效擴散複雜內容、提升全系統可讀性。並在玻璃元素周圍加入加深邊緣與更亮鏡面高光,增加深度與視覺分層。回應iOS 26的可讀性批評"
+      },
+      {
+        "title": "iOS 27 App圖示改版:直接把更多Liquid Glass層整合進圖示美術",
+        "url": "https://www.macrumors.com/2026/06/16/ios-27-revamps-app-icons/",
+        "source": "MacRumors",
+        "desc": "Apple連兩年重新設計第一方App圖示,iOS 27把額外的Liquid Glass層直接整合進圖示美術本身,解決iOS 26被批模糊的問題。圖示設計的材質語言演進"
+      },
+      {
+        "title": "Apple開發者新設計藝廊:展示App如何運用新設計與Liquid Glass",
+        "url": "https://developer.apple.com/design/new-design-gallery-2026/",
+        "source": "Apple Developer",
+        "desc": "Apple為開發者推出新設計藝廊,展示各款App如何運用新設計語言與Liquid Glass材質。為設計師/開發者提供落地範例與最佳實踐參考。設計系統的實作指引"
+      }
+    ],
+    "business": [
+      {
+        "title": "「這是考驗」:全球聚焦Fed本週升息,主席Warsh信譽受檢驗",
+        "url": "https://www.tbsnews.net/world/test-all-eyes-us-fed-tackle-high-inflation-1541076",
+        "source": "TBS News / AFP",
+        "desc": "Fed本週(9/15-16)召開關鍵利率會議,市場預期升息以對抗黏著的高通膨,分析師稱新主席Kevin Warsh的信譽正受檢驗。首度升息(2023來)的政治與市場份量沉重"
+      },
+      {
+        "title": "本週主秀:Fed週三決議+點陣圖,零售銷售與工業生產同週登場",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262165022-week-ahead-fomc-rate-decision-dot-plot-ctrip-lennar-earnings-tradingkey",
+        "source": "TradingKey",
+        "desc": "9/14-18週:Fed FOMC決議+點陣圖為主秀,並有8月零售銷售、進出口物價、工業生產、產能利用率等數據,及Trip.com、Lennar財報。市場焦點高度集中於週三"
+      },
+      {
+        "title": "高度期待的Fed會議、戰爭疑慮與『不眨眼』的股市:本週看點",
+        "url": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
+        "source": "Yahoo Finance",
+        "desc": "上週是鋪陳(CPI/PPI+油價飆),本週是主場——全球目光聚焦華府Fed週三決議。搭配中東戰爭疑慮,而股市卻顯得『不眨眼』。市場對升息的定價與風險偏好的拉鋸"
+      },
+      {
+        "title": "週一(9/14)無重要經濟數據,市場靜待週三Fed決議",
+        "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+        "source": "Kiplinger",
+        "desc": "9/14週一無值得關注的經濟報告發布,市場進入Fed決議前的靜默期。本週重頭戲集中於週三FOMC與後續零售銷售。決議前交投料偏審慎"
+      }
+    ],
+    "finance": [
+      {
+        "title": "全球聚焦Fed本週對抗高通膨:市場押注升息一碼(2023來首次)",
+        "url": "https://uk.finance.yahoo.com/news/test-eyes-us-fed-tackle-high-inflation-015023681.html",
+        "source": "Yahoo Finance / AFP",
+        "desc": "Fed本週關鍵會議,市場預期升息以對抗黏著高通膨,新主席Warsh信譽受檢驗。這將是2023年來首度升息。全球央行同步緊縮循環下,市場謹慎面對決議"
+      },
+      {
+        "title": "投資人為不確定的Fed會議做準備:升息恐威脅已顯脆弱的股市反彈",
+        "url": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4898733",
+        "source": "Investing.com / Reuters",
+        "desc": "投資人為下週Fed會議升息做準備,此舉恐威脅一個已對債券殖利率上升顯脆弱的股市反彈。升息推升借貸成本與美債殖利率,增加債券對股票的投資競爭、壓抑估值"
+      },
+      {
+        "title": "比特幣、以太幣、XRP反彈熄火:CME升息機率升至86.5%",
+        "url": "https://www.kucoin.com/news/flash/bitcoin-ethereum-xrp-rally-falters-as-fed-rate-hike-odds-hit-86",
+        "source": "KuCoin",
+        "desc": "BTC/ETH/XRP反彈熄火,CME FedWatch顯示9/16升息機率升至86.5%。8月CPI年增3.4%。升息為三年來首次,恐壓抑風險資產。加密與利率決議前高度連動"
+      },
+      {
+        "title": "Fed會議、消費支出與能源飆漲:本週關鍵市場推手,升息機率80-85%",
+        "url": "https://moneycheck.com/fed-meeting-consumer-spending-and-energy-surge-key-market-movers-this-week/",
+        "source": "MoneyCheck",
+        "desc": "本週關鍵推手:Fed週三料升息一碼(市場機率80-85%)、零售消費數據、能源價格波動。三大變數牽動全球風險資產與美元走勢。決議與點陣圖為方向指標"
+      }
+    ]
   }
 }
