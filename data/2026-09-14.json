@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-14",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 46184.85,
+      "taiex_change_pct": "-1.61%",
+      "taiex_date": "2026-09-11(最後確認收盤)",
+      "note": "台股今日(9/14週一)開盤前情勢:最後確認收盤為9/11收46,184.85(-755.64,-1.61%),電子股受Fed升息預期壓抑領跌,TSMC台股-1.63%收2,410、貢獻約-320點,成交量7,219億。惟美股週五9/12強彈(S&P +0.85%/Nasdaq +0.94%/Dow +0.96%)——CPI符預期後利空出盡+油價回落。今日台股可望受美股週五反彈激勵開高,但本週最大變數為Fed FOMC(9/15-16,升息一碼機率約87-90%,將是2023年來首度升息)+點陣圖,決議前料高檔震盪、觀望氣氛濃。焦點:①美股週五反彈能否延續帶動電子權值股回穩 ②Fed決議前資金保守 ③TSMC 8月營收+53.3%基本面強勁。",
+      "us_sp500": 7656.54,
+      "us_sp500_note": "美股週五9/12強彈:S&P +0.85%收7,656.54、Nasdaq +0.94%收26,327.58、Dow +0.96%收52,566.22。CPI符預期(整體+0.4%月/+3.4%年)使升息確定性提高但利空出盡,加上油價回落帶動反彈。惟整週仍收黑(S&P週-0.80%/Nasdaq週-0.66%)。下週Fed FOMC(9/15-16)決議+點陣圖為焦點",
+      "oil_brent": "回落",
+      "oil_note": "油價自高點回落舒緩通膨與殖利率壓力,為週五美股反彈主因之一。中東地緣風險仍在但短線緩和。能源股回吐、科技股回穩",
+      "foreign_investors": "9/11外資自大型AI權值股調節、資金輪動明顯。惟美股週五強彈或使今日外資態度轉中性。Fed決議前(9/15-16)整體偏觀望,方向待週三決議明朗"
+    },
+    "watchlist": [
+      { "code": "2330", "name": "台積電", "price": 2410, "nav": null, "pb": 10.2, "pe": 22.0, "premium_discount": null, "vs_quarterly_ma": "+4.3%", "recommendation": "持有/偏多", "note": "9/11台股收2,410(-1.63%),為大盤主要拖累。8月營收5,148億(+53.3% YoY)基本面強勁、全年美元營收展望略高於+40%。美股週五費半反彈或帶動今日回穩。PE約22x。季線約2,310為支撐。持有,回落季線可加碼,惟Fed決議前控制部位" },
+      { "code": "0050", "name": "元大台灣50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": null, "vs_quarterly_ma": "+2.5%", "recommendation": "持有", "note": "隨大盤9/11回檔。美股週五強彈或激勵今日開高。核心持有,Fed決議(9/16)後方向較明朗。逼近前高留意獲利了結" },
+      { "code": "0056", "name": "元大高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.2%", "vs_quarterly_ma": "+1.5%", "recommendation": "持有", "note": "高息ETF相對抗跌。升息+地緣不確定下防禦配置。殖利率>5%。折價微幅。持有領息" },
+      { "code": "00878", "name": "國泰永續高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+1.5%", "recommendation": "持有", "note": "ESG+高股息防禦。折價微幅。Fed決議前防禦性配置。持有領息" },
+      { "code": "00919", "name": "群益台灣精選高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有", "note": "月配息現金流,震盪期優勢。折價微幅。持有領息" },
+      { "code": "00940", "name": "元大台灣價值高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+0.5%", "recommendation": "持有", "note": "價值+高息。隨大盤回檔,折價偏大。持有" },
+      { "code": "006208", "name": "富邦台50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "+0.1%", "vs_quarterly_ma": "+2.5%", "recommendation": "持有", "note": "與0050同質、費用率更低。隨大盤修正。核心配置。逼近前高留意" },
+      { "code": "00892", "name": "富邦台灣半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+2.5%", "recommendation": "持有/回檔留意", "note": "半導體ETF,9/11隨AI權值股獲利了結領跌。美股週五費半反彈或帶動回穩。Fed升息壓制高估值。回落季線分批" },
+      { "code": "00891", "name": "中信關鍵半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有/回檔留意", "note": "半導體供應鏈,同00892。CoWoS/HBM需求續強。回檔加碼觀察,Fed決議前控制部位" },
+      { "code": "00982A", "name": "群益台灣強棒", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.6%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有", "note": "主動型ETF,隨大盤回檔,折價-0.6%。主動管理受惠AI股。折價買入者持有,回檔加碼" },
+      { "code": "00981A", "name": "統一台股增長", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-1.0%", "vs_quarterly_ma": "+3.0%", "recommendation": "持有", "note": "主動型ETF,YTD強勢。折價-1.0%提供安全邊際。主動管理alpha持續。持有,回檔加碼" },
+      { "code": "00403A", "name": "中信ESG投資級債", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "-0.5%", "recommendation": "觀望/分批", "note": "債券ETF。Fed升息預期87-90%+10年期美債逼近5%=殖利率高檔、債券短期承壓。但高殖利率=長線買點。Fed決議(9/16)為關鍵。觀望,決議後若升息定局分批加碼" },
+      { "code": "009816", "name": "凱基台灣TOP50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.1%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有", "note": "類0050,隨大盤修正。折價微幅。核心配置" },
+      { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有", "note": "科技+高息,9/11隨科技股回檔。美股週五科技反彈或帶動回穩。月配息緩衝。持有領息" }
+    ],
+    "summary": "台股9/14(週一)開盤前:最後確認收盤9/11 46,184.85(-1.61%),電子股受Fed升息預期壓抑領跌(TSMC 2,410,-1.63%)。惟美股週五9/12強彈(S&P +0.85%/Nasdaq +0.94%)——CPI符預期利空出盡+油價回落,今日台股可望受激勵開高。策略:①本週最大變數為Fed FOMC(9/15-16,升息一碼機率87-90%、2023來首次)+點陣圖,決議前保守觀望 ②半導體(00892/00891/00929)9/11獲利了結,美股費半反彈或帶回穩,回落季線分批 ③高息ETF(0056/00878/00919)震盪期防禦領息 ④債券(00403A)升息預期+10年期美債逼近5%短期承壓、長線買點,決議後分批 ⑤TSMC 8月營收+53.3%基本面強勁、季線2,310支撐,持有。⚠️Fed升息近定局+點陣圖鷹鴿=本週高檔震盪,控制部位待週三決議明朗;美股週五反彈延續性為今日觀察重點。"
+  }
+}
