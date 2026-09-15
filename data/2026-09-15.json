@@ -29,5 +29,247 @@
       { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+1.5%", "recommendation": "持有", "note": "科技+高息,9/14隨科技股回檔。月配息緩衝。持有領息,Fed決議前控部位" }
     ],
     "summary": "台股9/14收45,862.52(-0.70%)失守46,000,早盤AI股受Amodei放慢AI呼籲(Altman/Musk附和)壓抑,後有逢低承接+疑政府基金護盤使電子/金融回穩(金融+1.94%,Fubon +3.70%)。TSMC收全日低2,380(-240點)、外資賣超369.6億、量縮至6,309億(資金鎖Hermes IPO)。美股9/14 Fed前續黑(10年美債觸5%+油價$109)。策略:①最大變數為Fed FOMC(台灣時間9/17清晨),升息一碼機率90%、焦點Warsh談話+點陣圖,決議前保守觀望 ②半導體(00892/00891/00929)受AI放慢+費半壓抑,回落季線分批;TSMC季線2,310支撐、基本面強(8月營收+53.3%),持有 ③高息/金融ETF(0056/00878)受9/14金融反彈支撐、震盪期防禦領息 ④債券(00403A)10年美債觸5%短期承壓、5%為長線甜蜜買點,決議後分批。⚠️Fed升息近定局(90%)+點陣圖鷹鴿+油價/殖利率=決議前高檔震盪,近支撐45,200;控部位待9/17清晨決議明朗。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Microsoft公布AI模型行為準則草案:在業界放慢前沿之際自我設限",
+        "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+        "source": "CNBC",
+        "desc": "Microsoft於9/14公布暫行行為準則,將對自家AI模型施加限制,就在Anthropic與OpenAI領袖同意放慢開發數日後。大型科技廠接連跟進『節制前沿開發』的自律行動"
+      },
+      {
+        "title": "OpenAI取得五角大廈機密系統部署案,Anthropic卻因近乎相同要求遭列黑名單",
+        "url": "https://www.yahoo.com/news/politics/articles/josh-hawley-says-openai-knew-113104151.html",
+        "source": "Yahoo News",
+        "desc": "OpenAI簽下在五角大廈機密系統部署AI工具的協議,數小時前Trump政府卻正式將Anthropic列黑名單(因近乎相同要求),引發華府是否對不同AI公司採雙重標準的質疑。參議員Hawley指OpenAI在Hugging Face事件後明知代理『失控』仍續評估"
+      },
+      {
+        "title": "Google全面開放工程師使用Anthropic的Claude編碼模型",
+        "url": "https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9",
+        "source": "Business Insider",
+        "desc": "Google近日透過內部開發工具,向全公司工程師開放Anthropic最強編碼模型之一。即便Google自有Gemini,仍採用競爭對手Claude輔助編碼,凸顯Claude在程式開發的優勢與大廠務實的工具選擇"
+      },
+      {
+        "title": "AI安全還是權力鬥爭?OpenAI稱失控事件為『警告射擊』",
+        "url": "https://ctol.digital/news/ai-safety-power-grab-openai-anthropic-slow-ai-race/",
+        "source": "CTOL Digital",
+        "desc": "OpenAI將近期失控事件稱為『warning shot(警告射擊)』;Google DeepMind的前沿安全框架已將危險能力等級綁定強制緩解措施與可能的外部介入。放慢AI是真安全還是監管俘獲之爭持續"
+      },
+      {
+        "title": "Amodei放慢AI的專文:實務上需要什麼、能否做到?",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/pace-ai-race-what-does-slowdown-mean-anthropic-openai-10876078/",
+        "source": "The Indian Express",
+        "desc": "在與OpenAI激烈競賽、且Anthropic正備戰IPO之際喊放慢格外不尋常。深度分析『放慢AI競賽』實務上需要哪些機制、能否落實,以及背後的競爭與監管動機爭議"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "《Marvel's Wolverine》今日(9/15)PS5獨佔上市:Insomniac最暴力力作",
+        "url": "https://25yearslatersite.com/gaming/news/marvel-s-wolverine-locks-in-its-september-15-ps5-release/",
+        "source": "25YL",
+        "desc": "睽違多年,Insomniac的獨立Logan遊戲9/15登PS5,可望是工作室最殘暴的作品。故事帶Logan橫跨多地對抗Bolivar Trask,Jean Grey、Omega Red、Deathstrike等角色確認登場"
+      },
+      {
+        "title": "本週遊戲大作:Marvel's Wolverine、Fire Emblem、空之軌跡齊發",
+        "url": "https://www.g2a.com/news/features/gaming-entries/this-weeks-biggest-game-releases/",
+        "source": "G2A",
+        "desc": "本週為遊戲大週:Marvel's Wolverine(9/15 PS5)領銜,搭配Fire Emblem新作、Trails in the Sky(空之軌跡)重製等。9月中旬迎來密集重量級新作"
+      },
+      {
+        "title": "《Fire Emblem: Fortune's Weave》釋出七分鐘總覽預告,9/17上市",
+        "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-seven-minute-overview-trailer",
+        "source": "Nintendo Life",
+        "desc": "任天堂為《Fire Emblem: Fortune's Weave》釋出七分鐘總覽預告,遊戲9/17上市。戰棋系列新作於本週登場,預告詳解系統與角色"
+      },
+      {
+        "title": "9月Nintendo Direct玩家票選:魔物獵人Wilds(Switch 2,12/4)最受期待",
+        "url": "https://www.nintendolife.com/news/2026/09/nintendo-direct-september-2026-and-zelda-40th-anniversary-time-date-how-to-watch",
+        "source": "Nintendo Life",
+        "desc": "9月任天堂直面會玩家票選,Monster Hunter Wilds(Switch 2,12/4)獲選最愛公布,FF7 Revelation居次。薩爾達40週年紀念、Crisis Core Reunion等同期亮相"
+      }
+    ],
+    "tech": [
+      {
+        "title": "Apple正式推送iOS 27/iPadOS 27:Siri AI(Gemini訓練)+Liquid Glass更新",
+        "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
+        "source": "MacRumors",
+        "desc": "Apple 9/14釋出iOS 27與iPadOS 27,免費OTA更新。含全新Siri AI(獨立Siri App)、Liquid Glass設計更新、大量Apple Intelligence新功能與效能提升。支援iPhone 11以上"
+      },
+      {
+        "title": "Apple Siri AI登iOS 27:以Google Gemini訓練、跑在2nm A20 Pro晶片",
+        "url": "https://plainenglish.io/artificial-intelligence/apple-siri-ai-ios-27-gemini-a20-pro-september-2026",
+        "source": "Plain English",
+        "desc": "Apple久候的Siri大改9/14上線,採裝置端AI+Google Gemini訓練的模型,並跑在首款2奈米iPhone晶片A20 Pro上。Apple與Google的AI合作+自研晶片的整合成焦點"
+      },
+      {
+        "title": "OpenAI取得五角大廈機密系統部署案;Anthropic遭Trump政府列黑名單",
+        "url": "https://www.yahoo.com/news/politics/articles/josh-hawley-says-openai-knew-113104151.html",
+        "source": "Yahoo News",
+        "desc": "OpenAI簽下在五角大廈機密系統部署AI的協議,而Anthropic因近乎相同要求遭列黑名單。政府AI採購的雙重標準疑慮浮現,牽動科技廠與國防的合作版圖"
+      },
+      {
+        "title": "iOS 27現已推出:先試這10項新功能(Siri AI/Apple Intelligence/Liquid Glass)",
+        "url": "https://www.macrumors.com/guide/ios-27-features-to-try-first/",
+        "source": "MacRumors",
+        "desc": "iOS 27正式開放給iPhone 11以上機型。導入Siri AI、大量Apple Intelligence新功能、Liquid Glass更新與效能改善使iPhone更快。整理最值得優先體驗的10項功能"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "CLARITY Act今日(9/15)參院表決:恐牽動BTC/ETH/XRP行情",
+        "url": "https://www.kucoin.com/news/flash/clarity-act-vote-on-september-15-could-impact-bitcoin-ethereum-and-xrp-prices",
+        "source": "KuCoin",
+        "desc": "加密市場結構法案CLARITY Act今日9/15進行參院關鍵表決。分析指BTC顯露偏多訊號、穩定幣主導度暗示盤整。表決結果恐觸發BTC/ETH/XRP三大資產波動,與9/16 Fed決議形成雙重變數"
+      },
+      {
+        "title": "比特幣分析師警告:Fed與日銀(BoJ)決議恐對加密構成壓力",
+        "url": "https://crypto.news/bitcoin-analysts-warn-fed-boj-decision-pressure-crypto/",
+        "source": "Crypto.news",
+        "desc": "BTC於$79,007(+2%左右)。分析師警告本週Fed(9/16)與日銀等央行決議恐對加密資產構成壓力。全球央行政策+殖利率近5%=風險資產承壓的宏觀背景"
+      },
+      {
+        "title": "比特幣支撐鬆動、Fed料升息至3.75-4%:部分官員傾向按兵不動",
+        "url": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
+        "source": "Cointelegraph",
+        "desc": "在高通膨與主席Warsh謹慎談話下,Fed普遍預期升息一碼至3.75-4%,惟數名官員傾向維持利率。比特幣價格支撐於Fed決議前鬆動。CLARITY表決+Fed升息=本週BTC五大看點"
+      },
+      {
+        "title": "BTC/ETH/XRP迎9/16 Fed投票、美債殖利率近5%",
+        "url": "https://kanalcoin.com/bitcoin-eth-xrp-sept-16-fed-vote-treasury-yields",
+        "source": "KanalCoin",
+        "desc": "BTC、ETH、XRP在美債殖利率近5%的利率背景下迎接9/16 Fed政策會議。美元資金成本牽動風險偏好,東南亞至全球交易員高度關注。升息定價下加密的方向取決於點陣圖鷹鴿"
+      }
+    ],
+    "dev": [
+      {
+        "title": "JDK 27今日(9/15)正式發布:新JEP含AOT編譯與結構化並行",
+        "url": "https://www.infoq.com/news/2026/09/java-news-roundup-sep07-2026/",
+        "source": "InfoQ",
+        "desc": "JDK 27於9/15正式發布。近期Java生態亮點:AOT提前編譯與結構化並行新JEP、Jakarta CDI 5.0與ADK for Kotlin 1.0 GA、Groovy 6.0與Gradle 9.8釋出候選版。Java平台的重要里程碑"
+      },
+      {
+        "title": "VS Code 1.136發布:代理session支援多根工作區、重設計新session輸入",
+        "url": "https://www.i-programmer.info/",
+        "source": "I Programmer",
+        "desc": "Visual Studio Code 1.136發布,為代理session帶來多根工作區(multi-root workspaces),並重新設計新session輸入,將提示、模型選擇、工作區選擇等控制項整合於單一版面。代理式開發體驗持續進化"
+      },
+      {
+        "title": "AWS推開源TypeScript框架Blocks(公開預覽):每個Block綁定程式+mock+基建",
+        "url": "https://www.infoq.com/openSourceReleases/news/",
+        "source": "InfoQ",
+        "desc": "AWS釋出Blocks公開預覽——開源TypeScript框架,每個Block綁定應用程式碼、本地mock與AWS基礎設施。簡化雲原生開發與本地測試,降低基建與程式的落差"
+      },
+      {
+        "title": "Serverpod押注『vibe coding之後』:給Flutter社群的Dart開源後端框架",
+        "url": "https://tech.eu/2026/09/14/an-ai-app-builder-without-an-ai-serverpod-bets-on-what-comes-after-vibe-coding/",
+        "source": "Tech.eu",
+        "desc": "Serverpod為Flutter社群以Dart打造的開源後端框架(2023由前Google工程師創立)。在AI輔助『vibe coding』熱潮後,押注結構化、可維護的後端基礎建設,而非純AI生成"
+      }
+    ],
+    "art": [
+      {
+        "title": "Armory Show 2026(9/24-27)首推兩項美術館收藏獎,合計3.5萬美元",
+        "url": "https://news.artnet.com/multimedia/art-market-minute-sep-14-2810911",
+        "source": "Artnet News",
+        "desc": "紐約Armory Show(9/24-27,Javits Center)首度推出兩項美術館收藏獎,合計3.5萬美元,供Pérez Art Museum Miami與Bronx Museum各選一件納入永久館藏。藝博會與美術館關係更緊密引發討論"
+      },
+      {
+        "title": "紐約9月藝術巨頭回歸:Armory Show前的歷史性密集開展月",
+        "url": "https://nyartlife.com/the-giants-return-a-historic-month-for-nyc-galleries/",
+        "source": "NY Art Life",
+        "desc": "從雀兒喜、上東城到翠貝卡、蘇活區,2026年9月紐約迎來異常密集的重量級展覽潮,Armory Show準備再次讓紐約成為國際藝術市場中心。秋季藝術季全面開跑"
+      },
+      {
+        "title": "蘇富比9,000萬美元震撼:400件捐贈含de Kooning、Amy Sherald與Old Masters",
+        "url": "https://puck.news/newsletter_content/sothebys-90m-bombshell-danh-vos-americana/",
+        "source": "Puck",
+        "desc": "一筆400件作品的捐贈,含Willem de Kooning、Rashid Johnson、Amy Sherald、Jonas Wood等現當代作品,以及Bronzino、Pontormo、Vigée Le Brun、Gainsborough等古典大師。藝術市場秋季重磅"
+      },
+      {
+        "title": "10億美元Lucas敘事藝術博物館9/22開幕(洛杉磯)",
+        "url": "https://www.theartnewspaper.com/2026/09/07/lucas-museum-narrative-art-opening-preview-los-angeles",
+        "source": "The Art Newspaper",
+        "desc": "George Lucas與妻子Mellody Hobson創辦、耗資10億美元的敘事藝術博物館9/22於洛杉磯Exposition Park開幕。原定2021開幕、兩度延期。聚焦敘事性圖像藝術的重量級新館"
+      }
+    ],
+    "design": [
+      {
+        "title": "Apple釋出iOS 27/macOS Golden Gate 27:Liquid Glass精修回應使用者回饋",
+        "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+        "source": "Ars Technica",
+        "desc": "Apple釋出iOS 27與macOS Golden Gate 27,尤其在macOS端做了多項小幅設計調整以回應Liquid Glass推出以來累積的使用者回饋。無激進新設計,而是必要的打磨。設計迭代回應民意"
+      },
+      {
+        "title": "iOS 27:如何調低Liquid Glass透明度——給不愛玻璃感使用者的解方",
+        "url": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
+        "source": "MacRumors",
+        "desc": "不愛iOS 26 Liquid Glass玻璃介面效果者,iOS 27有好消息:Apple新增可精細調整透明度的設定(設定→外觀→Liquid Glass),讓使用者更掌控觀感。個人化vs設計一致性的平衡"
+      },
+      {
+        "title": "iOS 27設計統一:iOS/iPadOS/macOS/tvOS/watchOS同循一套UI語言",
+        "url": "https://ia.net/topics/liquid-glass",
+        "source": "iA",
+        "desc": "iA評Liquid Glass看來新鮮、動態且切合品牌。iOS、iPadOS、macOS、tvOS、watchOS如今皆遵循同一套UI模式,是好消息;可以想見在Apple這樣的大組織協調推動有多困難。跨平台設計語言統一"
+      },
+      {
+        "title": "Liquid Glass的光學設計:以透鏡折射而非擴散,高光隨裝置動態即時追蹤",
+        "url": "https://www.techtimes.com/articles/317975/20260608/apple-liquid-glass-ios-27-wwdc-2026-brings-refinements-developers-must-adopt-today.htm",
+        "source": "Tech Times",
+        "desc": "Liquid Glass以透鏡效應(lensing)模擬真實玻璃光學——彎折並聚焦背景內容而非擴散。背景經玻璃層微妙折射,高光透過CoreMotion資料即時追蹤裝置動態。設計背後的物理與工程"
+      }
+    ],
+    "business": [
+      {
+        "title": "Fed會議今日(9/15)登場:料為Warsh任內首度升息至3.75-4%",
+        "url": "https://www.business-standard.com/world-news/fed-s-table-looks-set-for-a-rate-hike-a-first-under-kevin-warsh-126091500001_1.html",
+        "source": "Business Standard",
+        "desc": "Fed兩日會議9/15-16召開,週三(GMT 1800)公布決議。市場重押升息一碼至3.75-4%區間並釋出進一步緊縮訊號。這將是主席Kevin Warsh任內首度升息(2023來首次)"
+      },
+      {
+        "title": "全球券商轉向Fed升息預期:通膨意外走高使緊縮呼聲增強",
+        "url": "https://www.investing.com/news/economy-news/goldman-sachs-now-expects-fed-to-hike-rates-in-september-4898799",
+        "source": "Investing.com / Reuters",
+        "desc": "在強於預期的通膨數據後,愈來愈多券商(含高盛)預期Fed本週升息,質疑不進一步緊縮通膨難降溫。全球投行對Fed升息的看法趨於一致,市場定價高度收斂"
+      },
+      {
+        "title": "股市週一開低、油價飆升:科技股憂AI進展過快",
+        "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026",
+        "source": "Kiplinger",
+        "desc": "Fed週一開盤股市走低,科技股因憂AI技術進展過快、太急而下挫。Nasdaq -0.8%、S&P -0.6%、Dow -0.4%。油價飆升。市場靜待週三Fed決議+點陣圖(SEP)+Warsh記者會"
+      },
+      {
+        "title": "投資人必知:9/16前這件事——升息幾成定局,幅度待觀察",
+        "url": "https://www.fool.com/investing/2026/09/14/federal-reserve-1-thing-all-investors-need-to-know/",
+        "source": "The Motley Fool",
+        "desc": "9/15-16 FOMC前投資人須知:利率極可能上升,惟升幅待定。市場已高度定價升息一碼,重點轉向點陣圖對後續路徑的指引與Warsh的鷹鴿立場"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Fed決議週三(9/16)登場:料升息一碼至3.75-4%,點陣圖與Warsh記者會為焦點",
+        "url": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed週三美東14:00公布決議、14:30 Warsh記者會,將為全週定調。搭配中東戰爭疑慮,股市卻顯『不眨眼』。市場焦點在點陣圖(SEP)透露的後續升息路徑與通膨/成長預測"
+      },
+      {
+        "title": "『已被定價的升息』如何操作:市場對頭條已有定見,重點在指引",
+        "url": "https://tiomarkets.com/article/fed-rate-decision-september-2026-preview",
+        "source": "TIO Markets",
+        "desc": "Fed 9/16美東14:00公布利率決議,市場對『升息』頭條已有定見。真正的波動來源是點陣圖與Warsh對後續路徑的措辭。已被定價的升息下,如何布局利差與風險資產"
+      },
+      {
+        "title": "比特幣分析師警告Fed與日銀決議恐壓抑加密;BTC於$79K",
+        "url": "https://crypto.news/bitcoin-analysts-warn-fed-boj-decision-pressure-crypto/",
+        "source": "Crypto.news",
+        "desc": "BTC於$79,007。分析師警告本週Fed(9/16)與日銀等央行決議恐對加密構成壓力。全球央行同步緊縮+殖利率近5%的宏觀背景下,風險資產(股+加密)高度連動、決議前謹慎"
+      },
+      {
+        "title": "CLARITY Act今日(9/15)參院表決:華府釋出分歧訊號本身成為焦點",
+        "url": "https://coinpedia.org/news/will-bitcoin-ethereum-and-xrp-prices-rally-if-the-clarity-act-passes-on-september-15/",
+        "source": "Coinpedia",
+        "desc": "加密市場結構法案CLARITY Act今日9/15參院關鍵表決前,華府釋出分歧訊號,而分歧本身正成為故事的一部分。法案若過,BTC/ETH/XRP能否反彈受矚。監管明確化與Fed決議形成雙變數週"
+      }
+    ]
   }
 }
