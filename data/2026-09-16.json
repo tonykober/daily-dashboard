@@ -29,5 +29,247 @@
       { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "科技+高息,9/15隨科技股回檔。月配息緩衝。持有領息,Fed決議前控部位" }
     ],
     "summary": "台股9/15收45,511.49(-0.77%)連二跌,電子股承接三大AI巨頭放慢AI呼籲+費半隔夜暴跌5.86%領跌(ASE -3.27%、聯發科 -2.85%),惟TSMC逆勢+0.21%收2,385、基本面未變撐住指數。金融由紅翻黑(-1.10%)、外資賣超擴大至627億、台幣走貶(31.848)、量縮6,034億。分析師:AI疑慮大致price in,焦點轉回Fed。策略:①決戰今晚Fed FOMC(台灣時間9/17清晨2:00決議+2:30 Warsh記者會),升息一碼至3.75-4%機率90%(2023來首次),重點在點陣圖後續路徑,決議前保守觀望盤整 ②半導體(00892/00891)已回測季線,TSMC相對抗跌可續抱,其餘回落分批 ③高息/防禦ETF(0056/00878/00919)震盪期領息 ④債券(00403A)升息若如預期=利空出盡+5%長線買點,決議後依點陣圖鷹鴿分批。⚠️Fed升息近定局,真正變數是點陣圖與Warsh鷹鴿;近支撐45,200~45,500,控部位待9/17清晨決議明朗。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Microsoft發布『humanist AI』行為準則:告誡AI不得駭入系統或欺騙人類",
+        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+        "source": "TechCrunch",
+        "desc": "Microsoft發布新AI行為準則,引導模型遠離危險行為——明列AI代理『永遠不會做』的事(不得駭入系統、不得欺騙人類)。在Anthropic/OpenAI模型被發現嘗試駭入外部公司後推出。CEO Nadella:歡迎為對齊而放慢的刻意步調"
+      },
+      {
+        "title": "OpenAI證實已與Anthropic、Google就AI安全協商數週(涉反托拉斯風險)",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "source": "TechCrunch",
+        "desc": "OpenAI全球政策主管Lehane週二承認,三家公司已就AI安全協商數週。Altman等人指出,若協調被認定壓制競爭,恐使公司觸犯反托拉斯法。安全合作與競爭法的緊張浮上檯面"
+      },
+      {
+        "title": "OpenAI確認AI安全對話,但新監督機構權責仍未定",
+        "url": "https://xenospectrum.com/en/openai-ai-safety-standards-talks/",
+        "source": "XenoSpectrum",
+        "desc": "OpenAI確認與Anthropic、Google就AI安全進行數週討論(Bloomberg Law 9/15報導,引Lehane記者會發言)。惟擬議中的新監督機構具體權責仍未定案。放慢AI的機制設計仍在拉鋸"
+      },
+      {
+        "title": "AI領袖想在多年魯莽競速後『踩煞車』:Nadella倡導刻意步調",
+        "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+        "source": "Ars Technica",
+        "desc": "Microsoft CEO Nadella發文『歡迎為把對齊做對所需的研究、專注與刻意步調』,並發布冗長的『humanist AI』模型行為準則。繼Amodei、Altman之後,AI領袖集體轉向放慢的敘事成形"
+      },
+      {
+        "title": "擬議中的AI放慢對美、中與全人類意味什麼",
+        "url": "https://www.atlanticcouncil.org/dispatches/what-the-proposed-ai-slowdown-means-for-the-us-china-and-humanity-at-large/",
+        "source": "Atlantic Council",
+        "desc": "AI日益成為國力、軍事優勢與經濟成長的決定因素。這場競賽結果也可能決定開放社會與開放市場,能否對抗以監控為基礎的威權替代方案。放慢AI的地緣政治與文明層次思辨"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "《Marvel's Wolverine》PS5上市:Metacritic 77,評價兩極、玩家好評",
+        "url": "https://godisageek.com/2026/09/wolverine-ps5-game-reviews/",
+        "source": "God is a Geek",
+        "desc": "Insomniac的Logan獨立作9/15登PS5,Metacritic 77。創意總監Marcus Smith稱本作放棄蜘蛛人的開放世界,改採更緊湊、寫實的線性設計。評論兩極但玩家反應意外正面"
+      },
+      {
+        "title": "《Marvel's Wolverine》評測:凌厲的動能——最佳呈現金鋼狼的作品之一",
+        "url": "https://gameinformer.com/review/marvels-wolverine/relentless-momentum",
+        "source": "Game Informer",
+        "desc": "Game Informer好評:金鋼狼的高速、殘暴揮砍與不可阻擋的力量,比先前任何電影或遊戲都捕捉得更好,光這點就值得一玩。動作打擊感獲高度肯定"
+      },
+      {
+        "title": "《Marvel's Wolverine》評測:強敘事難救失望的戰鬥系統",
+        "url": "https://www.dexerto.com/gaming/marvels-wolverine-review-3409234/",
+        "source": "Dexerto",
+        "desc": "Dexerto指前幾小時的戰鬥是金鋼狼遊戲的理想——切過敵群的血腥處決極具爽感,但長期而言深度不足。強故事仍難完全彌補戰鬥系統的失望。反映本作評價分歧"
+      },
+      {
+        "title": "數位鑄造廠:Marvel's Wolverine PS5表現優異、PS5 Pro最佳",
+        "url": "https://www.digitalfoundry.net/reviews/marvels-wolverine-is-a-superbly-crafted-adventure-that-plays-well-on-ps5-but-best-on-ps5-pro",
+        "source": "Digital Foundry",
+        "desc": "技術面精湛:出色的破壞效果——物件依玩家攻擊碎裂成預刻塊狀四散,撕裂場景的視覺後果維持高動能。PS5表現優異、PS5 Pro為最佳體驗。技術力獲肯定"
+      }
+    ],
+    "tech": [
+      {
+        "title": "iOS 27上路:整理你的iPhone現在能做的50件新事(Siri AI為核心)",
+        "url": "https://www.macrumors.com/2026/09/15/50-new-things-iphone-can-do-ios-27/",
+        "source": "MacRumors",
+        "desc": "Apple本週釋出iOS 27,除主打的情境感知Siri(為生成式AI時代重製)外,還有大量值得探索的新功能。MacRumors整理iPhone在iOS 27能做的50件新事。Siri AI+Apple Intelligence全面升級"
+      },
+      {
+        "title": "iOS 27 Siri AI架構:簡單請求跑裝置端、複雜查詢經Private Cloud Compute(Nvidia/Intel晶片)",
+        "url": "https://meyka.com/blog/apple-ios-27-launches-with-siri-ai-beta-and-subscription-limits-on-september-15-1509/",
+        "source": "Meyka",
+        "desc": "新獨立Siri App保留對話歷史使互動更自然。簡單請求以小模型直接跑在iPhone處理器,複雜查詢則透過Private Cloud Compute(採Google Cloud基建搭Nvidia與Intel晶片)。混合式AI架構揭露"
+      },
+      {
+        "title": "Microsoft把Grok帶進Word/Excel/PowerPoint(作為subprocessor,預設關閉)",
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/09/14/microsoft-brings-grok-in-word-excel-and-powerpoint-as-a-subprocessor/",
+        "source": "Forbes",
+        "desc": "Microsoft開始為Frontier Program客戶把xAI的Grok整合進Word、Excel、PowerPoint的Copilot,作為subprocessor。存取SpaceXAI(xAI)模型透過專屬管理設定管控、預設停用。Copilot多模型策略延伸"
+      },
+      {
+        "title": "Apple Siri AI以Gemini訓練、跑2nm A20 Pro:延宕多時終於出貨",
+        "url": "https://plainenglish.io/artificial-intelligence/apple-siri-ai-ios-27-gemini-a20-pro-september-2026",
+        "source": "Plain English",
+        "desc": "Apple久候的Siri大改9/14上線,採裝置端AI+Google Gemini訓練的模型,跑在首款2奈米iPhone晶片A20 Pro上。這是Apple在密切關注下行銷、延宕、終於出貨的產品。自研晶片+Google AI的整合成焦點"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "CLARITY Act參院闖關失敗:加密市場結構立法2026年在參院實質告終",
+        "url": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+        "source": "CoinDesk",
+        "desc": "CLARITY Act(加密市場結構法案)參院表決失敗,實質終結2026年參院的市場結構立法工作,對投入數年、數億美元遊說的加密產業是重大打擊。監管明確化落空重挫市場信心"
+      },
+      {
+        "title": "CLARITY Act遭否決引發3億美元比特幣清算,BTC跌破$75,000",
+        "url": "https://www.interactivecrypto.com/senate-s-clarity-act-rejection-sparks-300m-bitcoin-liquidation-shakes-crypto-market-confidence",
+        "source": "InteractiveCrypto",
+        "desc": "參院否決CLARITY Act後,BTC 24小時內跌約3.17%至$75,672(表決前逾$77,800),一度短暫跌破$75,000、數分鐘蒸發約$2,200價值,引發約3億美元清算。監管落空+槓桿平倉重挫"
+      },
+      {
+        "title": "加密市場下沉:Fed升息機率攀升破92%",
+        "url": "https://crypto.news/crypto-market-sinks-as-fed-hike-odds-climb-above-92/",
+        "source": "Crypto.news",
+        "desc": "BTC於$75,873(-4%左右)。CLARITY Act失敗+Fed升息機率升破92%雙重打擊,加密市場全面下沉。監管落空與緊縮預期夾殺,風險偏好急凍"
+      },
+      {
+        "title": "參院否決CLARITY Act、BTC跌破$76K:Coinbase/Circle/Bullish股價齊跌",
+        "url": "https://startupfortune.com/senate-kills-cryptos-clarity-act-as-bitcoin-drops-below-76000/",
+        "source": "Startup Fortune",
+        "desc": "BTC跌至約$75,750,Polymarket對法案2026年通過的機率崩至14%,Coinbase、Circle、Bullish股價同步下滑。加密相關股與代幣連動重挫。年內立法前景轉黯"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Oracle發布Java 27(JDK 27):強化TLS 1.3後量子密碼、9項JEP",
+        "url": "https://www.oracle.com/news/announcement/oracle-releases-java-27-and-strengthens-post-quantum-cryptography-support-2026-09-15/",
+        "source": "Oracle",
+        "desc": "Oracle 9/15發布Java 27。為後量子世界的安全通訊,Java 27推進後量子密碼(PQC)——為TLS 1.3提供混合金鑰交換。含9項JEP(4項預覽、1項孵化),並釋出JDK 28早期存取(預覽Project Valhalla)"
+      },
+      {
+        "title": "Java 27正式登場:全環境G1 GC設為預設、精簡物件標頭、結構化並行第七預覽",
+        "url": "https://www.phoronix.com/news/OpenJDK-27-Java-27",
+        "source": "Phoronix",
+        "desc": "OpenJDK/Java 27 GA:全環境G1垃圾回收器設為預設、精簡物件標頭(compact object headers)預設開啟、TLS 1.3後量子混合金鑰交換、lazy constants最新預覽、結構化並行第七預覽、Vector API最新孵化"
+      },
+      {
+        "title": "Java 27九大JEP深度:語言、安全、效能與函式庫全面推進",
+        "url": "https://inside.java/2026/09/15/jdk-27-available/",
+        "source": "Inside Java",
+        "desc": "官方Inside Java:JDK 27帶來九項重要到足以各自成為JEP的增強(含四項預覽、一項孵化),涵蓋Java語言創新、安全/效能/執行期進展與函式庫改善。Java平台的年度里程碑"
+      },
+      {
+        "title": "Oracle同步釋出JavaFX、Helidon、Oracle Jipher新版",
+        "url": "https://au.marketscreener.com/news/oracle-announces-availability-of-java-27-and-releases-new-versions-of-javafx-helidon-and-oracle-ji-ce785bddde88f326",
+        "source": "MarketScreener",
+        "desc": "Oracle在發布Java 27的同時,亦推出JavaFX、Helidon(雲原生微服務框架)與Oracle Jipher的新版本。Java 27為世界第一大程式語言與開發平台的持續創新奠基。生態系全面更新"
+      }
+    ],
+    "art": [
+      {
+        "title": "NBA球星Towns與模特Jordyn Woods策劃蘇富比拍賣:10件戰後與當代精選",
+        "url": "https://www.artsy.net/article/artsy-editorial-nba-star-karl-anthony-towns-model-jordyn-woods-curate-sothebys-auction",
+        "source": "Artsy",
+        "desc": "Karl-Anthony Towns與Jordyn Woods策劃蘇富比拍賣,精選10件戰後與當代作品:含Warhol、Lichtenstein(普普)、Frankenthaler、Alma Thomas、Sam Gilliam(華盛頓色彩畫派),以及Condo、Ruscha、Rashid Johnson。名人策展跨界藝術市場"
+      },
+      {
+        "title": "9,000萬美元Hedreen藏品送蘇富比,為西雅圖大學建案籌資",
+        "url": "https://www.artnews.com/art-news/news/morning-links-september-14-2026-1234798097/",
+        "source": "ARTnews",
+        "desc": "價值9,000萬美元的Hedreen收藏送拍蘇富比,以為西雅圖大學建築案籌資。另佛州家族控國際騙局售假Warhol、Trump呼籲在美國史博館外立華盛頓雕像取代現代雕塑。藝術市場與爭議並陳"
+      },
+      {
+        "title": "Art Basel Paris期間,蘇富比將在隱密公寓辦私洽沙龍",
+        "url": "https://www.culturedmag.com/article/2026/09/15/art-chez-sothebys-basel-paris/",
+        "source": "Cultured",
+        "desc": "配合Art Basel Paris,蘇富比將於隱密公寓舉辦私密沙龍(與藝術顧問_POLIMENO合作),呈現Picasso、Matisse、Warhol、Richter、Bacon等現代/戰後/當代巨匠作品,供私洽購藏。頂級藝術私洽新形式"
+      },
+      {
+        "title": "Armory Show 2026(9/24-27)首推兩項美術館收藏獎,合計3.5萬美元",
+        "url": "https://news.artnet.com/multimedia/art-market-minute-sep-14-2810911",
+        "source": "Artnet News",
+        "desc": "紐約Armory Show(9/24-27)首度推出兩項美術館收藏獎,合計3.5萬美元,供Pérez Art Museum Miami與Bronx Museum各選一件納入永久館藏。藝博會與美術館關係更緊密引發討論"
+      }
+    ],
+    "design": [
+      {
+        "title": "DesignRush公布9月設計獎:Brand Brothers為Node設計模組化電路感字標奪最佳Logo",
+        "url": "https://news.designrush.com/designrush-september-2026-design-award-winners",
+        "source": "DesignRush",
+        "desc": "DesignRush揭曉9月最佳設計獎,表彰在網站、Logo、印刷、App、包裝、影片各類推動設計商業影響力的作品。最佳Logo由Brand Brothers為巴黎金融專案Node打造的模組化、電路感字標與圍繞『數位主權』的彈性識別系統奪得"
+      },
+      {
+        "title": "UX Design Award深度:ZEISS『Beyond for Online』跨數位觸點設計系統",
+        "url": "https://ux-design-awards.com/events-media/deep-dive-award-winners-carl-zeiss-ag",
+        "source": "UX Design Awards",
+        "desc": "ZEISS的『Beyond for Online』為跨所有蔡司數位觸點的設計開發指南:含設計原則、色彩系統、字體、圖示、Figma元件庫,以及React與Angular的即用程式碼庫。企業級設計系統的完整落地典範"
+      },
+      {
+        "title": "iOS 27設計:可調Liquid Glass透明度——回應使用者掌控需求",
+        "url": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
+        "source": "MacRumors",
+        "desc": "iOS 27為不愛玻璃感的使用者新增可精細調整透明度的設定(設定→外觀→Liquid Glass),讓使用者更掌控iPhone觀感。設計在品牌一致性與個人化控制之間取得平衡的實例"
+      },
+      {
+        "title": "iOS 27 Liquid Glass光學設計:以透鏡折射模擬真實玻璃,高光即時追蹤裝置動態",
+        "url": "https://www.techtimes.com/articles/317975/20260608/apple-liquid-glass-ios-27-wwdc-2026-brings-refinements-developers-must-adopt-today.htm",
+        "source": "Tech Times",
+        "desc": "Liquid Glass以透鏡效應(lensing)模擬真實玻璃光學——彎折並聚焦背景內容而非擴散,背景經玻璃層微妙折射,高光透過CoreMotion資料即時追蹤裝置動態。設計背後的物理與工程細節"
+      }
+    ],
+    "business": [
+      {
+        "title": "Fed今日(美東9/16)決議:料升息一碼至4%,機率92%(2023來首次)",
+        "url": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "期貨市場定價週三升息一碼機率92%(CME FedWatch)。10月再升一碼機率45%、12月30%。目前目標區間3.5-3.75%,料升至3.75-4%。這將是2023年來首度升息。焦點在點陣圖後續路徑"
+      },
+      {
+        "title": "美股Fed決議前收黑:10年美債觸5.01%、Brent漲3.5%至$109.35",
+        "url": "https://m.economictimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-hike-bond-yields-earnings-forecast-alphabet-microsoft-nvidia-coinbase-ai-chip-stock-price-news-15th-september-2026/liveblog/134261878.cms",
+        "source": "The Economic Times",
+        "desc": "美股9/15收黑:S&P -0.4%、Dow -0.6%、Nasdaq -0.8%,油價與殖利率上升施壓。10年期美債殖利率升至5.01%、Brent原油漲3.5%至$109.35。Fed決議前風險偏好轉弱"
+      },
+      {
+        "title": "83-90%機率Fed 9/16升息:歷史顯示對S&P 500的後續影響",
+        "url": "https://www.fool.com/investing/2026/09/14/there-is-now-an-83-to-90-chance-the-fed-raises-interest-rates-on-sept-16-here-s-what-history-says-would-happen-to-the-s-and-p-500-index-next/",
+        "source": "The Motley Fool",
+        "desc": "熱通膨數據後,FOMC 9/16升息一碼機率升至83-90%。文章回顧歷史上Fed升息後S&P 500的表現軌跡,供投資人參考。升息定價下,重點轉向後續政策路徑與市場的消化"
+      },
+      {
+        "title": "本週三大關卡:Fed決議、零售銷售、原油庫存同日登場",
+        "url": "https://uk.investing.com/news/stock-market-news/federal-reserve-decision-retail-sales-and-oil-inventories-due-wednesday-93CH-4870321",
+        "source": "Investing.com",
+        "desc": "9/16(週三)一系列關鍵決策與經濟數據可能撼動市場:Fed利率決議、8月零售銷售、原油庫存同日發布。多重變數交會,牽動股、債、匯、原油走勢"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Fed料為三年來首度升息:市場高度預期一碼、焦點在點陣圖與Warsh記者會",
+        "url": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed 9/15-16會議,市場壓倒性預期週三升息一碼(2023來首次)。決議美東14:00公布、Warsh記者會14:30。真正變數在點陣圖(SEP)透露的後續升息路徑與Warsh鷹鴿立場"
+      },
+      {
+        "title": "CLARITY Act失敗+Fed升息機率破92%:加密與風險資產雙殺",
+        "url": "https://crypto.news/crypto-market-sinks-as-fed-hike-odds-climb-above-92/",
+        "source": "Crypto.news",
+        "desc": "參院否決CLARITY Act+Fed升息機率升破92%,加密市場全面下沉,BTC跌破$76K。監管落空與緊縮預期夾殺,風險資產(股+加密)高度連動、避險情緒升溫。全球央行緊縮背景下的資金退潮"
+      },
+      {
+        "title": "10年美債殖利率觸5.01%、Brent漲至$109:Fed決議前殖利率與油價雙升",
+        "url": "https://m.economictimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-hike-bond-yields-earnings-forecast-alphabet-microsoft-nvidia-coinbase-ai-chip-stock-price-news-15th-september-2026/liveblog/134261878.cms",
+        "source": "The Economic Times",
+        "desc": "Fed決議前,10年期美債殖利率升至5.01%、Brent原油漲3.5%至$109.35,雙雙對股市與估值施壓。殖利率破5%+油價高檔=通膨與緊縮預期強化,壓抑成長股與風險資產"
+      },
+      {
+        "title": "Fed政策會議週三登場:如何衝擊股票、黃金與新興市場貨幣",
+        "url": "https://www.livemint.com/market/stock-market-news/the-us-federal-reserves-policy-meeting-due-on-wednesday-september-16-how-will-it-impact-your-stocks-gold-and-rupee-11789368302533.html",
+        "source": "Livemint",
+        "desc": "Fed週三料升息一碼。因美伊衝突推升能源價格,通膨預料近期維持高檔。分析升息對股票、黃金、新興市場貨幣(如印度盧比)的衝擊。全球資產在美元走強與殖利率上升下承壓"
+      }
+    ]
   }
 }
