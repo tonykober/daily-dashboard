@@ -29,5 +29,247 @@
       { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "科技+高息,9/16隨科技股反彈。月配息緩衝、升息期高息防禦。持有領息" }
     ],
     "summary": "台股9/16收45,848.90(+0.74%)技術反彈(前4日跌3.54%),AI記憶體需求帶動(南亞科/華邦電+5.96%、聯發科+2.26%),TSMC平盤2,380,金融+1.43%(升息海外利息預期),外資賣超收斂至179.8億、量縮6,438億。⚠️隔夜Fed升息一碼至3.75-4%(2023來首次)但點陣圖偏鷹(16/18官員見年內再升、多指12月)、Warsh鷹派談話,美股翻黑(Dow -631點)、10年美債破5%。策略:①今日台股兩變數——消化鷹派Fed(尤其Warsh暗示再升)+台灣央行(CBC)今日下午利率決議,若跟進升息恐衝擊;決議前控部位 ②TSMC ADR隔夜+1.1%(2nm訂單)為抗跌支撐、相對抗跌可續抱;半導體(00892/00891)受記憶體+IC設計帶動回站季線,分批 ③金融/高息ETF(0056/00878/00919)升息環境防禦價值凸顯、受惠海外利息、震盪期領息 ④債券(00403A)升息落地但點陣圖鷹+10年美債破5%續承壓,惟5%+為長線甜蜜買點,逢高殖利率分批、勿重壓。⚠️Fed鷹派+台灣央行決議+10年美債破5%=今日高檔震盪,季線與45,500為觀察,控部位。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "OpenAI、Anthropic、Google DeepMind確認就AI安全協商數週(涉反托拉斯)",
+        "url": "https://qz.com/openai-anthropic-google-deepmind-ai-safety-talks-091626",
+        "source": "Quartz",
+        "desc": "OpenAI政策主管Lehane 9/16確認三大實驗室就AI安全協商數週。此前Amodei 9/13發表3,800字專文籲放慢前沿模型開發,Altman與Musk背書。惟安全協調恐被視為壓制競爭而觸反托拉斯"
+      },
+      {
+        "title": "OpenAI、Anthropic『秘密聯手』合作AI安全:法律專家警告觸反托拉斯風險",
+        "url": "https://siliconangle.com/2026/09/15/openai-anthropic-and-google-secretly-joined-forces-to-collaborate-on-ai-safety/",
+        "source": "SiliconANGLE",
+        "desc": "法律專家警告,AI領袖就安全協調恐被詮釋為『產出限制(output restriction)』,將違反Sherman Act反托拉斯法。參議員Banks等先前已提此疑慮。安全合作與競爭法的緊張升溫"
+      },
+      {
+        "title": "Anthropic/OpenAI擬設『中立』AI監督機構:為何該擔心這構想",
+        "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+        "source": "CNBC",
+        "desc": "Anthropic提議的評估者能調查與回報,但Amodei的計畫未賦予其如銀行監理機關般阻止模型訓練或發布的執法權與法律權威。批評者:『這根本不同——銀行監理權力大得多。』自律機構的權責空洞受質疑"
+      },
+      {
+        "title": "Trump抨擊AI安全疑慮是『騙局(hoax)』,專家警告災難迫近",
+        "url": "https://www.independent.co.uk/tech/ai-warnings-artificial-intelligence-openai-anthropic-google-live-b3050237.html",
+        "source": "The Independent",
+        "desc": "Anthropic員工Coxon辭職警告AI恐滅絕人類後,全球恐慌。Anthropic等領袖附和。但Trump反將AI安全疑慮斥為『騙局』、以中國競賽為先。安全派與加速派的政治對立白熱化"
+      },
+      {
+        "title": "Fed升息落地『比特幣無動於衷』:風險資產與股市的分歧敘事",
+        "url": "https://www.ainvest.com/news/fed-hike-years-left-bitcoin-cold-2609/",
+        "source": "AInvest",
+        "desc": "Fed三年來首度升息,BTC收約$76,000(小漲),股市在宣布時波動不大、卻在Warsh記者會轉黑。這分歧是整個故事:市場最喧鬧的風險資產在央行轉鷹時沒眨眼,股市卻眨了。宏觀與加密的耐受度差異"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "《Fire Emblem: Fortune's Weave》今日(9/17)Switch 2獨佔上市",
+        "url": "https://gamedaily.com/games/fire-emblem-fortunes-weave-everything-you-need-to-know",
+        "source": "GameDaily",
+        "desc": "任天堂戰棋系列新作《Fire Emblem: Fortune's Weave》9/17 Switch 2獨佔上市,四位主角、與《風花雪月》有淵源。系列自2023《Engage》以來首個重大新作。美東9/17午夜同步發售"
+      },
+      {
+        "title": "《Fire Emblem: Fortune's Weave》故事:達格丹帝國與『英雄競技』一願之爭",
+        "url": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-dagdan-collection-128777/",
+        "source": "Nintendo",
+        "desc": "進入眾神統治的繁榮之地達格丹帝國,參加『英雄競技(Heroic Games)』競逐實現一個願望的機會。四位命運與世界存亡相繫的英雄齊聚。任天堂官方揭曉世界觀與典藏版"
+      },
+      {
+        "title": "任天堂開發者訪談Vol.23:《Fortune's Weave》製作內幕",
+        "url": "https://www.nintendo.com/en-gb/News/2026/September/Ask-the-Developer-Vol-23-Chapter-1-3195811.html",
+        "source": "Nintendo",
+        "desc": "任天堂『詢問開發者』系列第23彈,訪談《Fire Emblem: Fortune's Weave》開發團隊,以開發者自身話語傳達創作理念與精雕細節。Switch 2獨佔新作9/17上市"
+      },
+      {
+        "title": "《Marvel's Wolverine》PS5上市後玩家好評,對比評論兩極",
+        "url": "https://godisageek.com/2026/09/wolverine-ps5-game-reviews/",
+        "source": "God is a Geek",
+        "desc": "Insomniac的金鋼狼獨立作9/15登PS5,Metacritic 77、評論兩極,但玩家反應意外正面。創意總監指本作放棄蜘蛛人開放世界,改採更緊湊寫實的線性設計。本週與Fire Emblem齊為大作"
+      }
+    ],
+    "tech": [
+      {
+        "title": "iPhone 18 Pro明日(9/18)上市:首搭2nm A20 Pro、10項新功能",
+        "url": "https://www.macrumors.com/2026/09/15/iphone-18-pro-release-date-and-features/",
+        "source": "MacRumors",
+        "desc": "iPhone 18 Pro/Max明日9/18正式上市。A20 Pro為iPhone首顆2nm晶片(6核CPU/7核GPU/32核神經引擎,CPU快20%、繪圖快40%)。10項新功能含可變光圈主鏡頭、蒸氣室散熱、更快有線充電"
+      },
+      {
+        "title": "iPhone 18 Pro評測:針對性升級(效能/相機/續航/充電)而非大改版",
+        "url": "https://www.macrumors.com/review/iphone-18-pro/",
+        "source": "MacRumors",
+        "desc": "iPhone 18 Pro/Max大致沿襲去年機型、做針對性升級而非大改。最顯著變化在更佳效能、相機能力、續航與有線充電速度。A20 Pro 2nm晶片為核心,搭三倍表面積蒸氣室提升持續效能"
+      },
+      {
+        "title": "Apple推『What Holds Us』攝影展:全以iPhone 18 Pro拍攝",
+        "url": "https://www.macrumors.com/2/",
+        "source": "MacRumors",
+        "desc": "Apple宣布『What Holds Us』攝影展,由Alex Prager、Jack Davison、Jimmy Chin全程以iPhone 18 Pro拍攝、Kathy Ryan策展,透過群像、黏土肖像與山岳攝影探索人際連結。相機行銷結合藝術"
+      },
+      {
+        "title": "Apple 2027路線圖:iPhone 18、iPhone Air 2、入門18e皆用A20晶片",
+        "url": "https://www.techspot.com/news/113852-apple-h1-2027-roadmap-reportedly-includes-more-than.html",
+        "source": "TechSpot",
+        "desc": "據Gurman,Apple將於2027年推三款新iPhone:iPhone 18、iPhone Air 2與入門款iPhone 18e。標準18與Air 2搭A20晶片,Air 2並將新增第二顆超廣角鏡頭。Apple產品線分層策略延伸"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Fed三年來首度升息,比特幣『無動於衷』守$76K、ETH約$2,376",
+        "url": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
+        "source": "The Block",
+        "desc": "Fed全票升息一碼後,BTC於$75,000~$76,500間震盪、發稿時約$75,600,ETH在$2,370~$2,430擺盪後收於低端約$2,376。升息大致已price in,加密相對淡定。Warsh鷹派聚焦通膨"
+      },
+      {
+        "title": "CLARITY Act失敗+Fed升息雙重打擊:監管機構介入穩市",
+        "url": "https://www.interactivecrypto.com/failed-clarity-act-and-fed-hike-rattle-crypto-regulators-step-in",
+        "source": "InteractiveCrypto",
+        "desc": "本週加密急挫主因二事件:9/15參院CLARITY Act闖關失敗、9/16 Fed升息一碼。監管落空+緊縮夾殺,惟監管機構出面穩定市場信心。加密進入立法真空+升息循環的新格局"
+      },
+      {
+        "title": "25bp升息、年內再示意一次:比特幣面臨下一考驗",
+        "url": "https://www.ccn.com/news/crypto/fed-rate-decision-crypto-dot-plot-bitcoin-impact/",
+        "source": "CCN",
+        "desc": "Fed全票升息一碼、點陣圖示意年內再升一次以『更及時』回到2%通膨。比特幣面臨下一考驗:higher-for-longer利率環境下,加密須靠自身敘事(ETF/機構/減半後供給)而非流動性順風"
+      },
+      {
+        "title": "比特幣守$76K、ETH與XRP企穩:升息後風險資產暫穩",
+        "url": "https://coinpaper.com/35838/crypto-market-today-bitcoin-holds-76k-after-fed-rate-hike-as-ethereum-and-xrp-stabilize",
+        "source": "Coinpaper",
+        "desc": "Fed決議後BTC先漲後回落約$76,000,ETH約$2,400、XRP約$1.28企穩。升息落地後風險資產暫時穩定,惟點陣圖偏鷹+10年美債破5%限制反彈空間。市場靜待下一催化"
+      }
+    ],
+    "dev": [
+      {
+        "title": "AI正重塑開源軟體、並使維繫其運作的系統承壓",
+        "url": "https://techxplore.com/news/2026-09-ai-reshaping-source-software-straining.html",
+        "source": "TechXplore",
+        "desc": "AI編碼工具快速增加對開源專案的貢獻量,使維護者疲於判斷哪些提案變更該納入受信任的發行版。AI在加速貢獻的同時,也對開源治理與維護者的負荷造成前所未見的壓力。開源永續性議題浮現"
+      },
+      {
+        "title": "OpenAI Agents SDK進化:代理可檢查檔案、執行指令、編輯程式、處理長任務",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+        "source": "OpenAI",
+        "desc": "更新版Agents SDK協助開發者打造能檢查檔案、執行命令、編輯程式碼、並在受控沙箱環境中處理長時程任務的代理。長任務、沙箱隔離成為代理工程核心能力。代理式開發持續標準化"
+      },
+      {
+        "title": "Serverpod App Studio:內建AI編碼代理的全端開發環境,開發者擁有程式碼",
+        "url": "https://tech.eu/2026/09/14/an-ai-app-builder-without-an-ai-serverpod-bets-on-what-comes-after-vibe-coding/",
+        "source": "Tech.eu",
+        "desc": "Serverpod App Studio為可下載的開發環境,以AI編碼代理打造全端應用,含建立與執行Flutter+Serverpod專案所需一切、免複雜設定。開發者擁有程式碼,可為行動/桌面/Web建置。押注vibe coding之後"
+      },
+      {
+        "title": "SEOAgent 1.0:給編碼代理的SEO harness,加入Grok bot支援與OKF發布",
+        "url": "https://www.digitaljournal.com/pr/news/newsfile/seoagent-releases-new-software-update-189394788.html",
+        "source": "Digital Journal",
+        "desc": "SEOAgent 9/16釋出1.0版——給編碼代理的搜尋引擎最佳化harness,新增Grok bots支援、Open Knowledge Format(OKF)自動發布與產品截圖自動擷取,以提升在AI搜尋中的能見度。AI時代的SEO工具鏈"
+      }
+    ],
+    "art": [
+      {
+        "title": "大英博物館9月鋪紅毯迎貝葉掛毯(Bayeux Tapestry)",
+        "url": "https://artreview.com/the-10-exhibitions-to-see-in-september-2026/",
+        "source": "ArtReview",
+        "desc": "ArtReview精選9月十大必看展覽,焦點為大英博物館迎來千年歷史的貝葉掛毯(Bayeux Tapestry)——約1,000年前於今英國境內織成後首度回歸。中世紀藝術瑰寶的歷史性展出"
+      },
+      {
+        "title": "Charles Burnand畫廊梅費爾新永久空間揭幕:半透明帷幕『揭示』式體驗",
+        "url": "https://galeriemagazine.com/10-collectible-design-shows-to-see-in-september/",
+        "source": "Galerie Magazine",
+        "desc": "Charles Burnand Gallery於梅費爾(Mayfair)揭幕久候的永久空間,以『揭示』為主題:重要新作先隱於半透明建築帷幕下,再由自動機構在編排好的序列中拉開面紗,使『期待』成為體驗一部分。收藏級設計展"
+      },
+      {
+        "title": "紐約9月畫廊季高飛:Independent 20th Century 57展商、130位前衛藝術家",
+        "url": "https://apollo-magazine.com/new-york-gallery-shows-september-2026/",
+        "source": "Apollo Magazine",
+        "desc": "Breuer大樓本月熱鬧非凡,Independent 20th Century有57家展商呈現約130位前衛藝術家作品。Apollo並整理曼哈頓內外多檔精彩現當代藝術個展。紐約秋季畫廊季全面高飛"
+      },
+      {
+        "title": "Deana Lawson紐約個展《Edge Control》:鏡框攝影與全像探討監控與人格",
+        "url": "https://nyartlife.com/the-giants-return-a-historic-month-for-nyc-galleries/",
+        "source": "NY Art Life",
+        "desc": "Deana Lawson於西24街541號開個展《Edge Control》,集結鏡框攝影與全像作品,探討人格、監控與控制,展至10/24。紐約9月歷史性密集開展月的重點之一"
+      }
+    ],
+    "design": [
+      {
+        "title": "iPhone 18 Pro設計:Burgundy與Glacier新色,玻璃與金屬更視覺統一",
+        "url": "https://parametric-architecture.com/iphone-18-iphone-duo-design-ux/",
+        "source": "Parametric Architecture",
+        "desc": "Burgundy與Glacier加入配色,在不破壞Pro機定義性的『工業沉靜感』下增添表現力。機身追求玻璃與金屬更高的視覺統一,減少早年的雙色對比。iPhone 18 Pro的工業設計語言演進"
+      },
+      {
+        "title": "9月11檔收藏級設計展:Charles Burnand梅費爾新空間以『揭示』為題",
+        "url": "https://galeriemagazine.com/10-collectible-design-shows-to-see-in-september/",
+        "source": "Galerie Magazine",
+        "desc": "Galerie精選9月11檔收藏級設計展。Charles Burnand畫廊梅費爾新永久空間以劇場性的『揭示』開幕:作品先隱於半透明建築帷幕,再由自動機構編排揭幕。收藏設計的空間敘事實驗"
+      },
+      {
+        "title": "從iPhone 18 Pro與iPhone Duo看Apple設計未來(工業設計副總Anderson)",
+        "url": "https://www.forbes.com/sites/ewanspence/2026/09/12/apple-surprise-and-shine-iphone-18-pro-iphone-duo-lessons-takeaways/",
+        "source": "Forbes",
+        "desc": "執行長Ternus偕工業設計副總Molly Anderson展示iPhone Duo。Forbes解讀iPhone 18 Pro與折疊機透露的Apple設計未來走向——在成熟slab造型與折疊新形態間的產品設計取捨"
+      },
+      {
+        "title": "PITAKA推iPhone 18系列保護殼:先進防護與精煉設計",
+        "url": "https://www.prnewswire.com/news-releases/pitaka-introduces-iphone-18-case-collection-featuring-advanced-protection-and-refined-design-302876080.html",
+        "source": "PR Newswire",
+        "desc": "繼柏林『Signals in the Wind』品牌活動後,PITAKA推出iPhone 18系列保護殼新系列,主打先進防護與精煉設計、靈感取自自然。配件設計隨新機上市同步升級的產業縮影"
+      }
+    ],
+    "business": [
+      {
+        "title": "Fed升息、Warsh談話引發股市下滑:Dow盤中一度跌近700點",
+        "url": "https://www.ndtvprofit.com/economy/fed-rate-decision-live-kevin-warsh-led-fomc-to-hike-25-bps-amid-inflation-trump-us-iran-war-12055060",
+        "source": "NDTV Profit",
+        "desc": "華爾街9/16收黑:Warsh警告通膨仍過高、幾無降溫證據,Dow跌近700點(-1.39%)、S&P -0.76%、Nasdaq -0.4%。Fed示意年內再升一次。鷹派語氣觸發股票賣壓"
+      },
+      {
+        "title": "Fed強化『higher-for-longer』:成長仍具韌性、通膨為關鍵憂慮",
+        "url": "https://mufgresearch.com/fx/asia-fx-talk-fed-reinforces-higher-for-longer-rates-17-september-2026/",
+        "source": "MUFG Research",
+        "desc": "Fed全票升息一碼至3.75-4%,官員示意成長仍具韌性但通膨仍為關鍵憂慮。中位數預估年底前再升一次、2027全年按兵不動。higher-for-longer利率環境重新確立,牽動亞洲匯市"
+      },
+      {
+        "title": "Fed升息加深新興市場『三重負擔』:高油價、強美元、高利率",
+        "url": "https://www.chosun.com/english/market-money-en/2026/09/17/2FJBTXBAZFGLXBK32KECMYULRA/",
+        "source": "Chosun",
+        "desc": "Fed升息使資金更傾向流向相對安全、利率更高的美國。加上國際油價破每桶100美元,強美元恐使新興經濟體面臨『高油價、強美元、高利率』三重負擔。亞洲/新興市場資金外流風險升"
+      },
+      {
+        "title": "商業經濟界如何看Fed升息:Warsh稱不會立即降低物價",
+        "url": "https://finance.yahoo.com/economy/policy/articles/smart-people-business-economics-saying-223030066.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed三年來首度升息一碼。Warsh表示此舉不會立即拉低個別物價,美國人在超市與加油站仍會感到壓力。整理商業與經濟界對本次升息的多方解讀。政策傳導的時間差與民生感受"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股收黑、美元走強:Fed升息且訊息比預期更鷹",
+        "url": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-stutter-traders-prepare-024656301.html",
+        "source": "Yahoo Finance / Reuters",
+        "desc": "升息雖早在預期,但多數官員在點陣圖畫入年內至少再升一次,使市場判定整體訊息比預期更鷹。美股下跌、美元走強,亞股9/17料承壓開盤。higher-for-longer重挫風險偏好"
+      },
+      {
+        "title": "美股與美債齊跌、美元飆升:Fed鷹派升息後亞太開盤",
+        "url": "https://www.zerohedge.com/markets/us-stocks-and-bonds-declined-while-dollar-surged-after-fed-hiked-rates-newsquawk-daily-asia",
+        "source": "ZeroHedge / Newsquawk",
+        "desc": "FOMC決議與記者會整體偏鷹:全票升息一碼、中位數預估年底前再升一次、2027全年維持不動。美股與美債齊跌、美元飆升。亞太市場9/17在強美元與higher-for-longer下開盤承壓"
+      },
+      {
+        "title": "Fed升息加深新興市場三重負擔:資金回流美國、強美元壓力",
+        "url": "https://www.chosun.com/english/market-money-en/2026/09/17/2FJBTXBAZFGLXBK32KECMYULRA/",
+        "source": "Chosun",
+        "desc": "美國升息使投資人更傾向把資金移向相對安全、利率更高的美國。油價破$100+強美元恐使新興經濟體承受『高油價、強美元、高利率』三重負擔。新興市場貨幣與股市承壓、資金外流"
+      },
+      {
+        "title": "Fed升息後比特幣『無動於衷』,股市卻在Warsh記者會轉黑",
+        "url": "https://www.ainvest.com/news/fed-hike-years-left-bitcoin-cold-2609/",
+        "source": "AInvest",
+        "desc": "Fed三年來首度升息,BTC收約$76,000(小漲),股市宣布時波動不大、卻在Warsh記者會轉黑。市場最喧鬧的風險資產在央行轉鷹時沒眨眼,股市卻眨了。加密與股市對緊縮的耐受度差異值得深思"
+      }
+    ]
   }
 }
