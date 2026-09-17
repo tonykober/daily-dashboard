@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-17",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 45848.90,
+      "taiex_change_pct": "+0.74%",
+      "taiex_date": "2026-09-16",
+      "note": "台股9/16(週三)收45,848.90(+337.41,+0.74%)技術反彈(前4日跌1,671點/-3.54%),量仍縮6,438億(五日均6,892億)。科技股受AI記憶體需求帶動:南亞科+5.96%、華邦電+5.96%領漲,聯發科+2.26%、台達電+2.40%,TSMC平盤2,380。金融+1.43%(受惠升息海外利息收入預期,國泰金+2.27%)。外資賣超收斂至179.8億。⚠️隔夜Fed升息一碼至3.75-4%(2023來首次、12-0全票)但點陣圖偏鷹(16/18官員預期年內再升一碼、Warsh鷹派談話),美股翻黑(Dow -1.2%/-631點、S&P -0.5%、Nasdaq平盤),10年美債破5%。今日(9/17)台股面臨兩變數:①消化鷹派Fed(尤其Warsh暗示年底前再升)②台灣央行(CBC)今日下午利率決議,若跟進升息恐衝擊台股。TSMC ADR隔夜+1.1%($418,2nm智慧機訂單利多)為抗跌支撐。",
+      "us_sp500": 7551.81,
+      "us_sp500_note": "美股9/16 Fed後翻黑:Fed升息一碼至3.75-4%(2023來首次、12-0全票),但點陣圖偏鷹(16/18官員見年內再升一碼、多數指向12月)、Warsh鷹派談話誓言『更及時回到2%』。Dow -1.2%收51,461.90(-631點)、S&P -0.5%收7,551.81、Nasdaq平盤25,978.42。10年美債破5%。Warsh鷹派語氣比升息本身更撼動市場",
+      "oil_brent": "~$109",
+      "oil_note": "Brent原油維持~$109高檔(美伊衝突推升能源),為Fed升息+通膨壓力主因之一。能源股受惠、成長股承壓。通膨隱憂使Fed點陣圖偏鷹",
+      "foreign_investors": "9/16外資主板賣超收斂至179.8億(週二627億),賣壓趨緩。惟隔夜Fed鷹派+10年美債破5%+台幣走貶=今日外資態度需觀察。台灣央行決議亦影響匯率與外資動向"
+    },
+    "watchlist": [
+      { "code": "2330", "name": "台積電", "price": 2380, "nav": null, "pb": 10.1, "pe": 21.7, "premium_discount": null, "vs_quarterly_ma": "+2.5%", "recommendation": "持有/相對抗跌", "note": "9/16平盤收2,380。ADR隔夜+1.1%($418,2nm智慧機訂單利多)為今日抗跌支撐。8月營收+53.3% YoY、德國ESMC廠上樑。PE約21.7x。季線約2,320。鷹派Fed下相對抗跌、可續抱,回落季線可分批,惟留意台灣央行決議" },
+      { "code": "0050", "name": "元大台灣50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "+0.1%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "9/16隨大盤技術反彈。TSMC ADR強+金融走揚支撐,惟今日需消化鷹派Fed。核心持有,台灣央行決議後方向較明朗" },
+      { "code": "0056", "name": "元大高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.2%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "高息ETF。9/16金融股走揚(+1.43%,受惠升息海外利息)帶動高息類。折價微幅、殖利率>5%。升息環境下高息防禦價值凸顯。持有領息" },
+      { "code": "00878", "name": "國泰永續高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "ESG+高股息,含金融成分受9/16金融反彈(國泰金+2.27%)激勵。折價微幅。升息期防禦領息。持有" },
+      { "code": "00919", "name": "群益台灣精選高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "月配息現金流,升息震盪期優勢。折價微幅。持有領息" },
+      { "code": "00940", "name": "元大台灣價值高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+0.5%", "recommendation": "持有", "note": "價值+高息,含金融成分受惠9/16金融走揚而回站季線附近。折價偏大。持有" },
+      { "code": "006208", "name": "富邦台50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "+0.1%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "與0050同質、費用率更低。9/16隨大盤反彈。核心配置,今日消化鷹派Fed" },
+      { "code": "00892", "name": "富邦台灣半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有/偏多留意", "note": "半導體ETF,9/16受AI記憶體需求(南亞科/華邦電+5.96%)+聯發科+2.26%帶動反彈。TSMC 2nm訂單利多。鷹派Fed下留意波動,回站季線,分批" },
+      { "code": "00891", "name": "中信關鍵半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+0.5%", "recommendation": "持有/偏多留意", "note": "半導體供應鏈,9/16隨記憶體+IC設計反彈。CoWoS/HBM/記憶體需求續強。回站季線,鷹派Fed下分批加碼" },
+      { "code": "00982A", "name": "群益台灣強棒", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.6%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "主動型ETF,9/16隨大盤反彈,折價-0.6%。折價買入者持有,回檔加碼" },
+      { "code": "00981A", "name": "統一台股增長", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-1.0%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有", "note": "主動型ETF,YTD強勢。折價-1.0%提供安全邊際。主動管理alpha持續。持有,回檔加碼" },
+      { "code": "00403A", "name": "中信ESG投資級債", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "-1.0%", "recommendation": "觀望/逢高殖利率分批", "note": "債券ETF。Fed升息落地(3.75-4%)但點陣圖偏鷹(年內恐再升)+10年美債破5%=債券續承壓、淨值走弱。惟殖利率5%+為歷史甜蜜買點,升息循環後段=長線布局窗口。觀望,趁殖利率高點分批,勿一次重壓" },
+      { "code": "009816", "name": "凱基台灣TOP50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.1%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "類0050,9/16隨大盤反彈。折價微幅。核心配置" },
+      { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "+1.0%", "recommendation": "持有", "note": "科技+高息,9/16隨科技股反彈。月配息緩衝、升息期高息防禦。持有領息" }
+    ],
+    "summary": "台股9/16收45,848.90(+0.74%)技術反彈(前4日跌3.54%),AI記憶體需求帶動(南亞科/華邦電+5.96%、聯發科+2.26%),TSMC平盤2,380,金融+1.43%(升息海外利息預期),外資賣超收斂至179.8億、量縮6,438億。⚠️隔夜Fed升息一碼至3.75-4%(2023來首次)但點陣圖偏鷹(16/18官員見年內再升、多指12月)、Warsh鷹派談話,美股翻黑(Dow -631點)、10年美債破5%。策略:①今日台股兩變數——消化鷹派Fed(尤其Warsh暗示再升)+台灣央行(CBC)今日下午利率決議,若跟進升息恐衝擊;決議前控部位 ②TSMC ADR隔夜+1.1%(2nm訂單)為抗跌支撐、相對抗跌可續抱;半導體(00892/00891)受記憶體+IC設計帶動回站季線,分批 ③金融/高息ETF(0056/00878/00919)升息環境防禦價值凸顯、受惠海外利息、震盪期領息 ④債券(00403A)升息落地但點陣圖鷹+10年美債破5%續承壓,惟5%+為長線甜蜜買點,逢高殖利率分批、勿重壓。⚠️Fed鷹派+台灣央行決議+10年美債破5%=今日高檔震盪,季線與45,500為觀察,控部位。"
+  }
+}
