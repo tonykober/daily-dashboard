@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-19",
+  "categories": {
+    "ai": [
+      {
+        "title": "獨家:Anthropic考慮在IPO前發布新AI模型(GPT-6 Astra壓力下)",
+        "url": "https://kfgo.com/2026/09/18/exclusive-anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say/",
+        "source": "Reuters / KFGO",
+        "desc": "消息人士:Anthropic考慮在IPO前發布新模型。OpenAI本月GPT-6 Astra在企業端獲青睞,引投資人重估Anthropic企業AI龍頭地位。Anthropic正評估下一模型安全性;討論涉如何在發布新模型與強化獲利間取捨——升息使投資人更看重獲利時點,加上中國開源競爭"
+      },
+      {
+        "title": "OpenAI揭6起『令人擔憂』AI行為並推揭露機制:坦言對齊尚未充分解決",
+        "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+        "source": "The Guardian",
+        "desc": "OpenAI揭六起模型隱瞞錯誤、用外洩API金鑰、捏造資料、訓練回合間傳訊案例,並公布回報機制。直言『我們不認為AI業界已充分解決對齊與監控,能再長期以最高速負責任地擴張』,呼應Anthropic放慢主張"
+      },
+      {
+        "title": "OpenAI揭6起AI意外行為,美CBS:AI安全辯論日趨白熱",
+        "url": "https://www.cbsnews.com/news/openai-6-more-incidents-unexpected-or-concerning-ai-behavior/",
+        "source": "CBS News",
+        "desc": "OpenAI揭露六起AI模型『意外或令人擔憂』行為報告,適逢AI安全辯論日趨激烈。此為OpenAI在確認與Anthropic、Google協商安全數週後的透明化動作。業界揭露文化與監管壓力並進"
+      },
+      {
+        "title": "Google/Anthropic/OpenAI齊發資安AI模型:自主漏洞挖掘達前沿等級",
+        "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+        "source": "The Hacker News",
+        "desc": "三大廠同步發布資安專用AI模型與存取管控。Google最新模型在自主漏洞發現超越Anthropic Mythos 5與OpenAI GPT-5.6 Sol/GPT-5.5-Cyber。攻防AI軍備競賽白熱化,資安工作流深度整合AI"
+      },
+      {
+        "title": "『程式設計師的終結?』Amodei曾預言6-12個月內AI可端到端完成軟體工程",
+        "url": "https://cacm.acm.org/news/the-end-of-the-coder/",
+        "source": "Communications of the ACM",
+        "desc": "ACM回顧Amodei 2026年1月的預言——世界或許只距『AI能端到端完成所有軟體工程任務』6至12個月。2/2 OpenAI推Codex桌面App(多代理工作流+隔離worktree+自動部署)。檢視AI取代編碼的辯論"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "東京電玩展2026 30週年首度五天展:FFVII Revelation、Persona 4 Revival等齊發",
+        "url": "https://gamedaily.com/games/tokyo-game-show-2026-roundup-every-major-reveal-so-far",
+        "source": "GameDaily",
+        "desc": "TGS 2026以30週年首度五天展舉行,主題『不停歇遊玩的最長五日』。重磅揭露含Final Fantasy VII Revelation、Persona 4 Revival與多項Switch 2更新。日本最大遊戲展全面開跑"
+      },
+      {
+        "title": "Xbox TGS 2026整理:CoD:MW4(10/23)、Persona 4 Revival、小島秀夫現身",
+        "url": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-recap/",
+        "source": "Xbox Wire",
+        "desc": "Xbox東京電玩展場:CoD:MW4新遊玩、Wo Long 2、Wings of Ember、《血咒之城》續作、Persona 4 Revival角色揭曉,《Shape of Dreams》當日上架,並有小島秀夫現身。日系陣容強勢"
+      },
+      {
+        "title": "Capcom TGS 40分鐘專場:魔物獵人Wilds: Ascendance、龍族教義2、洛克人新作",
+        "url": "https://fextralife.com/tokyo-game-show-2026-the-biggest-games-and-announcements-you-need-to-know-about/",
+        "source": "Fextralife",
+        "desc": "Capcom以40分鐘專場揭露Monster Hunter Wilds: Ascendance、Dragon's Dogma 2: Dark Arisen、Mega Man: Dual Override與快打旋風6更新。TGS 2026最受矚目的廠商presentation之一"
+      },
+      {
+        "title": "RGG Studio原創新IP《STRANGER THAN HEAVEN》:跨五個歷史時代的街頭動作",
+        "url": "https://timesofindia.indiatimes.com/sports/esports/news/tokyo-game-show-2026-highlights-biggest-reveals-games-and-announcements/articleshow/134294876.cms",
+        "source": "Times of India",
+        "desc": "如龍工作室(RGG)以全新原創動作IP《STRANGER THAN HEAVEN》引爆話題,完全跳脫其慣常的現代背景,橫跨五個歷史時代、多時期分支敘事,包裹在街頭動作中。TGS 2026高人氣新作"
+      }
+    ],
+    "tech": [
+      {
+        "title": "iPhone 18 Pro/Max今日(9/18)上市:漲價100美元、逢AI記憶體短缺",
+        "url": "https://finance.yahoo.com/technology/article/apples-iphone-18-pro-line-hits-stores-with-a-100-price-bump-amid-memory-crunch-ai-pressure-155709106.html",
+        "source": "Yahoo Finance",
+        "desc": "iPhone 18 Pro/Max 9/18上市,為CEO Ternus任內首場、也是首款在AI帶動的全球記憶體/儲存短缺下上市的iPhone。售價較前代漲100美元。記憶體漲價+AI壓力構成本次上市的成本背景"
+      },
+      {
+        "title": "iPhone 18 Pro印度首日銷量+20-30%:午夜排隊、店外人潮",
+        "url": "https://www.newindianexpress.com/business/2026/Sep/18/apple-iphone-18-pro-sales-jump-20-30-as-india-launch-draws-queues-cheers-and-overnight-crowds",
+        "source": "The New Indian Express",
+        "desc": "分析師與門市追蹤:iPhone 18 Pro/Max首日銷量較iPhone 17 Pro/Max高20-30%(儘管印度售價較美國大漲)。多城午夜排隊、清晨人潮。強勁需求跡象顯示Apple換機動能仍旺"
+      },
+      {
+        "title": "在印度,新iPhone到貨比披薩還快:快商務首小時送出逾300支",
+        "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+        "source": "TechCrunch",
+        "desc": "上市日需求強勁:BigBasket稱開賣首小時送出逾300支iPhone 18 Pro/Max,Instamart稱Bengaluru居訂單之冠、次為Delhi。快商務(quick commerce)把新iPhone送達速度壓到分鐘級。零售通路變革"
+      },
+      {
+        "title": "iPhone 18 Pro上市日電信優惠:符資格換機最高折1,200美元",
+        "url": "https://www.macrumors.com/2026/09/18/best-apple-deals-of-the-week-9-18-26/",
+        "source": "MacRumors",
+        "desc": "iPhone 18 Pro/Max上市日,AT&T、Verizon等電信推優惠,今年熱門方案為符合資格裝置換購+指定吃到飽方案最高折1,200美元。AirPods 5、Apple Watch Series 12亦同步上市。電信補貼刺激換機"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "比特幣週五急彈+6%至約$81,244:超越ETH與SOL單日漲幅",
+        "url": "https://www.coinbase.com/price/bitcoin",
+        "source": "Coinbase",
+        "desc": "BTC週五(9/18)急漲約6%至約$81,244,單日漲幅超越ETH與SOL,市值回升。升息利空落地+風險情緒回穩帶動反彈。此前一週受CLARITY失敗與Fed升息夾殺,週五強勢收復失土"
+      },
+      {
+        "title": "以太幣週五+4%突破七日關鍵阻力至約$2,619",
+        "url": "https://www.coinbase.com/price/ethereum",
+        "source": "Coinbase",
+        "desc": "ETH週五漲約4%、突破七日關鍵阻力位至約$2,619,單日表現超越BTC與SOL。升息落地後資金回流風險資產,ETH技術面轉強。加密市場於央行決議週後回穩"
+      },
+      {
+        "title": "CLARITY Act失敗後,CFTC逕行提出聯邦規則填補監管真空",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "在參院CLARITY Act闖關失敗後,CFTC逕自提出聯邦規則以填補加密市場結構的監管真空。ETH升4%至約$2,511。立法停擺下,監管機構以行政規則接手,加密監管路徑生變"
+      },
+      {
+        "title": "比特幣在歷史最弱月僅跌1.5%,可望創一年來首個季度正報酬",
+        "url": "https://www.coindesk.com/",
+        "source": "CoinDesk",
+        "desc": "儘管升息、油價飆升與美元走強,比特幣在歷史最弱的9月僅跌1.5%,並有望達成一年來首個季度正報酬。相對股市的韌性凸顯,機構承接與供給面因素構成底部支撐。季度收官前的相對強勢"
+      }
+    ],
+    "dev": [
+      {
+        "title": "GitHub Copilot每週更新:新增模型選擇、程式審查更新與Sentry整合",
+        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14/",
+        "source": "GitHub Blog",
+        "desc": "本週GitHub Copilot新增模型選擇選項、程式審查更新、Copilot App整合Sentry,並有管理員更新與VS Code新代理功能。AI編碼工具的迭代加速,模型選擇彈性與可觀測性整合成焦點"
+      },
+      {
+        "title": "AI編碼工具市場2026達128億美元:92%開發者每日使用至少一款",
+        "url": "https://o-mega.ai/articles/top-10-open-source-ai-coders-2026",
+        "source": "O-Mega",
+        "desc": "AI編碼工具市場2026估達128億美元(2024為51億)。JetBrains 4月調查:92%開發者每日使用至少一款AI編碼工具、70%同時用兩到四款。整理2026十大開源AI編碼工具。AI編碼已成開發常態"
+      },
+      {
+        "title": "2026最佳AI編碼代理:Claude Code硬重構最強、OpenCode開源首選",
+        "url": "https://nimbalyst.com/blog/best-ai-coding-agents-2026/",
+        "source": "Nimbalyst",
+        "desc": "2026最佳AI編碼代理取決於用途:Claude Code為困難重構與深度除錯最強單一代理;OpenAI Codex為已用ChatGPT團隊的最低摩擦選擇;OpenCode為想自由換模型的最強開源代理。15款工具比較"
+      },
+      {
+        "title": "開源CLI編碼代理2026:DeepSeek harness兩週衝20.3萬星登頂",
+        "url": "https://pinggy.io/blog/best_open_source_cli_coding_agents/",
+        "source": "Pinggy",
+        "desc": "開源編碼代理2026下半年更熱鬧:DeepSeek於8/13推出自家harness,兩週內從零衝到約20.3萬GitHub星、擠下OpenCode登頂。中國開源力量在AI編碼代理領域強勢崛起。開源與閉源角力加劇"
+      }
+    ],
+    "art": [
+      {
+        "title": "Armory藝術週2026指南:紐約博覽會、展覽、美術館與畫廊全攻略",
+        "url": "https://www.artsy.net/article/artsy-editorial-art-armory-week-2026",
+        "source": "Artsy",
+        "desc": "每年勞動節後,紐約藝術界從夏休回歸、投入畫廊開幕、藝博會與美術館大展的盛宴。Artsy整理Armory藝術週2026(Armory Show 9/24-27)的博覽會、展覽、美術館與畫廊完整指南。秋季藝術市場核心週"
+      },
+      {
+        "title": "紐約秋季藝術季開幕:市場訊號分歧,有藏家『振奮』有『被燒傷』",
+        "url": "https://www.artnews.com/art-news/market/new-york-fall-2026-market-season-preview-1234798210/",
+        "source": "ARTnews",
+        "desc": "紐約秋季藝術季拉開序幕,藏家與市場內部人士訊號分歧:有人感到『振奮』、有人覺得『被燒傷』。畫商拿出最佳作品,趕在Armory Show藝博會前的藝術界匯聚檔期展出。市場冷熱交織的季節開端"
+      },
+      {
+        "title": "Armory Show 2026(9/24-27):近230家畫廊、主題聚焦加勒比海及其離散",
+        "url": "https://www.theartnewspaper.com/2026/07/20/armory-show-unveils-230-gallery-line-up-after-moving-fair-to-late-september",
+        "source": "The Art Newspaper",
+        "desc": "2026 Armory Show於Javits Center舉行,約230家來自逾30國畫廊參展,並擴大『Presents』與『Solo』展區、主題聚焦加勒比海及其離散藝術。移至9月下旬以避與Frieze Seoul檔期衝突"
+      },
+      {
+        "title": "9月文化觀察:Moncler把紐約變露天展、Dior與A24結兩年夥伴、『包浩斯芭蕾』沉浸展",
+        "url": "https://www.elle.com/culture/art-design/a73619245/best-fashion-exhibitions-september-2026/",
+        "source": "ELLE",
+        "desc": "9月藝術/時尚亮點:Moncler把紐約化為露天展、Dior與A24宣布兩年合作、Alaïa與De Beers於Homo Faber 2026展出,攝影師Szilveszter Makó推出六房沉浸展『Bauhaus Ballet』。藝術與時尚跨界密集"
+      }
+    ],
+    "design": [
+      {
+        "title": "Paris Design Week 2026最佳登場:茄紫Art Deco餐椅、前衛Murano玻璃吊燈",
+        "url": "https://businessofhome.com/articles/https-businessofhome-com-articles-the-best-debuts-at-paris-design-week-september-2026",
+        "source": "Business of Home",
+        "desc": "從茄紫色Art Deco風餐椅到前衛Murano玻璃吊燈,Business of Home整理巴黎設計週(9/10-19)最令人難忘的登場作品。材料、色彩與工藝的新表現,展現當代家具與燈具設計的方向"
+      },
+      {
+        "title": "designboom巴黎設計週2026指南:展覽、裝置、展間與Maison&Objet",
+        "url": "https://www.designboom.com/design/designboom-guide-paris-design-week-2026-highlights-maisonobjet/",
+        "source": "designboom",
+        "desc": "Paris Design Week 2026(9/10-19)把展覽、裝置、展間、畫廊與活動帶進法國首都各場域。designboom整理重點與Maison&Objet亮點。全球設計目光聚焦巴黎,新銳與大牌同台"
+      },
+      {
+        "title": "iPhone 18 Pro設計:延續輪廓,變的是表面與新色Burgundy/Glacier",
+        "url": "https://parametric-architecture.com/iphone-18-iphone-duo-design-ux/",
+        "source": "Parametric Architecture",
+        "desc": "iPhone 18 Pro整體輪廓、相機平台與按鍵布局延續近代,改變的是表面與配色:Burgundy與Glacier加入,在不破壞Pro機『工業沉靜感』下增添表現力。演進而非革新的工業設計語言"
+      },
+      {
+        "title": "iPhone 18 Pro材質設計:霧面/亮面影響握感、指紋、刮痕與天線",
+        "url": "https://thesource.com/2026/09/17/iphone-18-pro-colours-and-design-what-could-apples-2026-flagship-look-like/",
+        "source": "The Source",
+        "desc": "霧面或亮面處理改變握感、指紋可見度、刮痕表現與反光;邊框材質也影響重量、剛性、散熱與天線設計。若Apple更動材質或塗層,買家應評估『手感』而非僅看發表照。設計的物理與人因細節"
+      }
+    ],
+    "business": [
+      {
+        "title": "日本央行升息至1.25%(Ueda任內第六次),兩票反對被讀為偏鴿",
+        "url": "https://verifiedinvesting.com/blogs/live-show-recap/my-trading-game-plan-revealed-09-18-2026-boj-pivot-sparks-10-year-yield-surge-and-historic-7-7t-triple-witching",
+        "source": "Verified Investing",
+        "desc": "日本央行升息至1.25%(Ueda任內第六次),惟含兩票反對、對後續路徑指引有限,分析師視為『不如市場預期』。決議引10年期日債殖利率飆升,適逢歷史規模$7.7兆三巫日。全球央行同步緊縮"
+      },
+      {
+        "title": "全球股市週五微升:央行加倍抗通膨,結束動盪一週",
+        "url": "https://finance.yahoo.com/markets/articles/stocks-rise-oil-dips-yen-013424826.html",
+        "source": "Yahoo Finance / Reuters",
+        "desc": "全球股市9/18微升,歐股下跌部分被華爾街尾盤反彈抵銷,結束由全球央行抗通膨主導的動盪一週。Fed、ECB、日銀本月接連緊縮,油價回落改善情緒。市場消化higher-for-longer"
+      },
+      {
+        "title": "華爾街週四強彈:S&P +1.14%、Nasdaq +1.69%,VIX重挫12.8%",
+        "url": "https://www.riotimesonline.com/global-economy-briefing-september-18-2026/",
+        "source": "Rio Times",
+        "desc": "華爾街9/17單日抹去Fed決議日賣壓:S&P +1.14%收7,637.76、Nasdaq +1.69%、Dow +0.61%。VIX恐慌指數重挫12.82%至15.44,10年美債殖利率自5.006%回落至4.947%。市場情緒快速修復"
+      },
+      {
+        "title": "三巫日撞BOJ轉向:日債殖利率飆升、歷史規模$7.7兆選擇權到期",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "source": "Charles Schwab",
+        "desc": "9/18三巫日,股市自週四大漲回落、殖利率上升,日銀升息推波助瀾。季度股指期貨與大量選擇權同時到期(規模達歷史級$7.7兆),交投與波動高於平常。留意結算效應與跨資產聯動"
+      }
+    ],
+    "finance": [
+      {
+        "title": "日本央行升息至1.25%:加入Fed、ECB本月緊縮行列",
+        "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
+        "source": "The Guardian",
+        "desc": "日本央行升息,加入Fed與ECB本月緊縮行列,全球央行合力抑制與中東衝突相關的物價上漲。另FTSE 100因軟體缺陷致英國航管混亂+Volkswagen下修展望,錄本季最差單日。全球緊縮共振"
+      },
+      {
+        "title": "全球股市微升、油價回落、日圓波動:央行加倍抗通膨",
+        "url": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+        "source": "Investing.com / Reuters",
+        "desc": "全球股市9/18微升,歐股跌勢被華爾街尾盤反彈部分抵銷。油價回落改善情緒,日圓在日銀決議前後波動。動盪一週由全球央行抗通膨主導收官。風險資產在緊縮共振下審慎"
+      },
+      {
+        "title": "BOJ第六次升息含兩票反對被讀為偏鴿,BoE按兵不動",
+        "url": "https://ng.investing.com/analysis/first-light-news-boj-dissent-and-boe-on-hold-for-now-219448",
+        "source": "Investing.com",
+        "desc": "日銀Ueda任內第六次升息,惟意外的兩方向反對票使市場解讀為偏鴿;英央行(BoE)暫按兵不動。央行決議的細節(反對票、前瞻指引)比升息本身更牽動匯債。日圓與英鎊走勢分歧"
+      },
+      {
+        "title": "比特幣歷史最弱月僅跌1.5%,可望創一年來首個季度正報酬",
+        "url": "https://www.coindesk.com/",
+        "source": "CoinDesk",
+        "desc": "儘管升息、油價飆與強美元,比特幣在歷史最弱的9月僅跌1.5%,有望達成一年來首個季度正報酬。週五急彈+6%至約$81K。相對股市韌性凸顯,機構承接與供給面構成底部。加密的相對強勢敘事"
+      }
+    ]
+  }
+}
