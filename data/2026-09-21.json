@@ -29,5 +29,247 @@
       { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+3.5%", "recommendation": "偏多✅", "note": "科技+高息,9/18隨科技股大漲。月配息+科技題材雙引擎。偏多持有領息,留意AI利空短線情緒" }
     ],
     "summary": "台股9/18收全日高47,180.75(+1.93%)重返47,000、連三紅、週漲2.16%,量放大重回兆元(1.07兆)。大型科技領軍:聯發科+4.67%、TSMC +1.44%(2,460)、ASE +3.91%、台達電+2.97%、大立光+6.81%(宣布12億設廠)、創意等破千元股漲停。央行適度放寬選擇性信用管制→營建股漲停潮。分析師:資金快速輪動非離場,美日台利率不確定性消除、政策已price in故三地齊漲,上升趨勢未變。策略:①上升趨勢延續,半導體(00892/00891/00929)受聯發科/ASE/TSMC帶動轉偏多、站上均線,惟今日需消化週末AI利空(反托拉斯訴訟控四大廠合謀+Google Gemini駭客揭露)的短線情緒 ②TSMC 2nm訂單(iPhone 18 Pro上市)+基本面強,偏多續抱、季線2,320支撐 ③高息/金融/營建ETF(0056/00878/00940)受央行放寬信用管制利多、震盪期領息 ④債券(00403A)點陣圖鷹+10年美債高檔淨值續承壓,惟殖利率高檔=長線買點,逢高分批。⚠️台幣走升+央行按兵不動+放寬信用管制=資金面偏正面;惟週末AI利空+全球緊縮為變數,留意能否站穩47,000。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "反托拉斯訴訟(Buist v. Anthropic):控四大AI廠非法合謀『放慢AI』損及付費用戶",
+        "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+        "source": "AP News",
+        "desc": "四名付費AI服務訂戶9/18於加州北區聯邦地院控告Anthropic、OpenAI、Google、SpaceXAI非法協調『減速』,主張此舉降低消費者付費AI訂閱的價值、違反反托拉斯法。放慢AI從產業共識變成法律訴訟"
+      },
+      {
+        "title": "訴訟關鍵證據:Amodei稱協調步調需反托拉斯豁免、Altman稱OpenAI不等",
+        "url": "https://thenextweb.com/news/buist-v-anthropic-antitrust-waiver-evidence-public-agreement",
+        "source": "The Next Web",
+        "desc": "訴狀幾乎全建立於公開發言:Amodei寫道協調開發步調需要反托拉斯豁免,Altman則說OpenAI不會等豁免——兩句話如今都成為訴狀證據。訴狀並未主張安全疑慮是假,而是質疑協調手段的合法性"
+      },
+      {
+        "title": "訴訟稱合謀『自利』:協調早在7月AI實驗室簽署聲明後就啟動",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+        "source": "Tom's Hardware",
+        "desc": "據AP,訴訟主張此協議會『降低消費者付費AI訂閱的價值』,且協調早在2026年7月——領先AI實驗室簽署承認『有不單方放慢的強烈競爭壓力』聲明後——就已啟動。原告稱此協議『自利(self-serving)』"
+      },
+      {
+        "title": "『安全成為負債的一週』:訴訟、總統駁斥與立法封鎖瓦解安全框架",
+        "url": "https://www.yahoo.com/news/politics/articles/week-safety-became-liability-144025291.html",
+        "source": "Yahoo News",
+        "desc": "一場反托拉斯訴訟、總統(Trump)的駁斥、加上立法封鎖(CLARITY失敗)交會,瓦解了Anthropic、OpenAI、SpaceXAI、Google自Amodei 9/12發表《We Must Pace the Frontier》以來搭建的制度框架。放慢AI的努力四面受阻"
+      },
+      {
+        "title": "Meta發布Muse Spark 1.2與Muse Code:可觀測、可重播的編碼代理",
+        "url": "https://developer.meta.com/ai/resources/blog/build-with-muse-code/",
+        "source": "Meta",
+        "desc": "Meta發布Muse Spark 1.2與Muse Code早期beta——為長時程、多代理編碼工作流打造的編碼代理,主打透明可稽核:每個子代理、每次工具呼叫、每次steer與cancel都可透過事件日誌觀測與重播。大廠編碼代理競爭升溫"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "颱風杜鵑迫東京電玩展2026取消最終日(9/21):30年首個五天展縮為四天",
+        "url": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
+        "source": "PC Gamer",
+        "desc": "主辦CESA宣布因颱風25號(杜鵑)接近、午後起強風豪雨與交通中斷風險,取消9/21整日,門票退費。TGS 2026 30週年原為史上首個五天展(9/17-21),縮為四天。天災打斷里程碑展會"
+      },
+      {
+        "title": "TGS 2026改線上:9/21以線上節目(10:30-13:10)取代實體最終日",
+        "url": "https://tgs.cesa.or.jp/2026/en/news/detail/00068",
+        "source": "CESA / TGS",
+        "desc": "CESA公告9/21(週一假日)實體展取消後,改以線上節目(10:30-13:10)進行。9/20(週日)照常舉辦。主辦以線上直播彌補被颱風取消的最終日內容"
+      },
+      {
+        "title": "TGS 2026完整整理:GTA VI延伸影片、Persona 4 Revival、Wo Long 2等(展期縮為9/17-20)",
+        "url": "https://gamedaily.com/games/tokyo-game-show-2026-roundup-every-major-reveal-so-far",
+        "source": "GameDaily",
+        "desc": "TGS 2026展期因颱風縮為9/17-20。重點整理:GTA VI延伸影片、FFVII Revelation、Persona 4 Revival、Monster Hunter Wilds: Ascendance、Wo Long 2、CoD:MW4、洛克人新作等。日本大展亮點全收錄"
+      },
+      {
+        "title": "TGS 2026亮點:RGG原創新IP《Stranger Than Heaven》跨五個歷史時代",
+        "url": "https://timesofindia.indiatimes.com/sports/esports/news/tokyo-game-show-2026-highlights-biggest-reveals-games-and-announcements/articleshow/134294876.cms",
+        "source": "Times of India",
+        "desc": "如龍工作室(RGG)以全新原創動作IP《STRANGER THAN HEAVEN》引爆話題,跳脫慣常現代背景,橫跨五個歷史時代、多時期分支敘事、街頭動作。TGS 2026高人氣新作,展會雖縮短仍話題不斷"
+      }
+    ],
+    "tech": [
+      {
+        "title": "iPhone 18記憶體成本暴增:256GB機NAND +400%、整機零件成本+38%(TrendForce)",
+        "url": "https://startupfortune.com/john-ternuss-first-move-as-apple-ceo-was-raising-iphone-prices/",
+        "source": "Startup Fortune",
+        "desc": "據TrendForce,256GB iPhone Pro記憶體成本今年較去年暴增近400%:NAND快閃自約$13升至$51、RAM自$39升至$145,推升iPhone 18 Pro整體零件成本增38%。這是新CEO Ternus把Pro機漲$100($1,199起)的成本根源"
+      },
+      {
+        "title": "Apple 2027 Q1起記憶體晶片向三星加價最高40%:未來iPhone恐再漲",
+        "url": "https://www.techbook-magazine.com/mobile-lifestyle/smartphone/apple-pays-more-for-storage-will-iphones-get-even-more-expensive",
+        "source": "TechBook",
+        "desc": "自2027 Q1起,Apple須向三星支付更高記憶體晶片價格,加價幅度達40%。主因AI資料中心擴張導致全球記憶體短缺。成本上升恐影響未來iPhone售價。AI帶動的記憶體漲價潮衝擊硬體供應鏈"
+      },
+      {
+        "title": "iPhone 18 Pro/Max開賣:$1,199起、四色四容量(256GB-2TB)",
+        "url": "https://www.digitaltrends.com/phones/the-wait-is-over-the-iphone-18-pro-and-pro-max-are-now-on-sale/",
+        "source": "Digital Trends",
+        "desc": "iPhone 18 Pro 256GB $1,199起、Pro Max $1,299起,提供256GB/512GB/1TB/2TB與Burgundy/Glacier/Silver/Black四色。9/18上市。記憶體短缺下漲價,惟需求強勁。2nm A20 Pro世代智慧機開跑"
+      },
+      {
+        "title": "iPhone 18 Pro上市、AI安全辯論延燒:科技股雙焦點",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apples-iphone-18-pro-goes-on-sale-ai-safety-debate-continues-140134624.html",
+        "source": "Yahoo Finance",
+        "desc": "iPhone 18 Pro開賣同時,AI安全辯論(放慢呼籲、反托拉斯訴訟、Gemini駭客揭露)持續延燒,成科技股雙焦點。硬體換機動能與AI治理風險並列科技主軸,牽動蘋果供應鏈與AI股情緒"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "比特幣鞏固$80K上方(約$81,730)、以太幣近$2,642週漲6.77%",
+        "url": "https://blockchainreporter.net/ethereum-news-today/",
+        "source": "Blockchain Reporter",
+        "desc": "9/21 ETH約$2,642(週漲6.77%),BTC約$81,730。值得注意的是,上週Fed升息時ETH是四大幣中反應最小者,幾乎不動,而BTC/SOL/XRP波動較大。升息利空落地後加密於$80K上方鞏固"
+      },
+      {
+        "title": "美元升七週高、比特幣重回$80K:市場聚焦週五PCE與沙國供應",
+        "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-september-2125-2026",
+        "source": "TalkMarkets",
+        "desc": "Fed升息後美元升至七週高,比特幣在急促的紓解性反彈中重回$80,000。投資人現聚焦本週五PCE通膨數據與沙國原油供應更新以判讀全球市場方向。強美元與加密反彈並存的宏觀背景"
+      },
+      {
+        "title": "以太幣自$2,668回落、動能轉弱:仍較2025年10月高點低約47%",
+        "url": "https://news.bitcoin.com/market-updates/ethereum-price-retreats-from-2668-as-momentum-starts-to-fray/",
+        "source": "Bitcoin.com",
+        "desc": "ETH自9/16的$2,360.70低點衝上$2,668、回落約$2,600,收復1月以來高點。惟拉遠看,仍較2025年10月近$4,946峰值低約47%,ETH/BTC比約0.032,遠低於2021高點0.08。反彈但長線仍待修復"
+      },
+      {
+        "title": "比特幣續守$80K上方、市佔約60%:週成交量激增59%",
+        "url": "https://www.coinbase.com/price/bitcoin",
+        "source": "Coinbase",
+        "desc": "BTC續守$80K上方,占加密總市值約60%(週增約6%),週成交量激增約59%。升息落地後現貨需求回流、山寨幣輪動,比特幣主導地位穩固。Polymarket聚焦$80,000-$82,000為關鍵戰場"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Meta發布Muse Code編碼代理:為長時程多代理工作流+透明可稽核打造",
+        "url": "https://developer.meta.com/ai/resources/blog/build-with-muse-code/",
+        "source": "Meta",
+        "desc": "Meta發布Muse Spark 1.2編碼模型與Muse Code代理早期beta,專為長時程、多代理編碼工作流優化,每個子代理、工具呼叫、steer與cancel皆可透過事件日誌觀測與重播。可稽核性成為企業編碼代理的關鍵賣點"
+      },
+      {
+        "title": "Sourcegraph把Deep Search配Batch Changes:跨repo工作變成受治理的campaign",
+        "url": "https://samonai.substack.com/p/ai-brief-september-15-2026",
+        "source": "Samon AI Brief",
+        "desc": "Sourcegraph把Deep Search與Batch Changes結合,讓代理能規劃跨repo工作、並透過changeset引擎執行。企業的遷移、資安修補、依賴升級可變成含測試、linter、合併追蹤、按合併changeset計價的受治理campaign。代理式維護工程化"
+      },
+      {
+        "title": "GitHub Copilot每週更新:新增模型選擇、程式審查與Sentry整合",
+        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14/",
+        "source": "GitHub Blog",
+        "desc": "本週GitHub Copilot新增模型選擇選項、程式審查更新、Copilot App整合Sentry,並有管理員更新與VS Code新代理功能。AI編碼工具迭代加速,模型選擇彈性與可觀測性整合成焦點"
+      },
+      {
+        "title": "2026開源AI代理框架選型:LangGraph/CrewAI領production Python,Mastra/Flowise領TypeScript",
+        "url": "https://resources.rework.com/tools/ai-agents/best-open-source-ai-agent-frameworks-2026",
+        "source": "Rework",
+        "desc": "2026最佳開源AI代理框架取決於授權容忍度與runtime:LangGraph與CrewAI領production Python部署,Mastra與Flowise領TypeScript團隊,Dify涵蓋最廣、適合想要自架app而非程式庫者。開源代理生態成熟分化"
+      }
+    ],
+    "art": [
+      {
+        "title": "Armory藝術週2026(9/24-27)本週登場:約230家畫廊、策展專區",
+        "url": "https://www.artsy.net/article/artsy-editorial-art-armory-week-2026",
+        "source": "Artsy",
+        "desc": "Armory Show本週(9/24-27)於Javits Center回歸,約230家國際大小畫廊參展,搭配策展專區。Artsy整理紐約藝博會、展覽、美術館與畫廊完整指南。紐約秋季藝術市場核心週開跑"
+      },
+      {
+        "title": "紐約秋季藝術市場訊號分歧:有藏家『振奮』有『被燒傷』",
+        "url": "https://www.artnews.com/art-news/market/new-york-fall-2026-market-season-preview-1234798210/",
+        "source": "ARTnews",
+        "desc": "紐約秋季藝術季拉開序幕,藏家與市場內部人士訊號分歧:有人『振奮』、有人覺得『被燒傷』。畫商拿出最佳作品,趕在Armory Show前的藝術界匯聚檔期展出。市場冷熱交織的季節開端"
+      },
+      {
+        "title": "Armory Show 2026首推兩項美術館收藏獎:PAMM與Bronx Museum各選一件",
+        "url": "https://www.artnews.com/art-news/market/armory-show-acquisition-prizes-pamm-bronx-museum-1234795354/",
+        "source": "ARTnews",
+        "desc": "Armory Show於9/24-27首推兩項美術館收藏獎,Pérez Art Museum Miami與Bronx Museum各從博覽會選一件納入永久館藏(Bronx獎金1.5萬美元、取自55家新興畫廊的Presents展區)。藝博會與美術館連結深化"
+      },
+      {
+        "title": "Armory Show 2026:Yossi Milo攜13位藝術家探索『物件所承載的時間』",
+        "url": "https://www.martincid.com/news/the-armory-show-2026-yossi-milo-thirteen-artists-what-objects-hold-of-time/",
+        "source": "Martin Cid Magazine",
+        "desc": "畫廊Yossi Milo於Armory Show帶來13位藝術家探索『物件承載了什麼時間』的主題,含首度合作的柏林法籍畫家Flora Temnouche(1991年生),以貼近觀察與手機照片描繪居家內景。展位主題策展亮點"
+      }
+    ],
+    "design": [
+      {
+        "title": "London Design Festival 2026(9/12-20):Wallpaper*現場直擊(Tom Dixon Coal Office)",
+        "url": "https://www.wallpaper.com/design-interiors/live/london-design-festival-2026",
+        "source": "Wallpaper*",
+        "desc": "倫敦設計節2026(第24屆,9/12-20)全城展開。Wallpaper*團隊現場直擊,依慣例造訪Tom Dixon的Coal Office看新品發表。倫敦市長為主要贊助,主題聚焦全球交流、工藝復興與前瞻技術。年度設計盛事"
+      },
+      {
+        "title": "Jonathan Anderson奪2026倫敦設計獎章:融合高級時裝、藝術與工藝",
+        "url": "https://www.dezeen.com/2026/09/10/london-design-medal-2026-jonathan-anderson/",
+        "source": "Dezeen",
+        "desc": "JW Anderson創辦人Jonathan Anderson以『融合高級時裝、藝術與工藝』的成就,獲頒本屆倫敦設計獎章(London Design Medal)。設計節最高榮譽肯定跨界創作。時裝與設計界的交會標竿"
+      },
+      {
+        "title": "LDF 2026地標作品《The Pangolin Shield》:取法穿山甲鱗片的竹構造涼亭",
+        "url": "https://www.wallpaper.com/design-interiors/design-events/london-design-festival-2026-preview",
+        "source": "Wallpaper*",
+        "desc": "倫敦設計節首屆地標作品《The Pangolin Shield》由英印工作室Studio Saar與結構工程Atelier One打造,立於Strand。取法穿山甲重疊鱗片,以竹與印度東北農村傳統編織盾牌構成。工藝與AI並置的策展主題"
+      },
+      {
+        "title": "LDF 2026七大看點:高概念裝置、材料創新與創意社群",
+        "url": "https://www.designweek.co.uk/7-things-to-look-out-for-at-ldf-2026/",
+        "source": "Design Week",
+        "desc": "Design Week整理第24屆倫敦設計節(9/12-20)七大看點:全城高概念裝置、材料創新與創意社群。橫跨11個設計特區,含Global Design Forum、博覽會與夥伴計畫。設計『開學季』的全球風向指標"
+      }
+    ],
+    "business": [
+      {
+        "title": "本週市場焦點:美中領袖峰會、Fed政策路徑、PCE與耐久財",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262176651-china-us-summit-washington-costco-earnings-fed-rate-path-week-tradingkey",
+        "source": "TradingKey",
+        "desc": "9/21-25週美股焦點:華府美中領袖峰會、Fed政策展望,以及美國新屋銷售、耐久財訂單等數據,加上Costco財報。升息循環開啟後,美中關係與後續利率路徑成為市場核心變數"
+      },
+      {
+        "title": "貨幣市場定價:Fed年底前再升一碼、2027年6月前再兩碼",
+        "url": "https://www.morningstar.com/news/dow-jones/20260920634/week-ahead-for-fx-bonds-us-pmi-data-various-central-bank-decisions-in-focus",
+        "source": "Morningstar / Dow Jones",
+        "desc": "據LSEG,美國貨幣市場9/18定價Fed在2026年底前再升一碼、2027年6月前再升兩碼。本週焦點含美國PMI數據與多國央行決議。higher-for-longer路徑進一步強化,牽動FX與債市"
+      },
+      {
+        "title": "經濟週前瞻:Warsh引成長強、通膨進展不足、地緣風險升為升息理由",
+        "url": "https://yardeniquicktakes.com/economic-week-ahead-september-21-25/",
+        "source": "Yardeni Quick Takes",
+        "desc": "Fed主席Warsh以成長更強、通膨進展不足、地緣風險升高為升息理由。更新預估顯示通膨要到2029才完全回到目標,而成長與就業預估改善。本週(9/21-25)市場消化鷹派轉向與後續數據"
+      },
+      {
+        "title": "華爾街為更多升息做準備:10月再升機率逾50%",
+        "url": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
+        "source": "Yahoo Finance",
+        "desc": "投資人已定價10月再升一碼機率逾50%,Fed上週全票升息、點陣圖示意年內再升一次。華爾街為『不只一次』的升息循環做準備。升息可能是『更實質』緊縮開端的疑慮升溫,牽動風險資產"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美元升七週高、比特幣重回$80K:聚焦週五PCE與沙國供應",
+        "url": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-september-2125-2026",
+        "source": "TalkMarkets",
+        "desc": "Fed升息後美元升至七週高,比特幣在紓解性反彈中重回$80,000。投資人聚焦本週五PCE通膨數據與沙國原油供應。強美元、higher-for-longer與加密反彈交織,全球資金再定價。留意PCE牽動後續升息路徑"
+      },
+      {
+        "title": "Fed更新預估:PCE上修至3.7%、核心3.4%,2029才回2%目標",
+        "url": "https://www.moneycontrol.com/news/business/commodities/commodity-markets-to-face-another-test-with-us-china-summit-and-fed-signals-in-focus-14033638.html",
+        "source": "Moneycontrol",
+        "desc": "Fed把2026年頭條PCE預估自3.6%上修至3.7%、核心PCE自3.3%上修至3.4%,並把回到2%目標推遲至2029。Warsh記者會稱通膨『太高』、強化鷹派基調。本週美中峰會+Fed訊號考驗大宗商品市場"
+      },
+      {
+        "title": "本週前瞻:美國PMI、多國央行決議聚焦(Fed路徑主導FX與債市)",
+        "url": "https://www.morningstar.com/news/dow-jones/20260920635/week-ahead-for-fx-bonds-us-pmi-data-various-2",
+        "source": "Morningstar / Dow Jones",
+        "desc": "本週前瞻:美國PMI數據與多國央行決議為焦點。中國近期數據轉弱(8月零售僅+0.4% YoY、年初至今固定資產投資放緩至7.2%),強化額外支持的理由,惟工業生產仍是亮點。全球增長與政策分歧牽動資金"
+      },
+      {
+        "title": "以太幣升息反應最小:四大幣中最『淡定』面對Fed轉鷹",
+        "url": "https://blockchainreporter.net/ethereum-news-today/",
+        "source": "Blockchain Reporter",
+        "desc": "上週Fed升息時,ETH是BTC/ETH/SOL/XRP四大幣中反應最小者,幾乎不動,而其餘三者波動較大。ETH約$2,642、週漲6.77%。升息落地後加密於高檔鞏固,ETH相對抗波動的特性受關注"
+      }
+    ]
   }
 }
