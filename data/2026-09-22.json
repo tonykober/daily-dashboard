@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-22",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 47718.84,
+      "taiex_change_pct": "+1.14%",
+      "taiex_date": "2026-09-21",
+      "note": "台股9/21(週一)收47,718.84(+538.09,+1.14%)連四紅,距歷史高47,741.51僅23點,盤中47,207~47,750.98,量能8,202億,市值156.07兆。電子領軍(承美股上週五科技反彈+CSP持續砸錢AI基建):MediaTek暴漲+6.37%(5,010,ASIC/AI題材)、TSMC +0.81%(2,480,貢獻約160點)、AIchip +3.53%(3,665)、台達電+8.07%(1,875)、AUO漲停+10%(33.35,傳Intel先進封裝合作)。金融+0.82%(升息利差預期,富邦金+2.66%)。外資由賣轉買、主板買超203.8億。台幣走升至31.758。油價回落+美中貿易談判正面(Bessent稱成功,Trump-Xi本週會晤)提振氣氛。今日(9/22)挑戰改寫歷史新高,惟留意逼近前高的獲利了結與AI利空(反托拉斯訴訟/Gemini駭客)雜音。",
+      "us_sp500": 7650.50,
+      "us_sp500_note": "美股上週五(9/18)科技股走強帶動台股連四紅。CSP(雲端服務商)持續加碼AI基建,支撐半導體與AI供應鏈。惟Fed升息至3.75-4%+點陣圖示意年底前再升一碼、10月再升機率逾50%,higher-for-longer為中期壓力。本週美中領袖峰會+週五PCE通膨數據為關鍵變數",
+      "oil_brent": "回落",
+      "oil_note": "油價9/21回落改善市場情緒,惟需留意中東軍事衝突演變。能源成本壓力暫緩,利科技/成長股。台灣CPC汽柴油凍漲、電價凍漲穩物價",
+      "foreign_investors": "9/21外資主板由賣轉買、買超203.8億(前一日賣超),反映政策明朗+美中談判正面後資金回補。台幣走升至31.758顯示外資匯入。惟逼近歷史高+全球緊縮下,留意外資獲利了結節奏"
+    },
+    "watchlist": [
+      { "code": "2330", "name": "台積電", "price": 2480, "nav": null, "pb": 10.5, "pe": 22.6, "premium_discount": null, "vs_quarterly_ma": "+7.0%", "recommendation": "持有/偏多", "note": "9/21 +0.81%收2,480、貢獻約160點,ADR前一日+1.02%。CSP持續砸AI基建+2nm訂單(iPhone 18 Pro)+高雄Baipu半導體園區動工。PE約22.6x。季線約2,330。上升趨勢偏多續抱,惟逼近前高留意獲利了結,回落季線可加碼" },
+      { "code": "0050", "name": "元大台灣50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "+0.2%", "vs_quarterly_ma": "+4.5%", "recommendation": "持有/偏多", "note": "9/21隨TAIEX連四紅、距歷史高僅23點。微溢價。大型科技領軍。核心持有偏多,今日挑戰新高但逼近前高留意獲利了結節奏" },
+      { "code": "0056", "name": "元大高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.1%", "vs_quarterly_ma": "+2.5%", "recommendation": "持有", "note": "高息ETF。金融股走揚(+0.82%,升息利差預期)間接利多高息類。折價微幅、殖利率>5%。持有領息" },
+      { "code": "00878", "name": "國泰永續高股息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.2%", "vs_quarterly_ma": "+2.5%", "recommendation": "持有", "note": "ESG+高股息,含金融成分受惠9/21金融走揚(國泰金+2.26%)。折價微幅。持有領息" },
+      { "code": "00919", "name": "群益台灣精選高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.2%", "vs_quarterly_ma": "+3.0%", "recommendation": "持有", "note": "月配息現金流。大盤攻高時穩健跟漲。折價微幅。持有領息" },
+      { "code": "00940", "name": "元大台灣價值高息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+2.0%", "recommendation": "持有", "note": "價值+高息,含金融/傳產成分受惠金融走揚。折價偏大。站穩季線上。持有" },
+      { "code": "006208", "name": "富邦台50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "+0.2%", "vs_quarterly_ma": "+4.5%", "recommendation": "持有/偏多", "note": "與0050同質、費用率更低。9/21隨大盤攻高、逼近歷史高。核心配置偏多。逼近前高留意" },
+      { "code": "00892", "name": "富邦台灣半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+5.0%", "recommendation": "偏多✅", "note": "半導體ETF,9/21受MediaTek暴漲+6.37%、TSMC +0.81%、AIchip +3.53%帶動大漲。CSP AI基建題材熱。偏多操作,惟逼近前高、回落季線分批" },
+      { "code": "00891", "name": "中信關鍵半導體", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+4.5%", "recommendation": "偏多✅", "note": "半導體供應鏈,同00892大漲。CoWoS/HBM/ASIC需求續強(AUO傳Intel先進封裝合作漲停)。偏多操作,回檔季線加碼" },
+      { "code": "00982A", "name": "群益台灣強棒", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.5%", "vs_quarterly_ma": "+4.5%", "recommendation": "持有", "note": "主動型ETF,9/21隨大盤攻高淨值回升,折價-0.5%。主動管理受惠AI/半導體。折價買入者持有,回檔加碼" },
+      { "code": "00981A", "name": "統一台股增長", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.9%", "vs_quarterly_ma": "+5.5%", "recommendation": "持有", "note": "主動型ETF,YTD最強。淨值隨AI股攻高續揚。折價-0.9%提供安全邊際。主動管理alpha持續。持有,回檔加碼" },
+      { "code": "00403A", "name": "中信ESG投資級債", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.4%", "vs_quarterly_ma": "-1.0%", "recommendation": "觀望/逢高殖利率分批", "note": "債券ETF。Fed升息落地但點陣圖偏鷹(年底再升+10月機率逾50%)+10年美債高檔=淨值續承壓。惟殖利率高檔=長線甜蜜買點。本週PCE通膨數據為關鍵。觀望,趁殖利率高點分批、勿一次重壓" },
+      { "code": "009816", "name": "凱基台灣TOP50", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.1%", "vs_quarterly_ma": "+4.5%", "recommendation": "持有/偏多", "note": "類0050,9/21隨大盤攻高逼近歷史高。折價微幅。核心配置偏多" },
+      { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+4.5%", "recommendation": "偏多✅", "note": "科技+高息,9/21隨科技股大漲。月配息+AI科技題材雙引擎。偏多持有領息" }
+    ],
+    "summary": "台股9/21收47,718.84(+1.14%)連四紅,距歷史高47,741.51僅23點、量能8,202億。電子領軍(承美股科技反彈+CSP砸AI基建):MediaTek暴漲+6.37%(5,010,ASIC/AI題材)、TSMC +0.81%(2,480)、台達電+8.07%(1,875)、AUO漲停+10%(傳Intel先進封裝合作)。金融+0.82%(升息利差)。外資由賣轉買、買超203.8億,台幣走升31.758。油價回落+美中貿易談判正面提振。策略:①上升趨勢延續、挑戰改寫歷史新高,半導體(00892/00891/00929)受MediaTek/TSMC/AIchip帶動偏多,惟逼近前高留意獲利了結、回落季線分批 ②TSMC 2nm+CSP AI基建+高雄新園區動工,偏多續抱、季線2,330支撐 ③金融/高息ETF(0056/00878/00940)受升息利差+金融走揚利多、震盪期領息 ④債券(00403A)點陣圖鷹(年底再升+10月機率逾50%)淨值續承壓,惟殖利率高檔=長線買點,逢高分批。⚠️本週雙變數:美中領袖峰會(Trump-Xi)+週五PCE通膨數據;逼近歷史高留意獲利了結與AI利空(反托拉斯訴訟/Gemini駭客)雜音,能否改寫新高為觀察重點。"
+  }
+}
