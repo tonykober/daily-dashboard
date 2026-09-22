@@ -29,5 +29,247 @@
       { "code": "00929", "name": "復華台灣科技優息", "price": null, "nav": null, "pb": null, "pe": null, "premium_discount": "-0.3%", "vs_quarterly_ma": "+4.5%", "recommendation": "偏多✅", "note": "科技+高息,9/21隨科技股大漲。月配息+AI科技題材雙引擎。偏多持有領息" }
     ],
     "summary": "台股9/21收47,718.84(+1.14%)連四紅,距歷史高47,741.51僅23點、量能8,202億。電子領軍(承美股科技反彈+CSP砸AI基建):MediaTek暴漲+6.37%(5,010,ASIC/AI題材)、TSMC +0.81%(2,480)、台達電+8.07%(1,875)、AUO漲停+10%(傳Intel先進封裝合作)。金融+0.82%(升息利差)。外資由賣轉買、買超203.8億,台幣走升31.758。油價回落+美中貿易談判正面提振。策略:①上升趨勢延續、挑戰改寫歷史新高,半導體(00892/00891/00929)受MediaTek/TSMC/AIchip帶動偏多,惟逼近前高留意獲利了結、回落季線分批 ②TSMC 2nm+CSP AI基建+高雄新園區動工,偏多續抱、季線2,330支撐 ③金融/高息ETF(0056/00878/00940)受升息利差+金融走揚利多、震盪期領息 ④債券(00403A)點陣圖鷹(年底再升+10月機率逾50%)淨值續承壓,惟殖利率高檔=長線買點,逢高分批。⚠️本週雙變數:美中領袖峰會(Trump-Xi)+週五PCE通膨數據;逼近歷史高留意獲利了結與AI利空(反托拉斯訴訟/Gemini駭客)雜音,能否改寫新高為觀察重點。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "反托拉斯訴訟延燒:『Big Tech罕見同意一件事,如今卻因此被告』",
+        "url": "https://www.euronews.com/next/2026/09/21/for-once-big-tech-agreed-on-something-now-its-being-sued-for-it",
+        "source": "Euronews",
+        "desc": "四家領先AI公司(Anthropic/OpenAI/xAI/Google DeepMind)據新反托拉斯訴訟被控密謀『放慢』自家技術、坑了付費訂戶。Big Tech難得一致的『放慢AI』協調,如今成為被告理由。安全共識與競爭法的矛盾"
+      },
+      {
+        "title": "訴訟:四大AI巨頭遭訂戶控『放慢模型進展』損權益、違反反托拉斯",
+        "url": "https://www.gadgetreview.com/four-ai-giants-sued-by-subscribers-over-an-alleged-illegal-agreement-to-slow-model-progress",
+        "source": "Gadget Review",
+        "desc": "加州北區聯邦地院受理的訴訟點名Anthropic、OpenAI、SpaceXAI、Google四被告,指其非法協議放慢ChatGPT/Claude/Gemini/Grok的模型進展、以『AI安全』為名。付費訂戶主張此舉損及其權益"
+      },
+      {
+        "title": "並非人人樂見放慢:更多代理『失控』案例下的訴訟角力",
+        "url": "https://www.techspot.com/news/113917-anthropic-openai-google-spacexai-face-lawsuit-claiming-their.html",
+        "source": "TechSpot",
+        "desc": "在更多AI代理『失控(rogue)』案例爆發之際,並非所有人樂見頂尖AI公司同意放慢。新訴訟主張四大廠協議放慢違反反托拉斯、降低對訂戶的價值。安全派、加速派與消費者權益的三方角力"
+      },
+      {
+        "title": "AI巨頭與Xi、Trump共進晚宴:美國會放寬還是收緊晶片管制?",
+        "url": "https://www.financialexpress.com/world-news/us-news/ais-biggest-names-to-dine-with-xi-trump-will-us-ease-chip-curbs-or-tighten-the-screws/4343690/",
+        "source": "Financial Express",
+        "desc": "本週晚宴集結美國科技業最大咖與Xi、Trump同桌,適逢AI、電腦晶片與美中貿易成華府與北京核心議題。晶片出口管制是放寬還是收緊,牽動Nvidia等AI硬體巨頭與全球供應鏈"
+      },
+      {
+        "title": "Meta發布Muse Glimmer:300億參數開源權重、可在Mac或單張消費級GPU跑的本地代理模型",
+        "url": "https://developer.meta.com/ai/resources/blog/build-with-muse-glimmer/",
+        "source": "Meta",
+        "desc": "Meta發布Muse Glimmer——300億參數開源權重模型,為在Mac或單張消費級GPU上『常駐』的代理工作流優化。可處理連續工具呼叫、多模態推理,無需API金鑰、無每token成本。開源本地代理的門檻大降"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "《Dune: Awakening》9/22登主機(PS5/Xbox):沙丘開放世界生存正式上市",
+        "url": "https://news.instant-gaming.com/en/articles/22006-this-week-s-releases-from-september-21-to-27-2026",
+        "source": "Instant Gaming",
+        "desc": "開放世界生存遊戲《Dune: Awakening》9/22正式登PS5與Xbox Series X|S(豪華/終極版9/17已搶先)。可單人或多人遊玩,於沙丘宇宙探索、建造、製作、揭開多線故事。本週主機大作"
+      },
+      {
+        "title": "《Graveyard Keeper 2》9/22上市:化身大審判官、以墓園打造殭屍大軍",
+        "url": "https://www.gamesradar.com/new-pc-games/",
+        "source": "GamesRadar",
+        "desc": "Lazy Bear Games陰森詼諧世界的續作《Graveyard Keeper 2》9/22回歸,玩家化身大審判官(Grand Inquisitor),需以中世紀墓園打造殭屍大軍以對抗來犯的不死敵人。經營模擬續作亮相"
+      },
+      {
+        "title": "本週(9/21-27)遊戲上市:Dune: Awakening、Graveyard Keeper 2等",
+        "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-september-2026-week-39",
+        "source": "DLCompare",
+        "desc": "9月第39週遊戲上市整理:《Dune: Awakening》主機版、《Graveyard Keeper 2》等。9月遊戲檔期密集,從TGS/BlizzCon大展餘溫延續至各平台新作。玩家選擇豐富"
+      },
+      {
+        "title": "2026下半年遊戲展望:StarCraft開放世界、Diablo新作進入未來線",
+        "url": "https://www.gamesradar.com/video-game-release-dates/",
+        "source": "GamesRadar",
+        "desc": "9月Nintendo Direct公布新Kirby與2D Metroid新作,BlizzCon 2026確認開放世界StarCraft與Diablo系列新作進入未來線。2026下半年至2029+的遊戲陣容逐漸清晰。大作題材熱度延續"
+      }
+    ],
+    "tech": [
+      {
+        "title": "AI大咖與Xi、Trump晚宴:美中晶片管制是放寬還是收緊?",
+        "url": "https://www.financialexpress.com/world-news/us-news/ais-biggest-names-to-dine-with-xi-trump-will-us-ease-chip-curbs-or-tighten-the-screws/4343690/",
+        "source": "Financial Express",
+        "desc": "本週晚宴集結美國科技業最大咖與Xi、Trump同桌,適逢AI、晶片與美中貿易成核心議題。晶片出口管制放寬或收緊,牽動Nvidia等AI硬體巨頭與全球半導體供應鏈。地緣政治直接影響科技走向"
+      },
+      {
+        "title": "AI辯論在國會或撼動Nvidia影響力:Jensen Huang成Trump晶片政策關鍵",
+        "url": "https://www.politico.com/news/2026/09/21/nvidia-chips-jensen-huang-ai-trump-01085408",
+        "source": "Politico",
+        "desc": "參院商務委主席Cruz引Jensen Huang論點:若中國被迫自研晶片,威脅反而更大。Nvidia CEO Huang如今左右Trump對監管、出口費與中國貿易的談法。AI硬體從科技利基變成地緣政治籌碼"
+      },
+      {
+        "title": "Apple供應商SK海力士子公司Solidigm評估在美設NAND快閃廠(紐約州)",
+        "url": "https://www.macrumors.com/2026/09/18/apple-supplier-subsidiary-considering-us-factory/",
+        "source": "MacRumors",
+        "desc": "據路透,Apple供應商SK海力士旗下Solidigm正評估在美國設NAND快閃記憶體廠,紐約州上州為熱門地點,以降低對中國NAND廠的依賴。記憶體短缺+地緣風險驅動供應鏈在地化。牽動未來記憶體供給"
+      },
+      {
+        "title": "iPhone 18漲價£100波及舊機:記憶體漲價潮衝擊全線售價",
+        "url": "https://uk.finance.yahoo.com/news/ramageddon-tech-crunch-hikes-price-060037819.html",
+        "source": "Yahoo Finance UK",
+        "desc": "Apple首款折疊機發表搶盡風頭,但藏著一項壞消息:所有iPhone(含舊型號)售價齊漲£100。AI資料中心擴張導致的記憶體(『RAMageddon』)漲價潮,衝擊蘋果全線產品定價。消費者荷包受壓"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "比特幣飆破$86,500創33週高:單日漲逾6%、觸發約8億美元空頭清算",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "Cointelegraph",
+        "desc": "BTC於Bitstamp觸33週高、破$86,500,單日漲逾6%,前一週收$81,120(5月來最高週收)。反彈觸發24小時內近8億美元加密空頭清算。另ECB啟動Pontes。風險情緒回暖+空頭回補推升"
+      },
+      {
+        "title": "比特幣突破$85,000創8個月新高:清算8.46億美元空頭",
+        "url": "https://investingnews.com/cryptocurrency-market-recap/",
+        "source": "Investing News",
+        "desc": "BTC 9/21突破$86,000、創1月來(8個月)新高,決定性清除Glassnode標示的$83,000-$86,000加速區。清算8.46億美元空頭。ETH約$2,761(+5%)。升息利空落地+風險情緒回暖帶動全面反彈"
+      },
+      {
+        "title": "以太幣升至約$2,773創8個月高:ETH/BTC比回升、動能轉強",
+        "url": "https://www.investing.com/crypto",
+        "source": "Investing.com",
+        "desc": "ETH升至約$2,772(日+4.95%、週+10.38%),創8個月高,ETH/BTC比回升至約0.032。此前ETH是升息時四大幣中最淡定者,如今隨風險情緒回暖補漲。山寨幣輪動、市場動能轉強"
+      },
+      {
+        "title": "比特幣週一晚間急漲7%:領先ETH與SOL,創八個月新高",
+        "url": "https://www.coinbase.com/price/bitcoin",
+        "source": "Coinbase",
+        "desc": "BTC 9/21晚間急漲約7%,單日表現超越ETH與SOL,創八個月新高。改善的風險情緒(美股創高+美中談判正面)帶動加密全面走強。比特幣主導地位穩固,現貨與空頭回補雙推力"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Meta發布Muse Glimmer:30B開源權重、Mac/單GPU可跑的本地代理模型",
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "source": "Meta (Superintelligence Labs)",
+        "desc": "Meta發布Muse Glimmer——30B開源權重(Apache 2.0)代理模型,可在Mac或單GPU本地運行,調校用於工具使用、長任務與失敗恢復,並具持久狀態、自管記憶與多模態感知。本地代理開發門檻大降"
+      },
+      {
+        "title": "Meta Muse Code:協調多個持久子代理跨大型repo規劃、寫碼、驗證",
+        "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "source": "Meta",
+        "desc": "Muse Code承接大型repo的複雜軟體工程任務:規劃變更、寫碼、驗證結果,並可為每項任務協調多個持久子代理,更快、更準、更少人為介入地解難題。搭配Muse Spark模型。企業級編碼代理"
+      },
+      {
+        "title": "Meta Muse Spark 1.3(9/2發布):更長代理工作流、更少工具呼叫與token用量",
+        "url": "https://datanorth.ai/news/meta-launches-muse-spark-1-3",
+        "source": "DataNorth",
+        "desc": "Meta 9/2發布Muse Spark 1.3並透過Muse Code與Meta Model API推出,鎖定更長的代理式工作流與編碼任務,回報較Muse Spark 1.2更少工具呼叫、更低token用量。開發者API每百萬token輸入$1.25/輸出$4.25"
+      },
+      {
+        "title": "GitHub Copilot每週更新:新增模型選擇、程式審查與Sentry整合",
+        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14/",
+        "source": "GitHub Blog",
+        "desc": "本週GitHub Copilot新增模型選擇選項、程式審查更新、Copilot App整合Sentry,並有管理員更新與VS Code新代理功能。AI編碼工具迭代加速,模型選擇彈性與可觀測性整合成焦點"
+      }
+    ],
+    "art": [
+      {
+        "title": "Armory Show 2026(9/24-27)聚焦加勒比海藝術家與畫廊:新興與個展區擴大",
+        "url": "https://www.theartnewspaper.com/2026/09/21/the-armory-show-2026-preview-caribbean-artists-galleries",
+        "source": "The Art Newspaper",
+        "desc": "2026 Armory Show(9/24-27,Javits Center)約230家來自逾30國畫廊參展,主題聚焦加勒比海藝術家與畫廊,新興畫廊與個展(Solo)展區擴大坪數。移至9月下旬避與Frieze Seoul衝突。紐約秋季藝博會登場"
+      },
+      {
+        "title": "Armory週必看:紐約各大美術館與畫廊展覽精選",
+        "url": "https://observer.com/list/best-nyc-art-exhibitions-armory-week-2026/",
+        "source": "Observer",
+        "desc": "Armory Show推遲至9/24-27、避開與Frieze Seoul重疊(兩展同屬一集團)。Observer整理Armory週期間紐約各大美術館與畫廊值得撥空的展覽。藝術界匯聚紐約的年度高峰"
+      },
+      {
+        "title": "Armory藝術週2026完整指南:博覽會、展覽、美術館與畫廊",
+        "url": "https://www.artsy.net/article/artsy-editorial-art-armory-week-2026",
+        "source": "Artsy",
+        "desc": "每年勞動節後,紐約藝術界從夏休回歸、投入畫廊開幕、藝博會與美術館大展盛宴。Artsy整理Armory藝術週2026完整指南。紐約秋季藝術市場核心週,約230家畫廊參展"
+      },
+      {
+        "title": "紐約秋季藝術市場訊號分歧:有藏家『振奮』有『被燒傷』",
+        "url": "https://www.artnews.com/art-news/market/new-york-fall-2026-market-season-preview-1234798210/",
+        "source": "ARTnews",
+        "desc": "紐約秋季藝術季拉開序幕,藏家與市場內部人士訊號分歧:有人『振奮』、有人覺得『被燒傷』。畫商拿出最佳作品趕在Armory Show前展出。市場冷熱交織的季節開端"
+      }
+    ],
+    "design": [
+      {
+        "title": "London Design Festival 2026收官:英國設計『轉型中』的雄心與實驗",
+        "url": "https://interiordesign.net/designwire/london-design-festival-2026/",
+        "source": "Interior Design",
+        "desc": "倫敦設計節2026全城展開,材料實驗、精湛工藝與非常規思維指向新的生活與製造方式。結果是一幅『轉型中的英國設計』圖景:雄心、實驗,並日益回應當代生活的變動脈絡。設計新篇章"
+      },
+      {
+        "title": "LDF 2026 Wallpaper*直擊:Tom Dixon銅質燈飾、磁吸Cone燈與繽紛軟包",
+        "url": "https://www.wallpaper.com/design-interiors/live/london-design-festival-2026",
+        "source": "Wallpaper*",
+        "desc": "Wallpaper*團隊LDF直擊,造訪Tom Dixon新品:經典設計的銅質詮釋、以磁鐵組合的Cone系列燈具,以及大量繽紛色彩軟包。倫敦設計節的年度重點發表,工藝與色彩並陳"
+      },
+      {
+        "title": "Fritz Hansen×Technics『Sound Club』:把展間變包浩斯風聆聽空間",
+        "url": "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
+        "source": "Dezeen",
+        "desc": "丹麥設計品牌Fritz Hansen與音響專家Technics合作,把Farringdon展間化為一系列居家聆聽場景。LDF期間的品牌跨界:家具與音響結合的包浩斯風聆聽空間。設計與聲音體驗的融合"
+      },
+      {
+        "title": "Dezeen精選LDF 2026十四大必看展:Ham House接管、Wapping聲音裝置",
+        "url": "https://www.dezeen.com/2026/09/03/london-design-festival-2026-highlights/",
+        "source": "Dezeen",
+        "desc": "Dezeen整理倫敦設計節2026十四大必看展:含Richmond的Ham House and Garden接管、Wapping液壓發電站聲音裝置,以及102位新銳設計師的群展。橫跨全城設計特區的高概念裝置"
+      }
+    ],
+    "business": [
+      {
+        "title": "美股9/21創高:Nasdaq +2.26%創6月來首個歷史新高收(27,122)、S&P +1.49%",
+        "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "S&P 500 +1.49%收7,764.70、Nasdaq +2.26%創6月來首個歷史新高收27,122.09、Dow +0.71%收52,048.83。AI股大漲+油價與殖利率回落帶動。升息利空消化後風險情緒強勢回暖"
+      },
+      {
+        "title": "Trump-Xi會晤登S&P 500近六週最佳單日:AI巨頭同桌",
+        "url": "https://beincrypto.com/trump-xi-summit-best-day/",
+        "source": "BeInCrypto",
+        "desc": "S&P 500 +1.5%,為8/4來最佳單日;Nasdaq +2.3%創6月來首個歷史新高收。適逢Trump-Xi會晤、AI巨頭同桌。美中談判正面(Bessent稱成功、涉約$30億雙邊關稅減讓)提振全球風險資產"
+      },
+      {
+        "title": "本週看點:Trump與Xi偕AI大咖晚宴、Meta登場、週五PCE",
+        "url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed決議與財報季過後,9月最後整週財經行事曆較輕,但有Trump-Xi必看會晤(AI大咖同桌)、Meta大型發表會,以及週五PCE通膨數據。峰會結果與PCE為本週市場方向關鍵"
+      },
+      {
+        "title": "9/22財經行事曆:ADP就業數據與Fed官員談話為焦點",
+        "url": "https://www.investing.com/news/stock-market-news/adp-employment-data-and-fed-speakers-highlight-tuesdays-calendar-93CH-4909494",
+        "source": "Investing.com",
+        "desc": "9/22(週二)關鍵數據與Fed官員談話:ADP民間就業數據、多位Fed官員發言,可能牽動市場。升息循環開啟後,勞動市場數據與Fed後續路徑指引成為交易員關注焦點"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美股創高、殖利率回落:AI樂觀回歸帶動風險資產全面走強",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-bitcoin-warner-bros-meta-marvell-accenture-chip-stock-price-news-21st-september-2026/liveblog/134389611.cms",
+        "source": "The Economic Times",
+        "desc": "美股9/21收高:S&P +1.49%(7,764)、Nasdaq +2.26%(27,122創高)、Dow +0.72%(52,053)。AI樂觀回歸+殖利率回落。比特幣同步飆破$86K。升息利空落地後股、加密、風險資產全面走強"
+      },
+      {
+        "title": "比特幣飆破$86K創33週高、清算8億美元空頭:與美股創高共振",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "Cointelegraph",
+        "desc": "BTC破$86,500創33週高、單日漲逾6%、清算近8億美元空頭,與美股創高、殖利率回落共振。風險情緒全面回暖,加密與股市同步走強。ECB另啟動Pontes。宏觀順風下的資產齊揚"
+      },
+      {
+        "title": "本週市場關鍵:美中峰會、週五PCE、多位Fed官員談話",
+        "url": "https://www.investing.com/news/stock-market-news/adp-employment-data-and-fed-speakers-highlight-tuesdays-calendar-93CH-4909494",
+        "source": "Investing.com",
+        "desc": "本週市場關鍵:Trump-Xi美中峰會、週五PCE通膨數據、多位Fed官員談話(9/22有ADP就業)。升息循環開啟後,PCE數據與Fed後續路徑為方向指標,峰會結果牽動晶片與貿易前景"
+      },
+      {
+        "title": "美元自七週高回落、風險資產走強:市場聚焦PCE與美中談判",
+        "url": "https://www.zacks.com/stock/news/2992824/us-china-talks-seem-successful-etf-areas-in-focus",
+        "source": "Zacks",
+        "desc": "Bessent稱最新美中談判涉貿易與AI、雙方就約$30億對等關稅減讓協商。美股創高、美元自七週高回落、風險資產走強。市場聚焦週五PCE通膨與Trump-Xi峰會後續。全球資金再平衡"
+      }
+    ]
   }
 }
