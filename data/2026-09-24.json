@@ -1,0 +1,429 @@
+{
+  "date": "2026-09-24",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 48157.29,
+      "taiex_change_pct": "+0.75%",
+      "taiex_date": "2026-09-23 (最新收盤;9/24盤前更新)",
+      "note": "【9/24盤前briefing｜台股今日為交易日,9/25(週五)中秋節休市、形成長週末】最新收盤為9/23的48,157.29(+0.75%)連六紅創收盤新高。⚠️但隔夜美股急殺變盤:9/23美股全面重挫,10年美債殖利率飆升至2007年來新高(觸約5%)+油價回升觸發賣壓,S&P -0.75%收7,706.03、Nasdaq -1.13%收26,936.04(中斷四連紅、跌離歷史高)、Dow -0.68%收51,511.59。科技股領跌,對台股權值電子(TSMC/MediaTek/半導體)構成盤前壓力。今日台股恐開低、面臨獲利了結與長假前調節雙重賣壓,能否守住48,000整數關與季線為觀察重點。💡今日焦點:Trump-Xi華府峰會(9/24)登場,惟市場預期僅程序性進展、晶片出口管制大概率不在議程、稀土未解,不確定性升高。中秋長假前(留意連假海外變數)建議降低追價、留意殖利率飆升對高估值科技股的殺傷力。基本面仍有8月外銷訂單+70%、ADB上修台灣2026成長至11%支撐。",
+      "us_sp500": 7706.03,
+      "us_sp500_note": "⚠️美股9/23急殺變盤:10年美債殖利率飆升至2007年來新高(約5%)+油價回升觸發全面賣壓。S&P 500 -0.75%收7,706.03、Nasdaq -1.13%收26,936.04(中斷四連紅、自歷史高回落)、Dow -0.68%收51,511.59。前一日(9/22)Nasdaq才創27,244新高,一日反轉顯示higher-for-longer殖利率壓力壓過AI樂觀。Fed維持3.75-4%+10月再升機率逾50%。今日(9/24)Trump-Xi華府峰會+週五PCE通膨為關鍵,殖利率走向為近期最大變數",
+      "oil_brent": "回升(近$100)",
+      "oil_note": "Brent 9/23回升至近$100(自連跌反彈),推升殖利率、壓抑風險資產。中東外交斡旋持續(Trump稱美伊聯合國會晤),惟油價反彈重新點燃通膨疑慮、助長美債殖利率飆升。油價與殖利率齊升為今日台股科技股盤前最大逆風。台灣CPC汽柴油、電價凍漲穩物價",
+      "foreign_investors": "9/23外資主板大買超373.1億(較9/21放大)。⚠️惟隔夜美股急殺+殖利率飆升,今日(9/24)外資買盤恐轉保守甚至調節,尤其中秋長假前(9/25休市)不願留倉過長假、規避海外變數。留意今日外資是否由買轉賣、拖累權值電子。台幣走勢與外資動向為盤中觀察重點"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2500,
+        "nav": null,
+        "pb": 10.6,
+        "pe": 22.8,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+7.3%",
+        "recommendation": "持有(盤前偏保守)",
+        "note": "9/23收2,500(+1.63%)。隔夜殖利率飆2007年高(約5%)+費半修正,ADR回落、盤前恐承壓。CSP AI基建+2nm(iPhone 18 Pro)+高雄園區基本面不變,PE約22.8x、季線約2,335。長線偏多續抱,惟殖利率飆升殺高估值科技股+長假前調節,今日勿追高,回落季線分批較安全"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.2%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有(盤前偏保守)",
+        "note": "9/23收48,157創新高後,隔夜美股急殺(殖利率飆5%、Nasdaq -1.13%)。今日恐開低、追價風險升。微溢價。核心續抱但暫緩加碼,長假前(9/25休市)不宜追高,守48,000/季線觀察,回檔再分批"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.1%",
+        "vs_quarterly_ma": "+2.3%",
+        "recommendation": "持有(防禦相對抗震)",
+        "note": "高息ETF。殖利率飆升殺高估值成長股之際,高息防禦類相對抗跌、為震盪期較佳選擇。折價微幅、殖利率>5%。持有領息,長假前資金轉防禦時可留意"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.2%",
+        "vs_quarterly_ma": "+2.3%",
+        "recommendation": "持有(防禦相對抗震)",
+        "note": "ESG+高股息。市場轉向避險時防禦型高息相對抗跌,惟含金融成分留意金融走勢。折價微幅。持有領息"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.2%",
+        "vs_quarterly_ma": "+2.8%",
+        "recommendation": "持有",
+        "note": "月配息現金流。震盪避險期高息防禦類相對穩健。折價微幅。持有領息,長假前作穩定配置"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+1.8%",
+        "recommendation": "持有",
+        "note": "價值+高息,含金融/傳產。殖利率飆升時價值型相對抗跌。站穩季線上。折價偏大。持有"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.2%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有(盤前偏保守)",
+        "note": "與0050同質、費用率更低。9/23創收盤新高後隔夜美股急殺。今日恐開低,核心續抱暫緩加碼,長假前不追高"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+5.5%",
+        "recommendation": "持有(降評,盤前保守)",
+        "note": "半導體ETF。9/23領漲創高,惟隔夜費半修正+殖利率飆5%殺高估值科技股,盤前恐開低承壓。CSP AI基建/記憶體漲價中長線題材不變。短線由偏多轉保守,勿追高,回落季線分批"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有(降評,盤前保守)",
+        "note": "半導體供應鏈,同00892。隔夜費半修正+殖利率飆升壓抑。CoWoS/HBM/記憶體需求長線續強、8月外銷訂單+70%。短線轉保守,回檔季線再加碼"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.5%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有",
+        "note": "主動型ETF,折價-0.5%。隔夜科技股修正、淨值恐回落。主動管理受惠AI/半導體中長線。折價買入者持有,回檔加碼"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.9%",
+        "vs_quarterly_ma": "+6.0%",
+        "recommendation": "持有",
+        "note": "主動型ETF,YTD最強。隔夜美股急殺、淨值恐回檔。折價-0.9%提供安全邊際。主動alpha持續。持有,回檔加碼"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.4%",
+        "vs_quarterly_ma": "-1.0%",
+        "recommendation": "觀望/逢高殖利率分批✅",
+        "note": "債券ETF。10年美債殖利率9/23飆升觸2007年來新高(約5%),淨值短線續承壓,但殖利率5%=2007年來最佳長線進場點。Fed點陣圖鷹(10月再升機率逾50%)。觀望,趁殖利率飆高分批布局、勿一次重壓,週五PCE為關鍵"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.1%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有(盤前偏保守)",
+        "note": "類0050,9/23創收盤新高後隔夜美股急殺。折價微幅。核心續抱暫緩加碼,長假前留意開低"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有(降評,盤前保守)",
+        "note": "科技+高息,9/23隨科技股走強。隔夜費半修正+殖利率飆升壓抑科技成分。月配息+高息提供部分緩衝。短線轉保守持有領息,勿追高"
+      }
+    ],
+    "summary": "【9/24盤前briefing｜今日交易日,9/25中秋節休市成長週末】最新收盤為9/23的48,157.29(+0.75%)連六紅創收盤新高。⚠️隔夜美股急殺變盤:10年美債殖利率飆升至2007年來新高(約5%)+油價回升(Brent近)觸發全面賣壓,S&P -0.75%(7,706)、Nasdaq -1.13%(26,936,中斷四連紅、跌離歷史高)、Dow -0.68%(51,512)。higher-for-longer殖利率壓力一日壓過AI樂觀,對台股權值電子(TSMC/MediaTek/半導體)構成盤前壓力,今日恐開低。策略:①殖利率飆升殺高估值科技股,半導體(00892/00891/00929)短線由偏多轉保守、勿追高、回落季線分批;②TSMC基本面(2nm/CSP AI基建)不變、長線偏多續抱,季線2,335支撐;③資金轉避險時高息防禦(0056/00878/00940)相對抗跌、震盪期較佳選擇;④債券00403A殖利率飆至5%=2007年來最佳長線進場點,趁高分批布局(勿一次重壓)。💡今日焦點:Trump-Xi華府峰會(9/24)登場,惟市場預期僅程序性進展、晶片出口管制大概率不在議程、稀土未解,不確定性升高。⚠️中秋長假前(9/25休市、留意連假海外變數)建議降低追價、控管留倉部位。基本面仍有8月外銷訂單+70%、ADB上修台灣2026成長至11%支撐,回檔為中長線布局機會。週五PCE通膨為殖利率走向關鍵。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Anthropic與OpenAI同日推更便宜模型:呼籲放慢後首次發布",
+        "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+        "source": "CNBC",
+        "desc": "Anthropic 9/22發表Claude Opus 5.5(新Claude 5.5家族),主打更省token、運行成本較Opus 5降約40%。與OpenAI同日推更便宜前沿模型,這是兩家在公開呼籲『放慢AI』後的首次發布。省成本、搶價格敏感企業客戶成主軸"
+      },
+      {
+        "title": "OpenAI發表GPT-6 Sol與Luna:成本更低、錯誤更少",
+        "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "source": "TechCrunch",
+        "desc": "OpenAI 9/22推出GPT-6 Sol與GPT-6 Luna。官方稱在基於去識別化真實對話(用戶標記錯誤)的內部事實性評測中,GPT-6 Sol的錯誤率約為前代一半,以更低成本達到Astra級可靠度。GPT-6世代正式登場"
+      },
+      {
+        "title": "什麼AI放慢?OpenAI、Anthropic對打新模型、價格戰升溫",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-openai-anthropic-release-180000042.html",
+        "source": "Yahoo Finance",
+        "desc": "Anthropic與OpenAI同日推更平價的前沿模型版本,爭奪日益精打細算的企業荷包,並面對低成本開源權重模型的競爭壓力。所謂『放慢AI』的呼聲言猶在耳,現實卻是價格戰全面開打。安全論述與商業競爭矛盾浮現"
+      },
+      {
+        "title": "CEO喊放慢十天後,Anthropic又推新模型Opus 5.5",
+        "url": "https://gizmodo.com/ten-days-after-ceo-calls-for-a-slowdown-anthropic-is-back-with-another-ai-model-2000815586",
+        "source": "Gizmodo",
+        "desc": "在Anthropic CEO Amodei發表『我們必須為前沿設速限(We Must Pace the Frontier)』essay僅十天後,公司又推出Claude Opus 5.5。Anthropic稱Opus 5.5在對齊(alignment)測評表現佳,但認為終究需要『公共政策』介入,以防遞歸自我改進AI的風險。言行落差引發議論"
+      },
+      {
+        "title": "AI巨頭與Xi、Trump共進晚宴:美國會放寬還是收緊晶片管制?",
+        "url": "https://www.financialexpress.com/world-news/us-news/ais-biggest-names-to-dine-with-xi-trump-will-us-ease-chip-curbs-or-tighten-the-screws/4343690/",
+        "source": "Financial Express",
+        "desc": "本週晚宴集結美國科技業最大咖與Xi、Trump同桌,適逢AI、電腦晶片與美中貿易成華府與北京核心議題。晶片出口管制是放寬還是收緊,牽動Nvidia等AI硬體巨頭與全球供應鏈。地緣政治直接左右AI硬體走向"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "《Dune: Awakening》9/22登主機與Game Pass:結束搶先體驗正式上市",
+        "url": "https://www.purexbox.com/news/2026/09/10-xbox-games-are-out-today-including-one-of-2026s-highest-rated-game-pass-titles-september-22",
+        "source": "Pure Xbox",
+        "desc": "9/22共10款Xbox遊戲上市,包含2026評價最高的Game Pass作品之一:開放世界生存《Dune: Awakening》結束付費搶先體驗、正式登主機並加入Game Pass。另有科幻解謎《Rivage》與陰森詼諧續作《Graveyard Keeper 2》(非Game Pass)"
+      },
+      {
+        "title": "《Graveyard Keeper 2》9/22上市:化身大審判官、以墓園打造殭屍大軍",
+        "url": "https://www.gamesradar.com/new-pc-games/",
+        "source": "GamesRadar",
+        "desc": "Lazy Bear Games陰森詼諧世界續作《Graveyard Keeper 2》9/22回歸。玩家化身大審判官(Grand Inquisitor),需以中世紀墓園打造殭屍大軍以對抗來犯的不死敵人。經營模擬續作亮相,延續前作黑色幽默"
+      },
+      {
+        "title": "本週(9/21-27)遊戲密集上市:CONTROL Resonant、Silent Hill: Townfall等重磅48小時",
+        "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-september-2026-week-39",
+        "source": "DLCompare",
+        "desc": "9月第39週真正重磅在48小時內接連上市:《CONTROL Resonant》、《SILENT HILL: Townfall》、《Total War: WARHAMMER III – Lords of the End Times》。加上Dune: Awakening主機版,9月尾聲遊戲檔期爆量,玩家選擇豐富"
+      },
+      {
+        "title": "9/22上市速報:《Heroes of Might and Magic III Remake》搶先預覽登場",
+        "url": "https://www.worthplaying.com/article/2026/9/22/news/151044-tuesday-september-22-2026-shipping-announcements/",
+        "source": "WorthPlaying",
+        "desc": "WorthPlaying 9/22出貨公告:經典策略名作重製《Heroes of Might and Magic III Remake》(PS5/XSX/PC)登場預覽,喚起老玩家回憶。搭配本週多款主機/PC新作,九月末上市潮延續至假期季前"
+      }
+    ],
+    "tech": [
+      {
+        "title": "新Mac出擊:蘋果主打『AI無每token成本』,矛頭指向Nvidia與微軟",
+        "url": "https://finance.yahoo.com/technology/ai/articles/macs-apple-aims-microsoft-nvidia-130118449.html",
+        "source": "Yahoo Finance / Reuters",
+        "desc": "蘋果新一代桌機(升級版Mac Mini/Mac Studio,頂規近$20,000)9/22起出貨,主管向企業買家提出不尋常訴求:本地跑AI比租資料中心更便宜。以『沒有每token成本』的統一記憶體架構,正面挑戰Nvidia GPU與微軟即將發表的Windows AI桌機,衝擊AI基建的成本經濟學"
+      },
+      {
+        "title": "蘋果傳重返伺服器市場:自研M8 Ultra AI晶片,Nvidia仍可分一杯羹",
+        "url": "https://www.techradar.com/pro/apple-weighs-its-first-server-since-the-xserve-and-as-always-nvidia-may-hold-the-key",
+        "source": "TechRadar",
+        "desc": "據The Information,蘋果正評估推出自Xserve以來首款伺服器,考慮雙顆或四顆未來M8 Ultra晶片配置,鎖定企業自建AI推論(inference)、可能2029年推出。惟網通設備占AI資料中心硬體成本10-15%,Nvidia的交換器/連接晶片仍有可觀營收池"
+      },
+      {
+        "title": "Nvidia股價估值下滑亮警訊:市場質疑爆發式獲利成長能否延續",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-flashing-warning-sign-092802277.html",
+        "source": "Bloomberg / Yahoo Finance",
+        "desc": "Nvidia股價估值下滑正對其維持爆發式獲利成長的前景發出警示訊號(Bloomberg)。儘管9/22因蘋果新Mac消息小漲約0.7%至$229.08,顯示投資人未把蘋果視為即時威脅,但估值收斂仍反映市場對AI硬體超級週期可持續性的疑慮升溫"
+      },
+      {
+        "title": "蘋果新CEO上任即遭施壓:恐須放棄Tim Cook力保的中國晶片合作",
+        "url": "https://247wallst.com/investing/2026/09/22/apples-new-ceo-is-already-being-pressured-to-drop-the-chinese-chip-deal-tim-cook-fought-to-keep/",
+        "source": "24/7 Wall St.",
+        "desc": "蘋果新任CEO甫上任即面臨壓力,恐須放棄前執行長Tim Cook力保的中國晶片協議。若蘋果轉向,高通是最直接的美系矽晶受惠者,Nvidia成功的中國脫鉤路徑則提供成長範本。蘋果已簽$300億多年期Broadcom協議、宣示美國製造承諾"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "加密總市值突破$3.03兆、恐懼貪婪指數飆至78進入『極度貪婪』",
+        "url": "https://blockchainreporter.net/crypto-market-today/",
+        "source": "Blockchain Reporter",
+        "desc": "加密市場9/22續漲,總市值突破$3.03兆,Crypto Fear & Greed Index跳升至78、本輪反彈以來首度進入『極度貪婪(Extreme Greed)』區。美股創高+殖利率回落+風險情緒全面回暖帶動,惟極度貪婪也是短線過熱的警訊"
+      },
+      {
+        "title": "加密續漲至1月來高點:BTC逼近$87K、ETH突破$2,800測試阻力",
+        "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-september-22-2026",
+        "source": "KuCoin",
+        "desc": "BTC 9/22自約$80K一路衝過$84K、$85K,一度逼近約$87K;ETH突破$2.8K。BTC自守住$75K反彈後收復50週均線、並突破9月初高點。技術面轉強、動能延續,市場結構偏多"
+      },
+      {
+        "title": "以太幣9/22開盤$2,775.96(日+5%):加密續衝1月來高點",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html",
+        "source": "Yahoo Finance",
+        "desc": "ETH於9/22(週二)開盤$2,775.96,較週一開盤上漲5%,盤中稍回落至$2,734.44。BTC/ETH延續反彈、齊漲至1月來未見的高點。宏觀順風(美股創高+殖利率回落+美中談判正面)推升加密風險偏好"
+      },
+      {
+        "title": "比特幣約$86,000、美股小漲:前礦工轉型AI基建業者全線走高",
+        "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+        "source": "CoinDesk",
+        "desc": "9/22午盤加密與美股大致持平,BTC守在約$86,000。值得注意的是前比特幣礦工、如今轉型AI基建供應商的業者股價全線走高。另伊朗釋出可能重啟荷姆茲海峽通行訊號、油價回落,宏觀情緒偏正面支撐加密續穩"
+      }
+    ],
+    "dev": [
+      {
+        "title": "GitHub Copilot上架OpenAI GPT-6 Sol與GPT-6 Luna",
+        "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available/",
+        "source": "GitHub Blog",
+        "desc": "GitHub Copilot 9/22起提供OpenAI最新GPT-6 Sol與GPT-6 Luna:GPT-6 Sol開放Copilot Pro+/Max/Business/Enterprise方案,GPT-6 Luna開放Pro/Pro+/Max/Business/Enterprise。開發者可在編碼工作流直接選用GPT-6世代模型,搭配其更低成本/更少錯誤特性"
+      },
+      {
+        "title": "Google旗下Intrinsic於ROSCon 2026開源工業機器人核心平台Intrinsic Core",
+        "url": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/",
+        "source": "The Robot Report",
+        "desc": "Google今年納入的AI機器人團隊Intrinsic,於9/22多倫多ROSCon 2026發布Intrinsic Core,以Apache 2.0開源ROS相容的核心能力(即時控制、姿態估測、運動與抓取規劃、模擬、相機校正、預設ROS驅動),可在本地硬體運行。降低機器人應用開發門檻"
+      },
+      {
+        "title": "NVIDIA Isaac ROS 5.0發布:新增代理式開發工作流與ROS Lyrical支援",
+        "url": "https://www.unite.ai/nvidias-isaac-ros-5-0-adds-agentic-skills-and-ros-lyrical-support/",
+        "source": "Unite.AI",
+        "desc": "NVIDIA 9/22於多倫多ROSCon發布Isaac ROS 5.0,為建於ROS開放框架上的GPU加速套件集,新增代理式(agentic)開發工作流、支援ROS Lyrical平台與Ubuntu 24.04,並帶來新的感知能力。機器人開發加速擁抱AI代理範式"
+      },
+      {
+        "title": "GitHub宣布SSH安全升級:11/4起brownout封鎖SHA-1 ssh-rsa與DH KEX",
+        "url": "https://windowsforum.com/news/github-ssh-brownout-nov-4-blocks-sha-1-ssh-rsa-and-dh-kex.445497/",
+        "source": "WindowsForum / GitHub Changelog",
+        "desc": "GitHub於9/22 Changelog宣布SSH安全升級,11月與12月將安排brownout,11/4起封鎖SHA-1的ssh-rsa與Diffie-Hellman金鑰交換。多數使用近期OpenSSH/PuTTY/libssh2的開發者無需動作、既有RSA金鑰也不必更換,但仍建議提前檢查以免CI/CD中斷"
+      }
+    ],
+    "art": [
+      {
+        "title": "Armory Show 2026本週登場(9/24-27):約230家畫廊、聚焦加勒比海藝術",
+        "url": "https://www.artsy.net/article/artsy-editorial-art-armory-week-2026",
+        "source": "Artsy",
+        "desc": "紐約Armory Show 2026本週(9/24-27,Javits Center)回歸,約230家國際大小畫廊參展、搭配策展單元,主題聚焦加勒比海藝術家與其離散社群。Artsy整理Armory藝術週完整指南(藝博會、展覽、美術館、畫廊)。紐約秋季藝術市場核心週"
+      },
+      {
+        "title": "Armory Show新設兩項美術館收藏獎:Bronx Museum每屆撥$15,000購藏新銳作品",
+        "url": "https://www.artnews.com/art-news/market/armory-show-acquisition-prizes-pamm-bronx-museum-1234795354/",
+        "source": "ARTnews",
+        "desc": "2026 Armory Show新增Bronx Museum Acquisition Prize,每屆撥$15,000支持購藏永久收藏、鎖定新銳畫廊雲集的Presents單元(今年55家新興畫廊)。連同PAMM收藏獎,博覽會強化對年輕畫廊與新銳藝術家的機構性支持"
+      },
+      {
+        "title": "Armory Show回歸更年輕陣容與晚檔期:Solo擴至約25家、Presents增至55家",
+        "url": "https://ocula.com/magazine/art-news/armory-show-returns-2026/",
+        "source": "Ocula",
+        "desc": "Armory Show移至9/24-27較晚檔期以避開同集團的Frieze Seoul。今年單一藝術家個展(Solo)單元擴至約25家、散布全場;新興畫廊(Presents)增至約55家。總監McMillan強調博覽會反映紐約對美洲與世界藝術的開放性"
+      },
+      {
+        "title": "Armory週紐約展覽精選:各大美術館與畫廊值得撥空之作",
+        "url": "https://observer.com/list/best-nyc-art-exhibitions-armory-week-2026/",
+        "source": "Observer",
+        "desc": "Armory Show推遲至9/24-27、避開與Frieze Seoul重疊(兩展同屬Frieze集團)。Observer整理Armory週(9/21-27)期間紐約各大美術館與畫廊值得撥空的展覽。藝術界年度匯聚紐約的高峰週"
+      }
+    ],
+    "design": [
+      {
+        "title": "London Design Festival 2026收官:英國設計『轉型中』的雄心與實驗",
+        "url": "https://interiordesign.net/designwire/london-design-festival-2026/",
+        "source": "Interior Design",
+        "desc": "倫敦設計節2026(9/12-20)全城展開落幕,材料實驗、精湛工藝與非常規思維指向新的生活與製造方式。呈現一幅『轉型中的英國設計』圖景:雄心、實驗,並日益回應當代生活的變動脈絡。設計新篇章開啟"
+      },
+      {
+        "title": "USM×Symbol Audio:把倫敦門市變成黑膠唱片行",
+        "url": "https://hypebeast.com/2026/9/usm-symbol-audio-record-shop-london-design-festival",
+        "source": "Hypebeast",
+        "desc": "瑞士模組家具品牌USM於LDF期間把倫敦門市改造為黑膠唱片行,陳列其與Symbol Audio聯名系列作品。家具與音響/黑膠文化的跨界,把展示空間變成沉浸式生活場景。LDF品牌體驗式行銷的代表案例"
+      },
+      {
+        "title": "RCA『One Tool One Stool』:單一工具打造的板凳實驗展",
+        "url": "https://www.dezeen.com/2026/09/18/rca-design-students-exercise-restraint-in-one-tool-one-stool-exhibition/",
+        "source": "Dezeen",
+        "desc": "皇家藝術學院(RCA)學生於LDF展出以『單一工具』製作的板凳:鑿刻的隔音泡棉、手工彎折金屬、互鎖尺規等,以刻意的自我設限逼出創意。設計教育中『限制即創造力』的年度精采註腳"
+      },
+      {
+        "title": "Fritz Hansen×Technics『Sound Club』:把展間變包浩斯風聆聽空間",
+        "url": "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
+        "source": "Dezeen",
+        "desc": "丹麥設計品牌Fritz Hansen與音響專家Technics合作,把Farringdon展間化為一系列居家聆聽場景。LDF期間的品牌跨界:家具與音響結合的包浩斯風聆聽空間。設計與聲音體驗的融合"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nasdaq再創收盤新高、S&P平盤:SanDisk飆近7%領軍晶片股、油價連五跌",
+        "url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "美股9/22:Nasdaq +0.45%收27,244.28創歷史新高(SanDisk受Rosenblatt看多飆近7%領軍記憶體/晶片股)、S&P 500幾乎平盤收7,764.64、Dow -0.36%收51,863.69。油價連五跌拖累能源、科技續強。市場靜待美中峰會與PCE"
+      },
+      {
+        "title": "本週看點:Trump與Xi偕AI大咖晚宴、Meta發表會、週五PCE",
+        "url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+        "source": "Yahoo Finance",
+        "desc": "Fed決議與財報季過後,9月最後整週財經行事曆較輕,但有Trump-Xi必看會晤(AI大咖同桌)、Meta大型發表會,以及週五PCE通膨數據。峰會結果(貿易、AI、晶片管制、關鍵礦產)與PCE為本週市場方向關鍵"
+      },
+      {
+        "title": "美中緩和帶動避險情緒:分析師拆解Trump-Xi峰會的市場影響",
+        "url": "https://www.cnbc.com/2026/09/22/us-china-trump-xi-summit-trade-tariffs-ai-openai-nissan-pharma.html",
+        "source": "CNBC",
+        "desc": "S&P 500 9/21 +1.5%創8月初來最佳單日、Nasdaq +2.3%創6月來首個收盤新高,由晶片股買盤帶動,反映市場對美中再度緩和(détente)的樂觀。Trump-Xi峰會將觸及貿易、關稅、AI、伊朗與關鍵礦產,牽動全球風險資產定價"
+      },
+      {
+        "title": "蘋果新Mac主打『沒有每token成本』:直攻AI基建成本經濟學",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-takes-aim-nvidia-ai-193250242.html",
+        "source": "Yahoo Finance",
+        "desc": "蘋果將最新Mac定位為企業免付『每token雲端費用』即可跑強大AI模型的方案,矛頭直指AI基建榮景背後的成本經濟學(硬體主管語)。若企業本地推論趨勢成形,將對雲端AI租賃與GPU需求結構帶來中期變數。商業模式之爭升溫"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美債殖利率走低、Brent跌破$99:荷姆茲海峽風險溢價消退",
+        "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+        "source": "CNBC",
+        "desc": "10年美債殖利率回落約2bp至4.947%、2年期4.758%、30年期5.287%,Brent原油跌破$99。伊朗釋出可能重啟荷姆茲海峽通行訊號、原油流量改善,地緣風險溢價消退。殖利率與油價齊落紓解通膨與升息壓力,利風險資產"
+      },
+      {
+        "title": "油價衝擊威脅把高利率鎖到2027:Fed 9/16已升至3.75-4%",
+        "url": "https://www.investmentnews.com/alternatives/oil-shock-threatens-to-lock-in-higher-rates-through-2027/268282",
+        "source": "InvestmentNews",
+        "desc": "Fed自2025年12月起維持3.50-3.75%,並於9/16 FOMC升至3.75-4%。分析警告若油價衝擊延續,恐把高利率環境鎖到2027年。10月再升一碼機率約53%、10年美債一度觸5%,higher-for-longer成為股債中期最大壓力來源"
+      },
+      {
+        "title": "10年美債殖利率觸5%(2007年來首見):市場憂1970年代式停滯性通膨回歸?",
+        "url": "https://finance.yahoo.com/economy/policy/articles/10-treasury-yield-just-hit-170638768.html",
+        "source": "Yahoo Finance",
+        "desc": "10年美債殖利率一度觸5%、為2007年來首見,自疫情低點約0.5%走完六年攀升。5%殖利率重現引發是否走向1970年代式停滯性通膨(stagflation)的討論。高殖利率提高借貸成本、壓抑估值,惟也提供債券長線買點"
+      },
+      {
+        "title": "金銀走高、油價回落:Fed路徑與PCE通膨成焦點",
+        "url": "https://www.kitco.com/news/article/2026-09-22/silver-leads-metals-higher-dollar-strength-caps-gold-after-fed-rate",
+        "source": "Kitco",
+        "desc": "9/22現貨金約$4,356.80(+0.32%)、銀約$66.97(+1.63%),油價回落、美元偏強壓抑金漲幅。美股收盤分歧(Nasdaq創高、S&P平、Dow跌),市場聚焦Fed後續升息路徑與週五PCE通膨。荷姆茲風險溢價消退為近期主軸"
+      }
+    ]
+  }
+}
