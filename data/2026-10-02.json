@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-02",
+  "stock_briefing": {
+    "market_overview": {
+      "taiex_close": 47940.0,
+      "taiex_change_pct": "+0.65%",
+      "taiex_date": "2026-10-01 (最新收盤參考;10/2為交易日,詳見當日操盤日報)",
+      "note": "【10/1盤前briefing｜第四季首個交易日,台股08:30盤前、09:00開盤】台股9/30(Q3最後交易日)收47,940(+308,+0.65%),止跌反彈、中斷連二黑,盤中觸歷史新高48,380後因獲利回壓收斂。受費半指數(SOX)上漲激勵,電子科技+1.2%領漲:TSMC +1.0%(早盤曾貢獻逾250點)、MediaTek +1.2%、Delta台達電+4.4%、日月光等合計再貢獻約150點。惟午後1點過後賣壓加重、外資尾盤控盤壓低漲幅。📊季度回顧亮眼:Q3加權+3.9%(連三季上漲)、9月+3.93%(+1,811點)、前三季大漲+18,976點(+65.51%)創紀錄,AI投資樂觀為主軸。⚠️惟結構性逆風:隔夜美股9月收黑(Dow、S&P月線下跌),10年美債殖利率近5.23%(月漲為兩年最大)、仍處2007來高檔,higher-for-longer壓抑估值。今日Q4開局+台股近歷史高,留意能否再攻48,380前高、量能與外資動向。本週美PCE、非農為關鍵。建議勿追高,逢回布局優於追價。",
+      "us_sp500": 7700.0,
+      "us_sp500_note": "美股9/30(9月最後交易日)震盪、月線收黑:Dow與S&P 500 9月月線下跌,10年美債殖利率近5.23%(月漲為兩年最大、仍處2007來高)。殖利率結構性走高壓抑估值。惟費半指數(SOX)上漲、AI硬體(Nvidia史上最大庫藏股題材)支撐科技情緒,帶動亞股(Nikkei)與台股電子走強。本週Core PCE、非農就業、Micron/Nike財報為關鍵,將決定Fed 10月升息與殖利率走向",
+      "oil_brent": "回落",
+      "oil_note": "油價9/30回落,紓解近期因美伊僵局推升的通膨與殖利率壓力,利科技/成長股。惟中東情勢反覆,油價走勢仍是殖利率與通膨的關鍵變數。油價回落間接利多殖利率回穩、支撐風險情緒。台灣CPC汽柴油、電價凍漲穩物價",
+      "foreign_investors": "9/30台股反彈,惟盤面顯示外資尾盤控盤、壓低漲幅,反映外資在近歷史高檔的調節節奏(承9/29大賣632億後)。Q3季底投信/內資作帳買盤提供部分支撐。⚠️今日(10/1)Q4開局,留意外資是否延續調節或回補,及月初資金動向。台幣走勢與外資買賣超為盤中關鍵觀察"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2500,
+        "nav": null,
+        "pb": 10.6,
+        "pe": 22.8,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+7.3%",
+        "recommendation": "持有/偏多(權值領漲)",
+        "note": "9/30 +1.0%,早盤曾貢獻大盤逾250點、領漲電子,惟尾盤外資控盤收斂。受費半SOX上漲+Nvidia史上最大庫藏股+2nm(iPhone 18 Pro)+高雄園區題材。PE約22.8x、季線約2,350。長線偏多續抱,權值領軍,惟殖利率高檔+近前高留意獲利回壓,回落季線分批"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.2%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有/偏多(近前高留意)",
+        "note": "9/30隨TAIEX反彈收47,940、盤中觸歷史新高48,380後收斂。微溢價。Q3季底作帳+電子領漲支撐。核心持有偏多,Q4開局近前高、殖利率逆風,勿追高,留意能否再攻48,380、量能與外資動向"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.1%",
+        "vs_quarterly_ma": "+2.3%",
+        "recommendation": "持有✅(防禦配置)",
+        "note": "高息ETF。殖利率高檔(10年5.23%)期,高息防禦類相對抗震。折價微幅、殖利率>5%。持有領息,近前高震盪期作穩定配置,金融成分受升息利差間接利多"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.2%",
+        "vs_quarterly_ma": "+2.3%",
+        "recommendation": "持有✅",
+        "note": "ESG+高股息,含金融成分。殖利率高檔期防禦型相對抗跌,金融受升息利差題材。折價微幅。持有領息,Q4震盪期穩健配置"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.2%",
+        "vs_quarterly_ma": "+2.8%",
+        "recommendation": "持有",
+        "note": "月配息現金流。近前高震盪期高息防禦類相對穩健。折價微幅。持有領息,作為Q4開局的穩定現金流配置"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+1.8%",
+        "recommendation": "持有✅",
+        "note": "價值+高息,含金融/傳產成分。油價回落利傳產成本、價值型相對抗震。站穩季線上。折價偏大。持有,留意傳產與金融表現"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.2%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有/偏多(近前高留意)",
+        "note": "與0050同質、費用率更低。9/30隨大盤反彈、盤中觸歷史新高後收斂。核心配置偏多,Q4開局近前高、殖利率逆風,勿追高,留意再攻前高力道"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+5.5%",
+        "recommendation": "偏多✅(費半領漲)",
+        "note": "半導體ETF。9/30受費半SOX上漲激勵、電子科技+1.2%領漲(TSMC/MediaTek/Delta)。Nvidia史上最大庫藏股+AI硬體題材熱。偏多操作,惟殖利率高檔+近前高留意獲利回壓,回落季線分批、勿追高"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "偏多✅(費半領漲)",
+        "note": "半導體供應鏈,9/30同步受費半上漲激勵反彈。CoWoS/HBM/記憶體需求續強+Nvidia庫藏股利多。惟留意華為昇騰崛起長線競爭。偏多操作,回檔季線加碼,殖利率高檔勿追高"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.5%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有",
+        "note": "主動型ETF,折價-0.5%。9/30淨值隨電子反彈回升。主動管理受惠AI/半導體輪動。折價買入者持有,Q4開局近前高、回檔加碼,勿追高"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.9%",
+        "vs_quarterly_ma": "+6.0%",
+        "recommendation": "持有",
+        "note": "主動型ETF,YTD最強(呼應前三季+65.51%紀錄)。9/30淨值隨科技反彈。折價-0.9%提供安全邊際。主動alpha持續。持有,回檔加碼,留意殖利率對成長股評價壓抑"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.4%",
+        "vs_quarterly_ma": "-1.0%",
+        "recommendation": "觀望/逢高殖利率分批✅",
+        "note": "債券ETF。10年美債殖利率9/30近5.23%(月漲為兩年最大、2007來高檔),淨值短線續承壓,但殖利率5%+=逾20年最佳長線進場點。本週PCE為關鍵。觀望,趁殖利率飆高分批布局、勿一次重壓,留意殖利率能否自高檔回穩"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.1%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "持有/偏多(近前高留意)",
+        "note": "類0050,9/30隨大盤反彈、盤中觸歷史新高後收斂。折價微幅。核心配置偏多,Q4開局近前高留意獲利回壓,勿追高,留意量能"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+5.0%",
+        "recommendation": "偏多✅(科技反彈)",
+        "note": "科技+高息,9/30受費半上漲+電子領漲激勵科技成分反彈。月配息+高息兼具攻守。偏多持有領息,惟殖利率高檔+近前高留意評價壓抑,勿追高"
+      }
+    ],
+    "summary": "【10/1盤前briefing｜Q4首個交易日】台股9/30(Q3最後交易日)收47,940(+0.65%)止跌反彈、中斷連二黑,盤中觸歷史新高48,380後因獲利回壓收斂。受費半指數(SOX)上漲激勵,電子科技+1.2%領漲:TSMC +1.0%(早盤貢獻逾250點)、MediaTek +1.2%、Delta +4.4%;惟午後賣壓加重、外資尾盤控盤壓低漲幅。📊季度回顧亮眼:Q3加權+3.9%(連三季上漲)、9月+3.93%、前三季大漲+18,976點(+65.51%)創紀錄,AI投資樂觀為主軸。策略:①Q4開局近歷史高,半導體(00892/00891/00929)受費半領漲偏多,惟殖利率高檔(10年5.23%)+近前高留意獲利回壓、回落季線分批、勿追高 ②TSMC權值領軍、長線偏多續抱,Nvidia庫藏股+2nm題材,季線2,350 ③殖利率高檔期加重高息/防禦(0056/00878/00940)領息緩衝、相對抗震 ④債券00403A殖利率5%+=逾20年最佳長線進場點,趁高分批(勿重壓)。⚠️本週關鍵:美Core PCE、非農就業、Micron/Nike財報;今日留意台股能否再攻48,380前高、量能與外資是否延續調節。油價回落利殖利率回穩,惟美股9月月線收黑、殖利率結構性逆風未歇,勿追高,逢回布局優於追價。"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Google發表Gemini 4 Argon:睽違七個月的旗艦前沿模型,定價僅Opus 5.5一半",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "source": "TechCrunch",
+        "desc": "Alphabet旗下Google 9/30發表Gemini 4 Argon,號稱其史上最強模型、睽違逾七個月的首款前沿模型,主打程式開發、研究與寫作。定價每百萬輸入token $2、輸出$10,為Anthropic Claude Opus 5.5的一半。Google奮力追趕OpenAI與Anthropic,以性價比重返前沿競爭"
+      },
+      {
+        "title": "Google因安全疑慮限制Gemini 4 Argon:僅開放經審核的資安專家使用",
+        "url": "https://techxplore.com/news/2026-10-google-restricts-access-ai-safety.html",
+        "source": "TechXplore",
+        "desc": "Google 9/30表示將暫不對公眾釋出其最強AI模型Gemini 4 Argon,僅開放給一組經審核的資安專家,以避免被駭客濫用於危險的網路安全應用。繼OpenAI擱置GPT-6.1 Astra後,前沿實驗室對高能力模型採取『限制發布』漸成常態,反映AI安全疑慮全面升高"
+      },
+      {
+        "title": "Gemini 4 Argon規格:單次可輸出100萬token、DeepSWE編碼benchmark達77.9%",
+        "url": "https://vallettasoftware.com/blog/post/gemini-4-argon",
+        "source": "Valletta Software",
+        "desc": "Google Gemini 4 Argon(9/30發表)規格亮眼:單次回應可輸出高達100萬token、在DeepSWE v1.1長時程編碼基準拿下77.9%,並在19項測試中13項居首,定價$2/$10每百萬token。超長輸出與編碼能力為賣點,鎖定真實世界軟體工程、法律金融知識工作與資安防禦"
+      },
+      {
+        "title": "六大AI巨頭簽署安全協議:Trump稱『道德上具約束力』",
+        "url": "https://intelligenceunlocked.beehiiv.com/p/ai-news-recap-september-30-openai-launches-dots-ai-chiefs-sign-safety-pact",
+        "source": "Intelligence Unlocked",
+        "desc": "OpenAI、Google、Meta、Anthropic、Nvidia與SpaceX/xAI領袖於9/29簽署協議,承諾對前沿AI風險建立內部控管、內部審查、外部稽核與董事會層級監督,Trump稱其『道德上具約束力』。搭配Google/OpenAI相繼限制高能力模型發布,AI安全自律框架加速成形"
+      },
+      {
+        "title": "OpenAI DevDay『Dots』常駐助理對打Muse:ChatGPT週活達12億、推$500/月方案",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+        "source": "The Verge",
+        "desc": "OpenAI DevDay 2026發表『Dots』常駐AI代理對打Meta Muse(初期僅付費方案可用),揭露GPT-6.1 Sol模型、ChatGPT週活躍用戶達12億,並推每月$500的新ChatGPT Pro方案。繼Google Gemini 4 Argon後,前沿三強(OpenAI/Google/Anthropic)在模型與代理產品上全面對決"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "10月遊戲大月全覽:Gears of War: E-Day、決勝時刻MW4、Phantom Blade Zero領銜",
+        "url": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/",
+        "source": "Video Games Chronicle",
+        "desc": "10月為全年最忙碌的遊戲月份之一,重磅新作包括微軟Xbox獨佔《Gears of War: E-Day》、《決勝時刻:現代戰爭4(Call of Duty: Modern Warfare 4)》、《Phantom Blade Zero》,以及《The Wolf Among Us Remastered》等多款重製與新作。為避開11月《GTA6》,10月檔期爆滿,PC與主機玩家選擇豐富"
+      },
+      {
+        "title": "《Star Wars: Galactic Racer》10/6登場:外環祕密賽道、星戰載具競速",
+        "url": "https://www.sortiraparis.com/en/what-to-do-in-paris/gaming/guides/261729-october-2026-video-game-releases-the-new-titles-to-watch-for-on-pc-and-consoles",
+        "source": "Sortir à Paris",
+        "desc": "由Fuse Games開發、Secret Mode與Lucasfilm Games發行的《Star Wars: Galactic Racer》10/6登PC/PS5/Xbox Series。競速遊戲背景設於外環(Outer Rim)的祕密賽道,提供單人戰役、多人對戰與多種星戰載具classes。星戰IP跨足競速類型,為10月檔期添話題"
+      },
+      {
+        "title": "10月遊戲上市日曆:16款已定檔、Phantom Blade 0與Gears of War最受矚",
+        "url": "https://gamescomingout.com/games-coming-out-october-2026",
+        "source": "Games Coming Out",
+        "desc": "10月已有16款遊戲確定上市日、另2款定於本季,最大作為《Phantom Blade 0》、《Gears of War: E-Day》、《Star Wars: Galactic Racer》與《Castlevania: Belmont's Curse》。10月成年末旺季前的密集檔期,橫跨動作、競速、恐怖與經典IP重啟,玩家迎接豐富選擇"
+      },
+      {
+        "title": "PlayStation Plus十月免費遊戲:F1 25、Hunt: Showdown 1896、地球防衛軍World Brothers 2",
+        "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/",
+        "source": "PlayStation Blog",
+        "desc": "PlayStation Plus十月月度免費遊戲:賽車《F1 25》、怪物獵殺多人《Hunt: Showdown 1896》,以及體素風格《地球防衛軍:World Brothers 2》。三款涵蓋競速、射擊與合作的多元陣容,為PS Plus訂閱者十月免費好康。訂閱服務持續以月度遊戲鞏固會員價值"
+      }
+    ],
+    "tech": [
+      {
+        "title": "AI晶片設備股的$2,290億大商機:Nvidia出貨GPU前,ASML/AMAT/LRCX先賺",
+        "url": "https://www.thestreet.com/investing/ai-chip-equipment-stocks-asml-amat-lrcx-klac",
+        "source": "TheStreet",
+        "desc": "多數投資人只知Nvidia設計AI晶片,但不製造。真正在Nvidia出貨GPU前先賺的是晶片設備商:ASML、應用材料(AMAT)、科林研發(LRCX)、科磊(KLAC)等,面對約$2,290億的設備商機。AI建置潮擴散至上游設備供應鏈,晶片設備股成AI超級週期的隱形贏家"
+      },
+      {
+        "title": "AI兆元晶片熱潮擴大:Nvidia非唯一贏家,多家晶片商市值破兆",
+        "url": "https://www.benzinga.com/markets/tech/26/10/62115509/ais-trillion-dollar-chip-boom-is-getting-bigger-and-nvidia-isnt-the-only-winner",
+        "source": "Benzinga",
+        "desc": "2026年多家晶片商市值跨越或短暫突破1兆美元門檻,AI領導者則深入數兆美元領域。AI晶片兆元熱潮擴大,Nvidia不再是唯一贏家——AMD破兆、晶片設備與供應鏈同步受惠。AI超級週期帶動半導體板塊全面重估,惟集中度與估值風險並存,個股分化加劇"
+      },
+      {
+        "title": "傳中國國家基金資助採購受限制的Nvidia AI晶片:Nvidia展開調查",
+        "url": "https://uk.investing.com/news/stock-market-news/chinese-state-funds-backed-purchases-of-restricted-nvidia-ai-chips-report-says-4892586",
+        "source": "Investing.com",
+        "desc": "據報導,中國國家基金資助了對受美國出口管制的Nvidia AI晶片的採購。Nvidia告訴Bloomberg正與其設備製造夥伴調查此事,華碩(Asus)則重申遵守國際出口管制規範。晶片走私/繞道的灰色地帶再引關注,牽動美中晶片管制的執行成效與地緣政治角力"
+      },
+      {
+        "title": "Apple、Alphabet、Nvidia領軍科技反彈:利率疑慮消退、資金回流成長股",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-nvidia-lead-powerful-175803008.html",
+        "source": "Yahoo Finance",
+        "desc": "隨通膨數據降溫、利率疑慮消退,Apple、Alphabet、Nvidia領軍科技股強勁反彈,軟體與大型科技股表現優於半導體。資金回流成長導向類股。Core PCE降溫把Fed升息預期壓低,科技巨頭的現金流與AI題材重獲買盤青睞,帶動大盤自殖利率飆升的陰霾中回穩"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "花旗大幅上修加密目標:12個月BTC看$113K、ETH看$3,028",
+        "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+        "source": "Decrypt",
+        "desc": "214年歷史的華爾街銀行花旗(Citi)大幅上修加密12個月目標:比特幣自$82,000上修至$113,000、以太幣自$2,240上修至$3,028,較三個月前砍目標時反轉逾35%。花旗引述加密投資產品需求回溫、市場情緒改善與美國數位資產監管進展。機構轉趨樂觀,BTC當日約$84,768(+1.55%)"
+      },
+      {
+        "title": "花旗反轉夏季最大看空:上修比特幣與以太幣目標逾35%",
+        "url": "https://www.thestreet.com/crypto/markets/citi-hikes-bitcoin-ethereum-price-targets-by-over-35",
+        "source": "TheStreet",
+        "desc": "花旗銀行反轉其夏季最大的看空判斷,把比特幣與以太幣的12個月目標上修逾35%(BTC $113,000、ETH $3,028),遠高於三個月前砍至$82,000與$2,240的預測。這家214年歷史銀行的大轉彎,反映華爾街對加密的機構情緒明顯回暖,ETF資金流入與監管進展為主因"
+      },
+      {
+        "title": "比特幣在$84K整理:August PCE觸發跳升、但遭殖利率飆升抹去漲幅",
+        "url": "https://bitcoinnewsdigest.substack.com/p/bitcoin-news-digest-october-1-2026",
+        "source": "Bitcoin News Digest",
+        "desc": "比特幣10/1早盤約與前日持平,此前向$85,500推進遭遇強勁阻力。8月Core PCE數據(降溫)觸發幣價跳升,但隨後飆升的美債殖利率抹去了這些漲幅。加密在$84K附近整理,宏觀(通膨降溫vs殖利率高檔)的拉鋸主導短線,$85,500成近期關鍵壓力位"
+      },
+      {
+        "title": "加密今日動態:紐約-懷俄明州合作、Binance遭歐盟審查、MetaMask資安事件",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "Cointelegraph",
+        "desc": "加密10/1重點:紐約與懷俄明州簽署數位資產合作協議、Binance面臨歐盟審查、MetaMask傳出資安事件。監管合作與審查、錢包安全事件交織。在花旗上修目標、機構情緒回暖之際,監管與資安仍是加密產業成熟路上的關鍵課題,投資人需留意平台與錢包安全風險"
+      }
+    ],
+    "dev": [
+      {
+        "title": "Google Gemini 4 Argon主打軟體工程:複雜工作流前沿效能、資安防禦",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "source": "Google Blog",
+        "desc": "Google Gemini 4 Argon於真實世界軟體工程、企業知識工作(法律/金融)與資安防禦等複雜工作流提供前沿效能。單次可輸出100萬token、DeepSWE v1.1編碼基準77.9%。對開發者而言,超長輸出利於大型程式庫重構與長文件處理,定價僅Opus 5.5一半,強化Google在AI編碼工具的性價比競爭"
+      },
+      {
+        "title": "Gemini 4 Argon開發者實務:強但非『今天就能換進每個App』",
+        "url": "https://www.developersdigest.tech/blog/gemini-4-argon-developer-guide-2026",
+        "source": "Developers Digest",
+        "desc": "Developers Digest指出Google Gemini 4 Argon雖為複雜編碼、企業知識工作與資安防禦的前沿模型,但開發者『無法今天就把它換進每個App』——因限制發布(僅開放經審核的資安專家)。開發者需評估取用門檻與用例適配。前沿模型的『能力強但取用受限』成AI開發的新現實"
+      },
+      {
+        "title": "OpenAI推AgentKit:建構、部署、優化AI代理的完整工具組(11/30淘汰舊工具)",
+        "url": "https://openai.com/index/introducing-agentkit/",
+        "source": "OpenAI",
+        "desc": "OpenAI於DevDay推出AgentKit,為開發者與企業建構、部署、優化AI代理的完整工具組。自2026/11/30起舊工具將下架——程式碼工作流改用Agents SDK,自然語言用例改用ChatGPT Workspace Agents。繼Google Gemini 4 Argon後,代理開發框架競爭升溫,開發者需規劃遷移"
+      },
+      {
+        "title": "OpenAI Agents SDK新進化:代理於沙盒檢視檔案、執行命令、編輯程式碼",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+        "source": "OpenAI",
+        "desc": "OpenAI更新Agents SDK,協助開發者打造能在受控沙盒環境中檢視檔案、執行命令、編輯程式碼並處理長時程任務的代理。在AI代理深入軟體開發生命週期、且代理失控事件頻傳之際,受控沙盒成兼顧能力與安全的關鍵設計。代理開發工具朝『能力+圍堵』雙軌演進"
+      }
+    ],
+    "art": [
+      {
+        "title": "佳士得Frieze週『Artists for Climate Action』:攜氣候慈善辦晚拍",
+        "url": "https://www.artnews.com/art-news/market/christies-artists-for-climate-action-frieze-week-london-1234800216/",
+        "source": "ARTnews",
+        "desc": "佳士得(Christie's)於10/14-15倫敦Frieze週的20/21世紀晚拍,攜手氣候慈善機構Gallery Climate Coalition(GCC)與ClientEarth,舉辦第二屆『Artists for Climate Action』(始於2021)。藝術市場與氣候行動結合,拍賣所得支持環保,為Frieze週注入永續議題,反映藝術界的社會責任趨勢"
+      },
+      {
+        "title": "Frieze Masters 2026(10/14-18):逾140家畫廊,從古文物到現代英國藝術",
+        "url": "https://apollo-magazine.com/agenda-highlights-frieze-masters-2026/",
+        "source": "Apollo Magazine",
+        "desc": "Frieze Masters 2026(10/14-18,倫敦攝政公園)回歸,逾140家畫廊呈獻從古代文物、古典大師畫作到現代英國作品等跨越千年的藝術。Apollo整理必看亮點。與Frieze London同期、合計近300家畫廊、48國參展。倫敦Frieze週為秋季全球藝術市場重頭戲,古今藝術對話"
+      },
+      {
+        "title": "Banksy反脫歐力作『Keep Ou T』送Phillips倫敦拍賣(Frieze週)",
+        "url": "https://graffitistreet.com/banksys-keep-ou-t-heads-to-auction-during-frieze-week-london/",
+        "source": "GraffitiStreet",
+        "desc": "Banksy七年前把邊境管制建築轉化為一件關於移動、排除與脫歐的作品『Keep Ou T』,如今重返倫敦公眾視野——由Phillips於Frieze週拍賣。政治藝術的市場焦點,Banksy社會議題作品的話題性與買氣再受考驗。Frieze週期間拍賣行競相推出重磅拍品"
+      },
+      {
+        "title": "Frieze週倫敦必看展覽:泰特渦輪廳Tarek Atoui聲音裝置領銜",
+        "url": "https://app.frieze.com/article/shows-see-during-frieze-london-2026",
+        "source": "Frieze",
+        "desc": "Frieze整理Frieze週(10/14-18)倫敦必看展覽:最新接手泰特現代美術館渦輪廳(Hyundai Tate Modern Turbine Hall)委製的藝術家為法國黎巴嫩裔Tarek Atoui,以電子音樂創作背景、透過聲音在表演與裝置中重構環境。Frieze週不僅是藝博會,更是全城美術館大展的匯聚高峰"
+      }
+    ],
+    "design": [
+      {
+        "title": "Archtober紐約建築節登場:十月全城建築設計活動(第16屆)",
+        "url": "https://www.dezeen.com/2026/10/01/architecture-design-events-october-2026/",
+        "source": "Dezeen",
+        "desc": "Archtober——紐約市一年一度的建築節於整個十月舉行,今年邁入第16屆,提供全城建築設計活動。Dezeen整理十月八大建築設計活動。繼倫敦設計週後,設計重心轉向紐約,建築節、展覽與論壇密集登場。十月成全球設計與建築界的活動高峰期,串連專業交流與公眾參與"
+      },
+      {
+        "title": "MoMA『Full Disclosure』資訊設計展:從經典資訊圖表到AI補缺記憶",
+        "url": "https://www.dezeen.com/design/",
+        "source": "Dezeen",
+        "desc": "紐約現代藝術博物館(MoMA)推出由Paola Antonelli策劃的『Full Disclosure: The Edge of Information Design』,呈現從經典資訊圖表(infographics)到以AI創作『補缺記憶』的資訊設計。展覽探討資訊設計的邊界與AI時代的新形式,策展人Antonelli為設計策展權威,為資訊視覺化的里程碑回顧"
+      },
+      {
+        "title": "比利時Design Museum Gent改造完工:廢料白磚包覆幾何量體",
+        "url": "https://www.dezeen.com/news/",
+        "source": "Dezeen",
+        "desc": "建築事務所Carmody Groarke、Atama與Re-st完成比利時Design Museum Gent(根特設計博物館)改造,新增一個以廢料為基礎(waste-based)的白磚包覆的幾何量體。以循環建材擴建文化機構,呼應永續設計與建築減碳趨勢。博物館建築以材料創新展現對環境責任的實踐"
+      },
+      {
+        "title": "Dezeen九月最愛家具與燈具精選:橫跨倫敦、赫爾辛基設計週十大favourites",
+        "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
+        "source": "Dezeen",
+        "desc": "Dezeen編輯團隊走訪本月歐洲各大設計週(倫敦設計節、赫爾辛基設計週、Currents等),精選十款最愛的新家具與燈具。九月設計週季的集大成回顧,涵蓋材料創新、模組化與工藝實驗。設計週密集的秋季為家具/燈具新品發表高峰,反映當代居家設計趨勢"
+      }
+    ],
+    "business": [
+      {
+        "title": "美股10月開局先跌後揚收紅:S&P自兩週低反彈,全球債券賣壓逆轉",
+        "url": "https://www.investing.com/news/economy-news/dow-futures-hit-threemonth-low-as-yields-surge-micron-earnings-offer-support-4926657",
+        "source": "Reuters / Investing.com",
+        "desc": "美股10/1(第四季首日)自早盤跌勢回升、收小高,S&P 500自兩週低反彈,因全球債券賣壓逆轉、美債殖利率自數十年高檔回落。晶片巨頭Micron(MU)財報穩健提供支撐。市場在殖利率高檔與通膨降溫間拉鋸,科技股領軍反彈,Q4開局波動但多頭守住"
+      },
+      {
+        "title": "美股反彈:殖利率自多年高回落、晶片股走強,Micron財報穩健",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html",
+        "source": "Yahoo Finance",
+        "desc": "美股10/1由黑翻紅:Dow、S&P 500、Nasdaq上演逆轉秀,美債殖利率自多年高回落、晶片股走強。Micron(MU)財報穩健帶動記憶體/半導體情緒。10年殖利率一度逼近24年高後退、30年觸5.652%。殖利率回落紓解估值壓力,科技與晶片股領軍大盤收復失土"
+      },
+      {
+        "title": "花旗反轉夏季看空、大幅上修加密目標:機構風險偏好回暖訊號",
+        "url": "https://www.thestreet.com/crypto/markets/citi-hikes-bitcoin-ethereum-price-targets-by-over-35",
+        "source": "TheStreet",
+        "desc": "花旗銀行反轉夏季最大看空判斷,把比特幣目標上修至$113,000、以太幣至$3,028(逾35%上修)。這家214年歷史銀行的大轉彎,是機構風險偏好回暖的指標性訊號。在通膨降溫、升息預期降低、監管進展的背景下,華爾街對風險資產(含加密)的態度明顯轉趨積極"
+      },
+      {
+        "title": "AI晶片設備股$2,290億大商機:AI建置潮擴散至上游供應鏈",
+        "url": "https://www.thestreet.com/investing/ai-chip-equipment-stocks-asml-amat-lrcx-klac",
+        "source": "TheStreet",
+        "desc": "AI建置潮擴散至上游:晶片設備商ASML、應用材料(AMAT)、科林研發(LRCX)、科磊(KLAC)面對約$2,290億設備商機,在Nvidia出貨GPU前先受惠。AI超級週期帶動半導體資本支出全面擴張,設備股成隱形贏家。投資焦點從晶片設計擴散至製造設備與供應鏈,利TSMC等代工與設備族群"
+      }
+    ],
+    "finance": [
+      {
+        "title": "美債殖利率自數十年高回落:全球債券賣壓逆轉,股市收復失土",
+        "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "美股10/1小幅收高,因美債殖利率自逾20年高檔回落。10年殖利率10月初逼近24年高後退、30年一度觸5.652%。全球債券賣壓逆轉,紓解高估值股票的壓力。市場在Micron財報、Core PCE降溫與殖利率回落間取得平衡,Q4開局多頭守住,惟殖利率結構性高檔仍是中期變數"
+      },
+      {
+        "title": "花旗12個月BTC目標上修至$113K、ETH $3,028:機構風險偏好回暖",
+        "url": "https://www.gncrypto.news/news/citi-raises-bitcoin-target-113000-ethereum-3028/",
+        "source": "GN Crypto",
+        "desc": "花旗把12個月比特幣目標自$82,000上修至$113,000、以太幣自$2,240上修至$3,028,引述加密投資產品需求回溫、市場情緒改善與美國數位資產監管進展。傳統大行大幅上修加密目標,反映通膨降溫、升息預期降低下,機構對風險資產的配置意願回升,為加密與風險資產的中期利多訊號"
+      },
+      {
+        "title": "升息機率一週內自71%暴降至約35%:Core PCE降溫扭轉Fed路徑預期",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-105845913.html",
+        "source": "Yahoo Finance",
+        "desc": "8月Core PCE降溫至3.0%,把Fed 10月升息機率自數據前的43%、一週前的71%,壓至約35%。升息預期劇烈反轉,紓解殖利率飆升下的鷹派壓力。惟殖利率自多年高回落後仍處高檔。市場聚焦非農就業數據(本週),PCE降溫+就業走向將共同決定Fed 10月決策與殖利率走勢"
+      },
+      {
+        "title": "美消費者信心暴跌至2014來最低、職缺降幅超預期:higher-for-longer警訊",
+        "url": "https://finance.yahoo.com/economy/policy/articles/morning-bid-october-doubts-104058802.html",
+        "source": "Reuters / Yahoo Finance",
+        "desc": "美9月消費者信心暴跌至2014年來最低,8月職缺(job openings)降幅也超預期,顯示高利率對消費與勞動市場的壓抑浮現。經濟數據走弱(信心、職缺)與通膨降溫並存,為Fed的higher-for-longer敲響警鐘、強化暫緩升息預期。殖利率高檔對實體經濟的衝擊成市場新焦點"
+      }
+    ]
+  }
+}
