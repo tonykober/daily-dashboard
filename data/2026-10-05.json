@@ -1,0 +1,425 @@
+{
+  "date": "2026-10-05",
+  "stock_briefing": {
+    "market_overview": {
+      "us_sp500": 7722.72,
+      "us_sp500_note": "台股本週一(10/5)開盤前參考:美股10/2(週五)收高、週末休市。回顧10/2:S&P 500收7,722.72(+0.73%)、Nasdaq收27,190.86(+1.19%)盤中創新高、Dow漲250點收51,176.46。Nvidia盤中創新高、市值突破$5.7兆領漲科技股。驅動力為9月非農爆冷(僅+2.9萬),把Fed 10月升息機率自前週約64%壓低至約21%(CME FedWatch)。惟10/4(週日晚)美股期指持平(道瓊+53點/+0.1%、S&P +0.1%、Nasdaq-100 +0.2%),投資人仍對10年期美債殖利率近期觸及逾二十年新高感到不安。本週經濟數據偏少:週一ISM服務業、週三Fed 9月會議紀要、週五密大消費者信心;Q3財報季由PepsiCo、Levi's、Constellation、Delta打頭陣,JPMorgan 10/13正式開跑",
+      "oil_brent": "回穩",
+      "oil_note": "中東原油運輸回穩提振亞股情緒,惟伊朗國會議長表態『荷姆茲海峽在對美戰爭條件未達成前不會重啟』,地緣風險未解。另美空軍自英國南部空軍基地撤出全部B-1轟炸機(該基地曾用於打擊伊朗),係因調查發現一起計畫中的恐攻。油價中期仍受OPEC+供給與地緣牽動",
+      "foreign_investors": "台股10/2(週五)收48,475.74點(+0.25%),再創收盤歷史新高,成交8,981.74億元;本週(至10/2)上漲451.14點、週K連3紅。10/2盤面:台積電(2330)持平收2,500元,但聯發科(2454)、台達電(2308)、鴻海(2317)等權值股疲弱;在美股光通訊族群大漲連動下,光通訊聯亞(3081)、光聖(6442)等漲停,被動元件華新科(2492)、PCB臻鼎-KY(4958)、泰鼎-KY(4927)亦漲停,資金轉向中低位階族群。週一(10/5)開盤:①美股科技/費半偏強、Nvidia創高、日經早盤+1.7%,利台股電子情緒 ②惟中國、南韓因假期本週休市,區域資金動能受限 ③台股近歷史高(獲利回壓)+10年美債殖利率逾24年高檔為雙面變數。留意外資在高檔是否調節、權值台積電能否轉強帶動指數"
+    },
+    "watchlist": [
+      {
+        "code": "2330",
+        "name": "台積電",
+        "price": 2500,
+        "nav": null,
+        "pb": 10.6,
+        "pe": 22.8,
+        "premium_discount": null,
+        "vs_quarterly_ma": "+6.5%",
+        "recommendation": "持有/偏多(權值,留意轉強)",
+        "note": "10/2持平收2,500元,權值表現落後大盤(聯發科/台達電/鴻海同步疲弱),指數由光通訊、被動元件中低階族群撐盤。美股10/2 Nvidia創高、費半走強、摩根士丹利重申NVDA首選,對週一(10/5)台積電情緒偏正面,但須觀察權值能否由弱轉強。季線約2,350。長線2nm+CoWoS/AI硬體續強偏多續抱,近前高勿追高,回落季線分批"
+      },
+      {
+        "code": "0050",
+        "name": "元大台灣50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.2%",
+        "vs_quarterly_ma": "+4.8%",
+        "recommendation": "持有/偏多(近前高留意)",
+        "note": "台股10/2創收盤新高48,475.74。美股就業爆冷後科技領漲、Fed 10月升息機率降至約21%,利週一台股電子權值。核心持有偏多,惟近歷史高(獲利回壓)、權值台積電弱、10年美債殖利率24年高檔的評價壓抑,勿追高,留意外資高檔調節與量能"
+      },
+      {
+        "code": "0056",
+        "name": "元大高股息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.1%",
+        "vs_quarterly_ma": "+2.2%",
+        "recommendation": "持有✅(防禦配置)",
+        "note": "高息ETF。殖利率結構性高檔+指數近前高震盪的環境下,高息防禦類仍為穩定配置。持有領息,作近前高震盪期的穩健底倉"
+      },
+      {
+        "code": "00878",
+        "name": "國泰永續高股息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.2%",
+        "vs_quarterly_ma": "+2.2%",
+        "recommendation": "持有✅",
+        "note": "ESG+高股息,含金融成分。殖利率高檔對金融利差題材中性偏正,防禦型高息於近前高震盪期相對抗跌。持有領息,穩健配置"
+      },
+      {
+        "code": "00919",
+        "name": "群益台灣精選高息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.2%",
+        "vs_quarterly_ma": "+2.6%",
+        "recommendation": "持有",
+        "note": "月配息現金流。近前高震盪期高息防禦類相對穩健。持有領息,作為穩定現金流配置"
+      },
+      {
+        "code": "00940",
+        "name": "元大台灣價值高息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+1.7%",
+        "recommendation": "持有✅",
+        "note": "價值+高息,含金融/傳產成分。站穩季線上、折價偏大。10/2資金轉向中低位階族群(被動元件/PCB漲停)對價值股偏正。持有,留意傳產與金融表現"
+      },
+      {
+        "code": "006208",
+        "name": "富邦台50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "+0.2%",
+        "vs_quarterly_ma": "+4.8%",
+        "recommendation": "持有/偏多(近前高留意)",
+        "note": "與0050同質、費用率更低。美股科技領漲利週一台股電子情緒。核心配置偏多,近前高勿追高,留意權值台積電能否轉強再攻前高"
+      },
+      {
+        "code": "00892",
+        "name": "富邦台灣半導體",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+5.2%",
+        "recommendation": "偏多✅(費半連動)",
+        "note": "半導體ETF。美股10/2費半走強、Nvidia創高(市值突破$5.7兆)、摩根士丹利重申NVDA首選、AI硬體熱,利週一台股半導體。偏多操作,惟10/2權值台積電落後、資金轉中低階,留意半導體龍頭能否接棒;近前高勿追高,回落季線分批"
+      },
+      {
+        "code": "00891",
+        "name": "中信關鍵半導體",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+4.8%",
+        "recommendation": "偏多✅(費半連動)",
+        "note": "半導體供應鏈。CoWoS/HBM/記憶體需求續強+Nvidia庫藏股利多+10/2光通訊族群漲停題材外溢。偏多操作,回檔季線加碼,近前高勿追高"
+      },
+      {
+        "code": "00982A",
+        "name": "群益台灣強棒",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.5%",
+        "vs_quarterly_ma": "+4.8%",
+        "recommendation": "持有",
+        "note": "主動型ETF,折價-0.5%。主動管理受惠AI/半導體與中低階族群(光通訊/被動元件)輪動。折價買入者持有,回檔加碼,勿追高"
+      },
+      {
+        "code": "00981A",
+        "name": "統一台股增長",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.9%",
+        "vs_quarterly_ma": "+5.8%",
+        "recommendation": "持有",
+        "note": "主動型ETF,YTD最強(前三季+65.51%紀錄)。折價-0.9%提供安全邊際。主動alpha持續,就業爆冷→升息預期退場利成長股評價。持有,回檔加碼"
+      },
+      {
+        "code": "00403A",
+        "name": "中信ESG投資級債",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.4%",
+        "vs_quarterly_ma": "-1.1%",
+        "recommendation": "逢殖利率高分批✅",
+        "note": "債券ETF。10年美債殖利率近期觸及逾二十年新高(全球債市賣壓),週五就業爆冷後短線回落。殖利率5%+仍為逾20年最佳長線進場區,惟債市賣壓未完全解除、本週Fed會議紀要為觀察重點。趁殖利率高檔分批、勿一次重壓"
+      },
+      {
+        "code": "009816",
+        "name": "凱基台灣TOP50",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.1%",
+        "vs_quarterly_ma": "+4.8%",
+        "recommendation": "持有/偏多(近前高留意)",
+        "note": "類0050。美股科技領漲利週一台股情緒。核心配置偏多,近前高留意獲利回壓,勿追高"
+      },
+      {
+        "code": "00929",
+        "name": "復華台灣科技優息",
+        "price": null,
+        "nav": null,
+        "pb": null,
+        "pe": null,
+        "premium_discount": "-0.3%",
+        "vs_quarterly_ma": "+4.8%",
+        "recommendation": "偏多✅(科技連動)",
+        "note": "科技+高息。美股科技/費半走強、10/2光通訊族群漲停利科技成分。月配息+高息兼具攻守。偏多持有領息,近前高留意評價壓抑,勿追高"
+      }
+    ],
+    "summary": "【10/5週一｜台股前波新高後開盤,美股科技領漲 vs 殖利率24年高檔雙主軸】台股10/2(週五)收48,475.74點(+0.25%)再創收盤歷史新高、週K連3紅(週+451點),成交8,981.74億。盤面特色:台積電(2330)持平2,500元、聯發科/台達電/鴻海等權值疲弱,指數改由光通訊(聯亞/光聖漲停)、被動元件(華新科)、PCB(臻鼎/泰鼎漲停)等中低位階族群撐盤,資金明顯轉向。美股10/2在9月非農爆冷(+2.9萬)後上演『壞消息即好消息』——S&P 7,722.72(+0.73%)、Nasdaq 27,190.86(+1.19%)創高、Nvidia市值突破$5.7兆領漲,Fed 10月升息機率自約64%降至約21%。惟10/4(週日)美股期指持平,投資人仍對10年美債殖利率逾24年新高不安;日經週一早盤+1.7%,但中國、南韓因假期本週休市。⚠️週一(10/5)操作:①電子/半導體權值情緒偏正面(TSMC/00892/00891/00929),惟須觀察台積電能否由弱轉強帶動指數再攻前高、近高勿追高、回落季線分批 ②中低階輪動(光通訊/被動元件/PCB)題材延續,留意追高風險 ③債券00403A:殖利率5%+長線佳,惟債市賣壓未解,趁高分批(勿重壓),本週Fed會議紀要為關鍵 ④高息/防禦(0056/00878/00940)作近前高震盪期穩定底倉。本週留意:週一ISM服務業、週三Fed 9月會議紀要、週五密大信心、Q3財報季開端(PepsiCo等),及荷姆茲海峽與中東地緣"
+  },
+  "categories": {
+    "ai": [
+      {
+        "title": "Nvidia市值突破$5.7兆創新高:AI代理需求與$1,500億庫藏股推升,逼近全球首家$6兆",
+        "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "Nvidia於10/2盤中創歷史新高、市值突破$5.7兆美元領漲Nasdaq至新高,距全球首家$6兆市值公司僅一步之遙,由AI代理需求與史上最大$1,500億美元庫藏股增額驅動。摩根士丹利重申NVDA為首選半導體股,主張AI瓶頸正從GPU供給轉向資料中心電力、建設與融資,投資焦點擴散至能源與基建"
+      },
+      {
+        "title": "摩根士丹利:AI基建瓶頸從『GPU供給』轉向電力與融資,投資邏輯擴散至能源電網",
+        "url": "https://www.roic.ai/news/morgan-stanley-reinstates-nvidia-as-top-semiconductor-pick-citing-shifting-ai-bottlenecks-10-02-2026",
+        "source": "ROIC.ai",
+        "desc": "摩根士丹利重新把Nvidia列為首選半導體股,主張AI基礎建設擴建結構性強勁,但瓶頸正從『GPU供給』轉向資料中心的電力、建設與融資。此觀點意味AI投資焦點正從晶片本身擴散至能源、電網與資本結構,牽動整個AI基建供應鏈的投資邏輯,也呼應台股近期光通訊、被動元件等資料中心週邊族群的資金輪動"
+      },
+      {
+        "title": "白宮AI協議:OpenAI、Google、Meta、Nvidia、Anthropic、xAI六巨頭CEO簽署",
+        "url": "https://aimagazine.com/news/meta-openai-nvidia-what-is-the-white-house-accord-on-ai",
+        "source": "AI Magazine",
+        "desc": "六大AI領袖——Meta的Zuckerberg、Google的Pichai、Anthropic的Amodei、OpenAI總裁Brockman、SpaceX/xAI的Musk與Nvidia的黃仁勳——簽署一頁『白宮AI協議』。在前沿模型相繼限制發布、代理失控事件頻傳之際,此協議象徵前沿AI安全自律框架在政府層級加速成形,成產業新共識"
+      },
+      {
+        "title": "Anthropic宣稱Claude主導發現新基因編輯機制:AI設計實驗、人類執行",
+        "url": "https://jpatoconnell.substack.com/p/the-and-report-40-october-3-2026",
+        "source": "The & Report",
+        "desc": "Anthropic執行長Dario Amodei展示其描述為『Claude主導發現』的分子機器,可能是一種全新的基因編輯機制:由Claude設計實驗、人類負責執行。此例被視為AI從輔助工具跨向『科學發現主體』的指標性事件,也呼應Anthropic近期IPO文件中對高能力模型可能帶來存在性風險的警語"
+      },
+      {
+        "title": "Anthropic IPO文件警告投資人:自家AI恐帶來災難性或存在性風險",
+        "url": "https://techtrendsnewsupdate.com/article/anthropic-ipo-filing-existential-ai-risk-warning",
+        "source": "Tech Trends News Update",
+        "desc": "Anthropic在一份經路透查閱、CNBC報導的IPO公開說明書中警告潛在投資人:其業務核心的AI系統可能對人類造成災難性甚至存在性風險,指愈強的模型恐出現自我保存或錯位(misaligned)行為。此份文件把『極端安全警語』與『極強成長訴求』並陳,市場如何定價此張力恐牽動全產業的安全誘因"
+      }
+    ],
+    "gaming": [
+      {
+        "title": "本週Xbox新遊戲(10/5-9):《Gears of War: E-Day》10/6領銜回歸系列起源",
+        "url": "https://news.xbox.com/en-us/2026/10/02/next-week-on-xbox-new-games-for-october-5-to-9/",
+        "source": "Xbox Wire",
+        "desc": "Xbox Wire公布10/5-9本週登陸平台的新遊戲,重頭戲為Xbox獨佔《Gears of War: E-Day》(10/6):時間設在初代《戰爭機器》前14年,玩家與Marcus Fenix、Dominic Santiago並肩,在獸族(Locust Horde)首度自地底湧現、人類為生存而戰的起源戰役中奮戰。為10月遊戲大月重磅開局"
+      },
+      {
+        "title": "10月遊戲大月全攻略:Dynasty Warriors 3重製10/1打頭陣,決戰避開11月GTA6",
+        "url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+        "source": "IGN",
+        "desc": "IGN更新10月遊戲發售表,《真‧三國無雙3:完全版重製》10/1登PS5/Switch 2/Xbox/PC打頭陣,接棒《Gears of War: E-Day》(10/6)、《決勝時刻:現代戰爭4》(10/23)、《Phantom Blade Zero》(10/29)。為避開11月《GTA6》,10月檔期爆滿,被視為全年最忙碌遊戲月之一"
+      },
+      {
+        "title": "《YAR: Forgotten Throne》10/14登PS5與Xbox Series:Steam動作遊戲擴展上主機",
+        "url": "https://windowsforum.com/news/yar-forgotten-throne-comes-to-ps5-and-xbox-series-x-s-on-october-14-2026.447070/",
+        "source": "Windows Forum",
+        "desc": "原於Steam上架的動作遊戲《YAR: Forgotten Throne》確定於2026/10/14擴展登上PlayStation 5與Xbox Series X|S,由主機發行商Axyos Games公布並釋出發售日預告。10月中旬再添一款跨平台動作新作,為遊戲大月的獨立與中型作品陣容再添選擇"
+      },
+      {
+        "title": "Q4遊戲發售總表:Zelda時之笛11/5登Switch 2、流亡黯道2 12/11收尾",
+        "url": "https://www.talkesport.com/news/gaming/upcoming-game-release-dates-2026/",
+        "source": "TalkEsport",
+        "desc": "TalkEsport整理Q4發售表:10月有《Gears of War: E-Day》(10/6)、《決勝時刻:現代戰爭4》(10/23)、《Phantom Blade Zero》(10/29);11/5《薩爾達傳說:時之笛》登Switch 2;12/11《流亡黯道2》(Path of Exile II)。Q4重磅接力,主機與PC玩家年底檔期選擇極為豐富"
+      }
+    ],
+    "tech": [
+      {
+        "title": "摩根士丹利重申Nvidia為首選半導體股:AI瓶頸從GPU供給轉向電力與融資",
+        "url": "https://www.roic.ai/news/morgan-stanley-reinstates-nvidia-as-top-semiconductor-pick-citing-shifting-ai-bottlenecks-10-02-2026",
+        "source": "ROIC.ai",
+        "desc": "摩根士丹利重新把Nvidia列為首選半導體股,主張AI基礎建設擴建結構性強勁,但瓶頸正從『GPU供給』轉向資料中心的電力、建設與融資。此觀點意味AI投資焦點正從晶片本身擴散至能源、電網與資本結構,牽動整個AI基建供應鏈的投資邏輯"
+      },
+      {
+        "title": "台股光通訊族群漲停:聯亞、光聖連動美股大漲,被動元件華新科、PCB臻鼎泰鼎同亮燈",
+        "url": "https://forum-web.cmoney.tw/post/forum-185098286-3081",
+        "source": "CMoney股市爆料同學會",
+        "desc": "台股10/2在費半勁揚帶動下小漲開出,台積電等權值股走弱拖累、早盤一度下探4萬8200點,後在資金明顯轉向被動元件、光通訊族群下翻紅收新高。光通訊聯亞(3081)、光聖(6442)等以漲停作收,被動元件華新科(2492)、PCB廠臻鼎-KY(4958)、泰鼎-KY(4927)亦漲停,資金回籠利中低位階族群,反映AI資料中心週邊供應鏈的輪動行情"
+      },
+      {
+        "title": "中國官方背景租賃公司Semi-Tech助陸企透過融資租賃取得受限Nvidia Blackwell晶片",
+        "url": "https://qz.com/chinese-state-firm-nvidia-blackwell-chip-purchases-100226",
+        "source": "Quartz",
+        "desc": "據Bloomberg查閱的監理申報文件,一家由中國地方政府實體控制的融資公司Semi-Tech Leasing Group Co.,為中國企業購買受出口管制的Nvidia Blackwell平台AI晶片提供資金。繼美方逮捕走私$3億Nvidia晶片的科技CEO後,北京以金融工具繞道取得先進美製技術的作法浮上檯面,美中晶片管制攻防進入金融灰色地帶的新階段"
+      },
+      {
+        "title": "美逮捕科技CEO:涉走私價值$3億的受管制Nvidia晶片伺服器至中國",
+        "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+        "source": "Ars Technica",
+        "desc": "美國逮捕又一名嫌犯,指控其走私內含出口管制Nvidia晶片的高階電腦伺服器至中國。檢方指加州男子Yiu Kong Lui勾結外國航運公司,誘騙美國製造商以規避無牌出口先進半導體至中國的禁令,涉案金額逾$3億美元。美中晶片管制執行力道升級,晶片走私/繞道成執法焦點"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "SEC批准3倍槓桿比特幣、以太幣ETP上市:Volatility Shares涵蓋BTC/ETH/黃金/原油",
+        "url": "https://thecryptobasic.com/2026/10/03/24-hour-crypto-market-update-what-happened-in-crypto-on-october-3-2026/",
+        "source": "The Crypto Basic",
+        "desc": "據彭博ETF分析師Eric Balchunas,SEC批准3倍槓桿比特幣、以太幣與其他ETP上市,為Volatility Shares旗下涵蓋比特幣、以太幣、黃金、白銀、原油與天然氣的基金,透過Cboe BZX依1933年證券法掛牌交易。同日SEC主席Atkins推進加密託管(custody)新規。監管鬆綁與槓桿產品齊發,加密機構化加速"
+      },
+      {
+        "title": "加密近況:Blast關閉以太坊L2、比特幣ETF十月首日淨流入$1.027億、NEAR追回$380萬",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "source": "Cointelegraph",
+        "desc": "加密三大重點:L2網路Blast宣布關閉其以太坊Layer-2(營運成本超過營收)、美國現貨比特幣ETF十月首日淨流入$1.027億美元、NEAR Intents追回週四資安漏洞失竊的約$380萬美元並結案。L2整併、ETF資金回溫與資安事件善後並進,反映產業成熟期的汰弱留強與機構化深化"
+      },
+      {
+        "title": "比特幣橫盤整理:Uptober開局未放量,資金躲進AAVE/UNI/BNB,總量增至$1,220億",
+        "url": "https://www.coingabbar.com/en/crypto-news-eth-bitcoin-price-today-altcoins-latest-updates",
+        "source": "CoinGabbar",
+        "desc": "全球加密市場10/3(週六)走弱,比特幣與以太幣同步下跌,但總交易量增至$1,220億美元。分析指『Uptober』開局並未放量——BTC橫住、ETH弱一檔,資金轉進AAVE/UNI/BNB等。短線宏觀(就業疲弱、殖利率高檔)主導,先洗一波追漲籌碼"
+      },
+      {
+        "title": "社區銀行協會告OCC:反對給加密公司核發國家信託銀行牌照",
+        "url": "https://thecryptobasic.com/2026/10/03/24-hour-crypto-market-update-what-happened-in-crypto-on-october-3-2026/",
+        "source": "The Crypto Basic",
+        "desc": "美國獨立社區銀行協會(ICBA)對貨幣監理署(OCC)提告,反對其給加密公司核發『國家信託銀行牌照』,主張此類牌照讓加密企業規避傳統銀行須遵守的監理防護。此案凸顯加密企業『入銀行體系』與傳統銀行業的監理公平性衝突,成加密合規化進程的新戰線"
+      }
+    ],
+    "dev": [
+      {
+        "title": "OpenAI DevDay 2026全解析:常駐代理Dots、ChatGPT Space、GPT-6.1 Sol與Agents API",
+        "url": "https://techtrendsnewsupdate.com/article/openai-devday-2026-dots-chatgpt-space-gpt-6-1-sol-ultrafast",
+        "source": "Tech Trends News Update",
+        "desc": "OpenAI DevDay 2026全面超越聊天機器人:發表常駐型GPT-6 Astra代理『Dots』、人機協作空間『ChatGPT Space』、新模型GPT-6.1 Sol、UltraFast推論、$500 Pro方案、Agents API、擴展Codex、Plugin Extensions與AI應用市集。OpenAI一次補齊代理堆疊全層,把ChatGPT重定位為建構與運行代理的平台,對開發者意義重大"
+      },
+      {
+        "title": "OpenAI推AgentKit:建構、部署、優化AI代理的完整工具組(2026/11/30淘汰舊工具)",
+        "url": "https://openai.com/index/introducing-agentkit/",
+        "source": "OpenAI",
+        "desc": "OpenAI於DevDay推出AgentKit,為開發者與企業提供建構、部署、優化AI代理的完整工具組。自2026/11/30起舊工具下架——程式碼工作流改用Agents SDK,自然語言用例改用ChatGPT的Workspace Agents。代理開發框架競爭升溫,開發者需規劃遷移路徑"
+      },
+      {
+        "title": "OpenAI Agents SDK新進化:代理在原生沙盒安全檢視檔案、執行命令、編輯程式碼",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+        "source": "OpenAI",
+        "desc": "OpenAI更新Agents SDK,提供標準化、為OpenAI模型原生設計的基礎建設:原生model harness讓代理操作檔案與工具,並以原生沙盒(sandbox)安全執行長時程任務。在AI代理深入軟體開發生命週期、代理失控事件頻傳之際,受控沙盒成兼顧能力與安全的關鍵設計"
+      },
+      {
+        "title": "Nvidia開源OpenShell:隔離AI代理的執行環境,與Sentry看門狗組成代理安全平台",
+        "url": "https://techtrendsnewsupdate.com/article/nvidia-open-agent-safety-platform-openshell-sentry",
+        "source": "Tech Trends News Update",
+        "desc": "對開發者而言,Nvidia的Open Agent Safety Platform中,OpenShell是已可用的開源執行環境,專為隔離(isolate)AI代理設計;另一層BlueField驅動的Sentry看門狗仍為參考設計、尚無獨立效能數據。在代理可存取程式碼、憑證與企業系統之際,『在軟體之外』強制執行限制的設計成開發者安全新選項"
+      }
+    ],
+    "art": [
+      {
+        "title": "佳士得Frieze週『Artists for Climate Action』:10/14-15倫敦晚拍攜氣候慈善",
+        "url": "https://www.artnews.com/art-news/market/christies-artists-for-climate-action-frieze-week-london-1234800216/",
+        "source": "ARTnews",
+        "desc": "佳士得(Christie's)於10/14-15倫敦Frieze週的20/21世紀晚拍,攜手氣候慈善機構Gallery Climate Coalition(GCC)與ClientEarth,舉辦第二屆『Artists for Climate Action』(始於2021)。藝術拍賣與氣候行動結合、所得支持環保,為Frieze週注入永續議題,反映藝術界對社會責任的回應"
+      },
+      {
+        "title": "本週藝術:Hockney臘腸狗畫作佳士得拍賣估£1.5-2.5M、國家美術館雷諾瓦大展",
+        "url": "https://www.theguardian.com/artanddesign/2026/oct/02/renoir-cool-britannia-90s-aphrodite-national-gallery-tate-ashmolean-the-week-in-art",
+        "source": "The Guardian",
+        "desc": "衛報『本週藝術』:David Hockney描繪愛犬臘腸狗Stanley的罕見畫作將於10/14 Frieze藝博會期間拍賣、估價£150萬-250萬;國家美術館推雷諾瓦(Renoir)大展(含《布吉瓦舞會》Dance at Bougival);泰特與Ashmolean的90年代『酷英國』與阿芙蘿黛蒂特展。Frieze週倫敦藝壇群星璀璨"
+      },
+      {
+        "title": "Frieze London與Frieze Masters 2026(10/14-18):攝政公園回歸,近300家畫廊",
+        "url": "https://press.frieze.com/inside-frieze-london-and-frieze-masters-2026-shaping-contemporary-practice-reframing-art-histories/",
+        "source": "Frieze",
+        "desc": "第24屆Frieze London與第14屆Frieze Masters將於10/14-18重返倫敦攝政公園。Frieze London聚焦當代新作(172家參展),Frieze Masters橫跨古代文物到現代英國藝術(138家);兩展合計近300家畫廊,8家(含Hauser & Wirth)雙展參展。倫敦Frieze週為秋季全球藝術市場重頭戲"
+      },
+      {
+        "title": "Frieze首爾2026:新世界集團展336幅法國藝術家Paul Cox日記之作,融藝術於日常空間",
+        "url": "https://www.dezeen.com/2026/10/02/shinsegae-groups-336-paul-cox-artworks-frieze-seoul-2026/",
+        "source": "Dezeen",
+        "desc": "作為Frieze Seoul 2026的一環,韓國零售巨頭新世界集團(Shinsegae Group)於首爾Lounge展出法國藝術家Paul Cox的336幅冥想性『日記』(Diary)系列作品,凸顯集團將藝術與文化織入日常空間的策略。企業以藝術策展深化品牌文化,反映亞洲零售與當代藝術跨界合作的趨勢,為Frieze全球版圖增添首爾亮點"
+      }
+    ],
+    "design": [
+      {
+        "title": "Dezeen本週焦點:資料中心(data center)建築的未來,面對超大規模設施的衝擊",
+        "url": "https://www.dezeen.com/2026/10/03/data-centre-architecture-this-week/",
+        "source": "Dezeen",
+        "desc": "Dezeen本週(10/3)專題探討資料中心建築如何因應超大規模(hyperscale)設施的快速擴張而改變。在AI基建需求爆發、資料中心電力與用地吃緊之際,建築設計正重新思考這類『看不見卻無所不在』的基礎設施之量體、散熱、能源與地景整合,成當代建築新課題"
+      },
+      {
+        "title": "GRT Architects翻新紐約Storefront藝術建築畫廊:可拆式層架、立面首裝門把",
+        "url": "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
+        "source": "Dezeen",
+        "desc": "建築事務所GRT Architects為紐約知名的Storefront for Art and Architecture畫廊進行現代化更新,加裝客製化、可拆卸的層架系統,並首度在其標誌性立面上裝設門把。以靈活可變的展陳系統與細膩立面介入,翻新這座實驗性建築空間,體現當代畫廊設計對彈性與公共互動的重視"
+      },
+      {
+        "title": "Studio Armitage奈良木構涼亭:為稻田與菜園工作者打造的日本田間庇護所",
+        "url": "https://www.dezeen.com/2026/10/03/studio-armitage-field-shelter/",
+        "source": "Dezeen",
+        "desc": "倫敦事務所Studio Armitage在日本奈良設計一座木造涼亭(pavilion),以水箱壓艙,作為周邊稻田與配耕菜園(allotment)工作者的庇護所。以在地木構與簡潔量體回應農業地景,為田間勞動者提供遮蔽與休憩,展現建築對農村生產場域與使用者需求的細膩關照,為小尺度公共建築範例"
+      },
+      {
+        "title": "荷蘭Afsluitdijk大壩改造:Benthem Crouwel加設洄游魚道與自行車路線",
+        "url": "https://www.dezeen.com/2026/10/02/benthem-crouwel-afsluitdijk-revamp/",
+        "source": "Dezeen",
+        "desc": "荷蘭事務所Benthem Crouwel為該國最具代表性的水利工程之一Afsluitdijk大壩完成改造,新增一條供洄游魚類通行的魚道與一條自行車路線。以生態廊道與休閒機能更新標誌性基礎設施,展現基建設計對生物多樣性與公共使用的兼顧,為大型水利工程的永續再造範例"
+      }
+    ],
+    "business": [
+      {
+        "title": "美股期指持平開新週:投資人消化24年高檔殖利率,靜待週三Fed會議紀要",
+        "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+        "source": "CNBC",
+        "desc": "10/4(週日晚)美股期指小幅變動——道瓊期貨+53點/+0.1%、S&P 500期貨+0.1%、Nasdaq-100期貨+0.2%。投資人仍對10年期美債殖利率升至逾二十年新高感到不安,靜待週三Fed 9月會議紀要尋找利率線索。本週經濟數據偏少(週一ISM服務業、週五密大信心),Q3財報季將由PepsiCo等打頭陣,JPMorgan 10/13正式開跑"
+      },
+      {
+        "title": "再見升息:慘淡就業報告後股市為何飆漲?Fed 10月升息機率降至約21%",
+        "url": "https://www.businessinsider.com/fed-rate-hike-september-jobs-report-stock-market-today-2026-10",
+        "source": "Business Insider",
+        "desc": "美股10/2在9月非農爆冷(+2.9萬、遠低於預期)、失業率升至4.2%後反而大漲。據CME FedWatch,交易員現把Fed 10月升息機率下修至約21%(自前週約64%)。疲弱就業幾乎確定排除本月升息、甚至重啟降息想像,殖利率回落利高估值成長股,『壞消息即好消息』模式重現"
+      },
+      {
+        "title": "全球債市賣壓深化:美國10年期公債殖利率觸及逾24年新高",
+        "url": "https://247wallst.com/investing/2026/10/03/global-bond-selloff-pushes-u-s-treasury-yields-to-24-year-highs/",
+        "source": "24/7 Wall St.",
+        "desc": "全球債市賣壓推升美國公債殖利率,10年期一度觸及逾二十年(24年)新高。儘管週五就業疲弱帶動殖利率短線回落,結構性高檔仍牽動房貸、車貸與投資組合評價。殖利率高檔與就業走弱構成Q4『雙面變數』——既壓抑高估值股,又反映財政與供給面壓力"
+      },
+      {
+        "title": "Q4展望:強勢年通常收強,惟飆升殖利率、期中選舉、財報季將考驗季節性",
+        "url": "https://talkmarkets.com/article/q4-market-outlook-strong-years-usually-finish-strong",
+        "source": "TalkMarkets",
+        "desc": "分析指,強勢年份Q4通常收強,但飆升的債券殖利率(近24年高)、期中選舉與即將登場的Q3財報季,將共同考驗美股典型第四季季節性強勢。Nvidia市值突破$5.7兆領漲,惟銀行與利率敏感股在殖利率壓力下落後。本週ISM服務業、Fed會議紀要、PepsiCo財報為焦點"
+      }
+    ],
+    "finance": [
+      {
+        "title": "升息機率一週內自約64%暴降至約21%:9月就業爆冷扭轉Fed路徑預期",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/10/02/stock-market-midday-oct-2-stocks-rally-as-weak-jobs-data-cools-fed-rate-hike-bets/",
+        "source": "The Motley Fool",
+        "desc": "9月非農爆冷(遠低於預期)、失業率升至4.2%,市場大幅收回對Fed本月升息的押注——交易員現把10月升息機率定為約21%,自前週約64%大降。就業疲弱成Fed路徑關鍵轉折,市場聚焦後續數據是否轉向降息敘事,本週Fed會議紀要(週三)與ISM服務業(週一)為觀察重點"
+      },
+      {
+        "title": "10年期美債殖利率飆至逾24年高如何牽動房貸、車貸與你的投資組合",
+        "url": "https://finance.yahoo.com/economy/policy/articles/10-treasury-yield-hits-5-123000837.html",
+        "source": "Yahoo Finance",
+        "desc": "美國10年期公債殖利率近期觸及逾二十年新高,直接推升房貸利率、車貸與整體投資組合評價壓力。全球債市賣壓(歐債財政赤字疑慮)外溢,殖利率結構性高檔即使在就業疲弱下短線回落,仍是股債雙市的中期核心變數。高殖利率對高估值成長股構成最大壓抑來源"
+      },
+      {
+        "title": "軟就業送股債雙漲、殖利率回落:Fed升息預期進一步退場",
+        "url": "https://www.morningstar.com/news/dow-jones/202610023512/stocks-jump-yields-fall-as-weak-jobs-print-cools-fed-outlook-update",
+        "source": "Morningstar",
+        "desc": "美國9月就業疲弱(失業率4.2%)推動股市大漲、公債殖利率自多年高檔回落。市場對Fed本月不升息的預期升高,股債雙漲、科技領軍,惟殖利率結構性高檔與就業隱憂仍為Q4雙面變數。本週Fed 9月會議紀要為市場尋找下一步利率線索的焦點"
+      },
+      {
+        "title": "十月歷史季節性:S&P 500平均+0.5%、勝率58%,惟今年殖利率與財報為變數",
+        "url": "https://www.morningstar.com/news/marketwatch/202610043/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year",
+        "source": "MarketWatch",
+        "desc": "據1928年以來統計,S&P 500十月平均上漲約0.5個百分點、勝率58%,表現落於後段班但非墊底(僅2月與9月平均為負)。今年投資人須關注逾24年高的債券殖利率、Q3財報季與地緣風險,評估十月季節性是否延續。歷史數據提供脈絡,但高殖利率結構為今年最大不確定性"
+      }
+    ]
+  }
+}
